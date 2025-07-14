@@ -1,0 +1,3214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+msgctxt "acrobat name"
+msgid "Acrobat"
+msgstr "Nghệ sĩ xiếc"
+
+msgctxt "acrobat ability"
+msgid "Each night*, choose a player: if they are or become drunk or poisoned tonight, you die."
+msgstr "Mỗi đêm*, chọn 1 người: nếu họ đang hoặc trở nên say hoặc độc trong tối nay, bạn chết"
+
+msgctxt "acrobat flavor"
+msgid "Welcome, one and all, to the greatest show on earth."
+msgstr "Chào mừng quý khán giả đến với buổi diễn tuyệt vời nhất quá đất."
+
+msgctxt "acrobat otherNightReminder"
+msgid "The Acrobat chooses a player. If they are become drunk or poisoned tonight, the Acrobat player dies."
+msgstr "Nếu bất kì hàng xóm tốt của họ trúng độc hoặc bị say, Nghệ sĩ xiếc chết"
+
+msgctxt "acrobat reminders"
+msgid "Dead"
+msgstr "Chết,Chọn"
+
+msgctxt "alchemist name"
+msgid "Alchemist"
+msgstr "Nhà giả kim"
+
+msgctxt "alchemist ability"
+msgid "You have a Minion ability. When using this, the Storyteller may prompt you to choose differently."
+msgstr "Bạn có chức năng của Tay sai. Khi dùng chức năng, Người kể truyện có thể nhắc bạn đưa ra lựa chọn khác."
+
+msgctxt "alchemist flavor"
+msgid "Visit the interior of the Earth. By rectification thou shalt find the hidden stone. Above the gold, lieth the red. Kether in Malkuth."
+msgstr "Cùng ta đi sâu vào lòng đất. Bằng sự tinh luyện, ngươi có thể tìm được viên đá ẩn. Trên là vàng, dưới là đỏ . Kether trong Malkuth."
+
+msgctxt "alchemist firstNightReminder"
+msgid "Show the Alchemist a not-in-play Minion token"
+msgstr "Cho Nhà giả kim thấy thẻ của tay sai ngoài cuộc"
+
+msgctxt "alchemist remindersGlobal"
+msgid "Is the Alchemist"
+msgstr "là Nhà giả kim"
+
+msgctxt "alhadikhia name"
+msgid "Al-Hadikhia"
+msgstr "Al-Hadikhia"
+
+msgctxt "alhadikhia ability"
+msgid "Each night*, you may choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die."
+msgstr "Mỗi đêm*, có thể chọn 3 người (mọi người biết là ai): mỗi người bí mật chọn được sống hoặc chết, nếu tất cả chọn sống, họ cùng chết"
+
+msgctxt "alhadikhia flavor"
+msgid "Alsukut min dhahab."
+msgstr "Alsukut min dhahab."
+
+msgctxt "alhadikhia otherNightReminder"
+msgid "The Al-Hadikhia chooses 3 players. Announce the first player, wake them to nod yes to live or shake head no to die, kill or resurrect accordingly, then put to sleep and announce the next player. If all 3 are alive after this, all 3 die."
+msgstr "Al-Hadikhia chọn 3 người. Thông báo người đầu tiên, gọi họ dậy để gật đầu có để sống, lắc đầu không để chết, giết hoặc hồi sinh phù hợp, rồi cho họ đi ngủ và thông báo người tiếp theo. nếu cả 3 cùng sống sau này, họ cùng chết."
+
+msgctxt "alhadikhia reminders"
+msgid "1,2,3,Chose death,Chose life"
+msgstr "1,2,3,Chọn chết,Chọn sống"
+
+msgctxt "alsaahir name"
+msgid "Alsaahir"
+msgstr "Alsaahir"
+
+msgctxt "alsaahir ability"
+msgid "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins."
+msgstr "Mỗi ngày, nếu bạn công khai đoán được (những) ai là Quỷ và (những) ai là Tay sai, phe tốt thắng."
+
+msgctxt "alsaahir flavor"
+msgid "I am here because of you, and you are here because of me."
+msgstr "Ta ở đây vì ngươi, và ngươi ở đây vì ta."
+
+msgctxt "amnesiac name"
+msgid "Amnesiac"
+msgstr "Mất trí nhớ"
+
+msgctxt "amnesiac ability"
+msgid "You do not know what your ability is. Each day, privately guess what it is: you learn how accurate you are."
+msgstr "Bạn không biết bạn có chức năng gì. Mỗi ngày, đoán nó là gì: bạn biết độ chính xác của dự đoán."
+
+msgctxt "amnesiac flavor"
+msgid "Wait. What. Who? Oh, ok. Wait. What?"
+msgstr "Khoan. Ủa. Từ từ? À, ok. Ủa. Khoan?"
+
+msgctxt "amnesiac firstNightReminder"
+msgid "Decide the Amnesiac's entire ability. If the Amnesiac's ability causes them to wake tonight: Wake the Amnesiac and run their ability."
+msgstr "Quyết định chức năng của Mất trí nhớ. Nếu chức năng của họ cần họ phải dậy trong đêm nay: Gọi Mất trí nhớ dậy và thực hiện chức năng."
+
+msgctxt "amnesiac otherNightReminder"
+msgid "If the Amnesiac's ability causes them to wake tonight: Wake the Amnesiac and run their ability."
+msgstr "Nếu chức năng của Mất trí nhớ cần họ phải dậy trong đêm nay: Gọi Mất trí nhớ dậy và thực hiện chức năng."
+
+msgctxt "amnesiac reminders"
+msgid "?"
+msgstr "?"
+
+msgctxt "angel name"
+msgid "Angel"
+msgstr "Thiên thần"
+
+msgctxt "angel ability"
+msgid "Something bad might happen to whoever is most responsible for the death of a new player."
+msgstr "Nếu người chơi mới bị chết, ai có trách nhiệm nhiều nhất có thể sẽ bị gặp điều xấu."
+
+msgctxt "angel flavor"
+msgid "Let those who are without sin dare to raise their hand to my chosen, for I shall strike such fools down with the fury and righteousness of a thousand storms."
+msgstr "Để những kẻ vô tâm đụng tay đến người ta chọn, và ta sẽ đánh họ bằng hàng ngàn trận sấm của sự tức giận và công lý."
+
+msgctxt "angel reminders"
+msgid "Protect,Something Bad"
+msgstr "Bảo vệ,Điều xấu"
+
+msgctxt "apprentice name"
+msgid "Apprentice"
+msgstr "Tập sự"
+
+msgctxt "apprentice ability"
+msgid "On your 1st night, you gain a Townsfolk ability (if good), or a Minion ability (if evil)."
+msgstr "Vào đêm đâu tiên của bạn, bạn có chức năng của Dân làng (nếu là tốt), hoặc của Tay sai (nếu là xấu)."
+
+msgctxt "apprentice flavor"
+msgid "For years have I traveled, studying the ways of The Craft. Which craft, you ask? Simply that of the simple folk. Nothing to worry about. Not yet."
+msgstr "Nhiều năm qua, ta đã đi và tìm hiểu Kỹ sảo đó. Bạn có thể hỏi \"Kỹ xảo nào?\". Chỉ có thể thôi với người suy nghĩ giản đơn. Không cần phải để ý điều đó. Không phải bây giờ."
+
+msgctxt "apprentice firstNightReminder"
+msgid "Show the Apprentice the 'You are' card, then a Townsfolk or Minion token. In the Grimoire, replace the Apprentice token with that character token, and put the Apprentice's 'Is the Apprentice' reminder by that character token."
+msgstr "Cho tập sự thấy lá 'Bạn là', và thẻ Dân làng hoặc Tay sai. Trong Grimoire, thay thẻ Tập sự với thẻ nhân vật đó, và đặt đánh dấu \"là Tập sụ\" của Tập sự bên cạnh thẻ đó"
+
+msgctxt "apprentice reminders"
+msgid "Is the Apprentice"
+msgstr "là Tập sự"
+
+msgctxt "artist name"
+msgid "Artist"
+msgstr "Họa sĩ"
+
+msgctxt "artist ability"
+msgid "Once per game, during the day, privately ask the Storyteller any yes/no question."
+msgstr "Một lần trong game, trong ngày, bí mật hỏi Người kể chuyện bất kỳ câu hỏi đúng/sai."
+
+msgctxt "artist flavor"
+msgid "Mon Dieu! C'est lumineux! My work, she is... how you say... Magnifique! Dieu est révélé! Oui."
+msgstr "Mon Dieu! C'est lumineux! Tác phẩm của tôi, cổ ấy... phải nói thể nào... Thât Lộng lẫy! Dieu est révélé! Oui."
+
+msgctxt "artist reminders"
+msgid "No ability"
+msgstr "Hết chức năng"
+
+msgctxt "assassin name"
+msgid "Assassin"
+msgstr "Sát thủ"
+
+msgctxt "assassin ability"
+msgid "Once per game, at night*, choose a player: they die, even if for some reason they could not."
+msgstr "Một lần trong game, trong đêm*, chọn 1 người: họ chết, ngay cả khi có lý do họ không chết."
+
+msgctxt "assassin flavor"
+msgid "..."
+msgstr "..."
+
+msgctxt "assassin otherNightReminder"
+msgid "If the Assassin has not yet used their ability: The Assassin either shows the 'no' head signal, or points to a player. That player dies."
+msgstr "Nếu Sát thủ chưa dùng chức năng: Sát thủ có thể lắc đầu, hoặc chỉ một người. Người đó chết."
+
+msgctxt "assassin reminders"
+msgid "Dead,No ability"
+msgstr "Chết,Hết chức năng"
+
+msgctxt "atheist name"
+msgid "Atheist"
+msgstr "Vô thần"
+
+msgctxt "atheist ability"
+msgid "The Storyteller can break the game rules & if executed, good wins, even if you are dead [No evil characters]"
+msgstr "Người kể chuyện có thể phá luật & nếu bị hành quyết, phe tốt thắng, ngay cả khi bạn chết [Không có nhân vật xấu]"
+
+msgctxt "atheist flavor"
+msgid "Let us disperse with unnecessary conjecture and silly paranoia. There is a perfectly rational explanation for everything. Yes, a teacup may indeed be orbiting the planet, too small to see, but I shall drink my tea from the very real china in my very real hands."
+msgstr "Hãy bỏ qua hết mọi phỏng đoán không cần thiết và sự hoang đường vô lý đi . Mọi thứ đều có lý do hợp lý cả. Đúng, cái chén có thể đang quay quanh hành tinh, quá nhỏ để thẩy, nhưng ta sẽ uống trà bằng cái chén cực kì thật này bằng bàn tay cực kì thật này."
+
+msgctxt "balloonist name"
+msgid "Balloonist"
+msgstr "Khinh khí cầu gia"
+
+msgctxt "balloonist ability"
+msgid "Each night, you learn a player of a different character type than last night. [+0 or +1 Outsider]"
+msgstr "Mỗi đêm, bạn biết 1 người khác loại với người bạn biết đêm qua. [+0 hoặc +1 Lữ khách]"
+
+msgctxt "balloonist flavor"
+msgid "More heat! Higher! Higher! Più alto! Ahhh... it is so beautiful from up here, don't you agree? Can you see the children fishing by the river, under the willow? Can you see the  glint of the sun on the circus tent-poles? What's this? An old man, alone, passed out in the vineyard? Less heat! Lower! Lower! Vai più in basso!"
+msgstr "Thêm lửa! Cao lên! Cao lên nữa! Più alto! Ahhh... nó trông thật tuyệt ở trên này, đúng không? Anh có thấy bọn trẻ con đang câu cá bên hồ gần gốc cây liễu? Anh có thấy ánh nắng đang chiếu trên rạp xiếc? Cái gì kia? Một ông già cô đơn, đang ngủ ở vườn nho? Hạ lửa xuống! Xuống đi! Xuống đi nào! Vai più in basso!"
+
+msgctxt "balloonist firstNightReminder"
+msgid "Choose a character type. Point to a player whose character is of that type. Place the Balloonist's Seen reminder next to that character."
+msgstr "Chọn 1 loại nhân vật. Chỉ người thuộc về loại nhân vật đó. Đặt đánh dấu Đã biết của Khinh khí cầu gia cạnh nhân vật đó."
+
+msgctxt "balloonist otherNightReminder"
+msgid "Choose a character type different to the previous night. Point to a player whose character is of that type. Place the Balloonist's Seen reminder next to that character, remove the Seen reminder from the previous character."
+msgstr "Chọn 1 loại nhân vật chưa có thẻ đánh dấu Đã biết cạnh nhân vật. Chỉ 1 người có nhân vật thuộc loại đó, nếu còn. Đặt đánh dấu Đã biết của Khinh khí cầu gia cạnh nhân vật đó."
+
+msgctxt "balloonist reminders"
+msgid "Seen Townsfolk,Seen Outsider,Seen Minion,Seen Demon,Seen Traveller"
+msgstr "Biết"
+
+msgctxt "banshee name"
+msgid "Banshee"
+msgstr "Quỷ báo tử"
+
+msgctxt "banshee ability"
+msgid "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination."
+msgstr "Nếu Quỷ giết bạn, tất cả người chơi biết điều đó. Từ lúc đó, bạn có thể biểu quyết 2 lần 1 ngày và bỏ 2 phiếu cho mỗi lần biểu quyết."
+
+msgctxt "banshee flavor"
+msgid "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh."
+msgstr "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh."
+
+msgctxt "banshee otherNightReminder"
+msgid "Announce that the Banshee has died."
+msgstr "Thông báo Quỷ báo tử đã chết."
+
+msgctxt "banshee reminders"
+msgid "Has Ability"
+msgstr "Có chức năng"
+
+msgctxt "barber name"
+msgid "Barber"
+msgstr "Thợ cắt tóc"
+
+msgctxt "barber ability"
+msgid "If you died today or tonight, the Demon may choose 2 players (not another Demon) to swap characters."
+msgstr "Nếu bạn chết hôm nay, trong đêm Quỷ có thể chọn 2 người (không phải Quỷ khác) để tráo nhân vật."
+
+msgctxt "barber flavor"
+msgid "Did you know that barbery and surgery were once the same profession? No? Well, now you do."
+msgstr "Bạn có biết, cắt tóc và giải phẫu từng là cùng một nghề nghiệp? Không à? Vậy thì, bây giờ bạn biết rồi đấy."
+
+msgctxt "barber otherNightReminder"
+msgid "If the Barber died today: Wake the Demon. Show the 'This character selected you' card, then Barber token. The Demon either shows a 'no' head signal, or points to 2 players. If they chose players: Swap the character tokens. Wake each player. Show 'You are', then their new character token."
+msgstr "Nếu Thợ cắt tóc chết hôm nay: Gọi Quỷ dậy. Cho xem là 'Nhân vật này chọn bạn' và thẻ Thợ cắt tóc. Quỷ có thể lắc đầu, hoặc chỉ 2 người. Nếu họ chọn người: Tráo thẻ nhân vật. Gọi mỗi người. Cho xem 'Bạn là', và thẻ nhân vật mới."
+
+msgctxt "barber reminders"
+msgid "Haircuts tonight"
+msgstr "Cắt tóc đêm nay"
+
+msgctxt "barista name"
+msgid "Barista"
+msgstr "Thợ pha cà phê"
+
+msgctxt "barista ability"
+msgid "Each night, until dusk, 1) a player becomes sober, healthy and gets true info, or 2) their ability works twice. They learn which."
+msgstr "Mỗi đêm, đến hoàng hôn, 1) 1 người sẽ tỉnh, khỏe mạnh và nhận thông tin đúng, hoặc 2) chức năng của họ được sử dụng 2 lần. Họ biết nó là gì."
+
+msgctxt "barista flavor"
+msgid "A cup of coffee with no cream, Monsieur? I’m terribly sorry, but we’re fresh out of cream — how about with no milk?"
+msgstr "Một cốc cà phê không kem, đúng không Ngài? Tôi xin lỗi, nhưng chúng tôi vừa hết kem rồi — hay là không sữa có được không?"
+
+msgctxt "barista firstNightReminder"
+msgid "Choose a player, wake them and tell them which Barista power is affecting them. Treat them accordingly (sober/healthy/true info or activate their ability twice)."
+msgstr "Chọn 1 người, gọi họ dậy và thông báo cho họ chức năng tác động lên họ. Sử dụng phù hợp chức năng (thông tin tỉnh/khỏe/đúng hoặc sử dụng chức năng 2 lần)."
+
+msgctxt "barista otherNightReminder"
+msgid "Choose a player, wake them and tell them which Barista power is affecting them. Treat them accordingly (sober/healthy/true info or activate their ability twice)."
+msgstr "Chọn 1 người, gọi họ dậy và thông báo cho họ chức năng tác động lên họ. Sử dụng phù hợp chức năng (thông tin tỉnh/khỏe/đúng hoặc sử dụng chức năng 2 lần)."
+
+msgctxt "barista reminders"
+msgid "Sober & Healthy,Ability twice"
+msgstr "Tỉnh & Khỏe,Nhân đôi chức năng"
+
+msgctxt "baron name"
+msgid "Baron"
+msgstr "Nam tước"
+
+msgctxt "baron ability"
+msgid "There are extra Outsiders in play. [+2 Outsiders]"
+msgstr "Có thêm Lữ khách trong game. [+2 Lữ khách]"
+
+msgctxt "baron flavor"
+msgid "This town has gone to the dogs, what? Cheap foreign labor... that's the ticket. Stuff them in the mine, I say. A bit of hard work never hurt anyone, and a clip'o'the ears to any brigand who says otherwise. It's all about the bottom line, what?"
+msgstr "Thị trấn này đúng là tồi tàn thật, cái gì? Ngoại nhân công giá rẻ... đúng là điều tuyệt vời. Đưa họ hết đến chỗ ta đi. Một tí công việc nặng không giết ai đâu, và ta sẽ véo tai nhưng thằng nào nói ngược lại. Nó cũng chỉ là cái chung thôi, đúng không?"
+
+msgctxt "beggar name"
+msgid "Beggar"
+msgstr "Ăn xin"
+
+msgctxt "beggar ability"
+msgid "You must use a vote token to vote. Dead players may choose to give you theirs. If so, you learn their alignment. You are sober & healthy."
+msgstr "Bạn phải có thẻ phiểu để bỏ phiếu. Người chết có thể đưa thẻ của họ. Nếu vậy, bạn biết phe của họ. Bạn luôn tỉnh & khỏe mạnh."
+
+msgctxt "beggar flavor"
+msgid "Alms for the poor, good Sir? Spare a coin, Madam? Thank you. God bless! You're a right kind soul and no mistake! I'll have some swanky nosh tonight, I will!"
+msgstr "Giúp đỡ người nghèo được không Ngài? Phiền Quý bà để cho tôi một đồng không? Cảm ơn, Ta ơn Trời! Quý bà đúng là một con người tốt đẹp! Tôi sẽ mua một chút đồ ăn cho tối nay, tôi chắc chắn vậy!"
+
+msgctxt "bishop name"
+msgid "Bishop"
+msgstr "Giám mục"
+
+msgctxt "bishop ability"
+msgid "Only the Storyteller can nominate. At least 1 opposite player must be nominated each day."
+msgstr "Chỉ có Người kể chuyện được biểu quyết. Mỗi ngày, ít nhất 1 người khác phe bạn bị biểu quyết."
+
+msgctxt "bishop flavor"
+msgid "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis."
+msgstr "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis."
+
+msgctxt "bishop reminders"
+msgid "Nominate good,Nominate evil"
+msgstr "Biểu quyết tốt,Biểu quyết xấu"
+
+msgctxt "boffin name"
+msgid "Boffin"
+msgstr "Nhà nghiên cứu"
+
+msgctxt "boffin ability"
+msgid "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which."
+msgstr "Quỷ (ngay cả khi bị say hoặc độc) có chức năng của nhân vật tốt ngoài game. Cả 2 bạn biết chức năng đó là gì."
+
+msgctxt "boffin flavor"
+msgid "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle."
+msgstr "Chóm hydro, rộng lớn, hỗn loạn; khí cacbon, oxy, neon đều bị phá hủy. Hỗn loạn của nguyên tử, entropy, cho thấy hiện tượng thiên văn, tái sinh từ sự hỗn loạn nguyên tử, chất đặc tự phá hủy. Tất cả chỉ trong một cái chai bé xíu này."
+
+msgctxt "boffin firstNightReminder"
+msgid "Wake the Boffin and show them the token of the ability the Demon has. Put the Boffin back to sleep. Wake the Demon, show the Boffin token, then show the token of the good ability the Demon has."
+msgstr "Gọi Nhà nghiên cứu dậy và cho xem chức năng của Quỷ . Cho Nhà nghiên cứu ngủ. Gọi Quỷ dậy, cho xem token Nhà nghiên cứu, rồi cho họ xem token của chức năng tốt họ có."
+
+msgctxt "bonecollector name"
+msgid "Bone Collector"
+msgstr "Nhà sưu tầm xương"
+
+msgctxt "bonecollector ability"
+msgid "Once per game, at night, choose a dead player: they regain their ability until dusk."
+msgstr "Một lần trong game, vào buổi đêm, chọn người chết: họ lấy lại chức năng đến hoàng hôn."
+
+msgctxt "bonecollector flavor"
+msgid "I collect many things. Hair. Teeth. Clothes. Fragments of poems. The dreams of lost lovers. My secret arts are not for you to know but my fee is a mere pittance. Bring me the blood of a noblewoman who died of heartbreak under a full moon, and you shall have your answers."
+msgstr "I collect many things. Hair. Teeth. Clothes. Fragments of poems. The dreams of lost lovers. My secret arts are not for you to know but my fee is a mere pittance. Bring me the blood of a noblewoman who died of heartbreak under a full moon, and you shall have your answers."
+
+msgctxt "bonecollector otherNightReminder"
+msgid "The Bone Collector either shakes their head no or points at any dead player. If they pointed at any dead player, put the Bone Collector's 'Has Ability' reminder by the chosen player's character token. (They may need to be woken tonight to use it.)"
+msgstr "Nhà sưu tầm xương có thể lắc đầu hoặc chọn 1 người. Nếu họ chỉ người chết, đặt đánh dấu 'Có chức năng' của Nhà sưu tầm xương cạnh thẻ nhân vật được chọn. (Họ có thể phải thức dậy trong đêm để dùng nó.)"
+
+msgctxt "bonecollector reminders"
+msgid "No ability,Has ability"
+msgstr "Hết chức năng,Có chức năng"
+
+msgctxt "boomdandy name"
+msgid "Boomdandy"
+msgstr "Kẻ giữ bom"
+
+msgctxt "boomdandy ability"
+msgid "If you are executed, all but 3 players die. After a 10 to 1 countdown, the player with the most players pointing at them, dies."
+msgstr "Nếu bạn bị hành quyết, tất cả trừ 3 người chết. Sau khi đếm ngược từ 10 đến 1, người có nhiều người chỉ nhất chết."
+
+msgctxt "boomdandy flavor"
+msgid "Tick... Tick... Tick... TOCK."
+msgstr "Tick... Tick... Tick... TOCK."
+
+msgctxt "bootlegger name"
+msgid "Bootlegger"
+msgstr "Kẻ buôn lậu"
+
+msgctxt "bootlegger ability"
+msgid "This script has homebrew characters or rules."
+msgstr "Kịch bản này có nhân vật hoặc luật tự chế."
+
+msgctxt "bootlegger flavor"
+msgid "I've got the latest shipment from home, a brew I'd like to call 'Barrowfog'. Wanna try?"
+msgstr "I've got the latest shipment from home, a brew I'd like to call 'Barrowfog'. Wanna try?"
+
+msgctxt "bootlegger firstNightReminder"
+msgid "Announce the Bootlegger is in play and inform the group of all homebrew characters and/or rules you are using in this game."
+msgstr "Thông báo có Kẻ buôn lậu trong game và thông báo các nhân vật hoặc/và các luật tự chế."
+
+msgctxt "bountyhunter name"
+msgid "Bounty Hunter"
+msgstr "Thợ săn tiền thưởng"
+
+msgctxt "bountyhunter ability"
+msgid "You start knowing 1 evil player. If the player you know dies, you learn another evil player tonight. [1 Townsfolk is evil]"
+msgstr "Bạn biết 1 người xấu đầu game. Nếu người bạn biết chết, bạn biết 1 người xấu khác tối nay. [1 Dân làng là xấu]"
+
+msgctxt "bountyhunter flavor"
+msgid "Alone, I walk these streets, paved with the sick stench of corruption. Its thickness worms its way into my nostrils, unbidden, burning with revulsion. And anticipation. The illness of this wretched place grows each night. And I... I am the cure."
+msgstr "Alone, I walk these streets, paved with the sick stench of corruption. Its thickness worms its way into my nostrils, unbidden, burning with revulsion. And anticipation. The illness of this wretched place grows each night. And I... I am the cure."
+
+msgctxt "bountyhunter firstNightReminder"
+msgid "Point to 1 evil player. Wake the townsfolk who is evil and show them the 'You are' card and the thumbs down evil sign."
+msgstr "Chỉ 1 người xấu. Gọi dân làng xấu dậy và cho họ thấy lá 'Bạn là' và giơ ngón cái xuống thể hiện xấu."
+
+msgctxt "bountyhunter otherNightReminder"
+msgid "If the known evil player has died, point to another evil player."
+msgstr "Nếu người xấu đã biết chết, chỉ người xấu khác."
+
+msgctxt "bountyhunter reminders"
+msgid "Known"
+msgstr "Được biết"
+
+msgctxt "buddhist name"
+msgid "Buddhist"
+msgstr "Phật tử"
+
+msgctxt "buddhist ability"
+msgid "For the first 2 minutes of each day, veteran players may not talk."
+msgstr "Trong 2 phút đầu tiên mỗi ngày, người kỳ cựu không được nói."
+
+msgctxt "buddhist flavor"
+msgid "You throw thorns. Falling in my silence, they become flowers."
+msgstr "You throw thorns. Falling in my silence, they become flowers."
+
+msgctxt "bureaucrat name"
+msgid "Bureaucrat"
+msgstr "Công chức"
+
+msgctxt "bureaucrat ability"
+msgid "Each night, choose a player (not yourself): their vote counts as 3 votes tomorrow."
+msgstr "Mỗi đêm, chọn 1 người (không phải bạn): phiếu của họ được tính là 3 phiếu vào ngày mai."
+
+msgctxt "bureaucrat flavor"
+msgid "Sign here please. And here. And here. Aaaaaaaaand here. This should all be sorted and tallied by the end of the day, assuming everyone's signatures are legible. We haven't had a mix-up in the paperwork for ages. Yesterday noon, if memory serves..."
+msgstr "Sign here please. And here. And here. Aaaaaaaaand here. This should all be sorted and tallied by the end of the day, assuming everyone's signatures are legible. We haven't had a mix-up in the paperwork for ages. Yesterday noon, if memory serves..."
+
+msgctxt "bureaucrat firstNightReminder"
+msgid "The Bureaucrat points to a player. Put the Bureaucrat's '3 votes' reminder by the chosen player's character token."
+msgstr "Công chức chỉ 1 người. Đặt đánh dấu '3 phiếu' của Công chức cạnh thẻ nhân vật của người được chọn."
+
+msgctxt "bureaucrat otherNightReminder"
+msgid "The Bureaucrat points to a player. Put the Bureaucrat's '3 votes' reminder by the chosen player's character token."
+msgstr "Công chức chỉ 1 người. Đặt đánh dấu '3 phiếu' của Công chức cạnh thẻ nhân vật của người được chọn."
+
+msgctxt "bureaucrat reminders"
+msgid "3 votes"
+msgstr "3 phiếu"
+
+msgctxt "butcher name"
+msgid "Butcher"
+msgstr "Hàng thịt"
+
+msgctxt "butcher ability"
+msgid "Each day, after the 1st execution, you may nominate again."
+msgstr "Mỗi ngày, sau hành quyết đầu tiên, bạn có thể biểu quyết lại."
+
+msgctxt "butcher flavor"
+msgid "It tastes like chicken. More please."
+msgstr "It tastes like chicken. More please."
+
+msgctxt "butler name"
+msgid "Butler"
+msgstr "Quản gia"
+
+msgctxt "butler ability"
+msgid "Each night, choose a player (not yourself): tomorrow, you may only vote if they are voting too."
+msgstr "Mỗi đêm, chọn 1 người (không phải bạn). Ngày hôm sau, bạn chỉ được bỏ phiếu khi người đó bỏ phiếu."
+
+msgctxt "butler flavor"
+msgid ""
+"Yes, sir...\n"
+"No, sir...\n"
+"Certainly, sir."
+msgstr ""
+"Yes, sir...\n"
+"No, sir...\n"
+"Certainly, sir."
+
+msgctxt "butler firstNightReminder"
+msgid "The Butler points to a player. Mark that player as 'Master'."
+msgstr "Quản gia chỉ 1 người. Đánh dấu người đó là 'Chủ nhân'."
+
+msgctxt "butler otherNightReminder"
+msgid "The Butler points to a player. Mark that player as 'Master'."
+msgstr "Quản gia chỉ 1 người. Đánh dấu người đó là 'Chủ nhân'."
+
+msgctxt "butler reminders"
+msgid "Master"
+msgstr "Chủ nhân"
+
+msgctxt "cannibal name"
+msgid "Cannibal"
+msgstr "Ăn thịt người"
+
+msgctxt "cannibal ability"
+msgid "You have the ability of the recently killed executee. If they are evil, you are poisoned until a good player dies by execution."
+msgstr "Bạn có chức năng của người chết vì hành quyết gần nhất. Nếu họ là xấu, bạn trúng độc cho đến khi người tốt chết vì hành quyết."
+
+msgctxt "cannibal flavor"
+msgid "I don’t like clowns. They taste funny."
+msgstr "I don’t like clowns. They taste funny."
+
+msgctxt "cannibal reminders"
+msgid "Poisoned,Died today"
+msgstr "Trúng độc,Chết hôm nay"
+
+msgctxt "cerenovus name"
+msgid "Cerenovus"
+msgstr "Tẩy não"
+
+msgctxt "cerenovus ability"
+msgid "Each night, choose a player & a good character: they are “mad” they are this character tomorrow, or might be executed."
+msgstr "Mỗi đêm, chọn 1 người & nhân vật tốt: họ phải 'điên' rằng họ là nhân vật đó, hoặc có thể bị hành quyết ngày mai."
+
+msgctxt "cerenovus flavor"
+msgid "Reality is merely an opinion. Specifically, my opinion."
+msgstr "Reality is merely an opinion. Specifically, my opinion."
+
+msgctxt "cerenovus firstNightReminder"
+msgid "The Cerenovus points to a player, then to a character on their sheet. Wake that player. Show the 'This character selected you' card, then the Cerenovus token. Show the selected character token. If the player is not mad about being that character tomorrow, they can be executed."
+msgstr "Tẩy não chỉ một người, và một nhân vật trong tờ của họ. Gọi người đó dậy, cho xem lá 'Nhân vật này chọn bạn', và thẻ Tẩy não. Cho xem thẻ nhân vật được chọn. Nếu họ không điên rằng mình là nhân vật đó vào ngày mai, họ có thể bị hành quyết."
+
+msgctxt "cerenovus otherNightReminder"
+msgid "The Cerenovus points to a player, then to a character on their sheet. Wake that player. Show the 'This character selected you' card, then the Cerenovus token. Show the selected character token. If the player is not mad about being that character tomorrow, they can be executed."
+msgstr "Tẩy não chỉ một người, và một nhân vật trong tờ của họ. Gọi người đó dậy, cho xem lá 'Nhân vật này chọn bạn', và thẻ Tẩy não. Cho xem thẻ nhân vật được chọn. Nếu họ không điên rằng mình là nhân vật đó vào ngày mai, họ có thể bị hành quyết."
+
+msgctxt "cerenovus reminders"
+msgid "Mad"
+msgstr "Điên"
+
+msgctxt "chambermaid name"
+msgid "Chambermaid"
+msgstr "Nữ phục vụ"
+
+msgctxt "chambermaid ability"
+msgid "Each night, choose 2 alive players (not yourself): you learn how many woke tonight due to their ability."
+msgstr "Mỗi đêm, chọn 2 người sống (không phải bạn): bạn biết số người thức dậy tối này vì chức năng của họ."
+
+msgctxt "chambermaid flavor"
+msgid "I aint seen nothin' untoward, Milady. Begging your pardon, but if I did see somethin', it certainly weren't the master o' the house sneaking into the professor's laboratory 'round eleven o'clock and mixing up fancy potions, just like you said, Miss."
+msgstr "I aint seen nothin' untoward, Milady. Begging your pardon, but if I did see somethin', it certainly weren't the master o' the house sneaking into the professor's laboratory 'round eleven o'clock and mixing up fancy potions, just like you said, Miss."
+
+msgctxt "chambermaid firstNightReminder"
+msgid "The Chambermaid points to two players. Show the number signal (0, 1, 2, …) for how many of those players wake tonight for their ability."
+msgstr "Nữ phục vụ chỉ 2 người. Cho xem dấu hiệu số (0, 1, 2, …) bằng số người thức dậy tối nay vì chức năng của họ."
+
+msgctxt "chambermaid otherNightReminder"
+msgid "The Chambermaid points to two players. Show the number signal (0, 1, 2, …) for how many of those players wake tonight for their ability."
+msgstr "Nữ phục vụ chỉ 2 người. Cho xem dấu hiệu số (0, 1, 2, …) bằng số người thức dậy tối nay vì chức năng của họ."
+
+msgctxt "chef name"
+msgid "Chef"
+msgstr "Đầu bếp"
+
+msgctxt "chef ability"
+msgid "You start knowing how many pairs of evil players there are."
+msgstr "Đêm đầu tiên, bạn biết có bao nhiêu cặp người xấu ngồi cạnh nhau."
+
+msgctxt "chef flavor"
+msgid "This evening's reservations seem odd. Never before has Mrs Mayweather kept company with that scamp from Hudson Lane. Yet, tonight, they have a table for two. Strange."
+msgstr "This evening's reservations seem odd. Never before has Mrs Mayweather kept company with that scamp from Hudson Lane. Yet, tonight, they have a table for two. Strange."
+
+msgctxt "chef firstNightReminder"
+msgid "Show the finger signal (0, 1, 2, …) for the number of pairs of neighbouring evil players."
+msgstr "Cho xem dấu hiệu số (1, 2,…) bằng số cặp người Xấu ngồi cạnh nhau, hoặc 0 nếu không có cặp nào."
+
+msgctxt "choirboy name"
+msgid "Choirboy"
+msgstr "Ca đoàn"
+
+msgctxt "choirboy ability"
+msgid "If the Demon kills the King, you learn which player is the Demon. [+ the King]"
+msgstr "Nếu Quỷ giết Ông vua, bạn biết người nào là Quỷ. [+ Ông vua]"
+
+msgctxt "choirboy flavor"
+msgid "I saw it, I did. I was in the pews, tidying the hymn books, when a dreadful tune started from the pipe organ. The organist had a long cloak, and long fingers on the keys. And a hat that looked… just like… yours."
+msgstr "I saw it, I did. I was in the pews, tidying the hymn books, when a dreadful tune started from the pipe organ. The organist had a long cloak, and long fingers on the keys. And a hat that looked… just like… yours."
+
+msgctxt "choirboy otherNightReminder"
+msgid "If the King was killed by the Demon, wake the Choirboy and point to the Demon player."
+msgstr "Nếu Ông vua bị giết bởi Quỷ, gọi Ca đoàn dậy và chỉ người là Quỷ."
+
+msgctxt "clockmaker name"
+msgid "Clockmaker"
+msgstr "Thợ đồng hồ"
+
+msgctxt "clockmaker ability"
+msgid "You start knowing how many steps from the Demon to its nearest Minion."
+msgstr "Đêm đầu tiên bạn biết khoảng cách từ Quỷ cho đến Tay Sai gần nhất."
+
+msgctxt "clockmaker flavor"
+msgid "Do not disturb me. The tick must continue, for the circle is a symbol of life and contains all things - all answers - in its divine machinery. I must work."
+msgstr "Do not disturb me. The tick must continue, for the circle is a symbol of life and contains all things - all answers - in its divine machinery. I must work."
+
+msgctxt "clockmaker firstNightReminder"
+msgid "Show the hand signal for the number (1, 2, 3, etc.) of places from Demon to closest Minion."
+msgstr "Cho xem dấu hiệu số (1, 2, 3, v.v.) bằng khoảng cách từ Quỷ đến Tay Sai gần nhất."
+
+msgctxt "courtier name"
+msgid "Courtier"
+msgstr "Cận thần"
+
+msgctxt "courtier ability"
+msgid "Once per game, at night, choose a character: they are drunk for 3 nights & 3 days."
+msgstr "Một lần trong game, trong đêm, chọn 1 nhân vật: họ bị say trong 3 ngày & 3 đêm."
+
+msgctxt "courtier flavor"
+msgid "I am more afraid of an army of one hundred sheep led by a lion than an army of one hundred lions led by a sheep."
+msgstr "I am more afraid of an army of one hundred sheep led by a lion than an army of one hundred lions led by a sheep."
+
+msgctxt "courtier firstNightReminder"
+msgid "The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgstr "Cận thần có thể lắc đầu, hoặc chỉ 1 nhân vật trong tờ của họ. Nếu Cận thần dùng chức năng của họ: Nếu có nhân vật đó trong game, người đó bị say."
+
+msgctxt "courtier otherNightReminder"
+msgid "Reduce the remaining number of days the marked player is poisoned. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgstr "Giảm số ngày còn lại người bị đánh dấu bị say. Nếu Cận thần chưa sử dụng chức năng: Cận thần có thể lắc đầu, hoặc chỉ 1 nhân vật trong tờ của họ. Nếu Cận thần dùng chức năng của họ: Nếu có nhân vật đó trong game, người đó bị say."
+
+msgctxt "courtier reminders"
+msgid "Drunk 3,Drunk 2,Drunk 1,No ability"
+msgstr "Say 3,Say 2,Say 1,Hết chức năng"
+
+msgctxt "cultleader name"
+msgid "Cult Leader"
+msgstr "Trưởng giáo phái"
+
+msgctxt "cultleader ability"
+msgid "Each night, you become the alignment of an alive neighbour. If all good players choose to join your cult, your team wins."
+msgstr "Mỗi đêm, bạn có phe của 1 người hàng xóm còn sống. Nếu tất cả những người tốt tham gia giáo phái của bạn, phe bạn thắng."
+
+msgctxt "cultleader flavor"
+msgid "Thinking themselves wise, they became fools."
+msgstr "Thinking themselves wise, they became fools."
+
+msgctxt "cultleader firstNightReminder"
+msgid "If the cult leader changed alignment, show them the thumbs up good signal of the thumbs down evil signal accordingly."
+msgstr "Nếu trưởng giáo phái đổi phe, cho họ thấy ngón cái lên thể hiện tốt hoặc ngón cái xuống thể hiện xấu."
+
+msgctxt "cultleader otherNightReminder"
+msgid "If the cult leader changed alignment, show them the thumbs up good signal of the thumbs down evil signal accordingly."
+msgstr "Nếu trưởng giáo phái đổi phe, cho họ thấy ngón cái lên thể hiện tốt hoặc ngón cái xuống thể hiện xấu."
+
+msgctxt "damsel name"
+msgid "Damsel"
+msgstr "Thiếu nữ"
+
+msgctxt "damsel ability"
+msgid "All Minions know you are in play. If a Minion publicly guesses you (once), your team loses."
+msgstr "Tất cả tay sai biết có Thiếu nữ trong game. Nếu Tay sai công khai đoán bạn (lần duy nhất), phe bạn thua."
+
+msgctxt "damsel flavor"
+msgid "Don't touch the hair, honey."
+msgstr "Don't touch the hair, honey."
+
+msgctxt "damsel firstNightReminder"
+msgid "Wake all the Minions, show them the 'This character selected you' card and the Damsel token."
+msgstr "Gọi tất cả tay sai dậy, cho họ xem lá 'Nhân vật này chọn bạn' và thẻ Thiếu nữ."
+
+msgctxt "damsel otherNightReminder"
+msgid "If selected by the Huntsman, wake the Damsel, show 'You are' card and a not-in-play Townsfolk token."
+msgstr "Nếu được chọn bởi Thợ săn, gọi Thiếu nữ dậy, cho xem lá 'Bạn là' và thẻ Dân làng ngoài game."
+
+msgctxt "damsel reminders"
+msgid "Guess used"
+msgstr "Đã đoán"
+
+msgctxt "deusexfiasco name"
+msgid "Deus ex Fiasco"
+msgstr "Deus ex Fiasco"
+
+msgctxt "deusexfiasco ability"
+msgid "At least once per game, the Storyteller will make a mistake, correct it and publicly admit to it."
+msgstr "Một lần trong game, Người kể chuyện sẽ \"mắc lỗi\", sửa nó và thừa nhận lỗi của mình."
+
+msgctxt "deusexfiasco reminders"
+msgid "Whoopsie"
+msgstr "Whoops"
+
+msgctxt "deviant name"
+msgid "Deviant"
+msgstr "Kẻ lệch lạc"
+
+msgctxt "deviant ability"
+msgid "If you were funny today, you cannot die by exile."
+msgstr "Nếu bạn hài hước hôm nay, bạn không thể chết vì bị đuổi."
+
+msgctxt "deviant flavor"
+msgid "Twas the lady's quip, forsooth."
+msgstr "Twas the lady's quip, forsooth."
+
+msgctxt "devilsadvocate name"
+msgid "Devil's Advocate"
+msgstr "Luật sư của Quỷ"
+
+msgctxt "devilsadvocate ability"
+msgid "Each night, choose a living player (different to last night): if executed tomorrow, they don't die."
+msgstr "Mỗi đêm, chọn 1 người sống (khác đêm qua): nếu bị hành quyết ngày mai, họ không chết."
+
+msgctxt "devilsadvocate flavor"
+msgid "My client, should the objection be overruled, pleads innocent by virtue of the prosecution's non-observance of statute 27.B - incorrect or misleading conjugation of a verb. The fact that nine of the jury died last night is simply prima facie, which is, as Wills vs Thule set precedent for, further reason to acquit."
+msgstr "My client, should the objection be overruled, pleads innocent by virtue of the prosecution's non-observance of statute 27.B - incorrect or misleading conjugation of a verb. The fact that nine of the jury died last night is simply prima facie, which is, as Wills vs Thule set precedent for, further reason to acquit."
+
+msgctxt "devilsadvocate firstNightReminder"
+msgid "The Devil’s Advocate points to a living player. That player survives execution tomorrow."
+msgstr "Luật sư của Quỷ chỉ 1 người sống. người đó sống sót hành quyết ngày mai."
+
+msgctxt "devilsadvocate otherNightReminder"
+msgid "The Devil’s Advocate points to a living player, different from the previous night. That player survives execution tomorrow."
+msgstr "Luật sư của Quỷ chỉ 1 người sống, khác đêm trước. người đó sống sót hành quyết ngày mai."
+
+msgctxt "devilsadvocate reminders"
+msgid "Survives execution"
+msgstr "Sống sót hành quyết"
+
+msgctxt "djinn name"
+msgid "Djinn"
+msgstr "Thần đèn"
+
+msgctxt "djinn ability"
+msgid "Use the Djinn's special rule. All players know what it is."
+msgstr "Sử dụng luật đặc biệt của Thần đèn. Tất cả mọi người biết nó là gì."
+
+msgctxt "djinn flavor"
+msgid ""
+"نحن لسنا هنا.\n"
+"                                انت لست حقيقي.\n"
+"                                كل شيء هو وهم.\n"
+"                                أسئلتك هي جبل نار في يوم صافٍ."
+msgstr ""
+"نحن لسنا هنا.\n"
+"                                انت لست حقيقي.\n"
+"                                كل شيء هو وهم.\n"
+"                                أسئلتك هي جبل نار في يوم صافٍ."
+
+msgctxt "doomsayer name"
+msgid "Doomsayer"
+msgstr "Khẩu nghiệp"
+
+msgctxt "doomsayer ability"
+msgid "If 4 or more players live, each living player may publicly choose (once per game) that a player of their own alignment dies."
+msgstr "Nếu có ít nhất 4 người còn sống, mỗi người sống có thể công khai chọn (một lần duy nhất) một người cùng phe họ để chết."
+
+msgctxt "doomsayer flavor"
+msgid "And on the Seventh Day, there shall be a great flood and a pestilence upon the People of the Village of the Ravens! The dead shall rise and the living shall repent! O Woe! O Unholy day! Only by great sacrifice shall they prevail! So sayeth the Sages of Nostros and so sayeth I."
+msgstr "And on the Seventh Day, there shall be a great flood and a pestilence upon the People of the Village of the Ravens! The dead shall rise and the living shall repent! O Woe! O Unholy day! Only by great sacrifice shall they prevail! So sayeth the Sages of Nostros and so sayeth I."
+
+msgctxt "dreamer name"
+msgid "Dreamer"
+msgstr "Mơ mộng"
+
+msgctxt "dreamer ability"
+msgid "Each night, choose a player (not yourself or Travellers): you learn 1 good and 1 evil character, 1 of which is correct."
+msgstr "Mỗi đêm, chọn 1 người (không phải mình hay Lữ Khách): được biết 1 chức năng tốt và 1 chức năng xấu, 1 trong số đó là đúng."
+
+msgctxt "dreamer flavor"
+msgid "I remember the Clockmaker. The sky was red and it was raining fractal triangles. There was a smell of violets and a bubbling sound. A woman with glowing eyes and a scraggly beard was hissing at the sky. Then, I awoke."
+msgstr "I remember the Clockmaker. The sky was red and it was raining fractal triangles. There was a smell of violets and a bubbling sound. A woman with glowing eyes and a scraggly beard was hissing at the sky. Then, I awoke."
+
+msgctxt "dreamer firstNightReminder"
+msgid "The Dreamer points to a player. Show 1 good and 1 evil character token; one of these is correct."
+msgstr "Mơ mộng chỉ 1 người. Cho xem 1 thẻ nhân vật tốt và 1 thẻ nhân vật xấu; 1 trong số đó là đúng."
+
+msgctxt "dreamer otherNightReminder"
+msgid "The Dreamer points to a player. Show 1 good and 1 evil character token; one of these is correct."
+msgstr "Mơ mộng chỉ 1 người. Cho xem 1 thẻ nhân vật tốt và 1 thẻ nhân vật xấu; 1 trong số đó là đúng."
+
+msgctxt "drunk name"
+msgid "Drunk"
+msgstr "Say rượu"
+
+msgctxt "drunk ability"
+msgid "You do not know you are the Drunk. You think you are a Townsfolk character, but you are not."
+msgstr "Bạn không biết bạn là Say rượu. Bạn nghĩ bạn là nhân vật Dân làng, nhưng mà bạn không phải."
+
+msgctxt "drunk flavor"
+msgid "I’m only a *hic* social drinker, my dear. Admittedly, I am a heavy *burp* socializer."
+msgstr "I’m only a *hic* social drinker, my dear. Admittedly, I am a heavy *burp* socializer."
+
+msgctxt "drunk remindersGlobal"
+msgid "Drunk"
+msgstr "Say rượu"
+
+msgctxt "duchess name"
+msgid "Duchess"
+msgstr "Phu nhân"
+
+msgctxt "duchess ability"
+msgid "Each day, 3 players may choose to visit you. At night*, each visitor learns how many visitors are evil, but 1 gets false info."
+msgstr "Mỗi ngày, 3 người có thể thăm bạn. Trong đêm*, mỗi người thăm sẽ biết được có bao nhiêu người thăm xấu, nhưng 1 người nhận sai thông tin."
+
+msgctxt "duchess flavor"
+msgid "We shall entertain between the hours of 6 and 7 precisely. Tea at 6:15. Scones at 6:45. Do not be late. Formal wear applies, as always."
+msgstr "We shall entertain between the hours of 6 and 7 precisely. Tea at 6:15. Scones at 6:45. Do not be late. Formal wear applies, as always."
+
+msgctxt "duchess reminders"
+msgid "Visitor,False Info"
+msgstr "Thăm,Thông tin sai"
+
+msgctxt "empath name"
+msgid "Empath"
+msgstr "Đồng cảm"
+
+msgctxt "empath ability"
+msgid "Each night, you learn how many of your 2 alive neighbours are evil."
+msgstr "Mỗi đêm, bạn biết số người xấu trong 2 hàng xóm sống của bạn."
+
+msgctxt "empath flavor"
+msgid "My skin prickles. Something is not right here. I can feel it."
+msgstr "My skin prickles. Something is not right here. I can feel it."
+
+msgctxt "empath firstNightReminder"
+msgid "Show the finger signal (0, 1, 2) for the number of evil alive neighbours of the Empath."
+msgstr "Cho xem dấu hiệu số (0, 1, 2) bằng số hàng xóm là người xấu sống bên cạnh Đồng cảm."
+
+msgctxt "empath otherNightReminder"
+msgid "Show the finger signal (0, 1, 2) for the number of evil neighbours."
+msgstr "Cho xem dấu hiệu số (0, 1, 2) bằng số hàng xóm là người Xấu sống bên cạnh Đồng cảm."
+
+msgctxt "engineer name"
+msgid "Engineer"
+msgstr "Kĩ sư"
+
+msgctxt "engineer ability"
+msgid "Once per game, at night, choose which Minions or which Demon is in play."
+msgstr "Một lần trong game, trong đêm, chọn Quỷ nào hoặc những Tay sai nào trong game."
+
+msgctxt "engineer flavor"
+msgid "If it bends, great. If it breaks, well, it probably needed fixing anyway."
+msgstr "If it bends, great. If it breaks, well, it probably needed fixing anyway."
+
+msgctxt "engineer firstNightReminder"
+msgid "The Engineer shows a 'no' head signal, or points to a Demon or points to the relevant number of Minions. If the Engineer chose characters, replace the Demon or Minions with the choices, then wake the relevant players and show them the You are card and the relevant character tokens."
+msgstr "Kĩ sư có thể lắc đầu, hoặc chỉ 1 Quỷ hoặc chỉ số lượng Tay sai thích hợp. Nếu Kĩ sư chọn nhân vật, thay thế Quỷ hoặc Tay sai với lựa chọn đó, rối gọi người liên quan dậy và cho xem lá 'Bạn là' và những thẻ thích hợp."
+
+msgctxt "engineer otherNightReminder"
+msgid "The Engineer shows a 'no' head signal, or points to a Demon or points to the relevant number of Minions. If the Engineer chose characters, replace the Demon or Minions with the choices, then wake the relevant players and show them the 'You are' card and the relevant character tokens."
+msgstr "Kĩ sư có thể lắc đầu, hoặc chỉ 1 Quỷ hoặc chỉ số lượng Tay sai thích hợp. Nếu Kĩ sư chọn nhân vật, thay thế Quỷ hoặc Tay sai với lựa chọn đó, rối gọi người liên quan dậy và cho xem lá 'Bạn là' và những thẻ thích hợp."
+
+msgctxt "engineer reminders"
+msgid "No ability"
+msgstr "Hết chức năng"
+
+msgctxt "eviltwin name"
+msgid "Evil Twin"
+msgstr "Sinh đôi xấu"
+
+msgctxt "eviltwin ability"
+msgid "You & an opposing player know each other. If the good player is executed, evil wins. Good can't win if you both live."
+msgstr "Bạn & 1 người khác phe biết nhau. Nếu người đó bị hành quyết, phe xấu thắng. Phe Tốt không thể thắng nếu 2 người cùng sống."
+
+msgctxt "eviltwin flavor"
+msgid "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!"
+msgstr "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!"
+
+msgctxt "eviltwin firstNightReminder"
+msgid "Wake the Evil Twin and their twin. Confirm that they have acknowledged each other. Point to the Evil Twin. Show their Evil Twin token to the twin player. Point to the twin. Show their character token to the Evil Twin player."
+msgstr "Gọi Sinh đôi xấu và sinh đôi của họ, chắc chắn rằng cả 2 biết nhau. Chỉ Sinh đôi xấu, cho xem thẻ \"Sinh đôi xấu\" cho Sinh đôi tốt. Chỉ Sinh đôi tốt, cho xem thẻ nhân vật của họ cho Sinh đôi xấu."
+
+msgctxt "eviltwin reminders"
+msgid "Twin"
+msgstr "Sinh đôi"
+
+msgctxt "exorcist name"
+msgid "Exorcist"
+msgstr "Thầy trừ tà"
+
+msgctxt "exorcist ability"
+msgid "Each night*, choose a player (different to last night): the Demon, if chosen, learns who you are then doesn't wake tonight."
+msgstr "Mỗi đêm*, chọn 1 người (khác đêm qua): Quỷ, nếu được chọn, biết bạn là ai và không thức dậy đêm nay."
+
+msgctxt "exorcist flavor"
+msgid "We cast you out, every unclean spirit, every satanic power, every onslaught of the infernal adversary, every legion, every diabolical group and sect, in the name and by the power of Our Lord Jesus Christ. We command you, begone and fly far from the Church of God, from the souls made by God in His image and redeemed by the precious blood of the divine Lamb."
+msgstr "We cast you out, every unclean spirit, every satanic power, every onslaught of the infernal adversary, every legion, every diabolical group and sect, in the name and by the power of Our Lord Jesus Christ. We command you, begone and fly far from the Church of God, from the souls made by God in His image and redeemed by the precious blood of the divine Lamb."
+
+msgctxt "exorcist otherNightReminder"
+msgid "The Exorcist points to a player, different from the previous night. If that player is the Demon: Wake the Demon. Show the Exorcist token. Point to the Exorcist. The Demon does not act tonight."
+msgstr "Thầy trừ tà chỉ 1 người, khác đêm trước. Nếu người đó là Quỷ: Gọi Quỷ dậy. Cho xem thẻ Thầy trừ tà. Chỉ Thầy trừ tà. Quỷ không hành động đêm nay."
+
+msgctxt "exorcist reminders"
+msgid "Chosen"
+msgstr "Được chọn"
+
+msgctxt "fanggu name"
+msgid "Fang Gu"
+msgstr "Fang Gu"
+
+msgctxt "fanggu ability"
+msgid "Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu & you die instead. [+1 Outsider]"
+msgstr "Mỗi đêm*, chọn 1 người: họ chết. Lữ khách  đầu tiên bị nhân vật này chọn sẽ biến thành Fang Gu xấu & bạn chết. [+1 Lữ khách]"
+
+msgctxt "fanggu flavor"
+msgid "Your walls and your weapons are but smoke in dreams."
+msgstr "Your walls and your weapons are but smoke in dreams."
+
+msgctxt "fanggu otherNightReminder"
+msgid "The Fang Gu points to a player. That player dies. Or, if that player was an Outsider and there are no other Fang Gu in play: The Fang Gu dies instead of the chosen player. The chosen player is now an evil Fang Gu. Wake the new Fang Gu. Show the 'You are' card, then the Fang Gu token. Show the 'You are' card, then the thumb-down 'evil' hand sign."
+msgstr "Fang Gu chỉ 1 người. người đó chết. Hoặc, nếu người đó là Lữ khách và không có Fang Gu khác: Fang Gu chết thay cho người được chọn. Người được chọn sẽ trở thành Fang Gu xấu. Gọi Fang Gu mới dậy. Cho xem lá 'Bạn là, thẻ Fang Gu. Cho xem lá 'Bạn là', và giơ ngón cái xuống thể hiện theo Phe Xấu."
+
+msgctxt "fanggu reminders"
+msgid "Dead,Once"
+msgstr "Chết,Đầu tiên"
+
+msgctxt "farmer name"
+msgid "Farmer"
+msgstr "Nông dân"
+
+msgctxt "farmer ability"
+msgid "If you die at night, an alive good player becomes a Farmer."
+msgstr "Khi bạn chết trong đêm, 1 người tốt trở thành Nông dân."
+
+msgctxt "farmer flavor"
+msgid "Even the high and mighty need food on the table. Without us, the city starves."
+msgstr "Even the high and mighty need food on the table. Without us, the city starves."
+
+msgctxt "farmer otherNightReminder"
+msgid "If a Farmer died tonight, choose another good player and make them the Farmer. Wake this player, show them the 'You are' card and the Farmer character token."
+msgstr "Nếu 1 Nông dân chết trong đêm, chọn người tốt khác và biến họ thành Nông dân. Gọi người tốt đó dậy, cho họ xem lá 'Bạn là' và thẻ nhân vật Nông dân."
+
+msgctxt "fearmonger name"
+msgid "Fearmonger"
+msgstr "Kẻ gây hãi"
+
+msgctxt "fearmonger ability"
+msgid "Each night, choose a player. If you nominate & execute them, their team loses. All players know if you choose a new player."
+msgstr "Mỗi đêm, chọn 1 người. nếu bạn biểu quyết & hành quyết họ, phe họ thua. Tất cả mọi người biết bạn chọn 1 người mới."
+
+msgctxt "fearmonger flavor"
+msgid "Beware of gazing long into the Abyss, lest the Abyss also gaze into you."
+msgstr "Beware of gazing long into the Abyss, lest the Abyss also gaze into you."
+
+msgctxt "fearmonger firstNightReminder"
+msgid "The Fearmonger points to a player. Place the Fear token next to that player and announce that a new player has been selected with the Fearmonger ability."
+msgstr "Kẻ gây hãi chỉ 1 người. Đặt thẻ Sợ hãi bên cạnh người đó và thông báo rằng 1 người mới đã được chọn bởi chức năng của Kẻ gây hãi."
+
+msgctxt "fearmonger otherNightReminder"
+msgid "The Fearmonger points to a player. If different from the previous night, place the Fear token next to that player and announce that a new player has been selected with the Fearmonger ability."
+msgstr "Kẻ gây hãi chỉ 1 người. Nếu khác đêm trước, đặt thẻ Sợ hãi bên cạnh người đó và thông báo rằng 1 người mới đã được chọn bởi chức năng của Kẻ gây hãi."
+
+msgctxt "fearmonger reminders"
+msgid "Fear"
+msgstr "Sợ hãi"
+
+msgctxt "ferryman name"
+msgid "Ferryman"
+msgstr "Người lái đò"
+
+msgctxt "ferryman ability"
+msgid "On the final day, all dead players regain their vote token."
+msgstr "Vào ngày cuối cùng, tất cả người chết hồi lại vote chết của họ."
+
+msgctxt "ferryman flavor"
+msgid "When righteous dreams come, they have the weight of truth."
+msgstr "When righteous dreams come, they have the weight of truth."
+
+msgctxt "fibbin name"
+msgid "Fibbin"
+msgstr "Dối lừa"
+
+msgctxt "fibbin ability"
+msgid "Once per game, 1 good player might get false information."
+msgstr "1 lần trong game, có thể 1 người tốt nhận thông tin sai."
+
+msgctxt "fibbin flavor"
+msgid ""
+"Tee-hee-hee.\n"
+"Tee. Hee. Hee."
+msgstr ""
+"Tee-hee-hee.\n"
+"Tee. Hee. Hee."
+
+msgctxt "fibbin reminders"
+msgid "Used"
+msgstr "Đã dùng"
+
+msgctxt "fiddler name"
+msgid "Fiddler"
+msgstr "Người vĩ cầm"
+
+msgctxt "fiddler ability"
+msgid "Once per game, the Demon secretly chooses an opposing player: all players choose which of these 2 players win."
+msgstr "Một lần trong game, Quỷ chọn người khác phe: tất cả mọi người quyết định người thắng trong số 2 người."
+
+msgctxt "fiddler flavor"
+msgid "I'll wager mi lyef ye cannae best me in a fiddle contest, ye boss-eyed snook! We'll go out on the lash, get the pub jammers an' have a right craic. I'll be layin' ma boots into ya come mornin' ye rumbly muppet."
+msgstr "I'll wager mi lyef ye cannae best me in a fiddle contest, ye boss-eyed snook! We'll go out on the lash, get the pub jammers an' have a right craic. I'll be layin' ma boots into ya come mornin' ye rumbly muppet."
+
+msgctxt "fisherman name"
+msgid "Fisherman"
+msgstr "Ngư dân"
+
+msgctxt "fisherman ability"
+msgid "Once per game, during the day, visit the Storyteller for some advice to help you win."
+msgstr "Một lần trong game, trong ngày, thăm Người kể chuyện để nhận tư vấn giúp bạn thắng."
+
+msgctxt "fisherman flavor"
+msgid "This was my favourite part of the river... see how the sunlight makes a rainbow from the monastery to the market? This was the best place for big fish. And the older I get, the bigger they were."
+msgstr "This was my favourite part of the river... see how the sunlight makes a rainbow from the monastery to the market? This was the best place for big fish. And the older I get, the bigger they were."
+
+msgctxt "fisherman reminders"
+msgid "No ability"
+msgstr "Hết chức năng"
+
+msgctxt "flowergirl name"
+msgid "Flowergirl"
+msgstr "Bán hoa"
+
+msgctxt "flowergirl ability"
+msgid "Each night*, you learn if a Demon voted today."
+msgstr "Mỗi đêm*, bạn biết Quỷ có bỏ phiếu hôm nay hay không."
+
+msgctxt "flowergirl flavor"
+msgid "Yesterday's violets have withered and died, but today my poppies bloom."
+msgstr "Yesterday's violets have withered and died, but today my poppies bloom."
+
+msgctxt "flowergirl otherNightReminder"
+msgid "Nod 'yes' or shake head 'no' for whether the Demon voted today. Place the 'Demon not voted' marker (remove 'Demon voted', if any)."
+msgstr "Gật đầu 'có' hoặc lắc đầu 'không' tùy theo Quỷ có bỏ phiếu hôm nay không. Đặt thẻ đánh dấu 'Quỷ không bỏ phiếu' (bỏ 'Quỷ bỏ phiếu', nếu có)."
+
+msgctxt "flowergirl reminders"
+msgid "Demon voted,Demon not voted"
+msgstr "Quỷ bỏ phiếu, Quỷ không bỏ phiếu"
+
+msgctxt "fool name"
+msgid "Fool"
+msgstr "Thằng ngốc"
+
+msgctxt "fool ability"
+msgid "The first time you die, you don't."
+msgstr "Lần đầu bạn chết, bạn không."
+
+msgctxt "fool flavor"
+msgid "...and the King said 'What?! I've never even owned a pair of rubber pantaloons, let alone a custard cannon!' Ho-ho! Jolly day!"
+msgstr "...and the King said 'What?! I've never even owned a pair of rubber pantaloons, let alone a custard cannon!' Ho-ho! Jolly day!"
+
+msgctxt "fool reminders"
+msgid "No ability"
+msgstr "Hết chức năng"
+
+msgctxt "fortuneteller name"
+msgid "Fortune Teller"
+msgstr "Thầy bói"
+
+msgctxt "fortuneteller ability"
+msgid "Each night, choose 2 players: you learn if either is a Demon. There is a good player that registers as a Demon to you."
+msgstr "Mỗi đêm, chọn 2 người: bạn biết trong đó có Quỷ hay không. Có 1 người tốt bị tính là Quỷ với bạn."
+
+msgctxt "fortuneteller flavor"
+msgid "I sense great evil in your soul! But... that could just be your perfume. I am allergic to Elderberry."
+msgstr "I sense great evil in your soul! But... that could just be your perfume. I am allergic to Elderberry."
+
+msgctxt "fortuneteller firstNightReminder"
+msgid "The Fortune Teller points to two players. Give the head signal (nod yes, shake no) for whether one of those players is the Demon."
+msgstr "Thầy bói chỉ 2 người. Đưa dấu hiệu đầu (gật đầu đúng, lắc đầu sai) tùy theo trong số đó có Quỷ không."
+
+msgctxt "fortuneteller otherNightReminder"
+msgid "The Fortune Teller points to two players. Show the head signal (nod 'yes', shake 'no') for whether one of those players is the Demon."
+msgstr "Thầy bói chỉ 2 người. Đưa dấu hiệu đầu (gật đầu đúng, lắc đầu sai) tùy theo trong số đó có Quỷ không."
+
+msgctxt "fortuneteller reminders"
+msgid "Red herring"
+msgstr "Điểm mù"
+
+msgctxt "gambler name"
+msgid "Gambler"
+msgstr "Con bạc"
+
+msgctxt "gambler ability"
+msgid "Each night*, choose a player & guess their character: if you guess wrong, you die."
+msgstr "Mỗi đêm*, chọn 1 người & đoán nhân vật của họ: nếu bạn đoán sai, bạn chết."
+
+msgctxt "gambler flavor"
+msgid "Heads, I win. Tails, you lose."
+msgstr "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
+
+msgctxt "gambler otherNightReminder"
+msgid "The Gambler points to a player, and a character on their sheet. If incorrect, the Gambler dies."
+msgstr "Con bạc chỉ 1 người, và 1 nhân vật trong tờ của họ. Nếu sai, Con bạc chết."
+
+msgctxt "gambler reminders"
+msgid "Dead"
+msgstr "Chết"
+
+msgctxt "gangster name"
+msgid "Gangster"
+msgstr "Xã hội đen"
+
+msgctxt "gangster ability"
+msgid "Once per day, you may choose to kill an alive neighbour, if your other alive neighbour agrees."
+msgstr "Một lần trong ngày, bạn có thể chọn giết 1 hàng xóm sống, nếu hàng xóm sống còn lại đồng ý."
+
+msgctxt "gangster flavor"
+msgid "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
+msgstr "Heads, I win. Tails, you lose."
+
+msgctxt "gardener name"
+msgid "Gardener"
+msgstr "Người trồng cây"
+
+msgctxt "gardener ability"
+msgid "The Storyteller assigns 1 or more players' characters."
+msgstr "Người kể chuyện tự đưa nhân vật cho 1 hay nhiều người chơi."
+
+msgctxt "gardener flavor"
+msgid "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
+msgstr "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
+
+msgctxt "general name"
+msgid "General"
+msgstr "Đại tướng"
+
+msgctxt "general ability"
+msgid "Each night, you learn which alignment the Storyteller believes is winning: good, evil, or neither."
+msgstr "Mỗi đêm, bạn biết phe mà Người kể chuyện nghĩ là đang thắng: tốt, xấu, hoặc ngang bằng."
+
+msgctxt "general flavor"
+msgid "I don’t have time for quotes."
+msgstr "I don’t have time for quotes."
+
+msgctxt "general firstNightReminder"
+msgid "Show the General thumbs up for good winning, thumbs down for evil winning or thumb to the side for neither."
+msgstr "Cho Đại tướng thấy ngón cái lên nếu tốt đang thắng, ngón cái xuống nếu xấu đang thắng hoặc ngón cái ngang nếu đang cân bằng."
+
+msgctxt "general otherNightReminder"
+msgid "Show the General thumbs up for good winning, thumbs down for evil winning or thumb to the side for neither."
+msgstr "Cho Đại tướng thấy ngón cái lên nếu tốt đang thắng, ngón cái xuống nếu xấu đang thắng hoặc ngón cái ngang nếu đang cân bằng."
+
+msgctxt "gnome name"
+msgid "Gnome"
+msgstr "Thần lùn"
+
+msgctxt "gnome ability"
+msgid "All players start knowing a player of your alignment. You may choose to kill anyone who nominates them."
+msgstr "Tất cả người chơi biết 1 người cùng phe với bạn. Bạn có thể giết người chỉ định họ."
+
+msgctxt "gnome flavor"
+msgid "Four the score or seven beers, no shows are goes for me and my. A prank to crack the cranks and planks o' the floor foundation length, so incontravertabubbilly mini. The large essays down streams of joyce, no greater than is scene, not inherdt, Ha-urrumph.o."
+msgstr "Four the score or seven beers, no shows are goes for me and my. A prank to crack the cranks and planks o' the floor foundation length, so incontravertabubbilly mini. The large essays down streams of joyce, no greater than is scene, not inherdt, Ha-urrumph.o."
+
+msgctxt "gnome reminders"
+msgid "Amigo"
+msgstr "Amigo"
+
+msgctxt "goblin name"
+msgid "Goblin"
+msgstr "Yêu tinh"
+
+msgctxt "goblin ability"
+msgid "If you publicly claim to be the Goblin when nominated & are executed that day, your team wins."
+msgstr "Nếu bạn công khai rằng mình là Yêu tinh khi bị biểu quyết & bị hành quyết ngày hôm đó, đội bạn thắng."
+
+msgctxt "goblin flavor"
+msgid "You don’t want to insult the goblins. You really, really don’t. On a completely different note… can I have another piece of cake?"
+msgstr "You don’t want to insult the goblins. You really, really don’t. On a completely different note… can I have another piece of cake?"
+
+msgctxt "goblin reminders"
+msgid "Claimed"
+msgstr "Đã khẳng định"
+
+msgctxt "godfather name"
+msgid "Godfather"
+msgstr "Bố già"
+
+msgctxt "godfather ability"
+msgid "You start knowing which Outsiders are in play. If 1 died today, choose a player tonight: they die. [−1 or +1 Outsider]"
+msgstr "Bạn bắt đầu biết những Lữ khách trong game. Nếu 1 trong số đó chết hôm nay, chọn 1 người đêm nay: họ chết. [−1 or +1 Lữ khách]"
+
+msgctxt "godfather flavor"
+msgid "Normally, it's just business. But when you insult my daughter, you insult me. And when you insult me, you insult my family. You really should be more careful - it would be a shame if you had an unfortunate accident."
+msgstr "Normally, it's just business. But when you insult my daughter, you insult me. And when you insult me, you insult my family. You really should be more careful - it would be a shame if you had an unfortunate accident."
+
+msgctxt "godfather firstNightReminder"
+msgid "Show each of the Outsider tokens in play."
+msgstr "Cho xem tất cả thẻ Lữ khách trong game."
+
+msgctxt "godfather otherNightReminder"
+msgid "If an Outsider died today: The Godfather points to a player. That player dies."
+msgstr "Nếu Lữ khách chết hôm nay: Bố già chỉ 1 người. người đó chết."
+
+msgctxt "godfather reminders"
+msgid "Died today,Dead"
+msgstr "Chết hôm nay,Chết"
+
+msgctxt "golem name"
+msgid "Golem"
+msgstr "Golem"
+
+msgctxt "golem ability"
+msgid "You may only nominate once per game. When you do, if the nominee is not the Demon, they die."
+msgstr "Bạn chỉ được biểu quyết 1 lần trong game. Khi đó, nếu người được biểu quyết không phải là Quỷ, họ chết."
+
+msgctxt "golem flavor"
+msgid "Golem help? Golem smash! Golem help."
+msgstr "Golem help? Golem smash! Golem help."
+
+msgctxt "golem reminders"
+msgid "Can not nominate"
+msgstr "Không thể biểu quyết"
+
+msgctxt "goon name"
+msgid "Goon"
+msgstr "Bất lương"
+
+msgctxt "goon ability"
+msgid "Each night, the 1st player to choose you with their ability is drunk until dusk. You become their alignment."
+msgstr "Mỗi đêm, người đầu tiên chọn bạn bằng chức năng của họ sẽ bị say đến hoàng hôm. Bạn trở thành phe người đó."
+
+msgctxt "goon flavor"
+msgid "Yes boss. I explained fings real good to dat geezer. He don't want me explain it again. Nah boss, I don't need no doctor - it's only a knife wound. Be right come mornin'"
+msgstr "Yes boss. I explained fings real good to dat geezer. He don't want me explain it again. Nah boss, I don't need no doctor - it's only a knife wound. Be right come mornin'"
+
+msgctxt "goon reminders"
+msgid "Drunk"
+msgstr "Say"
+
+msgctxt "gossip name"
+msgid "Gossip"
+msgstr "Bà tám"
+
+msgctxt "gossip ability"
+msgid "Each day, you may make a public statement. Tonight, if it was true, a player dies."
+msgstr "Mỗi ngày, bạn có thể đưa ra 1 mệnh đề công khai. Đêm nay, nếu nó đúng, 1 người chết."
+
+msgctxt "gossip flavor"
+msgid "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah."
+msgstr "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah."
+
+msgctxt "gossip otherNightReminder"
+msgid "If the Gossip’s public statement was true: Choose a player not protected from dying tonight. That player dies."
+msgstr "Nếu mệnh đề công khai của Bà tám là đúng: Chọn 1 người không được bảo vệ khỏi cái chết tối nay. người đó chết."
+
+msgctxt "gossip reminders"
+msgid "Dead"
+msgstr "Chết"
+
+msgctxt "grandmother name"
+msgid "Grandmother"
+msgstr "Bà ngoại"
+
+msgctxt "grandmother ability"
+msgid "You start knowing a good player & their character. If the Demon kills them, you die too."
+msgstr "Bạn bắt đầu biết 1 người tốt & nhân vật của họ. Nếu Quỷ giết họ, bạn chết theo."
+
+msgctxt "grandmother flavor"
+msgid "Take a jacket if you go outside, dearie. And your thermos. And your scarf. I have a weak heart, you know. Whatever would I do if you caught cold...or worse?"
+msgstr "Take a jacket if you go outside, dearie. And your thermos. And your scarf. I have a weak heart, you know. Whatever would I do if you caught cold...or worse?"
+
+msgctxt "grandmother firstNightReminder"
+msgid "Show the marked character token. Point to the marked player."
+msgstr "Cho xem thẻ nhân vật được đánh dấu. Chỉ người được đánh dấu."
+
+msgctxt "grandmother otherNightReminder"
+msgid "If the Grandmother’s grandchild was killed by the Demon tonight: The Grandmother dies."
+msgstr "Nếu cháu của Bà ngoại bị giết bởi Quỷ tối nay: Bà ngoại chết."
+
+msgctxt "grandmother reminders"
+msgid "Grandchild"
+msgstr "Cháu ngoại"
+
+msgctxt "gunslinger name"
+msgid "Gunslinger"
+msgstr "Xạ thủ"
+
+msgctxt "gunslinger ability"
+msgid "Each day, after the 1st vote has been tallied, you may choose a player that voted: they die."
+msgstr "Mỗi ngày, sau khi phiếu bầu đầu tiên được đếm, bạn có thể chọn 1 người bỏ phiếu: họ chết."
+
+msgctxt "gunslinger flavor"
+msgid "It's time someone took matters into their own hands. That someone... is me."
+msgstr "It's time someone took matters into their own hands. That someone... is me."
+
+msgctxt "harlot name"
+msgid "Harlot"
+msgstr "Gái điếm"
+
+msgctxt "harlot ability"
+msgid "Each night*, choose a living player: if they agree, you learn their character, but you both might die."
+msgstr "Mỗi đêm*, chọn 1 người sống: nếu họ đồng ý, bạn biết nhân vật của họ, nhưng cả hai có thể chết."
+
+msgctxt "harlot flavor"
+msgid "Enchanté, Sailor. You look like you need someone to really listen to your troubles. I'm a good listener. Very, very good."
+msgstr "Enchanté, Sailor. You look like you need someone to really listen to your troubles. I'm a good listener. Very, very good."
+
+msgctxt "harlot otherNightReminder"
+msgid "The Harlot points at any player. Then, put the Harlot to sleep. Wake the chosen player, show them the 'This character selected you' token, then the Harlot token. That player either nods their head yes or shakes their head no. If they nodded their head yes, wake the Harlot and show them the chosen player's character token. Then, you may decide that both players die."
+msgstr "Gái điếm chỉ bất kì người nào. Rồi cho Gái điếm đi ngủ. Gọi người được chọn, Cho họ xem lá 'Nhân vật này chọn bạn', và thẻ Gái điếm. người đó có thể gật đầu có hoặc lắc đầu không. Nếu họ gật đầu có, gọi Gái điếm và cho xem thẻ nhân vật của người được chọn. Rồi bạn có thể cho cả hai cùng chết."
+
+msgctxt "harlot reminders"
+msgid "Dead"
+msgstr "Chết"
+
+msgctxt "harpy name"
+msgid "Harpy"
+msgstr "Người chim"
+
+msgctxt "harpy ability"
+msgid "Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or one or both might die."
+msgstr "Mỗi đêm, chọn 2 người: ngày mai, người thứ nhất điên rằng người thứ hai là xấu, hoặc chỉ 1 hoặc cả hai có thể chết."
+
+msgctxt "harpy flavor"
+msgid "So fair a day I never did see, nor so fowl a presence hanging over me."
+msgstr "So fair a day I never did see, nor so fowl a presence hanging over me."
+
+msgctxt "harpy firstNightReminder"
+msgid "Wake the Harpy; they point at one player, then another. Wake the 1st player the Harpy pointed to, show them the 'This character has selected you' card, show them the Harpy token, then point at the 2nd player the Harpy pointed to."
+msgstr "Gọi Người chim dậy; họ chỉ 1 người và 1 người khác. Gọi người đầu tiên được Người chim chỉ, cho họ xem lá 'Nhân vật này chọn bạn', và token Người chim, rồi chỉ người thứ hai được Người chim chỉ."
+
+msgctxt "harpy otherNightReminder"
+msgid "Wake the Harpy; they point at one player, then another. Wake the 1st player the Harpy pointed to, show them the 'This character has selected you' card, show them the Harpy token, then point at the 2nd player the Harpy pointed to."
+msgstr "Gọi Người chim dậy; họ chỉ 1 người và 1 người khác. Gọi người đầu tiên được Người chim chỉ, cho họ xem lá 'Nhân vật này chọn bạn', và token Người chim, rồi chỉ người thứ hai được Người chim chỉ."
+
+msgctxt "harpy reminders"
+msgid "Mad, 2nd"
+msgstr "Điên, 2nd"
+
+msgctxt "hatter name"
+msgid "Hatter"
+msgstr "Thợ làm mũ"
+
+msgctxt "hatter ability"
+msgid "If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be."
+msgstr "Nếu bạn chết trong hôm nay hoặc đêm nay, Quỷ và Tay sai có thể chọn để trở thành nhân vật Quỷ và Tay sai mới."
+
+msgctxt "hatter flavor"
+msgid "One Hat. Too Hat. Three Hat. Tea Hat. Fore Hat. Thrive Hat. Six Hat. Sticks Hat."
+msgstr "One Hat. Too Hat. Three Hat. Tea Hat. Fore Hat. Thrive Hat. Six Hat. Sticks Hat."
+
+msgctxt "hatter otherNightReminder"
+msgid "If the Hatter died today: Wake the Minions and Demon. Show them the 'This Character Selected You' info token, then the Hatter token. Each player either shakes their head no or points to another character of the same type as their current character.  If a second player would end up with the same character as another player, shake your head no and gesture for them to choose again. Put them to sleep. Change each player to the character they chose."
+msgstr "Nếu Thợ làm mũ chết trong hôm nay: Gọi Quỷ và Tay sai dậy. Cho họ thấy token \"Nhân vật này chọn bạn\", và token Thợ làm mũ. Mỗi người có thể lắc đầu hoặc chọn 1 nhân vật cùng loại với nhân vật của họ.  Nếu đó có 2 người cùng nhân vật, lắc đầu và ra dấu cho người sau chọn lại. Cho họ đi ngủ. Đổi nhân vật của họ bằng nhân vật họ chọn."
+
+msgctxt "hatter reminders"
+msgid "Tea Party Tonight"
+msgstr "Tiệc trà đêm nay"
+
+msgctxt "hellslibrarian name"
+msgid "Hell's Librarian"
+msgstr "Thư viện Địa ngục"
+
+msgctxt "hellslibrarian ability"
+msgid "Something bad might happen to whoever talks when the Storyteller has asked for silence."
+msgstr "Điều xấu có thể xảy ra với người nói khi Người kể chuyện cần im lặng."
+
+msgctxt "hellslibrarian flavor"
+msgid "Shhhhhh. Please be quiet. It is best not to disturb the Librarian. I've heard it has a temper."
+msgstr "Shhhhhh. Please be quiet. It is best not to disturb the Librarian. I've heard it has a temper."
+
+msgctxt "hellslibrarian reminders"
+msgid "Something Bad"
+msgstr "Điều xấu"
+
+msgctxt "heretic name"
+msgid "Heretic"
+msgstr "Dị giáo"
+
+msgctxt "heretic ability"
+msgid "Whoever wins, loses & whoever loses, wins, even if you are dead."
+msgstr "Ai thắng, thua & ai thua, thắng, ngay cả khi bạn đã chết."
+
+msgctxt "heretic flavor"
+msgid "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
+msgstr "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
+
+msgctxt "hermit name"
+msgid "Hermit"
+msgstr "Tu sĩ"
+
+msgctxt "hermit ability"
+msgid "You have all Outsider abilities. [-0 or -1 Outsider]"
+msgstr "Bạn có tất cả chức năng của Lữ khách. [-0 hoặc -1 Lữ khách]"
+
+msgctxt "hermit flavor"
+msgid "In the lost and forgotten places of the earth, the soul’s light beckons."
+msgstr "In the lost and forgotten places of the earth, the soul’s light beckons."
+
+msgctxt "hermit reminders"
+msgid "1, 2, 3"
+msgstr "1, 2, 3"
+
+msgctxt "highpriestess name"
+msgid "High Priestess"
+msgstr "Nữ thượng tế"
+
+msgctxt "highpriestess ability"
+msgid "Each night, learn which player the Storyteller believes you should talk to most."
+msgstr "Mỗi đêm, bạn biết Người kể chuyện nghĩ bạn nên nói chuyện với người nào nhất"
+
+msgctxt "highpriestess flavor"
+msgid "There is life behind the personality that uses personalities as masks. There are times when life puts off the mask and deep answers to deep."
+msgstr "There is life behind the personality that uses personalities as masks. There are times when life puts off the mask and deep answers to deep."
+
+msgctxt "highpriestess firstNightReminder"
+msgid "Point to a player."
+msgstr "Chỉ 1 người."
+
+msgctxt "highpriestess otherNightReminder"
+msgid "Point to a player."
+msgstr "Chỉ 1 người."
+
+msgctxt "huntsman name"
+msgid "Huntsman"
+msgstr "Thợ săn"
+
+msgctxt "huntsman ability"
+msgid "Once per game, at night, choose a living player: the Damsel, if chosen, becomes a not-in-play Townsfolk. [+the Damsel]"
+msgstr "Một lần trong game, trong đêm, chọn người sống: Thiếu nữ, nếu được chọn, trở thành Dân làng ngoài game. [+Thiếu nữ]"
+
+msgctxt "huntsman flavor"
+msgid "My cabin is warm and sturdy. My axe by the door, my boots drying by the fire, and elk stew a-simmering… Hark! A scream echoes through the valley! The rain and the mud and the cold, cold wind mask the scent of the wolves, but I know the path and my pace is steady. I am coming."
+msgstr "My cabin is warm and sturdy. My axe by the door, my boots drying by the fire, and elk stew a-simmering… Hark! A scream echoes through the valley! The rain and the mud and the cold, cold wind mask the scent of the wolves, but I know the path and my pace is steady. I am coming."
+
+msgctxt "huntsman firstNightReminder"
+msgid "The Huntsman shakes their head 'no' or points to a player. If they point to the Damsel, wake that player, show the 'You are' card and a not-in-play character token."
+msgstr "Thợ săn lắc đầu hoặc chỉ 1 người. Nếu họ chỉ Thiếu nữ: gọi người đó dậy, cho xem lá 'Bạn là' và thẻ nhân vật ngoài game."
+
+msgctxt "huntsman otherNightReminder"
+msgid "The Huntsman shakes their head 'no' or points to a player. If they point to the Damsel, wake that player, show the 'You are' card and a not-in-play character token."
+msgstr "Thợ săn lắc đầu hoặc chỉ 1 người. Nếu họ chỉ Thiếu nữ: gọi người đó dậy, cho xem lá 'Bạn là' và thẻ nhân vật ngoài game."
+
+msgctxt "huntsman reminders"
+msgid "No ability"
+msgstr "Hết chức năng"
+
+msgctxt "imp name"
+msgid "Imp"
+msgstr "Imp"
+
+msgctxt "imp ability"
+msgid "Each night*, choose a player: they die. If you kill yourself this way, a Minion becomes the Imp."
+msgstr "Mỗi đêm*, chọn 1 người: họ chết. Nếu bạn giết chính mình bằng cách này, 1 Tay sai trở thành Imp."
+
+msgctxt "imp flavor"
+msgid "We must keep our wits sharp and our sword sharper. Evil walks among us, and will stop at nothing to destroy us good, simple folk, bringing our fine town to ruin. Trust no-one. But, if you must trust someone, trust me."
+msgstr "We must keep our wits sharp and our sword sharper. Evil walks among us, and will stop at nothing to destroy us good, simple folk, bringing our fine town to ruin. Trust no-one. But, if you must trust someone, trust me."
+
+msgctxt "imp otherNightReminder"
+msgid "The Imp points to a player. That player dies. If the Imp chose themselves: Replace the character of 1 alive minion with a spare Imp token. Show the 'You are' card, then the Imp token."
+msgstr "Imp chỉ 1 người. Người đó chết. Nếu Imp chỉ chính mình: Thay thế thẻ nhân vật của 1 tay sai còn sống bằng thẻ Imp thừa . Cho xem lá 'Bạn là', và thẻ Imp."
+
+msgctxt "imp reminders"
+msgid "Dead"
+msgstr "Chết"
+
+msgctxt "innkeeper name"
+msgid "Innkeeper"
+msgstr "Chủ quán trọ"
+
+msgctxt "innkeeper ability"
+msgid "Each night*, choose 2 players: they can't die tonight, but 1 is drunk until dusk."
+msgstr "Mỗi đêm*, chọn 2 người: họ không thể chết đêm nay, nhưng 1 người bị say đến hoàng hôn."
+
+msgctxt "innkeeper flavor"
+msgid "Come inside, fair traveller, and rest your weary bones. Drink and be merry, for the legions of the Dark One shall not harass thee tonight."
+msgstr "Come inside, fair traveller, and rest your weary bones. Drink and be merry, for the legions of the Dark One shall not harass thee tonight."
+
+msgctxt "innkeeper otherNightReminder"
+msgid "The previously protected and drunk players lose those markers. The Innkeeper points to two players. Those players are protected. One is drunk."
+msgstr "người được bảo vệ và bị say trước đó mất đánh dầu. Chủ quán trọ chỉ 2 người. Những người đó được bảo vệ. Một trong số đó bị say."
+
+msgctxt "innkeeper reminders"
+msgid "Protected,Drunk"
+msgstr "Bảo vệ,Say"
+
+msgctxt "investigator name"
+msgid "Investigator"
+msgstr "Điều tra viên"
+
+msgctxt "investigator ability"
+msgid "You start knowing that 1 of 2 players is a particular Minion."
+msgstr "Đêm đầu tiên, bạn biết chức năng của Tay Sai thuộc về 1 trong 2 người."
+
+msgctxt "investigator flavor"
+msgid "It is a fine night for a stroll, wouldn't you say, Mister Morozov? Or should I say... BARON Morozov?"
+msgstr "It is a fine night for a stroll, wouldn't you say, Mister Morozov? Or should I say... BARON Morozov?"
+
+msgctxt "investigator firstNightReminder"
+msgid "Show the character token of a Minion in play. Point to two players, one of which is that character."
+msgstr "Cho xem thẻ nhân vật của Tay Sai trong cuộc. Chỉ 2 người, 1 trong số họ là nhân vật đó."
+
+msgctxt "investigator reminders"
+msgid "Minion,Wrong"
+msgstr "Tay Sai,Sai"
+
+msgctxt "judge name"
+msgid "Judge"
+msgstr "Thẩm phán"
+
+msgctxt "judge ability"
+msgid "Once per game, if another player nominated, you may choose to force the current execution to pass or fail."
+msgstr "Một lần trong game, nếu người khác biểu quyết, bạn có thể ép hành quyết hiện tại thành công hay thất bại."
+
+msgctxt "judge flavor"
+msgid "I find the defendant guilty of the crimes of murder, fraud, arson, larceny, impersonating an officer of the law, practicing medicine without a license, slander, regicide, and littering."
+msgstr "I find the defendant guilty of the crimes of murder, fraud, arson, larceny, impersonating an officer of the law, practicing medicine without a license, slander, regicide, and littering."
+
+msgctxt "judge reminders"
+msgid "No ability"
+msgstr "Hết chức năng"
+
+msgctxt "juggler name"
+msgid "Juggler"
+msgstr "Tung hứng"
+
+msgctxt "juggler ability"
+msgid "On your 1st day, publicly guess up to 5 players' characters. That night, you learn how many you got correct."
+msgstr "Vào ngày đầu tiên của bạn, đoán công khai nhân vật của tối đa 5 người. Đêm đó, bạn biết bạn có bao nhiêu người đúng."
+
+msgctxt "juggler flavor"
+msgid "For my next trick, as per request, I will need a flower, a bag of beans, a toy snake, a paintbrush, and a motorized gasoline-powered hedge trimming device. I warn you, this trick may be my last. Oh dear."
+msgstr "For my next trick, as per request, I will need a flower, a bag of beans, a toy snake, a paintbrush, and a motorized gasoline-powered hedge trimming device. I warn you, this trick may be my last. Oh dear."
+
+msgctxt "juggler otherNightReminder"
+msgid "If today was the Juggler’s first day: Show the hand signal for the number (0, 1, 2, etc.) of 'Correct' markers. Remove markers."
+msgstr "Nếu hôm nay là ngày đầu tiên của Tung hứng: Cho xem dấu hiệu số (0, 1, 2, v.v) bằng số thẻ 'Đúng'. Bỏ đánh dấu."
+
+msgctxt "juggler reminders"
+msgid "Correct"
+msgstr "Đúng"
+
+msgctxt "kazali name"
+msgid "Kazali"
+msgstr "Kazali"
+
+msgctxt "kazali ability"
+msgid "Each night*, choose a player: they die. [You choose which players are Minions. -? to +? Outsiders]"
+msgstr "Mỗi đêm* chọn 1 người: họ chết. [Bạn chọn những ai là Tay sai. -? đến +? Lữ khách]"
+
+msgctxt "kazali flavor"
+msgid "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig."
+msgstr "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig."
+
+msgctxt "kazali firstNightReminder"
+msgid "The Kazali points at a player and a Minion on the character sheet. Replace their old character token with the Minion token, show them the “You Are” info token then the Minion character token, and give a thumbs down. Repeat until the normal number of Minions exist. Put the Kazali to sleep."
+msgstr "Kazali chỉ 1 người và nhân vật trong tờ nhân vật. Đổi nhân vật cũ của họ với nhân vật Tay sai mới, cho họ thấy token \"Bạn là\" và nhân vật Tay sai đó, và giơ ngón cái xuống. Lặp đi lặp lại cho đến khi đủ số Tay sai. Cho Kazali đi ngủ."
+
+msgctxt "kazali otherNightReminder"
+msgid "The Kazali points to a player. That player dies."
+msgstr "Kazali chỉ 1 người. Người đó chết."
+
+msgctxt "kazali reminders"
+msgid "Dead"
+msgstr "Chết"
+
+msgctxt "king name"
+msgid "King"
+msgstr "Ông vua"
+
+msgctxt "king ability"
+msgid "Each night, if the dead equal or outnumber the living, you learn 1 alive character. The Demon knows who you are."
+msgstr "Mỗi đêm, nếu số người chết nhiều hơn hoặc bằng số người sống, bạn biết nhân vật của người sống. Quỷ biết bạn là Ông vua."
+
+msgctxt "king flavor"
+msgid ""
+"↑Betwixt the unknown strains of mortal strife→\n"
+"And morbid night, sweet↓ with mystery and woe\n"
+"←Lies unfettered joys of fate’s long and colored life\n"
+"Who’s garden blooms with each painted Face to Show."
+msgstr ""
+"↑Betwixt the unknown strains of mortal strife→\n"
+"And morbid night, sweet↓ with mystery and woe\n"
+"←Lies unfettered joys of fate’s long and colored life\n"
+"Who’s garden blooms with each painted Face to Show."
+
+msgctxt "king firstNightReminder"
+msgid "Wake the Demon, show them the 'This Player is' card, show the King token and point to the King player."
+msgstr "Gọi Quỷ dậy, cho xem lá 'Nhân vật này chọn bạn', cho xem thẻ Ông vua và chỉ vào Ông vua."
+
+msgctxt "king otherNightReminder"
+msgid "If there are more dead than living, show the King a character token of a living player."
+msgstr "Nếu người chết nhiều hơn hoặc bằng người sống, cho Ông vua xem thẻ nhân vật của người sống."
+
+msgctxt "klutz name"
+msgid "Klutz"
+msgstr "Hậu đậu"
+
+msgctxt "klutz ability"
+msgid "When you learn that you died, publicly choose 1 alive player: if they are evil, your team loses."
+msgstr "Khi bạn biết bạn chết, công khai chọn 1 người sống: nếu họ là người Xấu, phe bạn thua."
+
+msgctxt "klutz flavor"
+msgid "Oops."
+msgstr "Oops."
+
+msgctxt "knight name"
+msgid "Knight"
+msgstr "Hiệp sĩ"
+
+msgctxt "knight ability"
+msgid "You start knowing 2 players that are not the Demon."
+msgstr "Bạn bắt đầu biết 2 người chơi không phải là Quỷ"
+
+msgctxt "knight flavor"
+msgid "When a man lies, he murders some part of the world."
+msgstr "When a man lies, he murders some part of the world."
+
+msgctxt "knight firstNightReminder"
+msgid "Point to 2 non-Demon players."
+msgstr "Chỉ 2 người không phải Quỷ"
+
+msgctxt "knight reminders"
+msgid "Know, Know"
+msgstr "Biết, Biết"
+
+msgctxt "legion name"
+msgid "Legion"
+msgstr "Legion"
+
+msgctxt "legion ability"
+msgid "Each night*, a player might die. Executions fail if only evil voted. You register as a Minion too. [Most players are Legion]"
+msgstr "Mỗi đêm*, một người có thể chết. Hành quyết thất bại nếu chỉ có người xấu bỏ phiếu. Bạn cũng được thấy là Tay sai. [Đa số người là Legion]"
+
+msgctxt "legion flavor"
+msgid "We are the chill wind on a winter’s day. We are the shadow in the moonless night. We are the poison in your tea and the whisper in your ear. We are everywhere."
+msgstr "We are the chill wind on a winter’s day. We are the shadow in the moonless night. We are the poison in your tea and the whisper in your ear. We are everywhere."
+
+msgctxt "legion otherNightReminder"
+msgid "Choose a player, that player dies."
+msgstr "Chọn 1 người, người đó chết."
+
+msgctxt "legion reminders"
+msgid "Dead,About to die"
+msgstr "Chết,Sắp chết"
+
+msgctxt "leviathan name"
+msgid "Leviathan"
+msgstr "Leviathan"
+
+msgctxt "leviathan ability"
+msgid "If more than 1 good player is executed, you win. All players know you are in play. After day 5, evil wins."
+msgstr "Nếu nhiều hơn 1 người tốt bị hành quyết, bạn thắng. Tất cả người biết bạn trong cuộc. Sau ngày 5, xấu thắng."
+
+msgctxt "leviathan flavor"
+msgid "To the last, I grapple with thee. From Hell’s heart, I stab at thee. For hate’s sake, I spit my last breath at thee."
+msgstr "To the last, I grapple with thee. From Hell’s heart, I stab at thee. For hate’s sake, I spit my last breath at thee."
+
+msgctxt "leviathan firstNightReminder"
+msgid "Place the Leviathan 'Day 1' marker. Announce 'The Leviathan is in play; this is Day 1.'"
+msgstr "Đặt đánh dấu 'Ngày 1' của Leviathan. Thông báo rằng 'Có Leviathan trong cuộc: Hôm nay là ngày 1.'"
+
+msgctxt "leviathan otherNightReminder"
+msgid "Change the Leviathan Day reminder for the next day."
+msgstr "Đổi đánh dấu ngày của Leviathan sang ngày hôm sau."
+
+msgctxt "leviathan reminders"
+msgid "Day 1,Day 2,Day 3,Day 4,Day 5,Good player executed"
+msgstr "Ngày 1,Ngày 2,Ngày 3,Ngày 4,Ngày 5,tốt đã bị hành quyết"
+
+msgctxt "librarian name"
+msgid "Librarian"
+msgstr "Thủ thư"
+
+msgctxt "librarian ability"
+msgid "You start knowing that 1 of 2 players is a particular Outsider. (Or that zero are in play.)"
+msgstr "Đêm đầu tiên, bạn biết chức năng của Lữ khách thuộc về 1 trong 2 người (hoặc là không có Lữ khách)."
+
+msgctxt "librarian flavor"
+msgid "Certainly madam, under normal circumstances, you may borrow the Codex Malificarium from the library vaults. However, you do not seem to be a member."
+msgstr "Certainly madam, under normal circumstances, you may borrow the Codex Malificarium from the library vaults. However, you do not seem to be a member."
+
+msgctxt "librarian firstNightReminder"
+msgid "Show the character token of an Outsider in play. Point to two players, one of which is that character."
+msgstr "Cho xem thẻ nhân vật Lữ khách trong cuộc. Chỉ vào 2 người, 1 trong số họ là nhân vật đó."
+
+msgctxt "librarian reminders"
+msgid "Outsider,Wrong"
+msgstr "Lữ khách,Sai"
+
+msgctxt "lilmonsta name"
+msgid "Lil' Monsta"
+msgstr "Lil' Monsta"
+
+msgctxt "lilmonsta ability"
+msgid "Each night, Minions choose who babysits Lil' Monsta's token & \"is the Demon\". Each night*, a player might die. [+1 Minion]"
+msgstr "Mỗi đêm, Tay sai quyết định ai trông nom thẻ Lil' Monsta & \"là Quỷ\". Mỗi đêm*, một người có thể chết. [+1 Tay sai]"
+
+msgctxt "lilmonsta flavor"
+msgid ""
+"Step 1: Be cute.\n"
+"Step 2: World domination.\n"
+"Step 3: Bweakfast."
+msgstr ""
+"Step 1: Be cute.\n"
+"Step 2: World domination.\n"
+"Step 3: Bweakfast."
+
+msgctxt "lilmonsta firstNightReminder"
+msgid "Wake all Minions together, allow them to vote by pointing at who they want to babysit Lil' Monsta."
+msgstr "Gọi tất cả Tay sai dậy, cho họ chỉ phiếu cho người họ muốn trông coi Lil' Monsta."
+
+msgctxt "lilmonsta otherNightReminder"
+msgid "Wake all Minions together, allow them to vote by pointing at who they want to babysit Lil' Monsta. Choose a player, that player dies."
+msgstr "Gọi tất cả Tay sai dậy, cho họ chỉ phiếu cho người họ muốn trông coi Lil' Monsta.. Chọn 1 người, người đó chết."
+
+msgctxt "lilmonsta remindersGlobal"
+msgid "Is the Demon,Dead"
+msgstr "là Quỷ,Chết"
+
+msgctxt "lleech name"
+msgid "Lleech"
+msgstr "Lleech"
+
+msgctxt "lleech ability"
+msgid "Each night*, choose a player: they die. You start by choosing a player: they are poisoned. You die if & only if they are dead."
+msgstr "Mỗi đêm*, chọn 1 người: họ chết. Bạn chọn 1 người lúc bắt đầu: họ trúng độc - bạn chết khi & chỉ khi họ đã chết."
+
+msgctxt "lleech flavor"
+msgid "Tasty, tasty, tasty, tasty, tasty, tasty, tasty, tasty brai- I mean pie! Yes. Tasty pie. That’s what I meant to say."
+msgstr "Tasty, tasty, tasty, tasty, tasty, tasty, tasty, tasty brai- I mean pie! Yes. Tasty pie. That’s what I meant to say."
+
+msgctxt "lleech firstNightReminder"
+msgid "The Lleech points to a player. Place the Poisoned reminder token."
+msgstr "Lleech chọn 1 người. Đặt thẻ nhớ 'Trúng độc'."
+
+msgctxt "lleech otherNightReminder"
+msgid "The Lleech points to a player. That player dies."
+msgstr "Lleech chỉ 1 người. Người đó chết."
+
+msgctxt "lleech reminders"
+msgid "Dead,Poisoned"
+msgstr "Chết,Trúng độc"
+
+msgctxt "lordoftyphon name"
+msgid "Lord of Typhon"
+msgstr "Thần Typhon"
+
+msgctxt "lordoftyphon ability"
+msgid "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? To +? Outsiders]"
+msgstr "Mỗi đêm*, chọn 1 người: họ chết [Tất cả người xấu ngồi theo hàng. Bạn là người ở giữa. +1 Tay sai. -? đến +? Lữ khách]"
+
+msgctxt "lordoftyphon flavor"
+msgid "In the shadowed and forgotten corners of the cosmos, where the stars whisper secrets to the void, lies a truth so profound that the merest glimpse of it unravels the sanity of mortal minds."
+msgstr "In the shadowed and forgotten corners of the cosmos, where the stars whisper secrets to the void, lies a truth so profound that the merest glimpse of it unravels the sanity of mortal minds."
+
+msgctxt "lordoftyphon firstNightReminder"
+msgid "Wake the players on either side of the Demon. Show them the 'You Are' card, the token of the Minion they now are, and a thumbs down to indicate they are evil."
+msgstr "Gọi những người ngồi 2 bên của Quỷ dậy. Cho xem lá 'Bạn Là\", token Tay sai họ biến thành, và ngón cái xuống thể hiện họ là người xấu."
+
+msgctxt "lordoftyphon otherNightReminder"
+msgid "The Lord of Typhon points to a player. That player dies."
+msgstr "Thần Typhon chỉ 1 người. Họ chết."
+
+msgctxt "lordoftyphon reminders"
+msgid "Dead"
+msgstr "Chết"
+
+msgctxt "lunatic name"
+msgid "Lunatic"
+msgstr "Người điên"
+
+msgctxt "lunatic ability"
+msgid "You think you are a Demon, but you are not. The Demon knows who you are & who you choose at night."
+msgstr "Bạn nghĩ bạn là Quỷ, nhưng bạn không phải. Quỷ biết bạn là ai & người bạn chọn trong đêm."
+
+msgctxt "lunatic flavor"
+msgid "I am the night... I think."
+msgstr "I am the night... I think."
+
+msgctxt "lunatic firstNightReminder"
+msgid "If 7 or more players: Show the Lunatic a number of arbitrary 'Minions', players equal to the number of Minions in play. Show 3 character tokens of arbitrary good characters. If the token received by the Lunatic is a Demon that would wake tonight: Allow the Lunatic to do the Demon actions. Place their 'attack' markers. Wake the Demon. Show the Demon’s real character token. Show them the Lunatic player. If the Lunatic attacked players: Show the real demon each marked player. Remove any Lunatic 'attack' markers."
+msgstr "Nếu có 7 người trở lên: Cho Người điên thấy 'Tay sai' ngẫu nhiên, bằng số Tay sai trong game. Cho xem 3 nhân vật tốt ngẫu nhiên. Nếu Người điên nhận được thẻ Quỷ thức dậy đêm nay: Cho Người điên sử dụng chức năng Quỷ đó. Đặt đánh dấu 'tấn công' của họ. Gọi Quỷ dậy. Cho Quỷ xem thẻ nhân vật thật sự của họ. Cho họ thấy Người điên. Nếu Người điên tấn công người: Cho Quỷ thật sự biết những người đó. Bỏ tất cả đánh dấu 'tấn công'."
+
+msgctxt "lunatic otherNightReminder"
+msgid "Allow the Lunatic to do the actions of the Demon. Place their 'attack' markers. If the Lunatic selected players: Wake the Demon. Show the 'attack' marker, then point to each marked player. Remove any Lunatic 'attack' markers."
+msgstr "Cho Người điên sử dụng chức năng Quỷ. Đặt đánh dấu 'tấn công'. Nếu Người điên chọn người: Gọi Quỷ dậy. Cho xem đánh dấu 'tấn công', và chỉ tất cả người được đánh dấu. Bỏ tất cả đánh dấu 'tấn công'."
+
+msgctxt "lunatic reminders"
+msgid "Attack 1,Attack 2,Attack 3"
+msgstr "Tấn công 1,Tấn công 2,Tấn công 3"
+
+msgctxt "lycanthrope name"
+msgid "Lycanthrope"
+msgstr "Người sói"
+
+msgctxt "lycanthrope ability"
+msgid "Each night*, choose an alive player. If good, they die & the Demon doesn’t kill tonight. One good player registers as evil."
+msgstr "Mỗi đêm*, chọn 1 người sống: nếu là tốt, họ chết và Quỷ không giết tối nay. Một người có thể được thấy là người xấu."
+
+msgctxt "lycanthrope flavor"
+msgid "Beneath the thin veneer of civilisation lies a howling madness."
+msgstr "Beneath the thin veneer of civilisation lies a howling madness."
+
+msgctxt "lycanthrope otherNightReminder"
+msgid "The Lycanthrope points to a living player: if good, they die and the Demon doesn't kill tonight"
+msgstr "Người sói chỉ người sống: nếu là tốt, họ chết và những người khác không thế chết đêm nay."
+
+msgctxt "lycanthrope reminders"
+msgid "Dead,Faux Paw"
+msgstr "Chết, Lốt chân"
+
+msgctxt "magician name"
+msgid "Magician"
+msgstr "Ảo thuật gia"
+
+msgctxt "magician ability"
+msgid "The Demon thinks you are a Minion. Minions think you are a Demon."
+msgstr "Quỷ nghĩ bạn là Tay sau. Tay sai nghĩ bạn là Quỷ."
+
+msgctxt "magician flavor"
+msgid ""
+"1... 2... Abra... 3... 4... Cadabra... *poof!*\n"
+"And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!"
+msgstr ""
+"1... 2... Abra... 3... 4... Cadabra... *poof!*\n"
+"And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!"
+
+msgctxt "marionette name"
+msgid "Marionette"
+msgstr "Con rối"
+
+msgctxt "marionette ability"
+msgid "You think you are a good character but you are not. The Demon knows who you are. [You neighbour the Demon]"
+msgstr "Bạn nghĩ bạn là nhân vật tốt nhưng không phải. Quỷ biết bạn là ai. [Bạn ngồi cạnh Quỷ]"
+
+msgctxt "marionette flavor"
+msgid "Words, words. They're all we have to go on."
+msgstr "Words, words. They're all we have to go on."
+
+msgctxt "marionette firstNightReminder"
+msgid "Select one of the good players next to the Demon and place the Is the Marionette reminder token. Wake the Demon and show them the Marionette."
+msgstr "Chọn một người tốt ngồi kế Quỷ và đặt thẻ đánh dấu 'là Con rối'. Gọi Quỷ dậy và cho họ biết Con rối."
+
+msgctxt "marionette remindersGlobal"
+msgid "Is the Marionette"
+msgstr "là Con rối"
+
+msgctxt "mastermind name"
+msgid "Mastermind"
+msgstr "Chủ mưu"
+
+msgctxt "mastermind ability"
+msgid "If the Demon dies by execution (ending the game), play for 1 more day. If a player is then executed, their team loses."
+msgstr "Nếu Quỷ chết vì hành quyết (kết thúc game), chơi thêm 1 ngày nữa. Nếu 1 người bị hành quyết sau đó, phe họ thua."
+
+msgctxt "mastermind flavor"
+msgid "The tentacles of that monster are nailed to the doors of the church. Mothers and children are dancing in the street. Excellent. Everything is proceeding exactly as I have planned."
+msgstr "The tentacles of that monster are nailed to the doors of the church. Mothers and children are dancing in the street. Excellent. Everything is proceeding exactly as I have planned."
+
+msgctxt "mathematician name"
+msgid "Mathematician"
+msgstr "Nhà toán học"
+
+msgctxt "mathematician ability"
+msgid "Each night, you learn how many players’ abilities worked abnormally (since dawn) due to another character's ability."
+msgstr "Mỗi đêm, bạn biết có bao nhiêu tính năng hoạt động bất thường (từ sáng) do chức năng của nhân vật khác."
+
+msgctxt "mathematician flavor"
+msgid "Any consistent formal system x, within which a certain amount of elementary arithmetic can be carried out is incomplete; that is, there are statements of the language of x which can neither be proved nor disproved in x. Ergo, you are drunk."
+msgstr "Any consistent formal system x, within which a certain amount of elementary arithmetic can be carried out is incomplete; that is, there are statements of the language of x which can neither be proved nor disproved in x. Ergo, you are drunk."
+
+msgctxt "mathematician firstNightReminder"
+msgid "Show the hand signal for the number (0, 1, 2, etc.) of players whose ability malfunctioned due to other abilities."
+msgstr "Cho xem dấu hiệu số (0, 1, 2, v.v.) bằng số người có chức năng hoạt động bất thường vì chức năng khác."
+
+msgctxt "mathematician otherNightReminder"
+msgid "Show the hand signal for the number (0, 1, 2, etc.) of players whose ability malfunctioned due to other abilities."
+msgstr "Cho xem dấu hiệu số (0, 1, 2, v.v.) bằng số người có chức năng hoạt động bất thường vì chức năng khác."
+
+msgctxt "mathematician reminders"
+msgid "Abnormal"
+msgstr "Bất thường"
+
+msgctxt "matron name"
+msgid "Matron"
+msgstr "Bá chủ"
+
+msgctxt "matron ability"
+msgid "Each day, you may choose up to 3 sets of 2 players to swap seats. Players may not leave their seats to talk in private."
+msgstr "Mỗi ngày, bạn có thể đổi chỗ của nhiều nhất 3 cặp. người không được rời chỗ ngồi để nói chuyện riêng."
+
+msgctxt "matron flavor"
+msgid "Miss Featherbottom, be quiet. Master Rutherford, a teacup needs just the four fingers, please. I know you are a father of nine, but age, or lack there-of as the case may be, is never an excuse for poor manners."
+msgstr "Miss Featherbottom, be quiet. Master Rutherford, a teacup needs just the four fingers, please. I know you are a father of nine, but age, or lack there-of as the case may be, is never an excuse for poor manners."
+
+msgctxt "mayor name"
+msgid "Mayor"
+msgstr "Thị trưởng"
+
+msgctxt "mayor ability"
+msgid "If only 3 players live & no execution occurs, your team wins. If you die at night, another player might die instead."
+msgstr "Nếu còn 3 người sống mà không ai bị Hành Quyết, phe bạn thắng. Nếu bạn sẽ chết trong đêm, có thể người khác sẽ chết thay."
+
+msgctxt "mayor flavor"
+msgid "We must put our differences aside, and cease this senseless killing. We are all taxpayers after all. Well, most of us."
+msgstr "We must put our differences aside, and cease this senseless killing. We are all taxpayers after all. Well, most of us."
+
+msgctxt "mezepheles name"
+msgid "Mezepheles"
+msgstr "Kẻ chiêu mộ"
+
+msgctxt "mezepheles ability"
+msgid "You start knowing a secret word. The 1st good player to say this word becomes evil that night."
+msgstr "Bạn bắt đầu biết 1 từ bí mật. Người tốt đầu tiên nói từ này trở thành người xấu đêm đó."
+
+msgctxt "mezepheles flavor"
+msgid "That which issues from the heart alone, will bend the hearts of others to your own."
+msgstr "That which issues from the heart alone, will bend the hearts of others to your own."
+
+msgctxt "mezepheles firstNightReminder"
+msgid "Show the Mezepheles their secret word."
+msgstr "Cho Kẻ chiêu mộ biết từ bí mật."
+
+msgctxt "mezepheles otherNightReminder"
+msgid "Wake the 1st good player that said the Mezepheles' secret word and show them the 'You are' card and the thumbs down evil signal."
+msgstr "Gọi người tốt đầu tiên nói từ bí mật của Kẻ chiêu mộ dậy và cho xem lá 'Bạn là' và ngón tay cái xuống thể hiện xấu."
+
+msgctxt "mezepheles reminders"
+msgid "Turns evil,No ability"
+msgstr "Biến thành xấu,Hết chức năng"
+
+msgctxt "minstrel name"
+msgid "Minstrel"
+msgstr "Người hát rong"
+
+msgctxt "minstrel ability"
+msgid "When a Minion dies by execution, all other players (except Travellers) are drunk until dusk tomorrow."
+msgstr "Nếu 1 Tay sai chết vì hành quyết, tất cả người khác (trừ Du khách)  đều bị say đến hoàng hôn ngày hôm sau."
+
+msgctxt "minstrel flavor"
+msgid "And I shall hear, tho' soft you tread above me... And all my dreams will warm and sweeter be... If you'll not fail to tell me that you love me... I simply sleep in peace until you come to me."
+msgstr "And I shall hear, tho' soft you tread above me... And all my dreams will warm and sweeter be... If you'll not fail to tell me that you love me... I simply sleep in peace until you come to me."
+
+msgctxt "minstrel reminders"
+msgid "Everyone drunk"
+msgstr "Mọi người bị say"
+
+msgctxt "monk name"
+msgid "Monk"
+msgstr "Nhà sư"
+
+msgctxt "monk ability"
+msgid "Each night*, choose a player (not yourself): they are safe from the Demon tonight."
+msgstr "Mỗi đêm*, chọn 1 người (không phải bạn): họ an toàn khỏi Quỷ đêm nay."
+
+msgctxt "monk flavor"
+msgid "Tis an ill and deathly wind that blows tonight. Come, my brother, take shelter in the abbey while the storm rages. By my word, or by my life, you will be safe."
+msgstr "Tis an ill and deathly wind that blows tonight. Come, my brother, take shelter in the abbey while the storm rages. By my word, or by my life, you will be safe."
+
+msgctxt "monk otherNightReminder"
+msgid "The previously protected player is no longer protected. The Monk points to a player not themself. Mark that player 'Protected'."
+msgstr "Người được bảo vệ trước đó sẽ không được bảo vệ nữa. Nhà sư chỉ 1 người không phải chính họ. Đánh dấu người đó 'Bảo vệ'."
+
+msgctxt "monk reminders"
+msgid "Protected"
+msgstr "Bảo vệ"
+
+msgctxt "moonchild name"
+msgid "Moonchild"
+msgstr "Con trăng"
+
+msgctxt "moonchild ability"
+msgid "When you learn that you died, publicly choose 1 alive player. Tonight, if it was a good player, they die."
+msgstr "Khi bạn biết bạn chết, công khai chọn 1 người sống. Tối nay, nếu họ là người tốt, họ chết."
+
+msgctxt "moonchild flavor"
+msgid "Scorpio looks sideways at the lovers, and you have a choice to make. With silver cross my palm, and your fate shall be revealed. With steel cross my throat, and by the stars you shall regret it."
+msgstr "Scorpio looks sideways at the lovers, and you have a choice to make. With silver cross my palm, and your fate shall be revealed. With steel cross my throat, and by the stars you shall regret it."
+
+msgctxt "moonchild otherNightReminder"
+msgid "If the Moonchild used their ability to target a player today: If that player is good, they die."
+msgstr "Nếu Con trăng sử dụng chức năng lên 1 người hôm nay: Nếu người đó là tốt, họ chết."
+
+msgctxt "moonchild reminders"
+msgid "Dead"
+msgstr "Chết"
+
+msgctxt "mutant name"
+msgid "Mutant"
+msgstr "Đột biến"
+
+msgctxt "mutant ability"
+msgid "If you are “mad” about being an Outsider, you might be executed."
+msgstr "Nếu bạn \"điên' rằng mình là Lữ khách, có thể bạn bị hành quyết."
+
+msgctxt "mutant flavor"
+msgid "I am not a freak! I am a human being! Have mercy!"
+msgstr "I am not a freak! I am a human being! Have mercy!"
+
+msgctxt "nightwatchman name"
+msgid "Nightwatchman"
+msgstr "Người gác đêm"
+
+msgctxt "nightwatchman ability"
+msgid "Once per game, at night, choose a player: they learn who you are."
+msgstr "Một lần trong game, trong đêm, chọn 1 người: họ biết bạn là Người gác đêm."
+
+msgctxt "nightwatchman flavor"
+msgid "The night is cold and lonely, but I have the moon, the stars, the crisp wind and the soft thud of leather boots on cobbled stone for company. Yonder, candlelight flickers behind a murky window..."
+msgstr "The night is cold and lonely, but I have the moon, the stars, the crisp wind and the soft thud of leather boots on cobbled stone for company. Yonder, candlelight flickers behind a murky window..."
+
+msgctxt "nightwatchman firstNightReminder"
+msgid "The Nightwatchman may point to a player. Wake that player, show the 'This character selected you' card and the Nightwatchman token, then point to the Nightwatchman player."
+msgstr "Người gác đêm có thể chỉ 1 người. Gọi người đó dậy, cho xem lá 'Nhân vật này chọn bạn' và thẻ Người gác đêm, và chỉ Người gác đêm."
+
+msgctxt "nightwatchman otherNightReminder"
+msgid "The Nightwatchman may point to a player. Wake that player, show the 'This character selected you' card and the Nightwatchman token, then point to the Nightwatchman player."
+msgstr "Người gác đêm có thể chỉ 1 người. Gọi người đó dậy, cho xem lá 'Nhân vật này chọn bạn' và thẻ Người gác đêm, và chỉ Người gác đêm."
+
+msgctxt "nightwatchman reminders"
+msgid "No ability"
+msgstr "Hết chức năng"
+
+msgctxt "noble name"
+msgid "Noble"
+msgstr "Quý tộc"
+
+msgctxt "noble ability"
+msgid "You start knowing 3 players, 1 and only 1 of which is evil."
+msgstr "Bạn bắt đầu biết 3 người, 1 và chỉ 1 người là xấu."
+
+msgctxt "noble flavor"
+msgid "Sarcasm is indeed the lowest form of wit. But speaking in response to your criticism, Sir, it is, nevertheless, a form of wit."
+msgstr "Sarcasm is indeed the lowest form of wit. But speaking in response to your criticism, Sir, it is, nevertheless, a form of wit."
+
+msgctxt "noble firstNightReminder"
+msgid "Point to 3 players including one evil player, in no particular order."
+msgstr "Chỉ 3 người trong đó có người xấu, không theo thứ tự."
+
+msgctxt "noble reminders"
+msgid "Seen"
+msgstr "Thấy"
+
+msgctxt "nodashii name"
+msgid "No Dashii"
+msgstr "No Dashii"
+
+msgctxt "nodashii ability"
+msgid "Each night*, choose a player: they die. Your 2 Townsfolk neighbours are poisoned."
+msgstr "Mỗi đêm*, chọn 1 người: họ chết. 2 hàng xóm Dân làng của bạn trúng độc."
+
+msgctxt "nodashii flavor"
+msgid "By the sins of Arnoch, I feel thy laden stench. By the curs-ed sun and her foul legion of tiny grinning gods, I corrupt thee. By the blessed night and the hidden depths of the horrid and unholy sea, I end thy squalid life upon this plane."
+msgstr "By the sins of Arnoch, I feel thy laden stench. By the curs-ed sun and her foul legion of tiny grinning gods, I corrupt thee. By the blessed night and the hidden depths of the horrid and unholy sea, I end thy squalid life upon this plane."
+
+msgctxt "nodashii otherNightReminder"
+msgid "The No Dashii points to a player. That player dies."
+msgstr "No Dashii chỉ 1 người. Người đó chết."
+
+msgctxt "nodashii reminders"
+msgid "Dead,Poisoned"
+msgstr "Chết,Trúng độc"
+
+msgctxt "ogre name"
+msgid "Ogre"
+msgstr "Ogre"
+
+msgctxt "ogre ability"
+msgid "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned."
+msgstr "Trong đêm đầu tiên, chọn 1 người (không phải bạn): bạn trở thành phe của họ (bạn không biết phe của mình) ngay cả khi say hoặc bị độc."
+
+msgctxt "ogre flavor"
+msgid "<grunt><grin></grunt>"
+msgstr "<grunt><grin></grunt>"
+
+msgctxt "ogre firstNightReminder"
+msgid "The Ogre points to a player (not themselves) and becomes their alignment."
+msgstr "Orge chỉ 1 người (không phải chính họ) và trở thành phe đó."
+
+msgctxt "ogre reminders"
+msgid "Friend"
+msgstr "Bạn"
+
+msgctxt "ojo name"
+msgid "Ojo"
+msgstr "Ojo"
+
+msgctxt "ojo ability"
+msgid "Each night*, choose a character: they die. If they are not in play, the Storyteller chooses who dies."
+msgstr "Mỗi đêm*, chọn 1 nhân vật: họ chết. Nếu nó không có trong game, Người kể chuyện chọn người chết."
+
+msgctxt "ojo flavor"
+msgid "Like a bonfire on a moonless night… I see you, mortal."
+msgstr "Like a bonfire on a moonless night… I see you, mortal."
+
+msgctxt "ojo otherNightReminder"
+msgid "The Ojo points to a character on the sheet; if in play, that player dies. If it is not in play, the Storyteller chooses who dies instead."
+msgstr "Mỗi ngày, bạn có thể gặp Người kể chuyện để học 2 điều: 1 đúng và 1 sai."
+
+msgctxt "ojo reminders"
+msgid "Dead"
+msgstr "Chết"
+
+msgctxt "oracle name"
+msgid "Oracle"
+msgstr "Tiên tri"
+
+msgctxt "oracle ability"
+msgid "Each night*, you learn how many dead players are evil."
+msgstr "Mỗi đêm*, bạn biết có bao nhiêu người chết là Phe Xấu."
+
+msgctxt "oracle flavor"
+msgid "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
+msgstr "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
+
+msgctxt "oracle otherNightReminder"
+msgid "Show the hand signal for the number (0, 1, 2, etc.) of dead evil players."
+msgstr "Cho xem dấu hiệu số (0, 1, 2, v.v.) bằng số Phe Xấu đã chết."
+
+msgctxt "organgrinder name"
+msgid "Organ Grinder"
+msgstr "Nhạc công đường phố"
+
+msgctxt "organgrinder ability"
+msgid "All players keep their eyes closed when voting and the vote tally is secret. Each night, choose if you are drunk or not."
+msgstr "Tất cả người chơi nhắm mắt khi bỏ phiếu & số phiếu được giữ bí mất. Mỗi đêm, bạn có thể chọn mình bị say đến hết sáng hay không."
+
+msgctxt "organgrinder flavor"
+msgid "Round and round the handles go. The more you dance the less you know."
+msgstr "Round and round the handles go. The more you dance the less you know."
+
+msgctxt "organgrinder reminders"
+msgid "Drunk,About to die"
+msgstr "Sắp chết,Say"
+
+msgctxt "pacifist name"
+msgid "Pacifist"
+msgstr "Hòa bình"
+
+msgctxt "pacifist ability"
+msgid "Executed good players might not die."
+msgstr "Người tốt bị hành quyết có thể không chết."
+
+msgctxt "pacifist flavor"
+msgid "Distrust all in whom the impulse to punish is powerful."
+msgstr "Distrust all in whom the impulse to punish is powerful."
+
+msgctxt "philosopher name"
+msgid "Philosopher"
+msgstr "Triết gia"
+
+msgctxt "philosopher ability"
+msgid "Once per game, at night, choose a good character: gain that ability. If this character is in play, they are drunk."
+msgstr "Chỉ 1 lần duy nhất, trong đêm, chọn 1 nhân vật Phe Tốt: nhận chức năng đó. Nếu nhân vật này đã có trong làng, họ sẽ bị say."
+
+msgctxt "philosopher flavor"
+msgid "If anything is real, beer is real. Drink, for tomorrow we may die."
+msgstr "If anything is real, beer is real. Drink, for tomorrow we may die."
+
+msgctxt "philosopher firstNightReminder"
+msgid "The Philosopher either shows a 'no' head signal, or points to a good character on their sheet. If they chose a character: Swap the out-of-play character token with the Philosopher token and add the 'Is the Philosopher' reminder. If the character is in play, place the drunk marker by that player."
+msgstr "Nếu Triết gia không dùng chức năng, họ có thể lắc đầu. Nếu Triết gia muốn chọn nhân vật, họ chỉ vào tờ của họ. Tráo thẻ nhân vật của Triết gia với nhân vật ngoài cuộc. Hoặc, nếu nhân vật này trong cuộc, đánh dấu \"Say\" cạnh nhân vật đó và thẻ \"là Triết gia\" cạnh Triết gia."
+
+msgctxt "philosopher otherNightReminder"
+msgid "If the Philosopher has not used their ability: the Philosopher either shows a 'no' head signal, or points to a good character on their sheet. If they chose a character: Swap the out-of-play character token with the Philosopher token and add the 'Is the Philosopher' reminder. If the character is in play, place the drunk marker by that player."
+msgstr "Nếu Triết gia không dùng chức năng, họ có thể lắc đầu. Nếu Triết gia muốn chọn nhân vật, họ chỉ vào tờ của họ. Tráo thẻ nhân vật của Triết gia với nhân vật ngoài cuộc. Hoặc, nếu nhân vật này trong cuộc, đánh dấu \"Say\" cạnh nhân vật đó và thẻ \"là Triết gia\" cạnh Triết gia."
+
+msgctxt "philosopher remindersGlobal"
+msgid "Is the Philosopher,Drunk"
+msgstr "là Triết gia,Say"
+
+msgctxt "pithag name"
+msgid "Pit-Hag"
+msgstr "Pit-Hag"
+
+msgctxt "pithag ability"
+msgid "Each night*, choose a player & a character they become (if not-in-play). If a Demon is made, deaths tonight are arbitrary."
+msgstr "Mỗi đêm*, chọn 1 người & 1 nhân vật mà họ biến thành (nếu ngoài cuộc). Nếu Quỷ được sinh ra, cái chết xảy ra ngẫu nhiên."
+
+msgctxt "pithag flavor"
+msgid "Round about the cauldron go; In the poison'd entrails throw; Toad, that under cold stone; Days and nights has thirty-one; Sweated venom sleeping got; Boil thou first in the charmed pot."
+msgstr "Round about the cauldron go; In the poison'd entrails throw; Toad, that under cold stone; Days and nights has thirty-one; Sweated venom sleeping got; Boil thou first in the charmed pot."
+
+msgctxt "pithag otherNightReminder"
+msgid "The Pit-Hag points to a player and a character on the sheet. If this character is not in play, wake that player and show them the 'You are' card and the relevant character token. If the character is in play, nothing happens."
+msgstr "Pit-hag chỉ 1 người và nhân vật trong tờ của họ. Nếu nhân vật này ở ngoài cuộc, gọi người đó dậy và cho họ xem lá 'Bạn là' và thẻ nhân vật liên quan. Nếu nhân vật này ở trong cuộc, không có gì xảy ra."
+
+msgctxt "pixie name"
+msgid "Pixie"
+msgstr "Tiểu tiên"
+
+msgctxt "pixie ability"
+msgid "You start knowing 1 in-play Townsfolk. If you were mad that you were this character, you gain their ability when they die."
+msgstr "Bạn biết 1 Dân làng trong cuộc. Nếu bạn điên rằng bạn là nhân vật này, bạn nhân chức năng của họ khi họ chết."
+
+msgctxt "pixie flavor"
+msgid ""
+"Round and round the garden, go.\n"
+"Little girls run to and fro.\n"
+"Little boys climb up the tree.\n"
+"Which of these should Pixie be?\n"
+"Ladies smile and go to town. \n"
+"Lords with axe chop forest down.\n"
+"What’s yours is mine. What’s mine, divine.\n"
+"Silly little Pixie, me."
+msgstr ""
+"Round and round the garden, go.\n"
+"Little girls run to and fro.\n"
+"Little boys climb up the tree.\n"
+"Which of these should Pixie be?\n"
+"Ladies smile and go to town. \n"
+"Lords with axe chop forest down.\n"
+"What’s yours is mine. What’s mine, divine.\n"
+"Silly little Pixie, me."
+
+msgctxt "pixie firstNightReminder"
+msgid "Show the Pixie 1 in-play Townsfolk character token."
+msgstr "Cho Tiểu tiên xem 1 thẻ nhân vật của Dân làng trong cuộc."
+
+msgctxt "pixie reminders"
+msgid "Mad,Has ability"
+msgstr "Điên,Có chức năng"
+
+msgctxt "plaguedoctor name"
+msgid "Plague Doctor"
+msgstr "Bác sĩ dịch hạch"
+
+msgctxt "plaguedoctor ability"
+msgid "If you die, the Storyteller gains a Minion ability."
+msgstr "Khi bạn chết, Người kể chuyện có chức năng của Tay sai."
+
+msgctxt "plaguedoctor flavor"
+msgid "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh."
+msgstr "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh."
+
+msgctxt "plaguedoctor reminders"
+msgid "Storyteller Ability"
+msgstr "Chức năng Người kể chuyện"
+
+msgctxt "po name"
+msgid "Po"
+msgstr "Po"
+
+msgctxt "po ability"
+msgid "Each night*, you may choose a player: they die. If your last choice was no-one, choose 3 players tonight."
+msgstr "Mỗi đêm*, bạn có thể chọn 1 người: họ chết. Nếu lựa chọn trước là không ai cả, chọn 3 người tối nay."
+
+msgctxt "po flavor"
+msgid "Would you like a flower? I'm so lonely."
+msgstr "Would you like a flower? I'm so lonely."
+
+msgctxt "po otherNightReminder"
+msgid "If the Po chose no-one the previous night: The Po points to three players. Otherwise: The Po either shows the 'no' head signal , or points to a player. Chosen players die"
+msgstr "Nếu Po không chọn ai đêm trước: Po chỉ 3 người. Ngược lại: Po có thể lắc đầu, hoặc chỉ 1 người. Người được chọn chết"
+
+msgctxt "po reminders"
+msgid "Dead,3 attacks"
+msgstr "Chết,Giết 3 người"
+
+msgctxt "poisoner name"
+msgid "Poisoner"
+msgstr "Độc thủ"
+
+msgctxt "poisoner ability"
+msgid "Each night, choose a player: they are poisoned tonight and tomorrow day."
+msgstr "Mỗi đêm, chọn 1 người, họ sẽ bị đầu độc cho đến hết sáng hôm sau."
+
+msgctxt "poisoner flavor"
+msgid "Add compound Alpha to compound Beta... NOT TOO MUCH!"
+msgstr "Add compound Alpha to compound Beta... NOT TOO MUCH!"
+
+msgctxt "poisoner firstNightReminder"
+msgid "The Poisoner points to a player. That player is poisoned."
+msgstr "Độc thủ chỉ 1 người. Đánh dấu là \"Trúng độc\""
+
+msgctxt "poisoner otherNightReminder"
+msgid "The previously poisoned player is no longer poisoned. The Poisoner points to a player. That player is poisoned."
+msgstr "Người bị trúng độc trước đó không còn bị trúng độc. Kẻ đầu độc chỉ 1 người. Chuyển \"Trúng độc\" sang người mới."
+
+msgctxt "poisoner reminders"
+msgid "Poisoned"
+msgstr "Trúng độc"
+
+msgctxt "politician name"
+msgid "Politician"
+msgstr "Chính trị gia"
+
+msgctxt "politician ability"
+msgid "If you were the player most responsible for your team losing, you change alignment & win, even if dead."
+msgstr "Nếu bạn chịu trách nhiệm lớn nhất đến sự thất bại của đội bạn, bạn đổi phe và thắng, ngay cả khi chết."
+
+msgctxt "politician flavor"
+msgid "I'm glad you asked that question. Truly, I am. But I think the REAL question here is..."
+msgstr "I'm glad you asked that question. Truly, I am. But I think the REAL question here is..."
+
+msgctxt "poppygrower name"
+msgid "Poppy Grower"
+msgstr "Người trồng hoa"
+
+msgctxt "poppygrower ability"
+msgid "Minions & Demons do not know each other. If you die, they learn who each other are that night."
+msgstr "Quỷ & Tay sai không biết nhau. Nếu bạn chết, họ biết nhau trong đêm đó."
+
+msgctxt "poppygrower flavor"
+msgid "In the hidden groves of the deep forest, the black poppy dwells. To see its revelry is to be enchanted. To smell its thick aroma is to be lost forever, a slave to the gods of light and dark."
+msgstr "In the hidden groves of the deep forest, the black poppy dwells. To see its revelry is to be enchanted. To smell its thick aroma is to be lost forever, a slave to the gods of light and dark."
+
+msgctxt "poppygrower firstNightReminder"
+msgid "Do not inform the Demon/Minions who each other are"
+msgstr "Không cho Quỷ/Tay sai biết nhau"
+
+msgctxt "poppygrower otherNightReminder"
+msgid "If the Poppy Grower has died, show the Minions/Demon who each other are."
+msgstr "Nếu Người trồng hoa chết, cho Quỷ/Tay sai biết nhau."
+
+msgctxt "poppygrower reminders"
+msgid "Evil wakes"
+msgstr "Ác thức dậy"
+
+msgctxt "preacher name"
+msgid "Preacher"
+msgstr "Mục sư"
+
+msgctxt "preacher ability"
+msgid "Each night, choose a player: a Minion, if chosen, learns this. All chosen Minions have no ability."
+msgstr "Mỗi đêm, chọn 1 người: Tay sai, nếu được chọn, biết điều đó. Tất cả Tay sai được chọn không có chức năng."
+
+msgctxt "preacher flavor"
+msgid "It is better to be rich and healthy than poor and sick."
+msgstr "It is better to be rich and healthy than poor and sick."
+
+msgctxt "preacher firstNightReminder"
+msgid "The Preacher chooses a player. If a Minion is chosen, wake the Minion and show the 'This character selected you' card and then the Preacher token."
+msgstr "Mục sư chọn 1 người. Nếu Tay sai được chọn, gọi Tay sai dậy và cho xem lá \"Nhân vật này chọn bạn\" và thẻ Mục sư."
+
+msgctxt "preacher otherNightReminder"
+msgid "The Preacher chooses a player. If a Minion is chosen, wake the Minion and show the 'This character selected you' card and then the Preacher token."
+msgstr "Mục sư chọn 1 người. Nếu Tay sai được chọn, gọi Tay sai dậy và cho xem lá \"Nhân vật này chọn bạn\" và thẻ Mục sư."
+
+msgctxt "preacher reminders"
+msgid "At a sermon"
+msgstr "Đang nghe đạo"
+
+msgctxt "princess name"
+msgid "Princess"
+msgstr "Princess"
+
+msgctxt "princess ability"
+msgid "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
+msgstr "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
+
+msgctxt "princess flavor"
+msgid "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
+msgstr "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
+
+msgctxt "princess otherNightReminder"
+msgid "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
+msgstr "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
+
+msgctxt "princess reminders"
+msgid "Doesn't Kill"
+msgstr "Doesn't Kill"
+
+msgctxt "professor name"
+msgid "Professor"
+msgstr "Giáo sư"
+
+msgctxt "professor ability"
+msgid "Once per game, at night*, choose a dead player: if they are a Townsfolk, they are resurrected."
+msgstr "Một lần trong game, trong đêm*, chọn người chết: Nếu họ là Dân làng, họ được hồi sinh."
+
+msgctxt "professor flavor"
+msgid "The process is simple. Attach the hydraulic confabulator to the modified chi matrix amplifier, add 20 CCs of pseudodorafine, keep his Z levels above 20%, and your husband will be fine. Now, all we need is a lightning strike."
+msgstr "The process is simple. Attach the hydraulic confabulator to the modified chi matrix amplifier, add 20 CCs of pseudodorafine, keep his Z levels above 20%, and your husband will be fine. Now, all we need is a lightning strike."
+
+msgctxt "professor otherNightReminder"
+msgid "If the Professor has not used their ability: The Professor either shakes their head no, or points to a player. If that player is a Townsfolk, they are now alive."
+msgstr "Nếu Giáo sư chưa dùng chức năng: Giáo sư có thể lắc đầu hoặc chỉ 1 người. Nếu người đó là Dân làng, họ được sống lại."
+
+msgctxt "professor reminders"
+msgid "Alive,No ability"
+msgstr "Sống,Hết chức năng"
+
+msgctxt "psychopath name"
+msgid "Psychopath"
+msgstr "Người tâm thần"
+
+msgctxt "psychopath ability"
+msgid "Each day, before nominations, you may publicly choose a player: they die. If executed, you only die if you lose roshambo."
+msgstr "Mỗi ngày, trước biểu quyết, bạn có thể công khai chọn 1 người: họ chết. Nếu bị hành quyết, bạn chỉ chết khi bạn thua oẳn tù tì."
+
+msgctxt "psychopath flavor"
+msgid "Surprise!"
+msgstr "Surprise!"
+
+msgctxt "pukka name"
+msgid "Pukka"
+msgstr "Pukka"
+
+msgctxt "pukka ability"
+msgid "Each night, choose a player: they are poisoned. The previously poisoned player dies then becomes healthy."
+msgstr "Mỗi đêm, chọn 1 người: họ trúng độc. Người trúng độc trước đó chết rồi khỏe lại."
+
+msgctxt "pukka flavor"
+msgid "You truly have been kind welcoming me into your beautiful home. I am so sorry I accidentally scratched you. A little thing. No matter. But please, take this golden toothpick as a humble token of my regret."
+msgstr "You truly have been kind welcoming me into your beautiful home. I am so sorry I accidentally scratched you. A little thing. No matter. But please, take this golden toothpick as a humble token of my regret."
+
+msgctxt "pukka firstNightReminder"
+msgid "The Pukka points to a player. That player is poisoned."
+msgstr "Pukka chỉ 1 người. Người đó bị trúng độc."
+
+msgctxt "pukka otherNightReminder"
+msgid "The Pukka points to a player. That player is poisoned. The previously poisoned player dies."
+msgstr "Pukka chỉ 1 người. Người đó bị trúng độc. Người trúng độc trước đó chết."
+
+msgctxt "pukka reminders"
+msgid "Poisoned,Dead"
+msgstr "Trúng độc,Chết"
+
+msgctxt "puzzlemaster name"
+msgid "Puzzlemaster"
+msgstr "Bậc thầy câu đố"
+
+msgctxt "puzzlemaster ability"
+msgid "1 player is drunk, even if you die. If you guess (once) who it is, learn the Demon player, but guess wrong & get false info."
+msgstr "1 người bị say rượu, ngay cả khi bạn chết. Nếu bạn đoán (1 lần) người đó là ai, biết Quỷ là ai, nhưng nếu đoán sai sẽ nhận thông tin sai."
+
+msgctxt "puzzlemaster flavor"
+msgid "When one begins to think that some thing is merely some other thing, one is usually on the brink of an error. Patience, patience. Don’t confuse just and should with is and isn’t."
+msgstr "When one begins to think that some thing is merely some other thing, one is usually on the brink of an error. Patience, patience. Don’t confuse just and should with is and isn’t."
+
+msgctxt "puzzlemaster reminders"
+msgid "Drunk,Guess used"
+msgstr "Say,Đã đoán"
+
+msgctxt "ravenkeeper name"
+msgid "Ravenkeeper"
+msgstr "Nuôi quạ"
+
+msgctxt "ravenkeeper ability"
+msgid "If you die at night, you are woken to choose a player: you learn their character."
+msgstr "Nếu bạn chết trong đêm, bạn được gọi dậy để chọn 1 người: bạn biết nhân vật của họ."
+
+msgctxt "ravenkeeper flavor"
+msgid "My birds will avenge me! Fly! Fly, my sweet and dutiful pets! To the manor and to the river! To the alleys and to the salons! Fly!"
+msgstr "My birds will avenge me! Fly! Fly, my sweet and dutiful pets! To the manor and to the river! To the alleys and to the salons! Fly!"
+
+msgctxt "ravenkeeper otherNightReminder"
+msgid "If the Ravenkeeper died tonight: The Ravenkeeper points to a player. Show that player’s character token."
+msgstr "Nếu Nuôi quạ chết trong đêm: Nuôi quạ chỉ 1 người. Cho xem thẻ nhân vật của người đó."
+
+msgctxt "recluse name"
+msgid "Recluse"
+msgstr "Người ẩn dật"
+
+msgctxt "recluse ability"
+msgid "You might register as evil & as a Minion or Demon, even if dead."
+msgstr "Bạn bị thấy là người xấu, và là Tay Sai hoặc Quỷ, kể cả khi chết."
+
+msgctxt "recluse flavor"
+msgid "Garn git ya darn grub ya mitts ofma lorn yasee. Grr. Natsy pikkins yonder southwise ye begittin afta ya! Git! Me harvy no so widda licks and demmons no be fightin' hadsup ne'er ma kin. Git, assay!"
+msgstr "Garn git ya darn grub ya mitts ofma lorn yasee. Grr. Natsy pikkins yonder southwise ye begittin afta ya! Git! Me harvy no so widda licks and demmons no be fightin' hadsup ne'er ma kin. Git, assay!"
+
+msgctxt "revolutionary name"
+msgid "Revolutionary"
+msgstr "Cách mạng"
+
+msgctxt "revolutionary ability"
+msgid "2 neighboring players are known to be the same alignment. Once per game, one of them registers falsely"
+msgstr "2 người ngồi cạnh nhau được biết là cùng phe. Một lần trong game, một trong số họ thấy sai."
+
+msgctxt "revolutionary flavor"
+msgid ""
+"United we feigned.\n"
+"Divided, we stalled."
+msgstr ""
+"United we feigned.\n"
+"Divided, we stalled."
+
+msgctxt "revolutionary reminders"
+msgid "Register Falsely?"
+msgstr "Thấy sai?"
+
+msgctxt "riot name"
+msgid "Riot"
+msgstr "Nổi loạn"
+
+msgctxt "riot ability"
+msgid "On day 3, Minions become Riot & nominees die but nominate an alive player immediately. This must happen."
+msgstr "Vào ngày 3, tất cả Tay sai trở thành Nổi loạn và người bị biểu quyết chết nhưng được biểu quyết người khác. Điều này phải xảy ra."
+
+msgctxt "riot flavor"
+msgid "Larga vida a la revolución! Mi revolucion!"
+msgstr "Larga vida a la revolución! Mi revolucion!"
+
+msgctxt "sage name"
+msgid "Sage"
+msgstr "Hiền nhân"
+
+msgctxt "sage ability"
+msgid "If the Demon kills you, you learn that it is 1 of 2 players."
+msgstr "Nếu bạn bị Quỷ giết, bạn sẽ biết nó là 1 trong 2 người."
+
+msgctxt "sage flavor"
+msgid "These mountainous tomes guard the secret, I am sure of it! Twixt word and word, it lies in wait. More candles, boy! More ink! These notes may look arcane, but the infernal puzzle is revealing itself."
+msgstr "These mountainous tomes guard the secret, I am sure of it! Twixt word and word, it lies in wait. More candles, boy! More ink! These notes may look arcane, but the infernal puzzle is revealing itself."
+
+msgctxt "sage otherNightReminder"
+msgid "If the Sage was killed by a Demon: Point to two players, one of which is that Demon."
+msgstr "Nếu Hiền nhân bị giết bởi Quỷ: Chỉ 2 người, một trong số họ là Quỷ."
+
+msgctxt "sailor name"
+msgid "Sailor"
+msgstr "Thủy thủ"
+
+msgctxt "sailor ability"
+msgid "Each night, choose an alive player: either you or they are drunk until dusk. You can't die."
+msgstr "Mỗi đêm, chọn người sống: Bạn hoặc họ bị say đến hoàng hôn. Bạn không thể chết."
+
+msgctxt "sailor flavor"
+msgid "I'll drink any one of yer under the table! You! The chatterbox! Reckon you can take me? No? Howza 'bout you, Grandma? You ever tried Old McKillys Extra Spiced Rum before? Guaranteed to put hairs on yer chest! Step aboard, aye!"
+msgstr "I'll drink any one of yer under the table! You! The chatterbox! Reckon you can take me? No? Howza 'bout you, Grandma? You ever tried Old McKillys Extra Spiced Rum before? Guaranteed to put hairs on yer chest! Step aboard, aye!"
+
+msgctxt "sailor firstNightReminder"
+msgid "The Sailor points to a living player. Either the Sailor, or the chosen player, is drunk."
+msgstr "Thủy thủ chỉ người sống. Thủy thủ hoặc người đó bị say."
+
+msgctxt "sailor otherNightReminder"
+msgid "The previously drunk player is no longer drunk. The Sailor points to a living player. Either the Sailor, or the chosen player, is drunk."
+msgstr "Người bị say trước đó không còn bị say nữa. Thủy thủ chỉ 1 người. Thủy thủ hoặc người đó bị say."
+
+msgctxt "sailor reminders"
+msgid "Drunk"
+msgstr "Say"
+
+msgctxt "saint name"
+msgid "Saint"
+msgstr "Thánh"
+
+msgctxt "saint ability"
+msgid "If you die by execution, your team loses."
+msgstr "Nếu bạn bị Hành Quyết, phe bạn thua."
+
+msgctxt "saint flavor"
+msgid "Wisdom begets peace. Patience begets wisdom. Fear not, for the time shall come when fear too shall pass. Let us pray, and may the unity of our vision make saints of us all."
+msgstr "Wisdom begets peace. Patience begets wisdom. Fear not, for the time shall come when fear too shall pass. Let us pray, and may the unity of our vision make saints of us all."
+
+msgctxt "savant name"
+msgid "Savant"
+msgstr "Nhà bác học"
+
+msgctxt "savant ability"
+msgid "Each day, you may visit the Storyteller to learn 2 things in private: 1 is true & 1 is false."
+msgstr "Mỗi ngày, bạn có thể gặp Người kể chuyện để học 2 điều: 1 đúng và 1 sai."
+
+msgctxt "savant flavor"
+msgid "Seventy-two matchsticks on the floor... the sun sets early but the moon is unchanged... a torn piece of cloth... evil in the manor house... three by three... the one we trusted is not what he seems... green light means magnesium... residue, but the pattern is wrong... Seventy-two matchsticks on the floor..."
+msgstr "Seventy-two matchsticks on the floor... the sun sets early but the moon is unchanged... a torn piece of cloth... evil in the manor house... three by three... the one we trusted is not what he seems... green light means magnesium... residue, but the pattern is wrong... Seventy-two matchsticks on the floor..."
+
+msgctxt "scapegoat name"
+msgid "Scapegoat"
+msgstr "Hiến tế"
+
+msgctxt "scapegoat ability"
+msgid "If a player of your alignment is executed, you might be executed instead."
+msgstr "Nếu người cùng phe bạn bị hành quyết, bạn có thể bị hành quyết thay."
+
+msgctxt "scapegoat flavor"
+msgid "Good evening! Thank you for inviting me to the ball. I'm not from around here, but you sure seem like a friendly bunch, by golly. I'm sure we'll get along just dandy. What's all that rope for?"
+msgstr "Good evening! Thank you for inviting me to the ball. I'm not from around here, but you sure seem like a friendly bunch, by golly. I'm sure we'll get along just dandy. What's all that rope for?"
+
+msgctxt "scarletwoman name"
+msgid "Scarlet Woman"
+msgstr "Phụ nữ đỏ"
+
+msgctxt "scarletwoman ability"
+msgid "If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don’t count)"
+msgstr "Nếu còn 5 người trở lên còn sống & Quỷ chết, bạn trở thành Quỷ. (Không tính Du khách)"
+
+msgctxt "scarletwoman flavor"
+msgid "You have shown me the secrets of the Council of the Purple Flame. We have lain together in fire and in lust and in beastly commune, and I am forever your servant. But tonight, my dear, I am your master."
+msgstr "You have shown me the secrets of the Council of the Purple Flame. We have lain together in fire and in lust and in beastly commune, and I am forever your servant. But tonight, my dear, I am your master."
+
+msgctxt "scarletwoman otherNightReminder"
+msgid "If the Scarlet Woman became the Demon today: Show the 'You are' card, then the demon token."
+msgstr "Nếu Phụ nữ đỏ trở thành Quỷ: Cho xem lá \"Bạn là\", và thẻ quỷ."
+
+msgctxt "scarletwoman reminders"
+msgid "Demon"
+msgstr "Quỷ"
+
+msgctxt "seamstress name"
+msgid "Seamstress"
+msgstr "Thợ may"
+
+msgctxt "seamstress ability"
+msgid "Once per game, at night, choose 2 players (not yourself): you learn if they are the same alignment."
+msgstr "Chỉ 1 lần duy nhất, trong đêm, chọn 2 người (không phải mình): bạn biết họ có cùng phe hay không."
+
+msgctxt "seamstress flavor"
+msgid "Did you hear that stranger in the cashmere coat put the word on our young Belle? And she said yes? Well, that's nothing compared to what Harry and that juggler got up to at the fair! The things I could say if I was a tattletale... my, yes."
+msgstr "Did you hear that stranger in the cashmere coat put the word on our young Belle? And she said yes? Well, that's nothing compared to what Harry and that juggler got up to at the fair! The things I could say if I was a tattletale... my, yes."
+
+msgctxt "seamstress firstNightReminder"
+msgid "The Seamstress either shows a 'no' head signal, or points to two other players. If the Seamstress chose players , nod 'yes' or shake 'no' for whether they are of same alignment."
+msgstr "Nếu Thợ may không dùng chức năng của họ: Thợ may có thể lắc đầu không. Nếu Thợ may chọn 2 người, lắc đầu hoặc gật đầu tùy theo 2 người đó có cùng phe không."
+
+msgctxt "seamstress otherNightReminder"
+msgid "If the Seamstress has not yet used their ability: the Seamstress either shows a 'no' head signal, or points to two other players. If the Seamstress chose players , nod 'yes' or shake 'no' for whether they are of same alignment."
+msgstr "Nếu Thợ may không dùng chức năng của họ: Thợ may có thể lắc đầu không. Nếu Thợ may chọn 2 người, lắc đầu hoặc gật đầu tùy theo 2 người đó có cùng phe không."
+
+msgctxt "seamstress reminders"
+msgid "No ability"
+msgstr "Hết chức năng"
+
+msgctxt "sentinel name"
+msgid "Sentinel"
+msgstr "Lính gác"
+
+msgctxt "sentinel ability"
+msgid "There might be 1 extra or 1 fewer Outsider in-play."
+msgstr "Có thể có thêm hoặc bớt 1 Lữ khách trong cuộc."
+
+msgctxt "sentinel flavor"
+msgid ""
+"Name, please.\n"
+"Papers, please.\n"
+"Weapons, please."
+msgstr ""
+"Name, please.\n"
+"Papers, please.\n"
+"Weapons, please."
+
+msgctxt "shabaloth name"
+msgid "Shabaloth"
+msgstr "Shabaloth"
+
+msgctxt "shabaloth ability"
+msgid "Each night*, choose 2 players: they die. A dead player you chose last night might be regurgitated."
+msgstr "Mỗi đêm*, chọn 2 người: họ chết. 1 người chết đêm qua có thể bị nôn ra."
+
+msgctxt "shabaloth flavor"
+msgid "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
+msgstr "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
+
+msgctxt "shabaloth otherNightReminder"
+msgid "One player that the Shabaloth chose the previous night might be resurrected. The Shabaloth points to two players. Those players die."
+msgstr "Một người bị giết bởi Shabaloth đêm qua có thể được hồi sinh. Shabaloth chỉ 2 người. Những người đó chết."
+
+msgctxt "shabaloth reminders"
+msgid "Dead,Alive"
+msgstr "Chết,Sống"
+
+msgctxt "shugenja name"
+msgid "Shugenja"
+msgstr "Shugenja"
+
+msgctxt "shugenja ability"
+msgid "You start knowing if your closest evil player is clockwise or anti-clockwise. If equidistant, this info is arbitrary."
+msgstr "Bạn bắt đầu biết người xấu gần nhất với bạn ngồi theo chiều hay ngược chiều kim đồng hồ. Nếu như nhau, thông tin này sẽ mang tính ngẫu nhiên."
+
+msgctxt "shugenja flavor"
+msgid "これは夢。それも夢。すべて夢です。"
+msgstr "これは夢。それも夢。すべて夢です。"
+
+msgctxt "shugenja firstNightReminder"
+msgid "Wake the Shugenja; point horizontally in the direction of the closest evil player. If the two closest evil players are equidistant, point your finger horizontally in either direction."
+msgstr "Gọi Shugenja dậy; chỉ ngang về hướng có người xấu gần nhất. Nếu cả 2 người xấu gần nhất có khoảng cách như nhau, chỉ tay về 1 trong 2 hướng."
+
+msgctxt "slayer name"
+msgid "Slayer"
+msgstr "Diệt quỷ"
+
+msgctxt "slayer ability"
+msgid "Once per game, during the day, publicly choose a player: if they are the Demon, they die."
+msgstr "Chỉ 1 lần duy nhất, ban ngày, chọn 1 người công khai: Quỷ mà bị chọn thì sẽ chết."
+
+msgctxt "slayer flavor"
+msgid "Die."
+msgstr "Die."
+
+msgctxt "slayer reminders"
+msgid "No ability"
+msgstr "Hết chức năng"
+
+msgctxt "snakecharmer name"
+msgid "Snake Charmer"
+msgstr "Nuôi rắn"
+
+msgctxt "snakecharmer ability"
+msgid "Each night, choose an alive player: a chosen Demon swaps characters & alignments with you & is then poisoned."
+msgstr "Mỗi đêm, chọn người sống: Quỷ được chọn sẽ hoán đổi nhân vật & phe với bạn & sau đó bị trúng độc."
+
+msgctxt "snakecharmer flavor"
+msgid "Effendi... I am but a humble man, but my pipe is golden and a single tune will tame the wildest djinn, Inshallah. They say that greed hangs more men than rope. But not I, Effendi... not I."
+msgstr "Effendi... I am but a humble man, but my pipe is golden and a single tune will tame the wildest djinn, Inshallah. They say that greed hangs more men than rope. But not I, Effendi... not I."
+
+msgctxt "snakecharmer firstNightReminder"
+msgid "The Snake Charmer points to a player. If that player is the Demon: swap the Demon and Snake Charmer character and alignments. Wake each player to inform them of their new role and alignment. The new Snake Charmer is poisoned."
+msgstr "Nuôi rắn chỉ 1 người. Nếu người đó là Quỷ: hoán đổi nhân vật và phe của Quỷ và Nuôi rắn. Gọi mỗi người dậy để thông báo phe và nhân vật của họ.  Nuôi rắn hóa thành Quỷ và đổi sang Phe Xấu. Quỷ cũ hóa thành Nuôi rắn, và đổi sang Phe Tốt và bị trúng độc (không còn chức năng)."
+
+msgctxt "snakecharmer otherNightReminder"
+msgid "The Snake Charmer points to a player. If that player is the Demon: swap the Demon and Snake Charmer character and alignments. Wake each player to inform them of their new role and alignment. The new Snake Charmer is poisoned."
+msgstr "Nuôi rắn chỉ 1 người. Nếu người đó là Quỷ: hoán đổi nhân vật và phe của Quỷ và Nuôi rắn. Gọi mỗi người dậy để thông báo phe và nhân vật của họ.  Nuôi rắn mới bị trúng độc (không còn chức năng)."
+
+msgctxt "snakecharmer reminders"
+msgid "Poisoned"
+msgstr "Trúng độc"
+
+msgctxt "snitch name"
+msgid "Snitch"
+msgstr "Mách lẻo"
+
+msgctxt "snitch ability"
+msgid "Minions start knowing 3 not-in-play characters."
+msgstr "Tay sai biết 3 bluff."
+
+msgctxt "snitch flavor"
+msgid "It was John."
+msgstr "It was John."
+
+msgctxt "snitch firstNightReminder"
+msgid "After Minion info wake each Minion and show them three not-in-play character tokens. These may be the same or different to each other and the ones shown to the Demon."
+msgstr "Nếu Phụ nữ đỏ trở thành Quỷ: Cho xem lá \"Bạn là\", và thẻ quỷ."
+
+msgctxt "soldier name"
+msgid "Soldier"
+msgstr "Chiến sĩ"
+
+msgctxt "soldier ability"
+msgid "You are safe from the Demon."
+msgstr "Không bị ảnh hưởng bởi Quỷ."
+
+msgctxt "soldier flavor"
+msgid "As David said to Goliath, as Theseus said to the Minotaur, as Arjuna said to Bhagadatta... No."
+msgstr "As David said to Goliath, as Theseus said to the Minotaur, as Arjuna said to Bhagadatta... No."
+
+msgctxt "spiritofivory name"
+msgid "Spirit Of Ivory"
+msgstr "Thần ngà"
+
+msgctxt "spiritofivory ability"
+msgid "There can't be more than 1 extra evil player."
+msgstr "Không thể có thêm quá 1 người xấu."
+
+msgctxt "spiritofivory flavor"
+msgid "The Wasteland calls. Bones rise to flesh, then fall to dust. The great spirit grows. The great spirit watches. The great spirit guides. The human listens, or the human is no more."
+msgstr "The Wasteland calls. Bones rise to flesh, then fall to dust. The great spirit grows. The great spirit watches. The great spirit guides. The human listens, or the human is no more."
+
+msgctxt "spiritofivory reminders"
+msgid "No extra evil"
+msgstr "Không thêm xấu"
+
+msgctxt "spy name"
+msgid "Spy"
+msgstr "Gián điệp"
+
+msgctxt "spy ability"
+msgid "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead."
+msgstr "Mỗi đêm, được xem Grimore. Có thể được thấy là người tốt, và là Dân làng hoặc Lữ khách, kể cả khi chết."
+
+msgctxt "spy flavor"
+msgid "Any brewmaster worth their liquor, knows no concoction pours trouble quicker, than one where spies seem double."
+msgstr "Any brewmaster worth their liquor, knows no concoction pours trouble quicker, than one where spies seem double."
+
+msgctxt "spy firstNightReminder"
+msgid "Show the Grimoire to the Spy for as long as they need."
+msgstr "Cho Gián điệp xem Grimore đến khi họ không cần nữa."
+
+msgctxt "spy otherNightReminder"
+msgid "Show the Grimoire to the Spy for as long as they need."
+msgstr "Cho Gián điệp xem Grimore đến khi họ không cần nữa."
+
+msgctxt "steward name"
+msgid "Steward"
+msgstr "Quản lý"
+
+msgctxt "steward ability"
+msgid "You start knowing 1 good player."
+msgstr "Bạn biết 1 người tốt đầu game."
+
+msgctxt "steward flavor"
+msgid "How DARE you accuse Her Ladyship of wrongdoing? I’ve known her my entire life! All nine years!"
+msgstr "How DARE you accuse Her Ladyship of wrongdoing? I’ve known her my entire life! All nine years!"
+
+msgctxt "steward firstNightReminder"
+msgid "Point to 1 good player."
+msgstr "Chỉ 1 người tốt."
+
+msgctxt "steward reminders"
+msgid "Know"
+msgstr "Biết"
+
+msgctxt "stormcatcher name"
+msgid "Storm Catcher"
+msgstr "Người bắt bão"
+
+msgctxt "stormcatcher ability"
+msgid "Name a good character. If in play, they can only die by execution, but evil players learn which player it is."
+msgstr "Đọc tên nhân vật tốt. Nếu trong cuộc, họ chỉ có thể bị chết vì hành quyết, nhưng phe xấu biết họ là ai."
+
+msgctxt "stormcatcher flavor"
+msgid "At dawn, the temple’s long shadow creeps to the fountain. At dusk, the obelisk blocks the red glare, cooling warm water under the archway. All lines converge here. A storm is coming, and this, this pebbled and lush and holy place between the apple trees, is the eye."
+msgstr "At dawn, the temple’s long shadow creeps to the fountain. At dusk, the obelisk blocks the red glare, cooling warm water under the archway. All lines converge here. A storm is coming, and this, this pebbled and lush and holy place between the apple trees, is the eye."
+
+msgctxt "stormcatcher reminders"
+msgid "Safe"
+msgstr "An toàn"
+
+msgctxt "summoner name"
+msgid "Summoner"
+msgstr "Kẻ triệu hồi"
+
+msgctxt "summoner ability"
+msgid "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]"
+msgstr "Bạn biết 3 bluff. Đêm thứ 3, chọn 1 người: người đó trở thành Quỷ xấu do bạn chọn. [Không có Quỷ]"
+
+msgctxt "summoner flavor"
+msgid "Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness"
+msgstr "Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness"
+
+msgctxt "summoner firstNightReminder"
+msgid "Show the 'These characters are not in play' card. Show 3 character tokens of good characters not in play."
+msgstr "Cho xem lá \"Những nhân vật sau không có trong game\". Cho xem 3 nhân vật tốt không có trong game.."
+
+msgctxt "summoner otherNightReminder"
+msgid "If it is the 3rd night, wake the Summoner. They point to a player and a Demon on the character sheet - that player becomes that Demon."
+msgstr "Nếu đây là đêm thứ 3, gọi Kẻ triệu hồi dậy. Họ chỉ 1 người và 1 Quỷ trong tờ nhân vật - người đó trở thành Quỷ đó."
+
+msgctxt "summoner reminders"
+msgid "Night 1,Night 2,Night 3"
+msgstr "Đêm 1,Đêm 2,Đêm 3"
+
+msgctxt "sweetheart name"
+msgid "Sweetheart"
+msgstr "Con cưng"
+
+msgctxt "sweetheart ability"
+msgid "When you die, 1 player is drunk from now on."
+msgstr "Khi bạn chết, 1 người sẽ bắt đầu bị say."
+
+msgctxt "sweetheart flavor"
+msgid "I will never forget her. Never."
+msgstr "I will never forget her. Never."
+
+msgctxt "sweetheart otherNightReminder"
+msgid "Choose a player that is drunk."
+msgstr "Chọn 1 người để bị say."
+
+msgctxt "sweetheart reminders"
+msgid "Drunk"
+msgstr "Say"
+
+msgctxt "tealady name"
+msgid "Tea Lady"
+msgstr "Cô hầu trà"
+
+msgctxt "tealady ability"
+msgid "If both your alive neighbours are good, they can't die."
+msgstr "Nếu cả 2 hàng xóm sống của bạn đều là tốt, họ không thể chết."
+
+msgctxt "tealady flavor"
+msgid "If you are cold, tea will warm you. If you are too heated, tea will cool you. If you are depressed, tea will cheer you. If you are excited, tea will calm you."
+msgstr "If you are cold, tea will warm you. If you are too heated, tea will cool you. If you are depressed, tea will cheer you. If you are excited, tea will calm you."
+
+msgctxt "tealady reminders"
+msgid "Can not die"
+msgstr "Không thể chết"
+
+msgctxt "thief name"
+msgid "Thief"
+msgstr "Trộm"
+
+msgctxt "thief ability"
+msgid "Each night, choose a player (not yourself): their vote counts negatively tomorrow."
+msgstr "Mỗi đêm, chọn 1 người (không phải bạn): phiếu của họ tính là âm ngày mai."
+
+msgctxt "thief flavor"
+msgid "I aint done nuffink. I weren't even in dat alley last night! It weren't me what stole Mayor Bruno's briefcase wiv all dem fancy dockoments innit. Besides, it was too 'eavy to carry far."
+msgstr "I aint done nuffink. I weren't even in dat alley last night! It weren't me what stole Mayor Bruno's briefcase wiv all dem fancy dockoments innit. Besides, it was too 'eavy to carry far."
+
+msgctxt "thief firstNightReminder"
+msgid "The Thief points to a player. Put the Thief's 'Negative vote' reminder by the chosen player's character token."
+msgstr "Trộm chỉ 1 người. Đắt đánh dấu \"Âm phiếu\" của trộm cạnh thẻ nhân vật của người được chọn."
+
+msgctxt "thief otherNightReminder"
+msgid "The Thief points to a player. Put the Thief's 'Negative vote' reminder by the chosen player's character token."
+msgstr "Trộm chỉ 1 người. Đắt đánh dấu \"Âm phiếu\" của trộm cạnh thẻ nhân vật của người được chọn."
+
+msgctxt "thief reminders"
+msgid "Negative vote"
+msgstr "Âm phiếu"
+
+msgctxt "tinker name"
+msgid "Tinker"
+msgstr "Thợ vụng vặt"
+
+msgctxt "tinker ability"
+msgid "You might die at any time."
+msgstr "Có thể bạn chết bất cứ lúc nào."
+
+msgctxt "tinker flavor"
+msgid "I think I see the problem. Luckily, I have an idea! This catapult will shoot twice as far with just a minor adjustment..."
+msgstr "I think I see the problem. Luckily, I have an idea! This catapult will shoot twice as far with just a minor adjustment..."
+
+msgctxt "tinker otherNightReminder"
+msgid "The Tinker might die."
+msgstr "Có thể thợ vụng vặt chết."
+
+msgctxt "tinker reminders"
+msgid "Dead"
+msgstr "Chết"
+
+msgctxt "towncrier name"
+msgid "Town Crier"
+msgstr "Mõ làng"
+
+msgctxt "towncrier ability"
+msgid "Each night*, you learn if a Minion nominated today."
+msgstr "Mỗi đêm*, bạn biết Tay Sai có Biểu Quyết hôm nay hay không."
+
+msgctxt "towncrier flavor"
+msgid "Hear ye! Hear ye! Witchcraft in the labyrinth! Genius savant reveals all! Town in danger! Hear Ye!"
+msgstr "Hear ye! Hear ye! Witchcraft in the labyrinth! Genius savant reveals all! Town in danger! Hear Ye!"
+
+msgctxt "towncrier otherNightReminder"
+msgid "Nod 'yes' or shake head 'no' for whether a Minion nominated today. Place the 'Minion not nominated' marker (remove 'Minion nominated', if any)."
+msgstr "Gật đầu hoặc lắc đầu tùy theo việc Tay Sai có chọn người hay không. Đặt đánh dấu 'Tay sai chưa biểu quyết' (Bỏ 'Tay sai biểu quyết, nếu có)."
+
+msgctxt "towncrier reminders"
+msgid "Minions not nominated,Minion nominated"
+msgstr "Tay sai chưa biểu quyết,Tay sai biểu quyết"
+
+msgctxt "toymaker name"
+msgid "Toymaker"
+msgstr "Người làm đồ chơi"
+
+msgctxt "toymaker ability"
+msgid "The Demon may choose not to attack & must do this at least once per game. Evil players get normal starting info."
+msgstr "Quỷ có thể chọn không tấn công & phải làm việc này 1 lần trong game. Người xấu nhận thông tin bắt đầu như thường."
+
+msgctxt "toymaker flavor"
+msgid "It buzzes! It walks down stairs! It keeps you warm at night! It tastes like sugar! The kiddies love it! Introducing... the brand new... Warm'o-buzzy-wuzzy-walk'a'bot-thingy-contraption! Fun for all ages!"
+msgstr "It buzzes! It walks down stairs! It keeps you warm at night! It tastes like sugar! The kiddies love it! Introducing... the brand new... Warm'o-buzzy-wuzzy-walk'a'bot-thingy-contraption! Fun for all ages!"
+
+msgctxt "toymaker reminders"
+msgid "No Attack"
+msgstr "Không tấn công"
+
+msgctxt "undertaker name"
+msgid "Undertaker"
+msgstr "Chôn cất"
+
+msgctxt "undertaker ability"
+msgid "Each night*, you learn which character died by execution today."
+msgstr "Mỗi đêm*, bạn biết nhân vật nào chết bởi Hành Quyết hôm nay."
+
+msgctxt "undertaker flavor"
+msgid "Hmmm....what have we here? The left boot is worn down to the heel, with flint shavings under the tongue. This is the garb of a Military man."
+msgstr "Hmmm....what have we here? The left boot is worn down to the heel, with flint shavings under the tongue. This is the garb of a Military man."
+
+msgctxt "undertaker otherNightReminder"
+msgid "If a player was executed today: Show that player’s character token."
+msgstr "Nếu có người bị Hành Quyết  Cho xem thẻ nhân vật của người đó."
+
+msgctxt "undertaker reminders"
+msgid "Executed"
+msgstr "Hành quyết"
+
+msgctxt "vigormortis name"
+msgid "Vigormortis"
+msgstr "Vigormortis"
+
+msgctxt "vigormortis ability"
+msgid "Each night*, choose a player: they die. Minions you kill keep their ability & poison 1 Townsfolk neighbour. [−1 Outsider]"
+msgstr "Mỗi đêm*, chọn 1 người: họ chết. Tay sai bạn giết được giữ chức năng & đầu độc 1 hàng xóm là Dân làng. [−1 Lữ khách]"
+
+msgctxt "vigormortis flavor"
+msgid "All doors are one door. All keys are one key. All cups are one cup, but whosoever drinketh of the water that I give shall never thirst, but the water shall be in him a well springing up into everlasting life."
+msgstr "All doors are one door. All keys are one key. All cups are one cup, but whosoever drinketh of the water that I give shall never thirst, but the water shall be in him a well springing up into everlasting life."
+
+msgctxt "vigormortis otherNightReminder"
+msgid "The Vigormortis points to a player. That player dies. If a Minion, they keep their ability and one of their Townsfolk neighbours is poisoned."
+msgstr "Vigormortis chỉ 1 người. Người đó chết. Nếu họ là Tay sai, họ giữ chức năng và 1 trong những hàng xóm Dân làng của họ bị trúng độc."
+
+msgctxt "vigormortis reminders"
+msgid "Dead,Has ability,Poisoned"
+msgstr "Chết,Có chức năng,Trúng độc"
+
+msgctxt "villageidiot name"
+msgid "Village Idiot"
+msgstr "Ngố làng"
+
+msgctxt "villageidiot ability"
+msgid "Each night, choose a player: you learn their alignment. [+0 to +2 Village Idiots. 1 of the extras is drunk]"
+msgstr "Mỗi đêm, chọn 1 người: bạn biết phe của họ. [+0 đến +2 Ngố làng. 1 trong số người được thêm bị say]"
+
+msgctxt "villageidiot flavor"
+msgid "Roses are blue, and violets are red, Please reverse what I just said."
+msgstr "Roses are blue, and violets are red, Please reverse what I just said."
+
+msgctxt "villageidiot firstNightReminder"
+msgid "The Village Idiot points to a player; give a thumbs up if that player is good or a thumbs down if that player is evil."
+msgstr "Ngỗ làng chỉ 1 người: giơ ngón cái lên nếu họ là người tốt, ngón cái xuống nếu họ là người xấu."
+
+msgctxt "villageidiot otherNightReminder"
+msgid "The Village Idiot points to a player; give a thumbs up if that player is good or a thumbs down if that player is evil."
+msgstr "Ngỗ làng chỉ 1 người: giơ ngón cái lên nếu họ là người tốt, ngón cái xuống nếu họ là người xấu."
+
+msgctxt "villageidiot reminders"
+msgid "Drunk"
+msgstr "Say"
+
+msgctxt "virgin name"
+msgid "Virgin"
+msgstr "Trinh nữ"
+
+msgctxt "virgin ability"
+msgid "The 1st time you are nominated, if the nominator is a Townsfolk, they are executed immediately."
+msgstr "Lần đầu bạn bị Biểu Quyết, nếu người chọn bạn là Dân Làng, họ bị Hành Quyết ngay lập tức."
+
+msgctxt "virgin flavor"
+msgid "I am pure. Let those who are without sin cast themselves down and suffer in my stead. My reputation shall not be stained with your venomous accusations."
+msgstr "I am pure. Let those who are without sin cast themselves down and suffer in my stead. My reputation shall not be stained with your venomous accusations."
+
+msgctxt "virgin reminders"
+msgid "No ability"
+msgstr "Hết chức năng"
+
+msgctxt "vizier name"
+msgid "Vizier"
+msgstr "Tể tướng"
+
+msgctxt "vizier ability"
+msgid "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately."
+msgstr "Tất cả người chơi biết bạn là Tể tướng. Bạn không thể chết trong ngày. Nếu người tốt bỏ phiếu, bạn có thể cho hành quyết ngay lập tức."
+
+msgctxt "vizier flavor"
+msgid "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me."
+msgstr "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me."
+
+msgctxt "vizier firstNightReminder"
+msgid "Announce 'The Vizier is in play' and state which player they are."
+msgstr "Thông báo \"Có Tề tướng trong cuộc\" và họ là ai."
+
+msgctxt "vortox name"
+msgid "Vortox"
+msgstr "Vortox"
+
+msgctxt "vortox ability"
+msgid "Each night*, choose a player: they die. Townsfolk abilities yield false info. Each day, if no-one is executed, evil wins."
+msgstr "Mỗi đêm*, chọn 1 người: họ chết. Chức năng của Dân làng luôn cho thông tin sai. Mỗi ngày, nếu không ai bị Hành Quyết, Phe Xấu thắng."
+
+msgctxt "vortox flavor"
+msgid "Black is White. Right is Wrong. Left is Right. Up is Long. Down is Sight. Short is Blind. Follow me. Answers find."
+msgstr "Black is White. Right is Wrong. Left is Right. Up is Long. Down is Sight. Short is Blind. Follow me. Answers find."
+
+msgctxt "vortox otherNightReminder"
+msgid "The Vortox points to a player. That player dies."
+msgstr "Vortox chỉ 1 người. Người đó chết."
+
+msgctxt "vortox reminders"
+msgid "Dead"
+msgstr "Chết"
+
+msgctxt "voudon name"
+msgid "Voudon"
+msgstr "Voudon"
+
+msgctxt "voudon ability"
+msgid "Only you and the dead can vote. They don't need a vote token to do so. A 50% majority is not required."
+msgstr "Chỉ có bạn và người chết được bỏ phiếu. Họ không cần thẻ vote để làm vậy. Hơn 50% số phiếu là không cần thiết."
+
+msgctxt "voudon flavor"
+msgid "Bien venu. Sit down. Breathe deep. Enter the land of the dead. See with their eyes. Speak with their voice. Yon sel lang se janm ase."
+msgstr "Bien venu. Sit down. Breathe deep. Enter the land of the dead. See with their eyes. Speak with their voice. Yon sel lang se janm ase."
+
+msgctxt "washerwoman name"
+msgid "Washerwoman"
+msgstr "Thợ giặt"
+
+msgctxt "washerwoman ability"
+msgid "You start knowing that 1 of 2 players is a particular Townsfolk."
+msgstr "Đêm đầu tiên, bạn biết chức năng của Dân Làng thuộc về 1 trong 2 người."
+
+msgctxt "washerwoman flavor"
+msgid "Bloodstains on a dinner jacket? No, this is cooking sherry. How careless."
+msgstr "Bloodstains on a dinner jacket? No, this is cooking sherry. How careless."
+
+msgctxt "washerwoman firstNightReminder"
+msgid "Show the character token of a Townsfolk in play. Point to two players, one of which is that character."
+msgstr "Cho xem thẻ nhân vật Dân Làng trong cuộc. Chỉ 2 người, 1 trong số họ là nhân vật đó."
+
+msgctxt "washerwoman reminders"
+msgid "Townsfolk,Wrong"
+msgstr "Dân Làng,Sai"
+
+msgctxt "widow name"
+msgid "Widow"
+msgstr "Góa phụ"
+
+msgctxt "widow ability"
+msgid "On your 1st night, look at the Grimoire and choose a player: they are poisoned. 1 good player knows a Widow is in play."
+msgstr "Trong đêm đầu của bạn, nhìn Grimore & chọn 1 người: họ bị trúng độc. 1 người tốt biết có Góa phụ trong cuộc."
+
+msgctxt "widow flavor"
+msgid "More wine? Château d’Ergot ’07 is a very special vintage. My yes, very special indeed."
+msgstr "More wine? Château d’Ergot ’07 is a very special vintage. My yes, very special indeed."
+
+msgctxt "widow firstNightReminder"
+msgid "Show the Grimoire to the Widow for as long as they need. The Widow points to a player. That player is poisoned. Wake a good player. Show the 'These characters are in play' card, then the Widow character token."
+msgstr "Cho Góa phụ xem Grimore đến khi họ không cần nữa. Góa phụ chỉ 1 người. Người đó bị trúng độc. Gọi 1 người tốt dậy. Cho xem lá 'Những nhân vật này trong cuộc', và thẻ nhân vật Góa phụ."
+
+msgctxt "widow remindersGlobal"
+msgid "Knows"
+msgstr "Biết"
+
+msgctxt "widow reminders"
+msgid "Poisoned"
+msgstr "Trúng độc"
+
+msgctxt "witch name"
+msgid "Witch"
+msgstr "Phù thủy"
+
+msgctxt "witch ability"
+msgid "Each night, choose a player: if they nominate tomorrow, they die. If just 3 players live, you lose this ability."
+msgstr "Mỗi đêm, chọn 1 người: nếu họ chọn người biểu quyết ngày mai, họ chết. Nếu còn 3 người sống, bạn mất chức năng này."
+
+msgctxt "witch flavor"
+msgid "Three drops of goat's blood. A lock of hair, torn in anger. The name is spoken, the shadow cast. Walk left foot first down that brambled path, and don't look back."
+msgstr "Three drops of goat's blood. A lock of hair, torn in anger. The name is spoken, the shadow cast. Walk left foot first down that brambled path, and don't look back."
+
+msgctxt "witch firstNightReminder"
+msgid "The Witch points to a player. If that player nominates tomorrow they die immediately."
+msgstr "Phù thủy chỉ 1 người. Nếu người đó biểu quyết ngày mai, họ chết ngay lập tức."
+
+msgctxt "witch otherNightReminder"
+msgid "If there are 4 or more players alive: The Witch points to a player. If that player nominates tomorrow they die immediately."
+msgstr "Nếu còn 4 người sống trở lên: Phù thủy chỉ 1 người. Nếu người đó biểu quyết ngày mai, họ chết ngay lập tức."
+
+msgctxt "witch reminders"
+msgid "Cursed"
+msgstr "Bị nguyền"
+
+msgctxt "wizard name"
+msgid "Wizard"
+msgstr "Pháp sư"
+
+msgctxt "wizard ability"
+msgid "Once per game, choose to make a wish.  If granted, it might have a price & leave a clue as to its nature."
+msgstr "Một lần trong game, chọn để nói ra 1 điều ước.  Nếu được ban, nó có thể trả giá và để lại chứng cứ liên quan đến nó."
+
+msgctxt "wizard flavor"
+msgid "Genies are overrated."
+msgstr "Genies are overrated."
+
+msgctxt "wizard firstNightReminder"
+msgid "Run the Wizard ability if applicable."
+msgstr "Chạy chức năng của Pháp sư nếu có thể"
+
+msgctxt "wizard otherNightReminder"
+msgid "Run the Wizard ability if applicable."
+msgstr "Chạy chức năng của Pháp sư nếu có thể"
+
+msgctxt "wizard reminders"
+msgid "?"
+msgstr "?"
+
+msgctxt "xaan name"
+msgid "Xaan"
+msgstr "Xaan"
+
+msgctxt "xaan ability"
+msgid "On night X, all Townsfolk are poisoned until dusk. [X Outsiders]"
+msgstr "Vào đêm X, tất cả Dân làng bị độc. [X Lữ khách]"
+
+msgctxt "xaan flavor"
+msgid "Down they fall. One by one. By two, by three, by five."
+msgstr "Down they fall. One by one. By two, by three, by five."
+
+msgctxt "xaan reminders"
+msgid "Night 1, Night 2, Night 3, X"
+msgstr "Đêm 1, Đêm 2, Đêm 3, X"
+
+msgctxt "yaggababble name"
+msgid "Yaggababble"
+msgstr "Yaggababble"
+
+msgctxt "yaggababble ability"
+msgid "You start knowing a secret phrase. For each time you said it publicly today, a player might die."
+msgstr "Bạn bắt đầu biết 1 câu bí mật. Với mỗi lần bạn công khai nói câu đó, 1 người có thể chết."
+
+msgctxt "yaggababble flavor"
+msgid "Murders inside the Rue Morgue? Фальшивые новости! Hounds on the Baskerville moor? Фальшивые новости! Death while sailing the Nile? Фальшивые новости!"
+msgstr "Murders inside the Rue Morgue? Фальшивые новости! Hounds on the Baskerville moor? Фальшивые новости! Death while sailing the Nile? Фальшивые новости!"
+
+msgctxt "yaggababble firstNightReminder"
+msgid "Show the Yaggababble their secret phrase."
+msgstr "Cho Yaggababble thấy câu của họ."
+
+msgctxt "yaggababble otherNightReminder"
+msgid "Choose a number of players up to the total number of times the Yaggababble said their secret phrase publicly, those players die."
+msgstr "Chọn số người nhỏ hơn hoặc bằng số lần Yaggababble công khai nói câu bí mật, họ chết"
+
+msgctxt "yaggababble reminders"
+msgid "Dead"
+msgstr "Chết"
+
+msgctxt "zealot name"
+msgid "Zealot"
+msgstr "Kẻ quá khích"
+
+msgctxt "zealot ability"
+msgid "If there are 5 or more players alive, you must vote for every nomination."
+msgstr "Nếu có 5 người sống trở lên, bạn phải bỏ phiếu cho tất cả các biểu quyết."
+
+msgctxt "zealot flavor"
+msgid "I enjoy talking to you. Your mind appeals to me. It resembles my own mind except that you happen to be insane."
+msgstr "I enjoy talking to you. Your mind appeals to me. It resembles my own mind except that you happen to be insane."
+
+msgctxt "zombuul name"
+msgid "Zombuul"
+msgstr "Zombuul"
+
+msgctxt "zombuul ability"
+msgid "Each night*, if no-one died today, choose a player: they die. The 1st time you die, you live but register as dead."
+msgstr "Mỗi đêm*, nếu không ai chết hôm nay, chọn 1 người: họ chết. Lần đầu bạn chết, bạn sống nhưng tính là chết."
+
+msgctxt "zombuul flavor"
+msgid "I do not. Understand. Your ways. Fellow human. Show me. The dirt. Where the holy. Lay. Sleeping. I too. Must sleep. Soon."
+msgstr "I do not. Understand. Your ways. Fellow human. Show me. The dirt. Where the holy. Lay. Sleeping. I too. Must sleep. Soon."
+
+msgctxt "zombuul otherNightReminder"
+msgid "If no-one died during the day: The Zombuul points to a player. That player dies."
+msgstr "Nếu không ai chết trong ngày: Zombuul chỉ 1 người. Người đó chết."
+
+msgctxt "zombuul reminders"
+msgid "Died today,Dead"
+msgstr "Chết hôm nay,Chết"

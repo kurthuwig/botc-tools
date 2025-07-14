@@ -1,0 +1,3202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+msgctxt "acrobat name"
+msgid "Acrobat"
+msgstr "곡예사"
+
+msgctxt "acrobat ability"
+msgid "Each night*, choose a player: if they are or become drunk or poisoned tonight, you die."
+msgstr "매일 밤*(첫날 제외), 살아있는 이웃이 취하거나 중독되면 당신은 죽습니다."
+
+msgctxt "acrobat flavor"
+msgid "Welcome, one and all, to the greatest show on earth."
+msgstr "Welcome, one and all, to the greatest show on earth."
+
+msgctxt "acrobat otherNightReminder"
+msgid "The Acrobat chooses a player. If they are become drunk or poisoned tonight, the Acrobat player dies."
+msgstr "만약 이웃이 취하거나 중독되었다면, 곡예사는 사망합니다"
+
+msgctxt "acrobat reminders"
+msgid "Dead"
+msgstr "사망"
+
+msgctxt "alchemist name"
+msgid "Alchemist"
+msgstr "연금술사"
+
+msgctxt "alchemist ability"
+msgid "You have a Minion ability. When using this, the Storyteller may prompt you to choose differently."
+msgstr "당신은 플레이되지 않은 하수인의 능력을 갖습니다. (첫날 밤 능력 얻음)"
+
+msgctxt "alchemist flavor"
+msgid "Visit the interior of the Earth. By rectification thou shalt find the hidden stone. Above the gold, lieth the red. Kether in Malkuth."
+msgstr "Visit the interior of the Earth. By rectification thou shalt find the hidden stone. Above the gold, lieth the red. Kether in Malkuth."
+
+msgctxt "alchemist firstNightReminder"
+msgid "Show the Alchemist a not-in-play Minion token"
+msgstr "연금술사에게 플레이되지 않는 하수인 토큰을 보여줍니다"
+
+msgctxt "alchemist remindersGlobal"
+msgid "Is the Alchemist"
+msgstr "연금술사"
+
+msgctxt "alhadikhia name"
+msgid "Al-Hadikhia"
+msgstr "알하디키아"
+
+msgctxt "alhadikhia ability"
+msgid "Each night*, you may choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die."
+msgstr "매일 밤*(첫날 제외), 3명의 플레이어를 선택합니다(사망자도 가능하며, 모든 플레이어에게 공지합니다). 각자는 스스로 생사를 선택합니다. 하지만 모두 생존를 고른경우, 3명 다 죽습니다"
+
+msgctxt "alhadikhia flavor"
+msgid "Alsukut min dhahab."
+msgstr "Alsukut min dhahab."
+
+msgctxt "alhadikhia otherNightReminder"
+msgid "The Al-Hadikhia chooses 3 players. Announce the first player, wake them to nod yes to live or shake head no to die, kill or resurrect accordingly, then put to sleep and announce the next player. If all 3 are alive after this, all 3 die."
+msgstr "알하디키아는 3명의 플레이어를 선택합니다. 순서대로, 각자는 스스로 생사를 선택합니다. 하지만 모두 생존를 고른경우, 3명 다 죽습니다"
+
+msgctxt "alhadikhia reminders"
+msgid "1,2,3,Chose death,Chose life"
+msgstr "1,2,3,사망,생존"
+
+msgctxt "alsaahir name"
+msgid "Alsaahir"
+msgstr "알사히르"
+
+msgctxt "alsaahir ability"
+msgid "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins."
+msgstr "매일 낮 한번 공개적으로 모든 악마와 모든 하수인을 추측할 수 있습니다. 추측이 맞다면 당신의 진영이 승리합니다.(정확한 캐릭터X)"
+
+msgctxt "alsaahir flavor"
+msgid "I am here because of you, and you are here because of me."
+msgstr "I am here because of you, and you are here because of me."
+
+msgctxt "amnesiac name"
+msgid "Amnesiac"
+msgstr "기억상실자"
+
+msgctxt "amnesiac ability"
+msgid "You do not know what your ability is. Each day, privately guess what it is: you learn how accurate you are."
+msgstr "당신은 자신의 능력을 모르지만, 능력은 계속 발동합니다, 매일 낮 이야기꾼을 찾아가 본인의 능력을 추측해볼 수 있습니다. (이야기꾼은 차가움/따뜻함/뜨거움/빙고 로 단계별 답변을 줍니다)"
+
+msgctxt "amnesiac flavor"
+msgid "Wait. What. Who? Oh, ok. Wait. What?"
+msgstr "Wait. What. Who? Oh, ok. Wait. What?"
+
+msgctxt "amnesiac firstNightReminder"
+msgid "Decide the Amnesiac's entire ability. If the Amnesiac's ability causes them to wake tonight: Wake the Amnesiac and run their ability."
+msgstr "기억상실자의 능력이 무엇인지 결정합니다. 만약 첫날밤에 발동한다면, 기억상실자를 깨우고, 능력을 발동합니다"
+
+msgctxt "amnesiac otherNightReminder"
+msgid "If the Amnesiac's ability causes them to wake tonight: Wake the Amnesiac and run their ability."
+msgstr "만약 매일밤 발동하는 능력이라면, 기억상실자를 깨우고, 능력을 발동합니다"
+
+msgctxt "amnesiac reminders"
+msgid "?"
+msgstr "?"
+
+msgctxt "angel name"
+msgid "Angel"
+msgstr "천사"
+
+msgctxt "angel ability"
+msgid "Something bad might happen to whoever is most responsible for the death of a new player."
+msgstr "새로운 플레이어의 죽음에 가장 큰 책임이 있는 사람에게는 나쁜 일이 일어날 수도 있습니다. 해당 플레이어의 동의를 얻은후, 그 플레이어가 보호됨을 알립니다"
+
+msgctxt "angel flavor"
+msgid "Let those who are without sin dare to raise their hand to my chosen, for I shall strike such fools down with the fury and righteousness of a thousand storms."
+msgstr "Let those who are without sin dare to raise their hand to my chosen, for I shall strike such fools down with the fury and righteousness of a thousand storms."
+
+msgctxt "angel reminders"
+msgid "Protect,Something Bad"
+msgstr "보호됨,불행한 일"
+
+msgctxt "apprentice name"
+msgid "Apprentice"
+msgstr "견습생"
+
+msgctxt "apprentice ability"
+msgid "On your 1st night, you gain a Townsfolk ability (if good), or a Minion ability (if evil)."
+msgstr "첫째날 밤에는 마을 사람 능력(선한 경우)을 얻고, 하수인 능력(악한 경우)을 얻습니다."
+
+msgctxt "apprentice flavor"
+msgid "For years have I traveled, studying the ways of The Craft. Which craft, you ask? Simply that of the simple folk. Nothing to worry about. Not yet."
+msgstr "For years have I traveled, studying the ways of The Craft. Which craft, you ask? Simply that of the simple folk. Nothing to worry about. Not yet."
+
+msgctxt "apprentice firstNightReminder"
+msgid "Show the Apprentice the 'You are' card, then a Townsfolk or Minion token. In the Grimoire, replace the Apprentice token with that character token, and put the Apprentice's 'Is the Apprentice' reminder by that character token."
+msgstr "견습생에게 '당신은' 카드를 보여주고, 마을주민이나 하수인토큰을 보여줍니다. 그리모어에서 견습생토큰을 해당 캐릭터로 변경하고, '견습생임' 알림을 표기합니다."
+
+msgctxt "apprentice reminders"
+msgid "Is the Apprentice"
+msgstr "견습생임"
+
+msgctxt "artist name"
+msgid "Artist"
+msgstr "예술가"
+
+msgctxt "artist ability"
+msgid "Once per game, during the day, privately ask the Storyteller any yes/no question."
+msgstr "게임당 한 번, 낮에 이야기꾼에게 예/아니오로 대답할 수 있는 질문을 개별적으로 물어볼 수 있습니다."
+
+msgctxt "artist flavor"
+msgid "Mon Dieu! C'est lumineux! My work, she is... how you say... Magnifique! Dieu est révélé! Oui."
+msgstr "Mon Dieu! C'est lumineux! My work, she is... how you say... Magnifique! Dieu est révélé! Oui."
+
+msgctxt "artist reminders"
+msgid "No ability"
+msgstr "능력없음"
+
+msgctxt "assassin name"
+msgid "Assassin"
+msgstr "암살자"
+
+msgctxt "assassin ability"
+msgid "Once per game, at night*, choose a player: they die, even if for some reason they could not."
+msgstr "게임당 한 번, 밤*에 플레이어를 선택합니다. 해당 플레이어가 어떤 이유로도 죽을 수 없더라도 죽게 됩니다."
+
+msgctxt "assassin flavor"
+msgid "..."
+msgstr "..."
+
+msgctxt "assassin otherNightReminder"
+msgid "If the Assassin has not yet used their ability: The Assassin either shows the 'no' head signal, or points to a player. That player dies."
+msgstr "매일 밤, 암살자를 깨웁니다, 능력을 사용하기로 했다면, 플레이어를 가리킵니다"
+
+msgctxt "assassin reminders"
+msgid "Dead,No ability"
+msgstr "사망,능력없음"
+
+msgctxt "atheist name"
+msgid "Atheist"
+msgstr "무신론자"
+
+msgctxt "atheist ability"
+msgid "The Storyteller can break the game rules & if executed, good wins, even if you are dead [No evil characters]"
+msgstr "이야기꾼는 게임 규칙을 깰 수 있고, 만약 이야기꾼을 처형하면 선한 쪽이 이깁니다. 당신이 죽었더라도요. [악한 캐릭터는 없습니다]"
+
+msgctxt "atheist flavor"
+msgid "Let us disperse with unnecessary conjecture and silly paranoia. There is a perfectly rational explanation for everything. Yes, a teacup may indeed be orbiting the planet, too small to see, but I shall drink my tea from the very real china in my very real hands."
+msgstr "Let us disperse with unnecessary conjecture and silly paranoia. There is a perfectly rational explanation for everything. Yes, a teacup may indeed be orbiting the planet, too small to see, but I shall drink my tea from the very real china in my very real hands."
+
+msgctxt "balloonist name"
+msgid "Balloonist"
+msgstr "기구비행사"
+
+msgctxt "balloonist ability"
+msgid "Each night, you learn a player of a different character type than last night. [+0 or +1 Outsider]"
+msgstr "매일 밤 (살아있거나 죽은) 마을주민/이방인/하수인/악마 중 1명씩을 알게 됩니다. (최대 4명) [+0 또는 +1 이방인]"
+
+msgctxt "balloonist flavor"
+msgid "More heat! Higher! Higher! Più alto! Ahhh... it is so beautiful from up here, don't you agree? Can you see the children fishing by the river, under the willow? Can you see the  glint of the sun on the circus tent-poles? What's this? An old man, alone, passed out in the vineyard? Less heat! Lower! Lower! Vai più in basso!"
+msgstr "More heat! Higher! Higher! Più alto! Ahhh... it is so beautiful from up here, don't you agree? Can you see the children fishing by the river, under the willow? Can you see the  glint of the sun on the circus tent-poles? What's this? An old man, alone, passed out in the vineyard? Less heat! Lower! Lower! Vai più in basso!"
+
+msgctxt "balloonist firstNightReminder"
+msgid "Choose a character type. Point to a player whose character is of that type. Place the Balloonist's Seen reminder next to that character."
+msgstr "캐릭터 타입을 고릅니다. 해당 타입의 플레이어를 가리킵니다. 확인한 알림토큰을 캐릭터 옆에 둡니다"
+
+msgctxt "balloonist otherNightReminder"
+msgid "Choose a character type different to the previous night. Point to a player whose character is of that type. Place the Balloonist's Seen reminder next to that character, remove the Seen reminder from the previous character."
+msgstr "이전 밤들과 다른 타입의 캐릭터를 선택합니다. 각 타입의 캐릭터를 가르키고, 확인한 알림토큰을 추가하고, 이전 알림토큰은 제거합니다"
+
+msgctxt "balloonist reminders"
+msgid "Seen Townsfolk,Seen Outsider,Seen Minion,Seen Demon,Seen Traveller"
+msgstr "마을주민 봄,이방인 봄,하수인 봄,악마 봄,여행자 봄"
+
+msgctxt "banshee name"
+msgid "Banshee"
+msgstr "밴시"
+
+msgctxt "banshee ability"
+msgid "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination."
+msgstr "당신이 악마에게 죽는 다면, 모든 플레이어가 이 사실을 알게됩니다. 이제부터 당신은 재판을 두번씩 열 수 있으며 투표를 두표씩 할 수 있습니다."
+
+msgctxt "banshee flavor"
+msgid "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh."
+msgstr "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh."
+
+msgctxt "banshee otherNightReminder"
+msgid "Announce that the Banshee has died."
+msgstr "밴시가 사망했음을 알립니다"
+
+msgctxt "banshee reminders"
+msgid "Has Ability"
+msgstr "능력 발동"
+
+msgctxt "barber name"
+msgid "Barber"
+msgstr "이발사"
+
+msgctxt "barber ability"
+msgid "If you died today or tonight, the Demon may choose 2 players (not another Demon) to swap characters."
+msgstr "낮이나 밤에 당신이 죽으면 악마는 직업을 교체할 플레이어 2명(다른 악마 제외)을 선택할 수 있습니다."
+
+msgctxt "barber flavor"
+msgid "Did you know that barbery and surgery were once the same profession? No? Well, now you do."
+msgstr "Did you know that barbery and surgery were once the same profession? No? Well, now you do."
+
+msgctxt "barber otherNightReminder"
+msgid "If the Barber died today: Wake the Demon. Show the 'This character selected you' card, then Barber token. The Demon either shows a 'no' head signal, or points to 2 players. If they chose players: Swap the character tokens. Wake each player. Show 'You are', then their new character token."
+msgstr "만약 이발사가 오늘 죽었다면, 악마를 꺠웁니다. \"이 캐릭터가 당신을 선택했습니다\" 카드와 이발사 토큰을 보여주세요. 악마는 고개를 좌우로 흔들거나 두명을 선택합니다. 해당 캐릭터들의 토큰을 교환합니다. 만약 진영이 다르다면, 뒤집어 놓습니다"
+
+msgctxt "barber reminders"
+msgid "Haircuts tonight"
+msgstr "오늘밤 이발"
+
+msgctxt "barista name"
+msgid "Barista"
+msgstr "바리스타"
+
+msgctxt "barista ability"
+msgid "Each night, until dusk, 1) a player becomes sober, healthy and gets true info, or 2) their ability works twice. They learn which."
+msgstr "매일밤, 해가 질때까지 한 플레이어에게 취함(또는 중독)을 깨게 하거나, 능력을 두번 발동하게 합니다. 해당 플레이어는 그 사실을 알게됩니다.(이 플레이어는 이야기꾼이 보장하는 진실된 정보를 얻습니다)"
+
+msgctxt "barista flavor"
+msgid "A cup of coffee with no cream, Monsieur? I’m terribly sorry, but we’re fresh out of cream — how about with no milk?"
+msgstr "A cup of coffee with no cream, Monsieur? I’m terribly sorry, but we’re fresh out of cream — how about with no milk?"
+
+msgctxt "barista firstNightReminder"
+msgid "Choose a player, wake them and tell them which Barista power is affecting them. Treat them accordingly (sober/healthy/true info or activate their ability twice)."
+msgstr "플레이어를 선택합니다. 그들을 깨우고 바리스타가 능력을 사용했음을 알립니다. ('건강' / '능력 두번' 효과중 적용한 것을 알려줍니다)"
+
+msgctxt "barista otherNightReminder"
+msgid "Choose a player, wake them and tell them which Barista power is affecting them. Treat them accordingly (sober/healthy/true info or activate their ability twice)."
+msgstr "플레이어를 선택합니다. 그들을 깨우고 바리스타가 능력을 사용했음을 알립니다. ('건강' / '능력 두번' 효과중 적용한 것을 알려줍니다)"
+
+msgctxt "barista reminders"
+msgid "Sober & Healthy,Ability twice"
+msgstr "건강,능력 두번"
+
+msgctxt "baron name"
+msgid "Baron"
+msgstr "남작"
+
+msgctxt "baron ability"
+msgid "There are extra Outsiders in play. [+2 Outsiders]"
+msgstr "2명의 이방인을 마을시민 대신 추가합니다. [+2 이방인]"
+
+msgctxt "baron flavor"
+msgid "This town has gone to the dogs, what? Cheap foreign labor... that's the ticket. Stuff them in the mine, I say. A bit of hard work never hurt anyone, and a clip'o'the ears to any brigand who says otherwise. It's all about the bottom line, what?"
+msgstr "This town has gone to the dogs, what? Cheap foreign labor... that's the ticket. Stuff them in the mine, I say. A bit of hard work never hurt anyone, and a clip'o'the ears to any brigand who says otherwise. It's all about the bottom line, what?"
+
+msgctxt "beggar name"
+msgid "Beggar"
+msgstr "거지"
+
+msgctxt "beggar ability"
+msgid "You must use a vote token to vote. Dead players may choose to give you theirs. If so, you learn their alignment. You are sober & healthy."
+msgstr "투표토큰이 있어야만 투표를 할 수 있습니다. 죽은 플레이어가 투표 토큰을 주면, 당신은 그들의 성향을 알게됩니다. 당신은 항상 건강합니다"
+
+msgctxt "beggar flavor"
+msgid "Alms for the poor, good Sir? Spare a coin, Madam? Thank you. God bless! You're a right kind soul and no mistake! I'll have some swanky nosh tonight, I will!"
+msgstr "Alms for the poor, good Sir? Spare a coin, Madam? Thank you. God bless! You're a right kind soul and no mistake! I'll have some swanky nosh tonight, I will!"
+
+msgctxt "bishop name"
+msgid "Bishop"
+msgstr "주교"
+
+msgctxt "bishop ability"
+msgid "Only the Storyteller can nominate. At least 1 opposite player must be nominated each day."
+msgstr "오직 이야기꾼만 지명할 수 있습니다. 매일 최소 1명의 상대 플레이어가 지명되어야 합니다"
+
+msgctxt "bishop flavor"
+msgid "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis."
+msgstr "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis."
+
+msgctxt "bishop reminders"
+msgid "Nominate good,Nominate evil"
+msgstr "선을 지명,악을 지명"
+
+msgctxt "boffin name"
+msgid "Boffin"
+msgstr "연구광"
+
+msgctxt "boffin ability"
+msgid "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which."
+msgstr "악마는 플레이 중이 아닌 한 캐릭터의 능력을 얻습니다.(취하거나 중독되었을지라도). 당신은 그 캐릭터를 둘에게 알려줍니다."
+
+msgctxt "boffin flavor"
+msgid "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle."
+msgstr "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle."
+
+msgctxt "boffin firstNightReminder"
+msgid "Wake the Boffin and show them the token of the ability the Demon has. Put the Boffin back to sleep. Wake the Demon, show the Boffin token, then show the token of the good ability the Demon has."
+msgstr "연구광을 깨우고 악마가 가지게 된 능력을 보여줍니다. 연구광을 다시 재웁니다. 악마를 꺠우고, 연구광 토큰을 보여준 후, 새롭게 가지게된 선한 능력 토큰을 보여줍니다."
+
+msgctxt "bonecollector name"
+msgid "Bone Collector"
+msgstr "뼈 수집가"
+
+msgctxt "bonecollector ability"
+msgid "Once per game, at night, choose a dead player: they regain their ability until dusk."
+msgstr "게임당 한 번씩, 밤에 죽은 플레이어를 한 명 선택하세요. 그 플레이어는 해가 질 때까지 능력을 회복합니다."
+
+msgctxt "bonecollector flavor"
+msgid "I collect many things. Hair. Teeth. Clothes. Fragments of poems. The dreams of lost lovers. My secret arts are not for you to know but my fee is a mere pittance. Bring me the blood of a noblewoman who died of heartbreak under a full moon, and you shall have your answers."
+msgstr "I collect many things. Hair. Teeth. Clothes. Fragments of poems. The dreams of lost lovers. My secret arts are not for you to know but my fee is a mere pittance. Bring me the blood of a noblewoman who died of heartbreak under a full moon, and you shall have your answers."
+
+msgctxt "bonecollector otherNightReminder"
+msgid "The Bone Collector either shakes their head no or points at any dead player. If they pointed at any dead player, put the Bone Collector's 'Has Ability' reminder by the chosen player's character token. (They may need to be woken tonight to use it.)"
+msgstr "뼈 수집가는 고개를 젓던가, 또는 죽은 플레이어를 선택합니다. 만약 죽은 플레이어를 지명한다면, 뼈 수집가의 '능력있음'  을 해당 플레이어 캐릭터 옆에 추가합니다. (그리고 다음 황혼에 그들은 능력을 잃습니다 알림토큰을 제거합니다"
+
+msgctxt "bonecollector reminders"
+msgid "No ability,Has ability"
+msgstr "능력없음,능력있음"
+
+msgctxt "boomdandy name"
+msgid "Boomdandy"
+msgstr "봄버맨"
+
+msgctxt "boomdandy ability"
+msgid "If you are executed, all but 3 players die. After a 10 to 1 countdown, the player with the most players pointing at them, dies."
+msgstr "당신이 처형 당하면, 즉시 3명을 제외한 모든 플레이어가 사망합니다. 1분 뒤 모든 플레이어는 살아남은 플레이어를 대상으로 누구를 죽일지 투표를 진행합니다"
+
+msgctxt "boomdandy flavor"
+msgid "Tick... Tick... Tick... TOCK."
+msgstr "Tick... Tick... Tick... TOCK."
+
+msgctxt "bootlegger name"
+msgid "Bootlegger"
+msgstr "부틀레거"
+
+msgctxt "bootlegger ability"
+msgid "This script has homebrew characters or rules."
+msgstr "이 스크립트에는 홈브류 캐릭터나 규칙이 있습니다."
+
+msgctxt "bootlegger flavor"
+msgid "I've got the latest shipment from home, a brew I'd like to call 'Barrowfog'. Wanna try?"
+msgstr "I've got the latest shipment from home, a brew I'd like to call 'Barrowfog'. Wanna try?"
+
+msgctxt "bootlegger firstNightReminder"
+msgid "Announce the Bootlegger is in play and inform the group of all homebrew characters and/or rules you are using in this game."
+msgstr "게임을 시작할 때 캐릭터 시트에 홈브류 캐릭터가 있거나 홈브류 규칙을 적용하고 있다면, 부틀레거가 플레이 중임을 선언하고 이 게임에서 사용하는 모든 홈브류 캐릭터 및/또는 규칙을 그룹에 알려주세요"
+
+msgctxt "bountyhunter name"
+msgid "Bounty Hunter"
+msgstr "현상금 사냥꾼"
+
+msgctxt "bountyhunter ability"
+msgid "You start knowing 1 evil player. If the player you know dies, you learn another evil player tonight. [1 Townsfolk is evil]"
+msgstr "당신은 악한 플레이어 1명을 알고 시작합니다. 알고있는 플레이어가 죽으면, 밤에 또다른 악한 플레이어를 알게됩니다. [마을시민 중 1명은 악한 진영]"
+
+msgctxt "bountyhunter flavor"
+msgid "Alone, I walk these streets, paved with the sick stench of corruption. Its thickness worms its way into my nostrils, unbidden, burning with revulsion. And anticipation. The illness of this wretched place grows each night. And I... I am the cure."
+msgstr "Alone, I walk these streets, paved with the sick stench of corruption. Its thickness worms its way into my nostrils, unbidden, burning with revulsion. And anticipation. The illness of this wretched place grows each night. And I... I am the cure."
+
+msgctxt "bountyhunter firstNightReminder"
+msgid "Point to 1 evil player. Wake the townsfolk who is evil and show them the 'You are' card and the thumbs down evil sign."
+msgstr "악한 플레이어를 한명 가리킵니다. 악한 마을주민 한명을 꺠우고 \"당신은\" 카드을 보여주고, 엄지를 아래로 내려 악한 편임을 알려줍니다(캐릭터 토큰을 뒤집어서 표시하세요)"
+
+msgctxt "bountyhunter otherNightReminder"
+msgid "If the known evil player has died, point to another evil player."
+msgstr "확인한 악한 플레이어가 죽는다면, 다른 악한 플레이어를 가리킵니다"
+
+msgctxt "bountyhunter reminders"
+msgid "Known"
+msgstr "알고있음"
+
+msgctxt "buddhist name"
+msgid "Buddhist"
+msgstr "불교"
+
+msgctxt "buddhist ability"
+msgid "For the first 2 minutes of each day, veteran players may not talk."
+msgstr "매일 처음 2분 동안은 베테랑 선수들은 말을 할 수 없습니다."
+
+msgctxt "buddhist flavor"
+msgid "You throw thorns. Falling in my silence, they become flowers."
+msgstr "You throw thorns. Falling in my silence, they become flowers."
+
+msgctxt "bureaucrat name"
+msgid "Bureaucrat"
+msgstr "관료"
+
+msgctxt "bureaucrat ability"
+msgid "Each night, choose a player (not yourself): their vote counts as 3 votes tomorrow."
+msgstr "매일 밤, 플레이어를 한 명 선택하세요(자신이 아닌). 그 사람의 투표는 내일 3표로 계산됩니다."
+
+msgctxt "bureaucrat flavor"
+msgid "Sign here please. And here. And here. Aaaaaaaaand here. This should all be sorted and tallied by the end of the day, assuming everyone's signatures are legible. We haven't had a mix-up in the paperwork for ages. Yesterday noon, if memory serves..."
+msgstr "Sign here please. And here. And here. Aaaaaaaaand here. This should all be sorted and tallied by the end of the day, assuming everyone's signatures are legible. We haven't had a mix-up in the paperwork for ages. Yesterday noon, if memory serves..."
+
+msgctxt "bureaucrat firstNightReminder"
+msgid "The Bureaucrat points to a player. Put the Bureaucrat's '3 votes' reminder by the chosen player's character token."
+msgstr "관료는 한 플레이어를 선택합니다. 관료의 '3표' 알람을 해당 플레이어 토큰 옆에 둡니다"
+
+msgctxt "bureaucrat otherNightReminder"
+msgid "The Bureaucrat points to a player. Put the Bureaucrat's '3 votes' reminder by the chosen player's character token."
+msgstr "관료는 한 플레이어를 선택합니다. 관료의 '3표' 알람을 해당 플레이어 토큰 옆에 둡니다"
+
+msgctxt "bureaucrat reminders"
+msgid "3 votes"
+msgstr "3표"
+
+msgctxt "butcher name"
+msgid "Butcher"
+msgstr "정육점 주인"
+
+msgctxt "butcher ability"
+msgid "Each day, after the 1st execution, you may nominate again."
+msgstr "매일 1차 처형 후 다시 지명할 수 있습니다."
+
+msgctxt "butcher flavor"
+msgid "It tastes like chicken. More please."
+msgstr "It tastes like chicken. More please."
+
+msgctxt "butler name"
+msgid "Butler"
+msgstr "집사"
+
+msgctxt "butler ability"
+msgid "Each night, choose a player (not yourself): tomorrow, you may only vote if they are voting too."
+msgstr "매일 밤 플레이어(본인 제외)를 선택합니다. 내일 해당 플레이어가 투표할 때만 투표할 수 있습니다."
+
+msgctxt "butler flavor"
+msgid ""
+"Yes, sir...\n"
+"No, sir...\n"
+"Certainly, sir."
+msgstr ""
+"Yes, sir...\n"
+"No, sir...\n"
+"Certainly, sir."
+
+msgctxt "butler firstNightReminder"
+msgid "The Butler points to a player. Mark that player as 'Master'."
+msgstr "집사는 플레이어를 선택합니다. '마스터' 마커를 표시합니다"
+
+msgctxt "butler otherNightReminder"
+msgid "The Butler points to a player. Mark that player as 'Master'."
+msgstr "집사는 플레이어를 선택합니다. '마스터' 마커를 표시합니다"
+
+msgctxt "butler reminders"
+msgid "Master"
+msgstr "마스터"
+
+msgctxt "cannibal name"
+msgid "Cannibal"
+msgstr "식인종"
+
+msgctxt "cannibal ability"
+msgid "You have the ability of the recently killed executee. If they are evil, you are poisoned until a good player dies by execution."
+msgstr "당신은 최근에 죽은자의 능력을 가집니다. 그들이 사악하다면, 선한 플레이어가 처형으로 죽을 때까지 중독됩니다 (무슨 능력인지는 모릅니다)"
+
+msgctxt "cannibal flavor"
+msgid "I don’t like clowns. They taste funny."
+msgstr "I don’t like clowns. They taste funny."
+
+msgctxt "cannibal reminders"
+msgid "Poisoned,Died today"
+msgstr "중독됨,처형됨"
+
+msgctxt "cerenovus name"
+msgid "Cerenovus"
+msgstr "세레노부스"
+
+msgctxt "cerenovus ability"
+msgid "Each night, choose a player & a good character: they are “mad” they are this character tomorrow, or might be executed."
+msgstr "매일 밤, 플레이어와 선한 직업을 선택합니다. 그 플레이어는 그 직업에 미쳐야합니다 그렇지 않으면 처형당할 수 있습니다."
+
+msgctxt "cerenovus flavor"
+msgid "Reality is merely an opinion. Specifically, my opinion."
+msgstr "Reality is merely an opinion. Specifically, my opinion."
+
+msgctxt "cerenovus firstNightReminder"
+msgid "The Cerenovus points to a player, then to a character on their sheet. Wake that player. Show the 'This character selected you' card, then the Cerenovus token. Show the selected character token. If the player is not mad about being that character tomorrow, they can be executed."
+msgstr "세레노부스가 한 플레이어와, 캐릭터를 가리킵니다(캐릭터시트 위의). 그 캐릭터를 꺠우고, \"이 캐릭터가 당신을 선택했습니다\" 카드를 보여주고, 세레노부스 토큰을 보여준 후, 선택된 캐릭터 토큰을 보여주세요. 만약 그 플레이어가 다음날 그 캐릭터에 충분히 미치지 않았다면, 그들을 처형시킬수 있습니다(이야기꾼이)"
+
+msgctxt "cerenovus otherNightReminder"
+msgid "The Cerenovus points to a player, then to a character on their sheet. Wake that player. Show the 'This character selected you' card, then the Cerenovus token. Show the selected character token. If the player is not mad about being that character tomorrow, they can be executed."
+msgstr "세레노부스가 한 플레이어와, 캐릭터를 가리킵니다(캐릭터시트 위의). 그 캐릭터를 꺠우고, \"이 캐릭터가 당신을 선택했습니다\" 카드를 보여주고, 세레노부스 토큰을 보여준 후, 선택된 캐릭터 토큰을 보여주세요. 만약 그 플레이어가 다음날 그 캐릭터에 충분히 미치지 않았다면, 그들을 처형시킬수 있습니다(이야기꾼이)"
+
+msgctxt "cerenovus reminders"
+msgid "Mad"
+msgstr "미침"
+
+msgctxt "chambermaid name"
+msgid "Chambermaid"
+msgstr "하녀"
+
+msgctxt "chambermaid ability"
+msgid "Each night, choose 2 alive players (not yourself): you learn how many woke tonight due to their ability."
+msgstr "매일 밤, 생존 플레이어 2명(본인 제외)을 선택합니다. 본인의 능력으로 오늘 밤 깨어난 플레이어가 몇 명인지 알게 됩니다."
+
+msgctxt "chambermaid flavor"
+msgid "I aint seen nothin' untoward, Milady. Begging your pardon, but if I did see somethin', it certainly weren't the master o' the house sneaking into the professor's laboratory 'round eleven o'clock and mixing up fancy potions, just like you said, Miss."
+msgstr "I aint seen nothin' untoward, Milady. Begging your pardon, but if I did see somethin', it certainly weren't the master o' the house sneaking into the professor's laboratory 'round eleven o'clock and mixing up fancy potions, just like you said, Miss."
+
+msgctxt "chambermaid firstNightReminder"
+msgid "The Chambermaid points to two players. Show the number signal (0, 1, 2, …) for how many of those players wake tonight for their ability."
+msgstr "하녀는 두명의 생존 플레이어를 지명합니다, 그리고 그날 밤에 깨어나는 능력을 가진 플레이어 숫자를 알려줍니다"
+
+msgctxt "chambermaid otherNightReminder"
+msgid "The Chambermaid points to two players. Show the number signal (0, 1, 2, …) for how many of those players wake tonight for their ability."
+msgstr "하녀는 두명의 생존 플레이어를 지명합니다, 그리고 그날 밤에 깨어나는 능력을 가진 플레이어 숫자를 알려줍니다"
+
+msgctxt "chef name"
+msgid "Chef"
+msgstr "요리사"
+
+msgctxt "chef ability"
+msgid "You start knowing how many pairs of evil players there are."
+msgstr "얼마나 많은 악한 플레이어가 붙어 앉아 있는지 알고 시작합니다.(몇 쌍이 있는지)"
+
+msgctxt "chef flavor"
+msgid "This evening's reservations seem odd. Never before has Mrs Mayweather kept company with that scamp from Hudson Lane. Yet, tonight, they have a table for two. Strange."
+msgstr "This evening's reservations seem odd. Never before has Mrs Mayweather kept company with that scamp from Hudson Lane. Yet, tonight, they have a table for two. Strange."
+
+msgctxt "chef firstNightReminder"
+msgid "Show the finger signal (0, 1, 2, …) for the number of pairs of neighbouring evil players."
+msgstr "이웃한 악한 플레이어 쌍 수를 알려줍니다"
+
+msgctxt "choirboy name"
+msgid "Choirboy"
+msgstr "성가대원"
+
+msgctxt "choirboy ability"
+msgid "If the Demon kills the King, you learn which player is the Demon. [+ the King]"
+msgstr "악마가 왕을 죽이면, 그날 밤 어느 플레이어가 악마인지 알 수 있습니다. [+1 왕]"
+
+msgctxt "choirboy flavor"
+msgid "I saw it, I did. I was in the pews, tidying the hymn books, when a dreadful tune started from the pipe organ. The organist had a long cloak, and long fingers on the keys. And a hat that looked… just like… yours."
+msgstr "I saw it, I did. I was in the pews, tidying the hymn books, when a dreadful tune started from the pipe organ. The organist had a long cloak, and long fingers on the keys. And a hat that looked… just like… yours."
+
+msgctxt "choirboy otherNightReminder"
+msgid "If the King was killed by the Demon, wake the Choirboy and point to the Demon player."
+msgstr "왕이 악마에게 죽는다면, 성가대원을 깨우고 악마를 알려주세요"
+
+msgctxt "clockmaker name"
+msgid "Clockmaker"
+msgstr "시계공"
+
+msgctxt "clockmaker ability"
+msgid "You start knowing how many steps from the Demon to its nearest Minion."
+msgstr "악마가 가장 가까운 하수인까지 몇 자리만큼 떨어졌는지 확인합니다."
+
+msgctxt "clockmaker flavor"
+msgid "Do not disturb me. The tick must continue, for the circle is a symbol of life and contains all things - all answers - in its divine machinery. I must work."
+msgstr "Do not disturb me. The tick must continue, for the circle is a symbol of life and contains all things - all answers - in its divine machinery. I must work."
+
+msgctxt "clockmaker firstNightReminder"
+msgid "Show the hand signal for the number (1, 2, 3, etc.) of places from Demon to closest Minion."
+msgstr "가장 가까운 악마와 하수인이 몇자리 떨어졌는지 숫자로 알려줍니다"
+
+msgctxt "courtier name"
+msgid "Courtier"
+msgstr "대신"
+
+msgctxt "courtier ability"
+msgid "Once per game, at night, choose a character: they are drunk for 3 nights & 3 days."
+msgstr "게임당 한 번, 밤에 캐릭터를 선택합니다. 그 캐릭터는 3일 동안 취합니다."
+
+msgctxt "courtier flavor"
+msgid "I am more afraid of an army of one hundred sheep led by a lion than an army of one hundred lions led by a sheep."
+msgstr "I am more afraid of an army of one hundred sheep led by a lion than an army of one hundred lions led by a sheep."
+
+msgctxt "courtier firstNightReminder"
+msgid "The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgstr "대신을 꺠웁니다, 아니오 또는 캐릭터 시트의 한명을 가리킵니다, 그 캐릭터에 '취함3' 알림토큰을 표기하고, 대신에게 '능력없음' 알림으로 표기합니다.(취함3,2,1 을 밤마다 바꿉니다)"
+
+msgctxt "courtier otherNightReminder"
+msgid "Reduce the remaining number of days the marked player is poisoned. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgstr "대신을 꺠웁니다, 아니오 또는 캐릭터 시트의 한명을 가리킵니다, 그 캐릭터에 '취함3' 알림토큰을 표기하고, 대신에게 '능력없음' 알림으로 표기합니다.(취함3,2,1 을 밤마다 바꿉니다)"
+
+msgctxt "courtier reminders"
+msgid "Drunk 3,Drunk 2,Drunk 1,No ability"
+msgstr "취함3, 취함2, 취함1, 능력없음"
+
+msgctxt "cultleader name"
+msgid "Cult Leader"
+msgstr "교주"
+
+msgctxt "cultleader ability"
+msgid "Each night, you become the alignment of an alive neighbour. If all good players choose to join your cult, your team wins."
+msgstr "매일 밤, 살아있는 이웃의 진영에 따라 당신의 진영이 바뀝니다. 모든 선한 플레이어가 당신의 교단에 가입했다면 당신의 진영이 승리합니다."
+
+msgctxt "cultleader flavor"
+msgid "Thinking themselves wise, they became fools."
+msgstr "Thinking themselves wise, they became fools."
+
+msgctxt "cultleader firstNightReminder"
+msgid "If the cult leader changed alignment, show them the thumbs up good signal of the thumbs down evil signal accordingly."
+msgstr "만약 교주의 진영이 바뀌었다면, 엄지를 위아래로 표기하여 알려주세요"
+
+msgctxt "cultleader otherNightReminder"
+msgid "If the cult leader changed alignment, show them the thumbs up good signal of the thumbs down evil signal accordingly."
+msgstr "만약 교주의 진영이 바뀌었다면, 엄지를 위아래로 표기하여 알려주세요"
+
+msgctxt "damsel name"
+msgid "Damsel"
+msgstr "아가씨"
+
+msgctxt "damsel ability"
+msgid "All Minions know you are in play. If a Minion publicly guesses you (once), your team loses."
+msgstr "게임당 한 번, 하수인이 공개적으로 당신을 추측하여 성공하면 당신의 진영은 패배합니다. (하수인들은 당신이 플레이 중이라는 것을 압니다)"
+
+msgctxt "damsel flavor"
+msgid "Don't touch the hair, honey."
+msgstr "Don't touch the hair, honey."
+
+msgctxt "damsel firstNightReminder"
+msgid "Wake all the Minions, show them the 'This character selected you' card and the Damsel token."
+msgstr "모든 하수인들을 깨우고, \"이 캐릭터가 당신을 선택했습니다\" 카드를 보여주고, 아가씨 토큰을 보여줍니다"
+
+msgctxt "damsel otherNightReminder"
+msgid "If selected by the Huntsman, wake the Damsel, show 'You are' card and a not-in-play Townsfolk token."
+msgstr "만약 헌츠맨에게 선택되었다면, 아가씨에게 \"당신은\" 카드를 보여주고, 플레이되지 않은 마을주민 토큰을 보여줍니다"
+
+msgctxt "damsel reminders"
+msgid "Guess used"
+msgstr "추측 사용"
+
+msgctxt "deusexfiasco name"
+msgid "Deus ex Fiasco"
+msgstr "이런! 실수"
+
+msgctxt "deusexfiasco ability"
+msgid "At least once per game, the Storyteller will make a mistake, correct it and publicly admit to it."
+msgstr "게임당 한 번씩 이야기꾼은 \"실수\"를 하고 이를 수정한 후 공개적으로 인정합니다."
+
+msgctxt "deusexfiasco reminders"
+msgid "Whoopsie"
+msgstr "이런!"
+
+msgctxt "deviant name"
+msgid "Deviant"
+msgstr "일탈꾼"
+
+msgctxt "deviant ability"
+msgid "If you were funny today, you cannot die by exile."
+msgstr "오늘 당신이 재밌었다면, 당신은 추방당해 죽을 수 없을 겁니다"
+
+msgctxt "deviant flavor"
+msgid "Twas the lady's quip, forsooth."
+msgstr "Twas the lady's quip, forsooth."
+
+msgctxt "devilsadvocate name"
+msgid "Devil's Advocate"
+msgstr "악마의 변호사"
+
+msgctxt "devilsadvocate ability"
+msgid "Each night, choose a living player (different to last night): if executed tomorrow, they don't die."
+msgstr "매일 밤, 살아있는 플레이어(어제 밤과 다른 플레이어)를 선택합니다. 내일 처형하더라도 죽지 않습니다."
+
+msgctxt "devilsadvocate flavor"
+msgid "My client, should the objection be overruled, pleads innocent by virtue of the prosecution's non-observance of statute 27.B - incorrect or misleading conjugation of a verb. The fact that nine of the jury died last night is simply prima facie, which is, as Wills vs Thule set precedent for, further reason to acquit."
+msgstr "My client, should the objection be overruled, pleads innocent by virtue of the prosecution's non-observance of statute 27.B - incorrect or misleading conjugation of a verb. The fact that nine of the jury died last night is simply prima facie, which is, as Wills vs Thule set precedent for, further reason to acquit."
+
+msgctxt "devilsadvocate firstNightReminder"
+msgid "The Devil’s Advocate points to a living player. That player survives execution tomorrow."
+msgstr "악마의 변호사는 살이있는 플레이어를 가리킵니다. 해당 플레이어는 내일 처형당해도 죽지 않습니다"
+
+msgctxt "devilsadvocate otherNightReminder"
+msgid "The Devil’s Advocate points to a living player, different from the previous night. That player survives execution tomorrow."
+msgstr "악마의 변호사는 어제와 다른 살이있는 플레이어를 가리킵니다. 해당 플레이어는 내일 처형당해도 죽지 않습니다"
+
+msgctxt "devilsadvocate reminders"
+msgid "Survives execution"
+msgstr "처형 생존"
+
+msgctxt "djinn name"
+msgid "Djinn"
+msgstr "진"
+
+msgctxt "djinn ability"
+msgid "Use the Djinn's special rule. All players know what it is."
+msgstr "진의 스페셜 룰을 사용하세요. 모든 플레이어가 그것이 무엇인지 알고 있습니다."
+
+msgctxt "djinn flavor"
+msgid ""
+"نحن لسنا هنا.\n"
+"                                انت لست حقيقي.\n"
+"                                كل شيء هو وهم.\n"
+"                                أسئلتك هي جبل نار في يوم صافٍ."
+msgstr ""
+"نحن لسنا هنا.\n"
+"                                انت لست حقيقي.\n"
+"                                كل شيء هو وهم.\n"
+"                                أسئلتك هي جبل نار في يوم صافٍ."
+
+msgctxt "doomsayer name"
+msgid "Doomsayer"
+msgstr "파멸주의자"
+
+msgctxt "doomsayer ability"
+msgid "If 4 or more players live, each living player may publicly choose (once per game) that a player of their own alignment dies."
+msgstr "4명 이상의 플레이어가 살아남는 경우, 살아남은 각 플레이어는 (게임당 한 번씩) 자신의 진영에 속한 플레이어가 죽는 것을 공개적으로 선택할 수 있습니다."
+
+msgctxt "doomsayer flavor"
+msgid "And on the Seventh Day, there shall be a great flood and a pestilence upon the People of the Village of the Ravens! The dead shall rise and the living shall repent! O Woe! O Unholy day! Only by great sacrifice shall they prevail! So sayeth the Sages of Nostros and so sayeth I."
+msgstr "And on the Seventh Day, there shall be a great flood and a pestilence upon the People of the Village of the Ravens! The dead shall rise and the living shall repent! O Woe! O Unholy day! Only by great sacrifice shall they prevail! So sayeth the Sages of Nostros and so sayeth I."
+
+msgctxt "dreamer name"
+msgid "Dreamer"
+msgstr "몽상가"
+
+msgctxt "dreamer ability"
+msgid "Each night, choose a player (not yourself or Travellers): you learn 1 good and 1 evil character, 1 of which is correct."
+msgstr "매일 밤 플레이어(본인 제외)를 선택합니다. 선/악 직업을 각1개씩 알게됩니다. 그중 1개가 해당 플레이어의 직업입니다."
+
+msgctxt "dreamer flavor"
+msgid "I remember the Clockmaker. The sky was red and it was raining fractal triangles. There was a smell of violets and a bubbling sound. A woman with glowing eyes and a scraggly beard was hissing at the sky. Then, I awoke."
+msgstr "I remember the Clockmaker. The sky was red and it was raining fractal triangles. There was a smell of violets and a bubbling sound. A woman with glowing eyes and a scraggly beard was hissing at the sky. Then, I awoke."
+
+msgctxt "dreamer firstNightReminder"
+msgid "The Dreamer points to a player. Show 1 good and 1 evil character token; one of these is correct."
+msgstr "몽상가가 한 플레이어를 가르키면, 그 플레이어의 직업과 반대 진영의 토큰 하나를 보여줍니다"
+
+msgctxt "dreamer otherNightReminder"
+msgid "The Dreamer points to a player. Show 1 good and 1 evil character token; one of these is correct."
+msgstr "몽상가가 한 플레이어를 가르키면, 그 플레이어의 직업과 반대 진영의 토큰 하나를 보여줍니다"
+
+msgctxt "drunk name"
+msgid "Drunk"
+msgstr "주정뱅이"
+
+msgctxt "drunk ability"
+msgid "You do not know you are the Drunk. You think you are a Townsfolk character, but you are not."
+msgstr "당신은 자신이 주정뱅이인지 모릅니다, 당신은 자신이 마을사람 캐릭터인줄 압니다"
+
+msgctxt "drunk flavor"
+msgid "I’m only a *hic* social drinker, my dear. Admittedly, I am a heavy *burp* socializer."
+msgstr "I’m only a *hic* social drinker, my dear. Admittedly, I am a heavy *burp* socializer."
+
+msgctxt "drunk remindersGlobal"
+msgid "Drunk"
+msgstr "취함"
+
+msgctxt "duchess name"
+msgid "Duchess"
+msgstr "공작부인"
+
+msgctxt "duchess ability"
+msgid "Each day, 3 players may choose to visit you. At night*, each visitor learns how many visitors are evil, but 1 gets false info."
+msgstr "매일 밤*, 3명의 플레이어가 당신을 방문하기로 선택할 수 있습니다. 밤에 각 방문자는 얼마나 많은 방문자가 사악한지 알게 되지만, 1명은 거짓 정보를 얻습니다. (3명은 낮에 미리 상의하여 결정 필요)"
+
+msgctxt "duchess flavor"
+msgid "We shall entertain between the hours of 6 and 7 precisely. Tea at 6:15. Scones at 6:45. Do not be late. Formal wear applies, as always."
+msgstr "We shall entertain between the hours of 6 and 7 precisely. Tea at 6:15. Scones at 6:45. Do not be late. Formal wear applies, as always."
+
+msgctxt "duchess reminders"
+msgid "Visitor,False Info"
+msgstr "방문자, 거짓정보"
+
+msgctxt "empath name"
+msgid "Empath"
+msgstr "공감능력자"
+
+msgctxt "empath ability"
+msgid "Each night, you learn how many of your 2 alive neighbours are evil."
+msgstr "매일 밤, 살아있는 두 이웃 중 몇 명이 악한 플레이어인지 알게 됩니다."
+
+msgctxt "empath flavor"
+msgid "My skin prickles. Something is not right here. I can feel it."
+msgstr "My skin prickles. Something is not right here. I can feel it."
+
+msgctxt "empath firstNightReminder"
+msgid "Show the finger signal (0, 1, 2) for the number of evil alive neighbours of the Empath."
+msgstr "공감능력자 좌우에 있는 살아있는 악한팀의 숫자를 손으로 알려줍니다"
+
+msgctxt "empath otherNightReminder"
+msgid "Show the finger signal (0, 1, 2) for the number of evil neighbours."
+msgstr "공감능력자 좌우에 있는 살아있는 악한팀의 숫자를 손으로 알려줍니다"
+
+msgctxt "engineer name"
+msgid "Engineer"
+msgstr "엔지니어"
+
+msgctxt "engineer ability"
+msgid "Once per game, at night, choose which Minions or which Demon is in play."
+msgstr "게임당 한 번, 밤에 일어나 하수인 혹은 악마의 직업을 선택해 바꿀 수 있습니다"
+
+msgctxt "engineer flavor"
+msgid "If it bends, great. If it breaks, well, it probably needed fixing anyway."
+msgstr "If it bends, great. If it breaks, well, it probably needed fixing anyway."
+
+msgctxt "engineer firstNightReminder"
+msgid "The Engineer shows a 'no' head signal, or points to a Demon or points to the relevant number of Minions. If the Engineer chose characters, replace the Demon or Minions with the choices, then wake the relevant players and show them the You are card and the relevant character tokens."
+msgstr "엔지니어에게 능력 사용 여부를 확인합니다. 만약 쓰기로 했다면, 캐릭터 시트에서 악마나 하수인을 가르키게 하세요. 해당 직업이 게임에 추가됩니다(유형은 유지됩니다), 새롭게 직업이 바뀐 캐릭터에게 \"당신은\" 카드를 보여주고, 새 직업 토큰을 보여주세요. (만약 이미 플레이 중이라면 바뀌지 않고, 엔지니어는 능력을 잃습니다)"
+
+msgctxt "engineer otherNightReminder"
+msgid "The Engineer shows a 'no' head signal, or points to a Demon or points to the relevant number of Minions. If the Engineer chose characters, replace the Demon or Minions with the choices, then wake the relevant players and show them the 'You are' card and the relevant character tokens."
+msgstr "엔지니어에게 능력 사용 여부를 확인합니다. 만약 쓰기로 했다면, 캐릭터 시트에서 악마나 하수인을 가르키게 하세요. 해당 직업이 게임에 추가됩니다(유형은 유지됩니다), 새롭게 직업이 바뀐 캐릭터에게 \"당신은\" 카드를 보여주고, 새 직업 토큰을 보여주세요. (만약 이미 플레이 중이라면 바뀌지 않고, 엔지니어는 능력을 잃습니다)"
+
+msgctxt "engineer reminders"
+msgid "No ability"
+msgstr "능력없음"
+
+msgctxt "eviltwin name"
+msgid "Evil Twin"
+msgstr "사악한 쌍둥이"
+
+msgctxt "eviltwin ability"
+msgid "You & an opposing player know each other. If the good player is executed, evil wins. Good can't win if you both live."
+msgstr "당신과 상대 플레이어는 서로를 알고 있습니다. 선한 플레이어가 처형되면 악이 승리합니다. 두 사람 모두 살아남는다면 선은 이길 수 없습니다(악마가 처형당할지라도)"
+
+msgctxt "eviltwin flavor"
+msgid "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!"
+msgstr "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!"
+
+msgctxt "eviltwin firstNightReminder"
+msgid "Wake the Evil Twin and their twin. Confirm that they have acknowledged each other. Point to the Evil Twin. Show their Evil Twin token to the twin player. Point to the twin. Show their character token to the Evil Twin player."
+msgstr "악한 쌍둥이와 선한 쌍둥이를 같이 깨웁니다. 선/악 쌍둥이 토큰으로 서로를 알려줍니다."
+
+msgctxt "eviltwin reminders"
+msgid "Twin"
+msgstr "쌍둥이"
+
+msgctxt "exorcist name"
+msgid "Exorcist"
+msgstr "엑소시스트"
+
+msgctxt "exorcist ability"
+msgid "Each night*, choose a player (different to last night): the Demon, if chosen, learns who you are then doesn't wake tonight."
+msgstr "매일 밤*(첫날 제외) 어제와 다른 플레이어를 선택 합니다. 악마를 선택한 경우, 악마는 오늘 밤 깨어나지 않습니다(악마는 당신이 누구인지 알게됩니다)."
+
+msgctxt "exorcist flavor"
+msgid "We cast you out, every unclean spirit, every satanic power, every onslaught of the infernal adversary, every legion, every diabolical group and sect, in the name and by the power of Our Lord Jesus Christ. We command you, begone and fly far from the Church of God, from the souls made by God in His image and redeemed by the precious blood of the divine Lamb."
+msgstr "We cast you out, every unclean spirit, every satanic power, every onslaught of the infernal adversary, every legion, every diabolical group and sect, in the name and by the power of Our Lord Jesus Christ. We command you, begone and fly far from the Church of God, from the souls made by God in His image and redeemed by the precious blood of the divine Lamb."
+
+msgctxt "exorcist otherNightReminder"
+msgid "The Exorcist points to a player, different from the previous night. If that player is the Demon: Wake the Demon. Show the Exorcist token. Point to the Exorcist. The Demon does not act tonight."
+msgstr "엑소시스트가 어젯밤과 다른 플레이어를 지명합니다. 만약 악마라면, 악마를 꺠우고 엑소시스트 토큰을 보여주고 플레이어를 알려줍니다. 오늘밤 악마는 죽이는 행동을 할 수 없습니다."
+
+msgctxt "exorcist reminders"
+msgid "Chosen"
+msgstr "선택됨"
+
+msgctxt "fanggu name"
+msgid "Fang Gu"
+msgstr "팡구"
+
+msgctxt "fanggu ability"
+msgid "Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu & you die instead. [+1 Outsider]"
+msgstr "매일 밤*(첫날 제외), 플레이어를 선택합니다. 플레이어는 죽습니다. 첫 번째로 팡구가 죽이는 이방인은 사악한 팡구가 되고 대신 당신이 죽습니다. [+1 이방인]"
+
+msgctxt "fanggu flavor"
+msgid "Your walls and your weapons are but smoke in dreams."
+msgstr "Your walls and your weapons are but smoke in dreams."
+
+msgctxt "fanggu otherNightReminder"
+msgid "The Fang Gu points to a player. That player dies. Or, if that player was an Outsider and there are no other Fang Gu in play: The Fang Gu dies instead of the chosen player. The chosen player is now an evil Fang Gu. Wake the new Fang Gu. Show the 'You are' card, then the Fang Gu token. Show the 'You are' card, then the thumb-down 'evil' hand sign."
+msgstr "팡구가 플레이어를 가리킵니다. 그 플레이어는 죽습니다. 만약 그 플레이어가 이방인이고, 다른 팡구가 게임에 없다면, 그 팡구는 대신 죽고 선택한 플레이어가 새로운 팡구가 됩니다. 새로운 팡구를 꺠우고, \"당신은\" 카드를 보여주고 팡구 토큰을 보여주고, 엄지를  내려 악한 편임을 알립니다"
+
+msgctxt "fanggu reminders"
+msgid "Dead,Once"
+msgstr "사망,한번"
+
+msgctxt "farmer name"
+msgid "Farmer"
+msgstr "농부"
+
+msgctxt "farmer ability"
+msgid "If you die at night, an alive good player becomes a Farmer."
+msgstr "밤에 죽으면 살아있는 선한 플레이어가 농부가 됩니다."
+
+msgctxt "farmer flavor"
+msgid "Even the high and mighty need food on the table. Without us, the city starves."
+msgstr "Even the high and mighty need food on the table. Without us, the city starves."
+
+msgctxt "farmer otherNightReminder"
+msgid "If a Farmer died tonight, choose another good player and make them the Farmer. Wake this player, show them the 'You are' card and the Farmer character token."
+msgstr "만약 농부가 밤에 죽었다면, 다른 선한 플레이어을 농부로 만드세요. 그 플레이어를 깨우고, \"당신은\" 카드를 보여준 후 농부토큰을 보여줍니다."
+
+msgctxt "fearmonger name"
+msgid "Fearmonger"
+msgstr "공포조장자"
+
+msgctxt "fearmonger ability"
+msgid "Each night, choose a player. If you nominate & execute them, their team loses. All players know if you choose a new player."
+msgstr "매일 밤 플레이어를 선택합니다. 선택했다면 공개적으로 알려줍니다,(누군지는 알려주지 않습니다) 공포조장자가 선택된 플레이어를 처형시킬경우 죽은 플레이어의 진영은 패배합니다"
+
+msgctxt "fearmonger flavor"
+msgid "Beware of gazing long into the Abyss, lest the Abyss also gaze into you."
+msgstr "Beware of gazing long into the Abyss, lest the Abyss also gaze into you."
+
+msgctxt "fearmonger firstNightReminder"
+msgid "The Fearmonger points to a player. Place the Fear token next to that player and announce that a new player has been selected with the Fearmonger ability."
+msgstr "공포조장자는 플레이어를 가리킵니다. 공포토큰을 그 플레이어 옆에 배치하고, 새로운 플레이어가 공포조장자에게 선택되었다고 알립니다"
+
+msgctxt "fearmonger otherNightReminder"
+msgid "The Fearmonger points to a player. If different from the previous night, place the Fear token next to that player and announce that a new player has been selected with the Fearmonger ability."
+msgstr "공포조장자는 플레이어를 가리킵니다. 공포토큰을 그 플레이어 옆에 배치하고, 새로운 플레이어가 공포조장자에게 선택되었다고 알립니다"
+
+msgctxt "fearmonger reminders"
+msgid "Fear"
+msgstr "공포"
+
+msgctxt "ferryman name"
+msgid "Ferryman"
+msgstr "Ferryman"
+
+msgctxt "ferryman ability"
+msgid "On the final day, all dead players regain their vote token."
+msgstr "On the final day, all dead players regain their vote token."
+
+msgctxt "ferryman flavor"
+msgid "When righteous dreams come, they have the weight of truth."
+msgstr "When righteous dreams come, they have the weight of truth."
+
+msgctxt "fibbin name"
+msgid "Fibbin"
+msgstr "피빈"
+
+msgctxt "fibbin ability"
+msgid "Once per game, 1 good player might get false information."
+msgstr "한 게임당 한 명의 뛰어난 플레이어가 잘못된 정보를 얻을 수도 있습니다."
+
+msgctxt "fibbin flavor"
+msgid ""
+"Tee-hee-hee.\n"
+"Tee. Hee. Hee."
+msgstr ""
+"Tee-hee-hee.\n"
+"Tee. Hee. Hee."
+
+msgctxt "fibbin reminders"
+msgid "Used"
+msgstr "사용됨"
+
+msgctxt "fiddler name"
+msgid "Fiddler"
+msgstr "바이올리니스트"
+
+msgctxt "fiddler ability"
+msgid "Once per game, the Demon secretly chooses an opposing player: all players choose which of these 2 players win."
+msgstr "게임당 한 번씩 악마는 비밀리에 상대 플레이어를 선택합니다. 모든 플레이어는 이 두 플레이어 중 누가 승리할지 선택합니다."
+
+msgctxt "fiddler flavor"
+msgid "I'll wager mi lyef ye cannae best me in a fiddle contest, ye boss-eyed snook! We'll go out on the lash, get the pub jammers an' have a right craic. I'll be layin' ma boots into ya come mornin' ye rumbly muppet."
+msgstr "I'll wager mi lyef ye cannae best me in a fiddle contest, ye boss-eyed snook! We'll go out on the lash, get the pub jammers an' have a right craic. I'll be layin' ma boots into ya come mornin' ye rumbly muppet."
+
+msgctxt "fisherman name"
+msgid "Fisherman"
+msgstr "어부"
+
+msgctxt "fisherman ability"
+msgid "Once per game, during the day, visit the Storyteller for some advice to help you win."
+msgstr "게임당 한 번, 이야기꾼을 방문해 당신의 진영의 승리에 도움이 되는 조언(사실이 아닐 수 있음)을 들을 수 있습니다"
+
+msgctxt "fisherman flavor"
+msgid "This was my favourite part of the river... see how the sunlight makes a rainbow from the monastery to the market? This was the best place for big fish. And the older I get, the bigger they were."
+msgstr "This was my favourite part of the river... see how the sunlight makes a rainbow from the monastery to the market? This was the best place for big fish. And the older I get, the bigger they were."
+
+msgctxt "fisherman reminders"
+msgid "No ability"
+msgstr "능력없음"
+
+msgctxt "flowergirl name"
+msgid "Flowergirl"
+msgstr "꽃파는소녀"
+
+msgctxt "flowergirl ability"
+msgid "Each night*, you learn if a Demon voted today."
+msgstr "매일 밤*(첫날 제외), 오늘 낮에 악마가 투표했는지 알 수 있습니다."
+
+msgctxt "flowergirl flavor"
+msgid "Yesterday's violets have withered and died, but today my poppies bloom."
+msgstr "Yesterday's violets have withered and died, but today my poppies bloom."
+
+msgctxt "flowergirl otherNightReminder"
+msgid "Nod 'yes' or shake head 'no' for whether the Demon voted today. Place the 'Demon not voted' marker (remove 'Demon voted', if any)."
+msgstr "악마가 투표했는지여부를 알려줍니다.(예/아니오)"
+
+msgctxt "flowergirl reminders"
+msgid "Demon voted,Demon not voted"
+msgstr "악마 투표,악마 미투표"
+
+msgctxt "fool name"
+msgid "Fool"
+msgstr "광대"
+
+msgctxt "fool ability"
+msgid "The first time you die, you don't."
+msgstr "처음 죽었을 때 죽지 않습니다."
+
+msgctxt "fool flavor"
+msgid "...and the King said 'What?! I've never even owned a pair of rubber pantaloons, let alone a custard cannon!' Ho-ho! Jolly day!"
+msgstr "...and the King said 'What?! I've never even owned a pair of rubber pantaloons, let alone a custard cannon!' Ho-ho! Jolly day!"
+
+msgctxt "fool reminders"
+msgid "No ability"
+msgstr "능력없음"
+
+msgctxt "fortuneteller name"
+msgid "Fortune Teller"
+msgstr "점쟁이"
+
+msgctxt "fortuneteller ability"
+msgid "Each night, choose 2 players: you learn if either is a Demon. There is a good player that registers as a Demon to you."
+msgstr "매일 밤, 2명의 플레이어를 선택합니다. 두명 중 악마가 있는지 알게 됩니다. *당신에게 악마로 보이는 선한 플레이어가 한 명 있습니다."
+
+msgctxt "fortuneteller flavor"
+msgid "I sense great evil in your soul! But... that could just be your perfume. I am allergic to Elderberry."
+msgstr "I sense great evil in your soul! But... that could just be your perfume. I am allergic to Elderberry."
+
+msgctxt "fortuneteller firstNightReminder"
+msgid "The Fortune Teller points to two players. Give the head signal (nod yes, shake no) for whether one of those players is the Demon."
+msgstr "점쟁이는 두명의 플레이어를 선택합니다. 그중 악마가 있는지 Yes/No로 알려줍니다"
+
+msgctxt "fortuneteller otherNightReminder"
+msgid "The Fortune Teller points to two players. Show the head signal (nod 'yes', shake 'no') for whether one of those players is the Demon."
+msgstr "점쟁이는 두명의 플레이어를 선택합니다. 그중 악마가 있는지 Yes/No로 알려줍니다"
+
+msgctxt "fortuneteller reminders"
+msgid "Red herring"
+msgstr "레드 헤링"
+
+msgctxt "gambler name"
+msgid "Gambler"
+msgstr "도박꾼"
+
+msgctxt "gambler ability"
+msgid "Each night*, choose a player & guess their character: if you guess wrong, you die."
+msgstr "매일 밤*(첫날 제외) 플레이어를 선택해 캐릭터를 맞춰보세요. 틀리면 죽습니다. (자신도 맞출수 있습니다)"
+
+msgctxt "gambler flavor"
+msgid "Heads, I win. Tails, you lose."
+msgstr "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
+
+msgctxt "gambler otherNightReminder"
+msgid "The Gambler points to a player, and a character on their sheet. If incorrect, the Gambler dies."
+msgstr "도박꾼은 플레이어를 가르키고, 캐릭터 시트도 가리킵니다. 만약 틀리다면, 도박꾼은 죽습니다"
+
+msgctxt "gambler reminders"
+msgid "Dead"
+msgstr "사망"
+
+msgctxt "gangster name"
+msgid "Gangster"
+msgstr "갱스터"
+
+msgctxt "gangster ability"
+msgid "Once per day, you may choose to kill an alive neighbour, if your other alive neighbour agrees."
+msgstr "하루에 한 번, 다른 살아있는 이웃이 동의할 경우 살아있는 이웃을 죽일 수 있습니다."
+
+msgctxt "gangster flavor"
+msgid "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
+msgstr "Heads, I win. Tails, you lose."
+
+msgctxt "gardener name"
+msgid "Gardener"
+msgstr "Gardener"
+
+msgctxt "gardener ability"
+msgid "The Storyteller assigns 1 or more players' characters."
+msgstr "The Storyteller assigns 1 or more players' characters."
+
+msgctxt "gardener flavor"
+msgid "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
+msgstr "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
+
+msgctxt "general name"
+msgid "General"
+msgstr "장군"
+
+msgctxt "general ability"
+msgid "Each night, you learn which alignment the Storyteller believes is winning: good, evil, or neither."
+msgstr "매일 밤, 당신은 현재 유리한 진영이 어디인지 알게 됩니다. (이야기꾼의 판단)"
+
+msgctxt "general flavor"
+msgid "I don’t have time for quotes."
+msgstr "I don’t have time for quotes."
+
+msgctxt "general firstNightReminder"
+msgid "Show the General thumbs up for good winning, thumbs down for evil winning or thumb to the side for neither."
+msgstr "장군에게 엄지로 선/악 중 어디가 유리한지 알려줍니다"
+
+msgctxt "general otherNightReminder"
+msgid "Show the General thumbs up for good winning, thumbs down for evil winning or thumb to the side for neither."
+msgstr "장군에게 엄지로 선/악 중 어디가 유리한지 알려줍니다"
+
+msgctxt "gnome name"
+msgid "Gnome"
+msgstr "Gnome"
+
+msgctxt "gnome ability"
+msgid "All players start knowing a player of your alignment. You may choose to kill anyone who nominates them."
+msgstr "All players start knowing a player of your alignment. You may choose to kill anyone who nominates them."
+
+msgctxt "gnome flavor"
+msgid "Four the score or seven beers, no shows are goes for me and my. A prank to crack the cranks and planks o' the floor foundation length, so incontravertabubbilly mini. The large essays down streams of joyce, no greater than is scene, not inherdt, Ha-urrumph.o."
+msgstr "Four the score or seven beers, no shows are goes for me and my. A prank to crack the cranks and planks o' the floor foundation length, so incontravertabubbilly mini. The large essays down streams of joyce, no greater than is scene, not inherdt, Ha-urrumph.o."
+
+msgctxt "gnome reminders"
+msgid "Amigo"
+msgstr "Amigo"
+
+msgctxt "goblin name"
+msgid "Goblin"
+msgstr "고블린"
+
+msgctxt "goblin ability"
+msgid "If you publicly claim to be the Goblin when nominated & are executed that day, your team wins."
+msgstr "당신이 지명되었을 때 공개적으로 고블린이라고 주장하고, 그 날 처형된다면 당신의 진영이 승리합니다."
+
+msgctxt "goblin flavor"
+msgid "You don’t want to insult the goblins. You really, really don’t. On a completely different note… can I have another piece of cake?"
+msgstr "You don’t want to insult the goblins. You really, really don’t. On a completely different note… can I have another piece of cake?"
+
+msgctxt "goblin reminders"
+msgid "Claimed"
+msgstr "주장됨"
+
+msgctxt "godfather name"
+msgid "Godfather"
+msgstr "대부"
+
+msgctxt "godfather ability"
+msgid "You start knowing which Outsiders are in play. If 1 died today, choose a player tonight: they die. [−1 or +1 Outsider]"
+msgstr "어떤 이방인이 플레이 중인지 알고 시작합니다. 이방인이 처형당한 날 밤에 일어나 플레이어 한명을 죽일 수 있습니다. [-1 또는 +1 이방인]"
+
+msgctxt "godfather flavor"
+msgid "Normally, it's just business. But when you insult my daughter, you insult me. And when you insult me, you insult my family. You really should be more careful - it would be a shame if you had an unfortunate accident."
+msgstr "Normally, it's just business. But when you insult my daughter, you insult me. And when you insult me, you insult my family. You really should be more careful - it would be a shame if you had an unfortunate accident."
+
+msgctxt "godfather firstNightReminder"
+msgid "Show each of the Outsider tokens in play."
+msgstr "이방인들의 토큰을 보여줍니다"
+
+msgctxt "godfather otherNightReminder"
+msgid "If an Outsider died today: The Godfather points to a player. That player dies."
+msgstr "만약 이방인이 오늘 죽었다면, 다른 플레이어 한명을 죽일 수 있습니다"
+
+msgctxt "godfather reminders"
+msgid "Died today,Dead"
+msgstr "오늘 사망,사망"
+
+msgctxt "golem name"
+msgid "Golem"
+msgstr "골렘"
+
+msgctxt "golem ability"
+msgid "You may only nominate once per game. When you do, if the nominee is not the Demon, they die."
+msgstr "게임당 한 번만 지명 할 수 있습니다. 지명한 사람이 악마가 아니라면, 해당 플레이어는 죽습니다. (투표는 정상 진행)"
+
+msgctxt "golem flavor"
+msgid "Golem help? Golem smash! Golem help."
+msgstr "Golem help? Golem smash! Golem help."
+
+msgctxt "golem reminders"
+msgid "Can not nominate"
+msgstr "지명 불가"
+
+msgctxt "goon name"
+msgid "Goon"
+msgstr "깡패"
+
+msgctxt "goon ability"
+msgid "Each night, the 1st player to choose you with their ability is drunk until dusk. You become their alignment."
+msgstr "매일 밤, 당신을 능력으로 선택한 첫 번째 플레이어는 해가 질 때까지 취해 있습니다. 당신은 그들의 진영이 됩니다"
+
+msgctxt "goon flavor"
+msgid "Yes boss. I explained fings real good to dat geezer. He don't want me explain it again. Nah boss, I don't need no doctor - it's only a knife wound. Be right come mornin'"
+msgstr "Yes boss. I explained fings real good to dat geezer. He don't want me explain it again. Nah boss, I don't need no doctor - it's only a knife wound. Be right come mornin'"
+
+msgctxt "goon reminders"
+msgid "Drunk"
+msgstr "취함"
+
+msgctxt "gossip name"
+msgid "Gossip"
+msgstr "험담꾼"
+
+msgctxt "gossip ability"
+msgid "Each day, you may make a public statement. Tonight, if it was true, a player dies."
+msgstr "매일 낮 공개적으로 험담을 발표할 수 있습니다. 그것이 사실이면 오늘 밤, 플레이어 1명이 죽습니다."
+
+msgctxt "gossip flavor"
+msgid "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah."
+msgstr "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah."
+
+msgctxt "gossip otherNightReminder"
+msgid "If the Gossip’s public statement was true: Choose a player not protected from dying tonight. That player dies."
+msgstr "험담꾼의 공개적인 험담이 진실이라면, 아무 플레이어를 선택하고 죽입니다 (죽음면역이 없는)"
+
+msgctxt "gossip reminders"
+msgid "Dead"
+msgstr "사망"
+
+msgctxt "grandmother name"
+msgid "Grandmother"
+msgstr "할머니"
+
+msgctxt "grandmother ability"
+msgid "You start knowing a good player & their character. If the Demon kills them, you die too."
+msgstr "당신은 선한 플레이어(손주)와 그의 직업을 알고 시작합니다. 악마가 손주를 죽이면 당신도 죽습니다."
+
+msgctxt "grandmother flavor"
+msgid "Take a jacket if you go outside, dearie. And your thermos. And your scarf. I have a weak heart, you know. Whatever would I do if you caught cold...or worse?"
+msgstr "Take a jacket if you go outside, dearie. And your thermos. And your scarf. I have a weak heart, you know. Whatever would I do if you caught cold...or worse?"
+
+msgctxt "grandmother firstNightReminder"
+msgid "Show the marked character token. Point to the marked player."
+msgstr "손주의 캐릭터 토큰과 플레이어를 알려줍니다"
+
+msgctxt "grandmother otherNightReminder"
+msgid "If the Grandmother’s grandchild was killed by the Demon tonight: The Grandmother dies."
+msgstr "손주가 악마에게 죽는다면, 할머니도 죽습니다"
+
+msgctxt "grandmother reminders"
+msgid "Grandchild"
+msgstr "손주"
+
+msgctxt "gunslinger name"
+msgid "Gunslinger"
+msgstr "총잡이"
+
+msgctxt "gunslinger ability"
+msgid "Each day, after the 1st vote has been tallied, you may choose a player that voted: they die."
+msgstr "매일 1차 투표가 집계된 후, 투표한 플레이어를 선택할 수 있습니다. 선택하신 플레이어는 죽습니다."
+
+msgctxt "gunslinger flavor"
+msgid "It's time someone took matters into their own hands. That someone... is me."
+msgstr "It's time someone took matters into their own hands. That someone... is me."
+
+msgctxt "harlot name"
+msgid "Harlot"
+msgstr "매춘부"
+
+msgctxt "harlot ability"
+msgid "Each night*, choose a living player: if they agree, you learn their character, but you both might die."
+msgstr "매일 밤*(첫날 제외), 살아있는 플레이어를 선택하세요. 그들이 동의하면, 당신은 그 플레이어의 성격을 알게 되지만, 두 분 다 죽을 수도 있습니다.(이야기꾼이 선택)"
+
+msgctxt "harlot flavor"
+msgid "Enchanté, Sailor. You look like you need someone to really listen to your troubles. I'm a good listener. Very, very good."
+msgstr "Enchanté, Sailor. You look like you need someone to really listen to your troubles. I'm a good listener. Very, very good."
+
+msgctxt "harlot otherNightReminder"
+msgid "The Harlot points at any player. Then, put the Harlot to sleep. Wake the chosen player, show them the 'This character selected you' token, then the Harlot token. That player either nods their head yes or shakes their head no. If they nodded their head yes, wake the Harlot and show them the chosen player's character token. Then, you may decide that both players die."
+msgstr "매춘부가 플레이어를 가르키고, 매춘부는 다시 잠듭니다. 선택된 플레이어를 꺠워서 \"이 캐릭터가 당신을 선택했습니다\" 카드를 보여주고, 그리고 매춘부 토큰을 보여줍니다. 그 플레이어는 매춘부에게 캐릭터를 공개할지 선택할 수 있습니다. 만약 공개하기로 선택했다면, 이야기꾼은 둘다 함께 죽일지 말지 선택합니다"
+
+msgctxt "harlot reminders"
+msgid "Dead"
+msgstr "사망"
+
+msgctxt "harpy name"
+msgid "Harpy"
+msgstr "하피"
+
+msgctxt "harpy ability"
+msgid "Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or one or both might die."
+msgstr "매일 밤, 두 명의 플레이어를 선택합니다. 다음날 첫 번째로 지목당한 플레이어는 두 번째로 지목당한 플레이어가 악이라고 \"미쳐\"야 합니다. (악이라고 주장해야 합니다. 제대로 미치지 않았다고 판단된다면, 이야기꾼이 한명 또는 두명을 죽일수 있습니다)"
+
+msgctxt "harpy flavor"
+msgid "So fair a day I never did see, nor so fowl a presence hanging over me."
+msgstr "So fair a day I never did see, nor so fowl a presence hanging over me."
+
+msgctxt "harpy firstNightReminder"
+msgid "Wake the Harpy; they point at one player, then another. Wake the 1st player the Harpy pointed to, show them the 'This character has selected you' card, show them the Harpy token, then point at the 2nd player the Harpy pointed to."
+msgstr "하피를 깨워서, 한명, 한명 차례로 가르키게 합니다. 첫번쨰 지목한 플레이어를 깨우고, \"이 플레이어가 당신을 선택했습니다\" 카드를 보여주고, 두번쨰 지목됝 플레이어를 알려줍니다."
+
+msgctxt "harpy otherNightReminder"
+msgid "Wake the Harpy; they point at one player, then another. Wake the 1st player the Harpy pointed to, show them the 'This character has selected you' card, show them the Harpy token, then point at the 2nd player the Harpy pointed to."
+msgstr "하피를 깨워서, 한명, 한명 차례로 가르키게 합니다. 첫번쨰 지목한 플레이어를 깨우고, \"이 플레이어가 당신을 선택했습니다\" 카드를 보여주고, 두번쨰 지목됝 플레이어를 알려줍니다."
+
+msgctxt "harpy reminders"
+msgid "Mad, 2nd"
+msgstr "미침, 두번쨰"
+
+msgctxt "hatter name"
+msgid "Hatter"
+msgstr "모자장수"
+
+msgctxt "hatter ability"
+msgid "If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be."
+msgstr "오늘이나 오늘 밤에 죽으면 하수인과 악마 플레이어는 새로운 하수인과 악마 캐릭터를 선택할 수 있습니다"
+
+msgctxt "hatter flavor"
+msgid "One Hat. Too Hat. Three Hat. Tea Hat. Fore Hat. Thrive Hat. Six Hat. Sticks Hat."
+msgstr "One Hat. Too Hat. Three Hat. Tea Hat. Fore Hat. Thrive Hat. Six Hat. Sticks Hat."
+
+msgctxt "hatter otherNightReminder"
+msgid "If the Hatter died today: Wake the Minions and Demon. Show them the 'This Character Selected You' info token, then the Hatter token. Each player either shakes their head no or points to another character of the same type as their current character.  If a second player would end up with the same character as another player, shake your head no and gesture for them to choose again. Put them to sleep. Change each player to the character they chose."
+msgstr "만약 모자장수가 오늘 죽었다면, 하수인들과 악마를 꺠우고, \"이 캐릭터가 당신을 선택했습니다\" 카드를 보여줍니다. 그리고 그들은 같은 유형의 새로운 캐릭터를 선택합니다(바꾸지 않을수도 있습니다), 차례로 반복합니다"
+
+msgctxt "hatter reminders"
+msgid "Tea Party Tonight"
+msgstr "오늘밤 티파티"
+
+msgctxt "hellslibrarian name"
+msgid "Hell's Librarian"
+msgstr "지옥의 사서"
+
+msgctxt "hellslibrarian ability"
+msgid "Something bad might happen to whoever talks when the Storyteller has asked for silence."
+msgstr "이야기꾼이 침묵을 요청했을 때 말하는 사람에게는 나쁜 일이 일어날 수도 있습니다."
+
+msgctxt "hellslibrarian flavor"
+msgid "Shhhhhh. Please be quiet. It is best not to disturb the Librarian. I've heard it has a temper."
+msgstr "Shhhhhh. Please be quiet. It is best not to disturb the Librarian. I've heard it has a temper."
+
+msgctxt "hellslibrarian reminders"
+msgid "Something Bad"
+msgstr "불행한 일"
+
+msgctxt "heretic name"
+msgid "Heretic"
+msgstr "이교도"
+
+msgctxt "heretic ability"
+msgid "Whoever wins, loses & whoever loses, wins, even if you are dead."
+msgstr "어떤 진영이든 이길때 지게되며, 질때 이기게 됩니다 당신이 죽더라도 지속됩니다"
+
+msgctxt "heretic flavor"
+msgid "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
+msgstr "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
+
+msgctxt "highpriestess name"
+msgid "High Priestess"
+msgstr "대사제"
+
+msgctxt "highpriestess ability"
+msgid "Each night, learn which player the Storyteller believes you should talk to most."
+msgstr "매일 밤, 이야기꾼이 당신이 가장 대화를 나눠야 한다고 생각하는 플레이어가 누구인지 알아보세요."
+
+msgctxt "highpriestess flavor"
+msgid "There is life behind the personality that uses personalities as masks. There are times when life puts off the mask and deep answers to deep."
+msgstr "There is life behind the personality that uses personalities as masks. There are times when life puts off the mask and deep answers to deep."
+
+msgctxt "highpriestess firstNightReminder"
+msgid "Point to a player."
+msgstr "플레이어를 가르키세요"
+
+msgctxt "highpriestess otherNightReminder"
+msgid "Point to a player."
+msgstr "플레이어를 가르키세요"
+
+msgctxt "huntsman name"
+msgid "Huntsman"
+msgstr "헌츠맨"
+
+msgctxt "huntsman ability"
+msgid "Once per game, at night, choose a living player: the Damsel, if chosen, becomes a not-in-play Townsfolk. [+the Damsel]"
+msgstr "게임당 한 번, 밤에 살아있는 플레이어를 선택하세요. 아가씨을 선택하면 플레이에 참여하지 않는 마을주민이 됩니다. [+아가씨]"
+
+msgctxt "huntsman flavor"
+msgid "My cabin is warm and sturdy. My axe by the door, my boots drying by the fire, and elk stew a-simmering… Hark! A scream echoes through the valley! The rain and the mud and the cold, cold wind mask the scent of the wolves, but I know the path and my pace is steady. I am coming."
+msgstr "My cabin is warm and sturdy. My axe by the door, my boots drying by the fire, and elk stew a-simmering… Hark! A scream echoes through the valley! The rain and the mud and the cold, cold wind mask the scent of the wolves, but I know the path and my pace is steady. I am coming."
+
+msgctxt "huntsman firstNightReminder"
+msgid "The Huntsman shakes their head 'no' or points to a player. If they point to the Damsel, wake that player, show the 'You are' card and a not-in-play character token."
+msgstr "헌츠맨에게 능력 사용여부를 확인합니다. 사용하기로 했다면, 플레이어를 가르키게 합니다. 만약 아가씨를 선택했다면, 아가씨를 깨우고 \"당신은\" 카드를 보여주고 플레이 중이 아닌 마을사람 하나를 보여줍니다, 이제 아가씨는 그 마을사람으로 바뀌고 토큰도 바꿉니다"
+
+msgctxt "huntsman otherNightReminder"
+msgid "The Huntsman shakes their head 'no' or points to a player. If they point to the Damsel, wake that player, show the 'You are' card and a not-in-play character token."
+msgstr "헌츠맨에게 능력 사용여부를 확인합니다. 사용하기로 했다면, 플레이어를 가르키게 합니다. 만약 아가씨를 선택했다면, 아가씨를 깨우고 \"당신은\" 카드를 보여주고 플레이 중이 아닌 마을사람 하나를 보여줍니다, 이제 아가씨는 그 마을사람으로 바뀌고 토큰도 바꿉니다"
+
+msgctxt "huntsman reminders"
+msgid "No ability"
+msgstr "능력없음"
+
+msgctxt "imp name"
+msgid "Imp"
+msgstr "임프"
+
+msgctxt "imp ability"
+msgid "Each night*, choose a player: they die. If you kill yourself this way, a Minion becomes the Imp."
+msgstr "매일 밤*(첫날 제외) 플레이어를 선택합니다. 해당플레이어는 죽습니다. 만약 자살하게 되면 하수인이 임프가 됩니다."
+
+msgctxt "imp flavor"
+msgid "We must keep our wits sharp and our sword sharper. Evil walks among us, and will stop at nothing to destroy us good, simple folk, bringing our fine town to ruin. Trust no-one. But, if you must trust someone, trust me."
+msgstr "We must keep our wits sharp and our sword sharper. Evil walks among us, and will stop at nothing to destroy us good, simple folk, bringing our fine town to ruin. Trust no-one. But, if you must trust someone, trust me."
+
+msgctxt "imp otherNightReminder"
+msgid "The Imp points to a player. That player dies. If the Imp chose themselves: Replace the character of 1 alive minion with a spare Imp token. Show the 'You are' card, then the Imp token."
+msgstr "임프는 플레이어를 가리킵니다. 그 플레이어는 죽습니다. 만약 임프가 스스로를 가르킨다면, 살아있는 하수인 중 하나를 임프로 만듭니다. 그 하수인에게 \"당신은\" 카드를 보여주고, 임프를 보여주세요"
+
+msgctxt "imp reminders"
+msgid "Dead"
+msgstr "사망"
+
+msgctxt "innkeeper name"
+msgid "Innkeeper"
+msgstr "여관주인"
+
+msgctxt "innkeeper ability"
+msgid "Each night*, choose 2 players: they can't die tonight, but 1 is drunk until dusk."
+msgstr "매일 밤*(첫날 제외) 2명의 플레이어를 선택합니다, 해당 플레이어들은 오늘 밤엔 죽지 않지만, 둘 중 1명은 다음날 낮까지 취합니다."
+
+msgctxt "innkeeper flavor"
+msgid "Come inside, fair traveller, and rest your weary bones. Drink and be merry, for the legions of the Dark One shall not harass thee tonight."
+msgstr "Come inside, fair traveller, and rest your weary bones. Drink and be merry, for the legions of the Dark One shall not harass thee tonight."
+
+msgctxt "innkeeper otherNightReminder"
+msgid "The previously protected and drunk players lose those markers. The Innkeeper points to two players. Those players are protected. One is drunk."
+msgstr "이전에 보호 & 취한 플레이어는 그 마커가 제거됩니다. 여관주인은 두명을 가리킵니다. 그들은 보호되고, 그중 한명은 취합니다"
+
+msgctxt "innkeeper reminders"
+msgid "Protected,Drunk"
+msgstr "보호됨, 취함"
+
+msgctxt "investigator name"
+msgid "Investigator"
+msgstr "조사관"
+
+msgctxt "investigator ability"
+msgid "You start knowing that 1 of 2 players is a particular Minion."
+msgstr "플레이어 2명 중 1명이 특정 하수인이라는 걸 알게 됩니다"
+
+msgctxt "investigator flavor"
+msgid "It is a fine night for a stroll, wouldn't you say, Mister Morozov? Or should I say... BARON Morozov?"
+msgstr "It is a fine night for a stroll, wouldn't you say, Mister Morozov? Or should I say... BARON Morozov?"
+
+msgctxt "investigator firstNightReminder"
+msgid "Show the character token of a Minion in play. Point to two players, one of which is that character."
+msgstr "게임에 사용중인 하수인 토큰 한개를 보여줍니다. 그리고 그 하수인을 포함해 두명을 가리킵니다"
+
+msgctxt "investigator reminders"
+msgid "Minion,Wrong"
+msgstr "하수인,가짜"
+
+msgctxt "judge name"
+msgid "Judge"
+msgstr "판사"
+
+msgctxt "judge ability"
+msgid "Once per game, if another player nominated, you may choose to force the current execution to pass or fail."
+msgstr "게임당 한 번씩, 다른 플레이어가 지명한 경우 현재 투표를 통과 또는 실패로 강제할 수 있습니다"
+
+msgctxt "judge flavor"
+msgid "I find the defendant guilty of the crimes of murder, fraud, arson, larceny, impersonating an officer of the law, practicing medicine without a license, slander, regicide, and littering."
+msgstr "I find the defendant guilty of the crimes of murder, fraud, arson, larceny, impersonating an officer of the law, practicing medicine without a license, slander, regicide, and littering."
+
+msgctxt "judge reminders"
+msgid "No ability"
+msgstr "능력 없음"
+
+msgctxt "juggler name"
+msgid "Juggler"
+msgstr "저글러"
+
+msgctxt "juggler ability"
+msgid "On your 1st day, publicly guess up to 5 players' characters. That night, you learn how many you got correct."
+msgstr "첫 번째 낮에 최대 5명의 플레이어 & 직업을 공개적으로 추측할 수 있습니다. 그날 밤, 당신은 몇 개를 맞혔는지 알게 됩니다."
+
+msgctxt "juggler flavor"
+msgid "For my next trick, as per request, I will need a flower, a bag of beans, a toy snake, a paintbrush, and a motorized gasoline-powered hedge trimming device. I warn you, this trick may be my last. Oh dear."
+msgstr "For my next trick, as per request, I will need a flower, a bag of beans, a toy snake, a paintbrush, and a motorized gasoline-powered hedge trimming device. I warn you, this trick may be my last. Oh dear."
+
+msgctxt "juggler otherNightReminder"
+msgid "If today was the Juggler’s first day: Show the hand signal for the number (0, 1, 2, etc.) of 'Correct' markers. Remove markers."
+msgstr "만약 저글러가 능력을 사용한 첫번쨰 날이라면, 손으로 정확히 맞춘 직업 숫자를 알려주세요"
+
+msgctxt "juggler reminders"
+msgid "Correct"
+msgstr "맞춤"
+
+msgctxt "kazali name"
+msgid "Kazali"
+msgstr "카질리"
+
+msgctxt "kazali ability"
+msgid "Each night*, choose a player: they die. [You choose which players are Minions. -? to +? Outsiders]"
+msgstr "매일 밤*(첫날 제외) 플레이어를 선택합니다. 플레이어는 죽습니다. [첫날밤, 당신은 하수인(직업포함)을 스스로 선택합니다][-?,+? 이방인]"
+
+msgctxt "kazali flavor"
+msgid "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig."
+msgstr "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig."
+
+msgctxt "kazali firstNightReminder"
+msgid "The Kazali points at a player and a Minion on the character sheet. Replace their old character token with the Minion token, show them the “You Are” info token then the Minion character token, and give a thumbs down. Repeat until the normal number of Minions exist. Put the Kazali to sleep."
+msgstr "카질리는 플레이어와 하수인 캐릭터를 시트에서 고릅니다. 그들을 이전토큰에서 하수인 토큰으로 변경합니다. 그들에게 \"당신은\" 카드와 하수인 토큰을 보여주세요 그리고 엄지를 내려, 악의 세력임을 알려줍니다. 모든 필요한 하수인 수만큼(전체 플레이어 수에 맞는) 반복합니다."
+
+msgctxt "kazali otherNightReminder"
+msgid "The Kazali points to a player. That player dies."
+msgstr "카질리는 플레이어를 가리킵니다. 그 플레이어는 죽습니다"
+
+msgctxt "kazali reminders"
+msgid "Dead"
+msgstr "사망"
+
+msgctxt "king name"
+msgid "King"
+msgstr "왕"
+
+msgctxt "king ability"
+msgid "Each night, if the dead equal or outnumber the living, you learn 1 alive character. The Demon knows who you are."
+msgstr "매일 밤, 죽은 사람이 산 사람과 같거나 더 많으면, 당신은 살아있는 캐릭터 1개를 배웁니다. 악마는 당신이 누구인지 압니다"
+
+msgctxt "king flavor"
+msgid ""
+"↑Betwixt the unknown strains of mortal strife→\n"
+"And morbid night, sweet↓ with mystery and woe\n"
+"←Lies unfettered joys of fate’s long and colored life\n"
+"Who’s garden blooms with each painted Face to Show."
+msgstr ""
+"↑Betwixt the unknown strains of mortal strife→\n"
+"And morbid night, sweet↓ with mystery and woe\n"
+"←Lies unfettered joys of fate’s long and colored life\n"
+"Who’s garden blooms with each painted Face to Show."
+
+msgctxt "king firstNightReminder"
+msgid "Wake the Demon, show them the 'This Player is' card, show the King token and point to the King player."
+msgstr "악마를 깨우서 \"이 플레이어는\" 카드를 보여주고, 왕 토큰과 플레이어를 가리킵니다"
+
+msgctxt "king otherNightReminder"
+msgid "If there are more dead than living, show the King a character token of a living player."
+msgstr "만약 죽은사람이 산사람보다 같거나 많다면, 살아있는 캐릭터 토큰을 보여줍니다"
+
+msgctxt "klutz name"
+msgid "Klutz"
+msgstr "모지리"
+
+msgctxt "klutz ability"
+msgid "When you learn that you died, publicly choose 1 alive player: if they are evil, your team loses."
+msgstr "당신이 죽었다는 사실을 알게 되면 공개적으로 살아있는 플레이어 1명을 선택합니다. 악한 플레이어라면 당신의 진영은 패배합니다."
+
+msgctxt "klutz flavor"
+msgid "Oops."
+msgstr "Oops."
+
+msgctxt "knight name"
+msgid "Knight"
+msgstr "기사"
+
+msgctxt "knight ability"
+msgid "You start knowing 2 players that are not the Demon."
+msgstr "당신은 악마가 아닌 플레이어 2명을 알고 시작합니다."
+
+msgctxt "knight flavor"
+msgid "When a man lies, he murders some part of the world."
+msgstr "When a man lies, he murders some part of the world."
+
+msgctxt "knight firstNightReminder"
+msgid "Point to 2 non-Demon players."
+msgstr "악마가 아닌 두명을 가리킵니다"
+
+msgctxt "knight reminders"
+msgid "Know, Know"
+msgstr "알고있음, 알고있음"
+
+msgctxt "legion name"
+msgid "Legion"
+msgstr "군단"
+
+msgctxt "legion ability"
+msgid "Each night*, a player might die. Executions fail if only evil voted. You register as a Minion too. [Most players are Legion]"
+msgstr "매일 밤*(첫날 제외) 플레이어는 죽을 수 있습니다. 악만 투표한다면 투표는 무효화됩니다. 당신 한 하수인으로 보입니다[이 캐릭터가 포함된는 경우, 선과 악의 비율이 반대입니다]"
+
+msgctxt "legion flavor"
+msgid "We are the chill wind on a winter’s day. We are the shadow in the moonless night. We are the poison in your tea and the whisper in your ear. We are everywhere."
+msgstr "We are the chill wind on a winter’s day. We are the shadow in the moonless night. We are the poison in your tea and the whisper in your ear. We are everywhere."
+
+msgctxt "legion otherNightReminder"
+msgid "Choose a player, that player dies."
+msgstr "이야기꾼이 플레이어를 선택합니다. 그 플레이어는 죽습니다"
+
+msgctxt "legion reminders"
+msgid "Dead,About to die"
+msgstr "사망, 사망예정"
+
+msgctxt "leviathan name"
+msgid "Leviathan"
+msgstr "레비아탄"
+
+msgctxt "leviathan ability"
+msgid "If more than 1 good player is executed, you win. All players know you are in play. After day 5, evil wins."
+msgstr "플레이어들은 레비아탄이 참가중임을 알게됩니다, 선한 플레이어가 두명 이상 처형당하거나, 5일뒤 악한 진영이 승리합니다"
+
+msgctxt "leviathan flavor"
+msgid "To the last, I grapple with thee. From Hell’s heart, I stab at thee. For hate’s sake, I spit my last breath at thee."
+msgstr "To the last, I grapple with thee. From Hell’s heart, I stab at thee. For hate’s sake, I spit my last breath at thee."
+
+msgctxt "leviathan firstNightReminder"
+msgid "Place the Leviathan 'Day 1' marker. Announce 'The Leviathan is in play; this is Day 1.'"
+msgstr "레비아탄의 1일차 알람을 둡니다. 레비아탄이 있다고 알리고, 첫쨰날임을 알립니다"
+
+msgctxt "leviathan otherNightReminder"
+msgid "Change the Leviathan Day reminder for the next day."
+msgstr "레비아탄의 날짜 알림 토큰을 다음날로 바꿉니다"
+
+msgctxt "leviathan reminders"
+msgid "Day 1,Day 2,Day 3,Day 4,Day 5,Good player executed"
+msgstr "1일차,2일차,3일차,4일차,5일차,선한 플레이어 처형됨"
+
+msgctxt "librarian name"
+msgid "Librarian"
+msgstr "사서"
+
+msgctxt "librarian ability"
+msgid "You start knowing that 1 of 2 players is a particular Outsider. (Or that zero are in play.)"
+msgstr "2명 중 1명이 특정 이방인이라는 것을 알고 시작합니다. (또는 이방인이 없다는 것을 압니다)"
+
+msgctxt "librarian flavor"
+msgid "Certainly madam, under normal circumstances, you may borrow the Codex Malificarium from the library vaults. However, you do not seem to be a member."
+msgstr "Certainly madam, under normal circumstances, you may borrow the Codex Malificarium from the library vaults. However, you do not seem to be a member."
+
+msgctxt "librarian firstNightReminder"
+msgid "Show the character token of an Outsider in play. Point to two players, one of which is that character."
+msgstr "게임 중인 이방인 토큰을 보여주고, 그 이방인을 포함하여 두명을 가리킵니다."
+
+msgctxt "librarian reminders"
+msgid "Outsider,Wrong"
+msgstr "이방인, 가짜"
+
+msgctxt "lilmonsta name"
+msgid "Lil' Monsta"
+msgstr "릴몬스타"
+
+msgctxt "lilmonsta ability"
+msgid "Each night, Minions choose who babysits Lil' Monsta's token & \"is the Demon\". Each night*, a player might die. [+1 Minion]"
+msgstr "매일 밤, 하수인들은 누가 릴몬스타를 육아(선택된 하수인은 악마)할지 정합니다, 매일 밤*(첫날 제외) 플레이어 한명은 죽을 수 있습니다[하수인 +1]"
+
+msgctxt "lilmonsta flavor"
+msgid ""
+"Step 1: Be cute.\n"
+"Step 2: World domination.\n"
+"Step 3: Bweakfast."
+msgstr ""
+"Step 1: Be cute.\n"
+"Step 2: World domination.\n"
+"Step 3: Bweakfast."
+
+msgctxt "lilmonsta firstNightReminder"
+msgid "Wake all Minions together, allow them to vote by pointing at who they want to babysit Lil' Monsta."
+msgstr "하수인들을 같이 꺠우고, 릴몬스탈르 돌볼 사람을 투표합니다"
+
+msgctxt "lilmonsta otherNightReminder"
+msgid "Wake all Minions together, allow them to vote by pointing at who they want to babysit Lil' Monsta. Choose a player, that player dies."
+msgstr "하수인들을 같이 꺠우고, 릴몬스탈르 돌볼 사람을 투표합니다. 이야기꾼은 적당한때에 돌보고 있지 않는 하수인을 죽일 수 있습니다(마지막날에 두명이상의 하수인이 남지 않도록 주의하세요)"
+
+msgctxt "lilmonsta remindersGlobal"
+msgid "Is the Demon,Dead"
+msgstr "악마입니다,사망"
+
+msgctxt "lleech name"
+msgid "Lleech"
+msgstr "리치"
+
+msgctxt "lleech ability"
+msgid "Each night*, choose a player: they die. You start by choosing a player: they are poisoned. You die if & only if they are dead."
+msgstr "매일 밤*(첫날 제외) 플레이어를 선택합니다. 플레이어는 죽습니다, 리치는 게임시작시 플레이어 한명을 선택합니다, 해당 플레이어가 죽을때만 죽습니다"
+
+msgctxt "lleech flavor"
+msgid "Tasty, tasty, tasty, tasty, tasty, tasty, tasty, tasty brai- I mean pie! Yes. Tasty pie. That’s what I meant to say."
+msgstr "Tasty, tasty, tasty, tasty, tasty, tasty, tasty, tasty brai- I mean pie! Yes. Tasty pie. That’s what I meant to say."
+
+msgctxt "lleech firstNightReminder"
+msgid "The Lleech points to a player. Place the Poisoned reminder token."
+msgstr "리치가 플레이어를 가리킵니다. 중독됨 토큰으로 표기하세요"
+
+msgctxt "lleech otherNightReminder"
+msgid "The Lleech points to a player. That player dies."
+msgstr "리치가 플레이어를 가리킵니다 그 플레이어는 죽습니다"
+
+msgctxt "lleech reminders"
+msgid "Dead,Poisoned"
+msgstr "사망, 중독됨"
+
+msgctxt "lordoftyphon name"
+msgid "Lord of Typhon"
+msgstr "타이폰의 군주"
+
+msgctxt "lordoftyphon ability"
+msgid "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? To +? Outsiders]"
+msgstr "매일 밤*(첫날 제외) 플레이어를 선택합니다. 플레이어는 죽습니다. 모든 악한 진영은 붙어있고 가능하면 중간에 악마가 있습니다. [+1 하수인, -? 또는 +? 이방인]"
+
+msgctxt "lordoftyphon flavor"
+msgid "In the shadowed and forgotten corners of the cosmos, where the stars whisper secrets to the void, lies a truth so profound that the merest glimpse of it unravels the sanity of mortal minds."
+msgstr "In the shadowed and forgotten corners of the cosmos, where the stars whisper secrets to the void, lies a truth so profound that the merest glimpse of it unravels the sanity of mortal minds."
+
+msgctxt "lordoftyphon firstNightReminder"
+msgid "Wake the players on either side of the Demon. Show them the 'You Are' card, the token of the Minion they now are, and a thumbs down to indicate they are evil."
+msgstr "악마 옆의 플레이어를 깨우세요. 그들에게 \"당신은\" 카드와, 하수인 토큰을 보여주며 엄지로 이제부터 악의 세력임을 알려줍니다."
+
+msgctxt "lordoftyphon otherNightReminder"
+msgid "The Lord of Typhon points to a player. That player dies."
+msgstr "타이폰의 군주가 플레이어를 가리킵니다. 그 플레이어는 죽습니다"
+
+msgctxt "lordoftyphon reminders"
+msgid "Dead"
+msgstr "사망"
+
+msgctxt "lunatic name"
+msgid "Lunatic"
+msgstr "미치광이"
+
+msgctxt "lunatic ability"
+msgid "You think you are a Demon, but you are not. The Demon knows who you are & who you choose at night."
+msgstr "당신은 자신이 악마라고 생각하지만, 당신은 악마가 아닙니다. 악마는 당신이 누구인지, 그리고 당신이 밤에 누구를 선택하는지 알고 있습니다.(7인 이상게임에서 사용)"
+
+msgctxt "lunatic flavor"
+msgid "I am the night... I think."
+msgstr "I am the night... I think."
+
+msgctxt "lunatic firstNightReminder"
+msgid "If 7 or more players: Show the Lunatic a number of arbitrary 'Minions', players equal to the number of Minions in play. Show 3 character tokens of arbitrary good characters. If the token received by the Lunatic is a Demon that would wake tonight: Allow the Lunatic to do the Demon actions. Place their 'attack' markers. Wake the Demon. Show the Demon’s real character token. Show them the Lunatic player. If the Lunatic attacked players: Show the real demon each marked player. Remove any Lunatic 'attack' markers."
+msgstr "미치광이에게 그들의 가짜 하수인들을 알려줍니다. 숫자는 실제 게임의 하수인의 수와 동일합니다. 세개의 가짜 직업을 알려줍니다(실제 게임에 있는 직업도 가능합니다). 진짜 악마는 그 뒤에 깨웁니다. 그리고 누가 미치광이인지 알려줍니다"
+
+msgctxt "lunatic otherNightReminder"
+msgid "Allow the Lunatic to do the actions of the Demon. Place their 'attack' markers. If the Lunatic selected players: Wake the Demon. Show the 'attack' marker, then point to each marked player. Remove any Lunatic 'attack' markers."
+msgstr "미치광이에게 악마처럼 행동하게 합니다. 그들에게 \"공격\" 마커를 표시합니다. 그 후 악마를 깨워, 공격 마커를 보여주고, 공격받은 캐릭터를 가리킵니다.(미치광이가 죽이려한 플레이어를 알게합니다). 미치광이의 공격 토큰을 치웁니다"
+
+msgctxt "lunatic reminders"
+msgid "Attack 1,Attack 2,Attack 3"
+msgstr "공격1, 공격2, 공격3"
+
+msgctxt "lycanthrope name"
+msgid "Lycanthrope"
+msgstr "늑대인간"
+
+msgctxt "lycanthrope ability"
+msgid "Each night*, choose an alive player. If good, they die & the Demon doesn’t kill tonight. One good player registers as evil."
+msgstr "매일 밤*(첫날 제외), 살아있는 플레이어를 한 명 선택하세요. 선한 플레이어라면 죽지만, 오늘 밤 죽을 수 있는 플레이어는 그뿐입니다."
+
+msgctxt "lycanthrope flavor"
+msgid "Beneath the thin veneer of civilisation lies a howling madness."
+msgstr "Beneath the thin veneer of civilisation lies a howling madness."
+
+msgctxt "lycanthrope otherNightReminder"
+msgid "The Lycanthrope points to a living player: if good, they die and the Demon doesn't kill tonight"
+msgstr "늑대인간은 살아있는 플레이어를 가리킵니다. 만약 선 진영이라면, 그들은 죽고 오늘밤 아무도 죽지 않습니다"
+
+msgctxt "lycanthrope reminders"
+msgid "Dead,Faux Paw"
+msgstr "사망"
+
+msgctxt "magician name"
+msgid "Magician"
+msgstr "마술사"
+
+msgctxt "magician ability"
+msgid "The Demon thinks you are a Minion. Minions think you are a Demon."
+msgstr "악마는 당신이 미니언이라고 생각합니다. 미니언은 당신이 악마라고 생각합니다"
+
+msgctxt "magician flavor"
+msgid ""
+"1... 2... Abra... 3... 4... Cadabra... *poof!*\n"
+"And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!"
+msgstr ""
+"1... 2... Abra... 3... 4... Cadabra... *poof!*\n"
+"And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!"
+
+msgctxt "magician firstNightReminder"
+msgid "Point to the Magician when showing the Demon their Minions. Point to the Demon and the Magician when showing the Minions their Demon."
+msgstr "하수인들에게 악마를 알려줄떄, 같이 알려줍니다 악마에게 하수인들을 알려줄떄, 마술사도 포함됩니다"
+
+msgctxt "marionette name"
+msgid "Marionette"
+msgstr "꼭두각시"
+
+msgctxt "marionette ability"
+msgid "You think you are a good character but you are not. The Demon knows who you are. [You neighbour the Demon]"
+msgstr "당신은 자신이 마을주민이라고 생각하지만 그렇지 않습니다. 악마는 당신이 누구인지 알고 있습니다. (당신은 악마의 이웃입니다)"
+
+msgctxt "marionette flavor"
+msgid "Words, words. They're all we have to go on."
+msgstr "Words, words. They're all we have to go on."
+
+msgctxt "marionette firstNightReminder"
+msgid "Select one of the good players next to the Demon and place the Is the Marionette reminder token. Wake the Demon and show them the Marionette."
+msgstr "악마옆의 플레이어를 선택해, 꼭두각시 알림을 표기합니다. 악마를 깨워 그가 꼭두각시임을 알려줍니다"
+
+msgctxt "marionette remindersGlobal"
+msgid "Is the Marionette"
+msgstr "꼭두각시입니다"
+
+msgctxt "mastermind name"
+msgid "Mastermind"
+msgstr "흑막"
+
+msgctxt "mastermind ability"
+msgid "If the Demon dies by execution (ending the game), play for 1 more day. If a player is then executed, their team loses."
+msgstr "악마가 처형(게임 종료)으로 죽으면 1일 더 플레이합니다. 그런 다음 플레이어가 처형되면 해당 팀이 집니다."
+
+msgctxt "mastermind flavor"
+msgid "The tentacles of that monster are nailed to the doors of the church. Mothers and children are dancing in the street. Excellent. Everything is proceeding exactly as I have planned."
+msgstr "The tentacles of that monster are nailed to the doors of the church. Mothers and children are dancing in the street. Excellent. Everything is proceeding exactly as I have planned."
+
+msgctxt "mathematician name"
+msgid "Mathematician"
+msgstr "수학자"
+
+msgctxt "mathematician ability"
+msgid "Each night, you learn how many players’ abilities worked abnormally (since dawn) due to another character's ability."
+msgstr "매일 밤, 다른 직업의 능력으로 인해 능력이 비정상적으로 작동한(새벽부터) 플레이어의 수를 알게 됩니다."
+
+msgctxt "mathematician flavor"
+msgid "Any consistent formal system x, within which a certain amount of elementary arithmetic can be carried out is incomplete; that is, there are statements of the language of x which can neither be proved nor disproved in x. Ergo, you are drunk."
+msgstr "Any consistent formal system x, within which a certain amount of elementary arithmetic can be carried out is incomplete; that is, there are statements of the language of x which can neither be proved nor disproved in x. Ergo, you are drunk."
+
+msgctxt "mathematician firstNightReminder"
+msgid "Show the hand signal for the number (0, 1, 2, etc.) of players whose ability malfunctioned due to other abilities."
+msgstr "효과가 오작동한 플레이어의 수를 알려줍니다"
+
+msgctxt "mathematician otherNightReminder"
+msgid "Show the hand signal for the number (0, 1, 2, etc.) of players whose ability malfunctioned due to other abilities."
+msgstr "효과가 오작동한 플레이어의 수를 알려줍니다"
+
+msgctxt "mathematician reminders"
+msgid "Abnormal"
+msgstr "비정상"
+
+msgctxt "matron name"
+msgid "Matron"
+msgstr "여감독"
+
+msgctxt "matron ability"
+msgid "Each day, you may choose up to 3 sets of 2 players to swap seats. Players may not leave their seats to talk in private."
+msgstr "매일, 최대 3세트의 2명의 플레이어를 선택하여 자리를 바꿀 수 있습니다. 플레이어는 자리를 떠나서 개인적으로 이야기할 수 없습니다."
+
+msgctxt "matron flavor"
+msgid "Miss Featherbottom, be quiet. Master Rutherford, a teacup needs just the four fingers, please. I know you are a father of nine, but age, or lack there-of as the case may be, is never an excuse for poor manners."
+msgstr "Miss Featherbottom, be quiet. Master Rutherford, a teacup needs just the four fingers, please. I know you are a father of nine, but age, or lack there-of as the case may be, is never an excuse for poor manners."
+
+msgctxt "mayor name"
+msgid "Mayor"
+msgstr "시장"
+
+msgctxt "mayor ability"
+msgid "If only 3 players live & no execution occurs, your team wins. If you die at night, another player might die instead."
+msgstr "3명의 플레이어가 살아있을때,그날 아침동안 처형이 발생하지 않으면 당신의 진영이 승리합니다. 밤에 죽으면 다른 플레이어가 대신 죽을 수도 있습니다."
+
+msgctxt "mayor flavor"
+msgid "We must put our differences aside, and cease this senseless killing. We are all taxpayers after all. Well, most of us."
+msgstr "We must put our differences aside, and cease this senseless killing. We are all taxpayers after all. Well, most of us."
+
+msgctxt "mezepheles name"
+msgid "Mezepheles"
+msgstr "메제펠레스"
+
+msgctxt "mezepheles ability"
+msgid "You start knowing a secret word. The 1st good player to say this word becomes evil that night."
+msgstr "당신은 비밀 단어를 알고 시작합니다. 게임 중 공개적으로 첫번째로 비밀단어를 외친 선한 플레이어는 그날 밤 악한 진영이 됩니다."
+
+msgctxt "mezepheles flavor"
+msgid "That which issues from the heart alone, will bend the hearts of others to your own."
+msgstr "That which issues from the heart alone, will bend the hearts of others to your own."
+
+msgctxt "mezepheles firstNightReminder"
+msgid "Show the Mezepheles their secret word."
+msgstr "메제펠레스에게 비밀 단어를 보여줍니다"
+
+msgctxt "mezepheles otherNightReminder"
+msgid "Wake the 1st good player that said the Mezepheles' secret word and show them the 'You are' card and the thumbs down evil signal."
+msgstr "첫번쨰로 비밀단어를 말한 플레이어에게 \"당신은\" 카드와 악의 세력임을 알려줍니다"
+
+msgctxt "mezepheles reminders"
+msgid "Turns evil,No ability"
+msgstr "타락,능력없음"
+
+msgctxt "minstrel name"
+msgid "Minstrel"
+msgstr "음유시인"
+
+msgctxt "minstrel ability"
+msgid "When a Minion dies by execution, all other players (except Travellers) are drunk until dusk tomorrow."
+msgstr "하수인이 처형으로 죽으면, 다른 모든 플레이어는 내일 낮까지 취합니다."
+
+msgctxt "minstrel flavor"
+msgid "And I shall hear, tho' soft you tread above me... And all my dreams will warm and sweeter be... If you'll not fail to tell me that you love me... I simply sleep in peace until you come to me."
+msgstr "And I shall hear, tho' soft you tread above me... And all my dreams will warm and sweeter be... If you'll not fail to tell me that you love me... I simply sleep in peace until you come to me."
+
+msgctxt "minstrel reminders"
+msgid "Everyone drunk"
+msgstr "모두 취함"
+
+msgctxt "monk name"
+msgid "Monk"
+msgstr "수도승"
+
+msgctxt "monk ability"
+msgid "Each night*, choose a player (not yourself): they are safe from the Demon tonight."
+msgstr "매일 밤*(첫날 제외), 플레이어를 한 명 선택하세요(자신이 아닌): 그들은 오늘 밤 악마로부터 안전할 것입니다."
+
+msgctxt "monk flavor"
+msgid "Tis an ill and deathly wind that blows tonight. Come, my brother, take shelter in the abbey while the storm rages. By my word, or by my life, you will be safe."
+msgstr "Tis an ill and deathly wind that blows tonight. Come, my brother, take shelter in the abbey while the storm rages. By my word, or by my life, you will be safe."
+
+msgctxt "monk otherNightReminder"
+msgid "The previously protected player is no longer protected. The Monk points to a player not themself. Mark that player 'Protected'."
+msgstr "이전 보호 알림을 제거하고, 새로 보호할 캐릭터를 선택하게 합니다."
+
+msgctxt "monk reminders"
+msgid "Protected"
+msgstr "보호됨"
+
+msgctxt "moonchild name"
+msgid "Moonchild"
+msgstr "달의아이"
+
+msgctxt "moonchild ability"
+msgid "When you learn that you died, publicly choose 1 alive player. Tonight, if it was a good player, they die."
+msgstr "당신이 죽었다는 것을 알게 되면, 공개적으로 살아있는 플레이어 1명을 선택하세요. 오늘 밤, 만약 좋은 플레이어였다면, 그들은 죽습니다"
+
+msgctxt "moonchild flavor"
+msgid "Scorpio looks sideways at the lovers, and you have a choice to make. With silver cross my palm, and your fate shall be revealed. With steel cross my throat, and by the stars you shall regret it."
+msgstr "Scorpio looks sideways at the lovers, and you have a choice to make. With silver cross my palm, and your fate shall be revealed. With steel cross my throat, and by the stars you shall regret it."
+
+msgctxt "moonchild otherNightReminder"
+msgid "If the Moonchild used their ability to target a player today: If that player is good, they die."
+msgstr "달의아이가 능력을 사용했고, 선하다면, 그들은 죽습니다"
+
+msgctxt "moonchild reminders"
+msgid "Dead"
+msgstr "사망"
+
+msgctxt "mutant name"
+msgid "Mutant"
+msgstr "돌연변이"
+
+msgctxt "mutant ability"
+msgid "If you are “mad” about being an Outsider, you might be executed."
+msgstr "당신은 본인이 이방인이 아니라는 사실에 미쳐야합니다, 그렇지 않으면 처형 될 수 있습니다. 처형되면 즉시 밤이 됩니다."
+
+msgctxt "mutant flavor"
+msgid "I am not a freak! I am a human being! Have mercy!"
+msgstr "I am not a freak! I am a human being! Have mercy!"
+
+msgctxt "nightwatchman name"
+msgid "Nightwatchman"
+msgstr "야간경비원"
+
+msgctxt "nightwatchman ability"
+msgid "Once per game, at night, choose a player: they learn who you are."
+msgstr "게임당 한 번씩, 밤에 플레이어를 선택하세요. 그러면 그들은 당신이 누구인지 알게 됩니다"
+
+msgctxt "nightwatchman flavor"
+msgid "The night is cold and lonely, but I have the moon, the stars, the crisp wind and the soft thud of leather boots on cobbled stone for company. Yonder, candlelight flickers behind a murky window..."
+msgstr "The night is cold and lonely, but I have the moon, the stars, the crisp wind and the soft thud of leather boots on cobbled stone for company. Yonder, candlelight flickers behind a murky window..."
+
+msgctxt "nightwatchman firstNightReminder"
+msgid "The Nightwatchman may point to a player. Wake that player, show the 'This character selected you' card and the Nightwatchman token, then point to the Nightwatchman player."
+msgstr "능력을 사용하기로 했다면, 플레이어를 선택합니다. 그 플레이어를 꺠워 \"이 캐릭터가 당신을 선택했습니다\" 카드와 야간경비원 토큰을 보여줍니다"
+
+msgctxt "nightwatchman otherNightReminder"
+msgid "The Nightwatchman may point to a player. Wake that player, show the 'This character selected you' card and the Nightwatchman token, then point to the Nightwatchman player."
+msgstr "능력을 사용하기로 했다면, 플레이어를 선택합니다. 그 플레이어를 꺠워 \"이 캐릭터가 당신을 선택했습니다\" 카드와 야간경비원 토큰을 보여줍니다"
+
+msgctxt "nightwatchman reminders"
+msgid "No ability"
+msgstr "능력없음"
+
+msgctxt "noble name"
+msgid "Noble"
+msgstr "귀족"
+
+msgctxt "noble ability"
+msgid "You start knowing 3 players, 1 and only 1 of which is evil."
+msgstr "당신은 3명의 플레이어를 알게 되고, 그 중 1명만이 악한 쪽입니다."
+
+msgctxt "noble flavor"
+msgid "Sarcasm is indeed the lowest form of wit. But speaking in response to your criticism, Sir, it is, nevertheless, a form of wit."
+msgstr "Sarcasm is indeed the lowest form of wit. But speaking in response to your criticism, Sir, it is, nevertheless, a form of wit."
+
+msgctxt "noble firstNightReminder"
+msgid "Point to 3 players including one evil player, in no particular order."
+msgstr "악한 플레이어 한명만 포함해서, 3명의 플레이어를 가리킵니다"
+
+msgctxt "noble reminders"
+msgid "Seen"
+msgstr "확인함"
+
+msgctxt "nodashii name"
+msgid "No Dashii"
+msgstr "노다시이"
+
+msgctxt "nodashii ability"
+msgid "Each night*, choose a player: they die. Your 2 Townsfolk neighbours are poisoned."
+msgstr "매일 밤*(첫날 제외), 플레이어를 선택하세요: 그들은 죽습니다. 당신의 두 마을 사람 이웃은 독살당합니다."
+
+msgctxt "nodashii flavor"
+msgid "By the sins of Arnoch, I feel thy laden stench. By the curs-ed sun and her foul legion of tiny grinning gods, I corrupt thee. By the blessed night and the hidden depths of the horrid and unholy sea, I end thy squalid life upon this plane."
+msgstr "By the sins of Arnoch, I feel thy laden stench. By the curs-ed sun and her foul legion of tiny grinning gods, I corrupt thee. By the blessed night and the hidden depths of the horrid and unholy sea, I end thy squalid life upon this plane."
+
+msgctxt "nodashii otherNightReminder"
+msgid "The No Dashii points to a player. That player dies."
+msgstr "노다시이는 플레이어를 선택합니다. 그들은 죽습니다"
+
+msgctxt "nodashii reminders"
+msgid "Dead,Poisoned"
+msgstr "사망, 중독됨"
+
+msgctxt "ogre name"
+msgid "Ogre"
+msgstr "오우거"
+
+msgctxt "ogre ability"
+msgid "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned."
+msgstr "첫날 밤에 플레이어를 하나 고르세요(자신이 아닌): 당신은 그들의 진영이 됩니다(어디인지는 알 수 없음) 심지어 취했거나 독살당했더라도요."
+
+msgctxt "ogre flavor"
+msgid "<grunt><grin></grunt>"
+msgstr "<grunt><grin></grunt>"
+
+msgctxt "ogre firstNightReminder"
+msgid "The Ogre points to a player (not themselves) and becomes their alignment."
+msgstr "오우거가 한 플레이어를 가르키고, 그 플레이어 진영이 됩니다"
+
+msgctxt "ogre reminders"
+msgid "Friend"
+msgstr "친구"
+
+msgctxt "ojo name"
+msgid "Ojo"
+msgstr "오조"
+
+msgctxt "ojo ability"
+msgid "Each night*, choose a character: they die. If they are not in play, the Storyteller chooses who dies."
+msgstr "매일 밤*(첫날 제외), 캐릭터(직업)를 선택하세요: 그들은 죽습니다. 만약 없다면, 이야기꾼이 선택하여 죽입니다 (여러명인 경우 한명만)"
+
+msgctxt "ojo flavor"
+msgid "Like a bonfire on a moonless night… I see you, mortal."
+msgstr "Like a bonfire on a moonless night… I see you, mortal."
+
+msgctxt "ojo otherNightReminder"
+msgid "The Ojo points to a character on the sheet; if in play, that player dies. If it is not in play, the Storyteller chooses who dies instead."
+msgstr "오조가 캐릭터를 시트에서 고르게 합니다. 있다면, 그 플레이어는 죽습니다. 없다면, 이야기꾼이 대신죽을 플레이어를 고릅니다"
+
+msgctxt "ojo reminders"
+msgid "Dead"
+msgstr "사망"
+
+msgctxt "oracle name"
+msgid "Oracle"
+msgstr "오라클"
+
+msgctxt "oracle ability"
+msgid "Each night*, you learn how many dead players are evil."
+msgstr "매일 밤, 당신은 얼마나 많은 죽은 플레이어들 중에 사악한 사람들이 있는지 알게 됩니다"
+
+msgctxt "oracle flavor"
+msgid "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
+msgstr "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
+
+msgctxt "oracle otherNightReminder"
+msgid "Show the hand signal for the number (0, 1, 2, etc.) of dead evil players."
+msgstr "죽은 악한 진영 사람 수를 알려줍니다"
+
+msgctxt "organgrinder name"
+msgid "Organ Grinder"
+msgstr "오르간 연주자"
+
+msgctxt "organgrinder ability"
+msgid "All players keep their eyes closed when voting and the vote tally is secret. Each night, choose if you are drunk or not."
+msgstr "투표할 때 모든 플레이어는 눈을 감고 있고 투표 집계는 비밀입니다. 스스로에게 투표한 경우에만 당신에게 투표가 적용됩니다.(0표로 간주)"
+
+msgctxt "organgrinder flavor"
+msgid "Round and round the handles go. The more you dance the less you know."
+msgstr "Round and round the handles go. The more you dance the less you know."
+
+msgctxt "organgrinder reminders"
+msgid "Drunk,About to die"
+msgstr "사망 예정"
+
+msgctxt "pacifist name"
+msgid "Pacifist"
+msgstr "평화주의자"
+
+msgctxt "pacifist ability"
+msgid "Executed good players might not die."
+msgstr "평화주의자는 선한 플레이어가 처형당해 죽는 것을 막아줄 수 도 있습니다. (이야기꾼 재량에 따릅니다)"
+
+msgctxt "pacifist flavor"
+msgid "Distrust all in whom the impulse to punish is powerful."
+msgstr "Distrust all in whom the impulse to punish is powerful."
+
+msgctxt "philosopher name"
+msgid "Philosopher"
+msgstr "철학자"
+
+msgctxt "philosopher ability"
+msgid "Once per game, at night, choose a good character: gain that ability. If this character is in play, they are drunk."
+msgstr "게임당 한 번, 밤에 좋은 캐릭터를 선택하세요: 그 능력을 얻으세요. 이 캐릭터가 플레이 중이라면, 그들은 취해 있습니다."
+
+msgctxt "philosopher flavor"
+msgid "If anything is real, beer is real. Drink, for tomorrow we may die."
+msgstr "If anything is real, beer is real. Drink, for tomorrow we may die."
+
+msgctxt "philosopher firstNightReminder"
+msgid "The Philosopher either shows a 'no' head signal, or points to a good character on their sheet. If they chose a character: Swap the out-of-play character token with the Philosopher token and add the 'Is the Philosopher' reminder. If the character is in play, place the drunk marker by that player."
+msgstr "철학자는 능력 사용여부를 결정합니다. 만약 사용한다면, 시트의 선한 캐릭터를 가리킵니다. 만약 플레이에 없던 캐릭터라면, 그 캐릭터로 교체하고, \"철학자이다\" 알림을 표기합니다. 만약 플레이 중이라면, 그 캐릭터는 취하게 됩니다. 철학자가 사망시 그 플레이어는 술에서 깹니다."
+
+msgctxt "philosopher otherNightReminder"
+msgid "If the Philosopher has not used their ability: the Philosopher either shows a 'no' head signal, or points to a good character on their sheet. If they chose a character: Swap the out-of-play character token with the Philosopher token and add the 'Is the Philosopher' reminder. If the character is in play, place the drunk marker by that player."
+msgstr "철학자는 능력 사용여부를 결정합니다. 만약 사용한다면, 시트의 선한 캐릭터를 가리킵니다. 만약 플레이에 없던 캐릭터라면, 그 캐릭터로 교체하고, \"철학자이다\" 알림을 표기합니다. 만약 플레이 중이라면, 그 캐릭터는 취하게 됩니다. 철학자가 사망시 그 플레이어는 술에서 깹니다."
+
+msgctxt "philosopher remindersGlobal"
+msgid "Is the Philosopher,Drunk"
+msgstr "철학자이다,취함"
+
+msgctxt "pithag name"
+msgid "Pit-Hag"
+msgstr "피트해그"
+
+msgctxt "pithag ability"
+msgid "Each night*, choose a player & a character they become (if not-in-play). If a Demon is made, deaths tonight are arbitrary."
+msgstr "매일 밤*(첫날 제외), 플레이어와 그들이 될 캐릭터를 선택하세요(진영은 유지됩니다. 만약 이미 플레이 중인 캐릭터라면, 아무일도 없습니다). 악마가 만들어지면 오늘 밤의 죽음은 임의적입니다.(이야기꾼이 조정합니다)"
+
+msgctxt "pithag flavor"
+msgid "Round about the cauldron go; In the poison'd entrails throw; Toad, that under cold stone; Days and nights has thirty-one; Sweated venom sleeping got; Boil thou first in the charmed pot."
+msgstr "Round about the cauldron go; In the poison'd entrails throw; Toad, that under cold stone; Days and nights has thirty-one; Sweated venom sleeping got; Boil thou first in the charmed pot."
+
+msgctxt "pithag otherNightReminder"
+msgid "The Pit-Hag points to a player and a character on the sheet. If this character is not in play, wake that player and show them the 'You are' card and the relevant character token. If the character is in play, nothing happens."
+msgstr "피트해그가 플레이어와 시트위의 캐릭터를 선택합니다.만약 해당 캐릭터가 플레이 중이 아니라면, 그 플레이어를 깨우고 \"당신은\" 카드와 새로운 캐릭터 토큰을 보여줍니다. 만약 플레이 중이라면, 아무일도 없습니다"
+
+msgctxt "pixie name"
+msgid "Pixie"
+msgstr "픽시"
+
+msgctxt "pixie ability"
+msgid "You start knowing 1 in-play Townsfolk. If you were mad that you were this character, you gain their ability when they die."
+msgstr "당신은 게임에 플레이되고 있는 1명의 마을주민을 알고 시작합니다. 만약 당신이 충분히 그 캐릭터에 미쳐있다면, 그 캐릭터가 죽고 나서 그 캐릭터의 능력을 얻습니다(이야기꾼이 판정)"
+
+msgctxt "pixie flavor"
+msgid ""
+"Round and round the garden, go.\n"
+"Little girls run to and fro.\n"
+"Little boys climb up the tree.\n"
+"Which of these should Pixie be?\n"
+"Ladies smile and go to town. \n"
+"Lords with axe chop forest down.\n"
+"What’s yours is mine. What’s mine, divine.\n"
+"Silly little Pixie, me."
+msgstr ""
+"Round and round the garden, go.\n"
+"Little girls run to and fro.\n"
+"Little boys climb up the tree.\n"
+"Which of these should Pixie be?\n"
+"Ladies smile and go to town. \n"
+"Lords with axe chop forest down.\n"
+"What’s yours is mine. What’s mine, divine.\n"
+"Silly little Pixie, me."
+
+msgctxt "pixie firstNightReminder"
+msgid "Show the Pixie 1 in-play Townsfolk character token."
+msgstr "플레이 중인 마을주민 토큰 하나를 보여줍니다"
+
+msgctxt "pixie reminders"
+msgid "Mad,Has ability"
+msgstr "미침,능력획득"
+
+msgctxt "plaguedoctor name"
+msgid "Plague Doctor"
+msgstr "전염병 의사"
+
+msgctxt "plaguedoctor ability"
+msgid "If you die, the Storyteller gains a Minion ability."
+msgstr "만약 당신이 죽으면, 이야기꾼은 하수인 능력을 얻습니다"
+
+msgctxt "plaguedoctor flavor"
+msgid "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh."
+msgstr "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh."
+
+msgctxt "plaguedoctor reminders"
+msgid "Storyteller Ability"
+msgstr "이야기꾼 능력"
+
+msgctxt "po name"
+msgid "Po"
+msgstr "포"
+
+msgctxt "po ability"
+msgid "Each night*, you may choose a player: they die. If your last choice was no-one, choose 3 players tonight."
+msgstr "매일 밤*(첫날 제외),당신은 플레이어를 선택할 수 있습니다: 그들은 죽습니다. 만약 당신의 마지막 선택이 아무도 없다면, 오늘 밤 3명의 플레이어를 선택하세요."
+
+msgctxt "po flavor"
+msgid "Would you like a flower? I'm so lonely."
+msgstr "Would you like a flower? I'm so lonely."
+
+msgctxt "po otherNightReminder"
+msgid "If the Po chose no-one the previous night: The Po points to three players. Otherwise: The Po either shows the 'no' head signal , or points to a player. Chosen players die"
+msgstr "만약 포가 전날밤 아무도 죽이지 않았다면, 포는 세명을 선택하고 죽입니다. 그렇지 않다면, 포는 한명을 선택해 죽이거나 아무도 죽이지 않습니다"
+
+msgctxt "po reminders"
+msgid "Dead,3 attacks"
+msgstr "사망,3공격"
+
+msgctxt "poisoner name"
+msgid "Poisoner"
+msgstr "독살범"
+
+msgctxt "poisoner ability"
+msgid "Each night, choose a player: they are poisoned tonight and tomorrow day."
+msgstr "매일 밤, 플레이어를 선택하세요: 그들은 오늘 밤과 내일 중독됩니다."
+
+msgctxt "poisoner flavor"
+msgid "Add compound Alpha to compound Beta... NOT TOO MUCH!"
+msgstr "Add compound Alpha to compound Beta... NOT TOO MUCH!"
+
+msgctxt "poisoner firstNightReminder"
+msgid "The Poisoner points to a player. That player is poisoned."
+msgstr "독살범이 플레이어를 선택합니다. 그 플레이어는 중독됩니다"
+
+msgctxt "poisoner otherNightReminder"
+msgid "The previously poisoned player is no longer poisoned. The Poisoner points to a player. That player is poisoned."
+msgstr "이전 중독 토큰을 제거합니다. 독살범이 플레이어를 선택합니다. 그 플레이어는 중독됩니다"
+
+msgctxt "poisoner reminders"
+msgid "Poisoned"
+msgstr "중독됨"
+
+msgctxt "politician name"
+msgid "Politician"
+msgstr "정치가"
+
+msgctxt "politician ability"
+msgid "If you were the player most responsible for your team losing, you change alignment & win, even if dead."
+msgstr "만약 당신이 팀의 패배에 가장 큰 책임이 있는 선수라면, 당신은 진형을 바꾸고 승리할 수 있습니다. 비록 죽었더라도요 (이야기꾼이 판단)"
+
+msgctxt "politician flavor"
+msgid "I'm glad you asked that question. Truly, I am. But I think the REAL question here is..."
+msgstr "I'm glad you asked that question. Truly, I am. But I think the REAL question here is..."
+
+msgctxt "poppygrower name"
+msgid "Poppy Grower"
+msgstr "양귀비 재배자"
+
+msgctxt "poppygrower ability"
+msgid "Minions & Demons do not know each other. If you die, they learn who each other are that night."
+msgstr "하수인과 악마는 서로를 모릅니다. 당신이 죽으면, 그들은 그날 밤 서로가 누구인지 알게됩니다."
+
+msgctxt "poppygrower flavor"
+msgid "In the hidden groves of the deep forest, the black poppy dwells. To see its revelry is to be enchanted. To smell its thick aroma is to be lost forever, a slave to the gods of light and dark."
+msgstr "In the hidden groves of the deep forest, the black poppy dwells. To see its revelry is to be enchanted. To smell its thick aroma is to be lost forever, a slave to the gods of light and dark."
+
+msgctxt "poppygrower firstNightReminder"
+msgid "Do not inform the Demon/Minions who each other are"
+msgstr "악마와 하수인들에게 서로를 알려주지 않습니다"
+
+msgctxt "poppygrower otherNightReminder"
+msgid "If the Poppy Grower has died, show the Minions/Demon who each other are."
+msgstr "양귀비 재배자가 죽었다면,  하수인과 악마에게 서로 알려줍니다"
+
+msgctxt "poppygrower reminders"
+msgid "Evil wakes"
+msgstr "악이 깨어납니다"
+
+msgctxt "preacher name"
+msgid "Preacher"
+msgstr "전도사"
+
+msgctxt "preacher ability"
+msgid "Each night, choose a player: a Minion, if chosen, learns this. All chosen Minions have no ability."
+msgstr "매일밤, 플레이어를 선택합니다. 만약 하수인이라면, 그 능력을 배우고, 그 하수인들은 능력을 잃습니다"
+
+msgctxt "preacher flavor"
+msgid "It is better to be rich and healthy than poor and sick."
+msgstr "It is better to be rich and healthy than poor and sick."
+
+msgctxt "preacher firstNightReminder"
+msgid "The Preacher chooses a player. If a Minion is chosen, wake the Minion and show the 'This character selected you' card and then the Preacher token."
+msgstr "전도사는 플레이어를 선택합니다. 만약 하수인이라면, 그 하수인을 깨우고, \"이 캐릭터가 너를 선택하였다\"카드를 보여주고, 전도사 토큰을 보여줍니다"
+
+msgctxt "preacher otherNightReminder"
+msgid "The Preacher chooses a player. If a Minion is chosen, wake the Minion and show the 'This character selected you' card and then the Preacher token."
+msgstr "전도사는 플레이어를 선택합니다. 만약 하수인이라면, 그 하수인을 깨우고, \"이 캐릭터가 너를 선택하였다\"카드를 보여주고, 전도사 토큰을 보여줍니다"
+
+msgctxt "preacher reminders"
+msgid "At a sermon"
+msgstr "능력 없음"
+
+msgctxt "princess name"
+msgid "Princess"
+msgstr "Princess"
+
+msgctxt "princess ability"
+msgid "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
+msgstr "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
+
+msgctxt "princess flavor"
+msgid "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
+msgstr "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
+
+msgctxt "princess otherNightReminder"
+msgid "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
+msgstr "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
+
+msgctxt "princess reminders"
+msgid "Doesn't Kill"
+msgstr "Doesn't Kill"
+
+msgctxt "professor name"
+msgid "Professor"
+msgstr "교수"
+
+msgctxt "professor ability"
+msgid "Once per game, at night*, choose a dead player: if they are a Townsfolk, they are resurrected."
+msgstr "게임당 한 번씩, 밤에* 죽은 플레이어를 선택하세요. 그 플레이어가 마을 사람이라면 부활합니다."
+
+msgctxt "professor flavor"
+msgid "The process is simple. Attach the hydraulic confabulator to the modified chi matrix amplifier, add 20 CCs of pseudodorafine, keep his Z levels above 20%, and your husband will be fine. Now, all we need is a lightning strike."
+msgstr "The process is simple. Attach the hydraulic confabulator to the modified chi matrix amplifier, add 20 CCs of pseudodorafine, keep his Z levels above 20%, and your husband will be fine. Now, all we need is a lightning strike."
+
+msgctxt "professor otherNightReminder"
+msgid "If the Professor has not used their ability: The Professor either shakes their head no, or points to a player. If that player is a Townsfolk, they are now alive."
+msgstr "능력을 사용할지 확인합니다. 사용한다면, 플레이어를 가르키게하고, 그게 마을주민이라면, 그는 살아납니다"
+
+msgctxt "professor reminders"
+msgid "Alive,No ability"
+msgstr "부활,능력 없음"
+
+msgctxt "psychopath name"
+msgid "Psychopath"
+msgstr "싸이코패스"
+
+msgctxt "psychopath ability"
+msgid "Each day, before nominations, you may publicly choose a player: they die. If executed, you only die if you lose roshambo."
+msgstr "매일 지명 전에, 당신은 공개적으로 플레이어를 선택할 수 있습니다: 그들은 죽습니다. 처형당하면, 당신은 지명자와 가위바위보를 해서 졌을 때만 죽습니다."
+
+msgctxt "psychopath flavor"
+msgid "Surprise!"
+msgstr "Surprise!"
+
+msgctxt "pukka name"
+msgid "Pukka"
+msgstr "푸카"
+
+msgctxt "pukka ability"
+msgid "Each night, choose a player: they are poisoned. The previously poisoned player dies then becomes healthy."
+msgstr "매일 밤, 플레이어를 하나 선택하세요: 그들은 중독당합니다. 이전에 중독당한 플레이어는 죽고 건강해집니다."
+
+msgctxt "pukka flavor"
+msgid "You truly have been kind welcoming me into your beautiful home. I am so sorry I accidentally scratched you. A little thing. No matter. But please, take this golden toothpick as a humble token of my regret."
+msgstr "You truly have been kind welcoming me into your beautiful home. I am so sorry I accidentally scratched you. A little thing. No matter. But please, take this golden toothpick as a humble token of my regret."
+
+msgctxt "pukka firstNightReminder"
+msgid "The Pukka points to a player. That player is poisoned."
+msgstr "푸카는 플레이어를 선택합니다. 그 플레이어는 중독됩니다"
+
+msgctxt "pukka otherNightReminder"
+msgid "The Pukka points to a player. That player is poisoned. The previously poisoned player dies."
+msgstr "푸카는 플레이어를 선택합니다. 그 플레이어는 중독됩니다. 이전에 중독되었던 플레이어는 죽습니다"
+
+msgctxt "pukka reminders"
+msgid "Poisoned,Dead"
+msgstr "중독됨,사망"
+
+msgctxt "puzzlemaster name"
+msgid "Puzzlemaster"
+msgstr "퍼즐박사"
+
+msgctxt "puzzlemaster ability"
+msgid "1 player is drunk, even if you die. If you guess (once) who it is, learn the Demon player, but guess wrong & get false info."
+msgstr "1명의 플레이어는 취해 있습니다. 당신이 죽더라도요. (게임 중 한 번) 누구인지 맞히면, 악마가 누구인지 알지만, 틀리게 추측하면 거짓 정보를 얻습니다."
+
+msgctxt "puzzlemaster flavor"
+msgid "When one begins to think that some thing is merely some other thing, one is usually on the brink of an error. Patience, patience. Don’t confuse just and should with is and isn’t."
+msgstr "When one begins to think that some thing is merely some other thing, one is usually on the brink of an error. Patience, patience. Don’t confuse just and should with is and isn’t."
+
+msgctxt "puzzlemaster reminders"
+msgid "Drunk,Guess used"
+msgstr "취함,추측사용함"
+
+msgctxt "ravenkeeper name"
+msgid "Ravenkeeper"
+msgstr "레이븐키퍼"
+
+msgctxt "ravenkeeper ability"
+msgid "If you die at night, you are woken to choose a player: you learn their character."
+msgstr "밤에 죽으면 깨어나 플레이어를 선택하게 됩니다. 플레이어의 캐릭터를 알게 됩니다"
+
+msgctxt "ravenkeeper flavor"
+msgid "My birds will avenge me! Fly! Fly, my sweet and dutiful pets! To the manor and to the river! To the alleys and to the salons! Fly!"
+msgstr "My birds will avenge me! Fly! Fly, my sweet and dutiful pets! To the manor and to the river! To the alleys and to the salons! Fly!"
+
+msgctxt "ravenkeeper otherNightReminder"
+msgid "If the Ravenkeeper died tonight: The Ravenkeeper points to a player. Show that player’s character token."
+msgstr "레이븐키퍼가 오늘밤에 죽었다면, 꺠워서 플레이어를 알려줍니다. 그 플레이어의 캐릭터 토큰을 보여줍니다"
+
+msgctxt "recluse name"
+msgid "Recluse"
+msgstr "은둔자"
+
+msgctxt "recluse ability"
+msgid "You might register as evil & as a Minion or Demon, even if dead."
+msgstr "언제나(살아서도, 죽어서도) 악한거나, 하수인이나 악마로 보일 수 있습니다. (이야기꾼 선택)"
+
+msgctxt "recluse flavor"
+msgid "Garn git ya darn grub ya mitts ofma lorn yasee. Grr. Natsy pikkins yonder southwise ye begittin afta ya! Git! Me harvy no so widda licks and demmons no be fightin' hadsup ne'er ma kin. Git, assay!"
+msgstr "Garn git ya darn grub ya mitts ofma lorn yasee. Grr. Natsy pikkins yonder southwise ye begittin afta ya! Git! Me harvy no so widda licks and demmons no be fightin' hadsup ne'er ma kin. Git, assay!"
+
+msgctxt "revolutionary name"
+msgid "Revolutionary"
+msgstr "혁명"
+
+msgctxt "revolutionary ability"
+msgid "2 neighboring players are known to be the same alignment. Once per game, one of them registers falsely"
+msgstr "이웃 플레이어 2명이 같은 진영으로 알려져 있습니다. 게임당 한 번, 그중 한 명이 잘못 등록됩니다."
+
+msgctxt "revolutionary flavor"
+msgid ""
+"United we feigned.\n"
+"Divided, we stalled."
+msgstr ""
+"United we feigned.\n"
+"Divided, we stalled."
+
+msgctxt "revolutionary reminders"
+msgid "Register Falsely?"
+msgstr "오등록?"
+
+msgctxt "riot name"
+msgid "Riot"
+msgstr "폭도"
+
+msgctxt "riot ability"
+msgid "On day 3, Minions become Riot & nominees die but nominate an alive player immediately. This must happen."
+msgstr "지명된 후보자들은 죽지만, 즉시 다시 지명할 수 있습니다(3초안에 반드시 지명해야 함). 3일차 이후에는 악이 승리합니다. [모든 하수인은 폭동입니다]"
+
+msgctxt "riot flavor"
+msgid "Larga vida a la revolución! Mi revolucion!"
+msgstr "Larga vida a la revolución! Mi revolucion!"
+
+msgctxt "sage name"
+msgid "Sage"
+msgstr "현자"
+
+msgctxt "sage ability"
+msgid "If the Demon kills you, you learn that it is 1 of 2 players."
+msgstr "악마가 당신을 죽이면, 당신은 그가 두 플레이어 중 하나라는 것을 알게 됩니다"
+
+msgctxt "sage flavor"
+msgid "These mountainous tomes guard the secret, I am sure of it! Twixt word and word, it lies in wait. More candles, boy! More ink! These notes may look arcane, but the infernal puzzle is revealing itself."
+msgstr "These mountainous tomes guard the secret, I am sure of it! Twixt word and word, it lies in wait. More candles, boy! More ink! These notes may look arcane, but the infernal puzzle is revealing itself."
+
+msgctxt "sage otherNightReminder"
+msgid "If the Sage was killed by a Demon: Point to two players, one of which is that Demon."
+msgstr "만약 현자가 악마에게 죽는다면, 악마를 포함해 두명을 알려줍니다"
+
+msgctxt "sailor name"
+msgid "Sailor"
+msgstr "선원"
+
+msgctxt "sailor ability"
+msgid "Each night, choose an alive player: either you or they are drunk until dusk. You can't die."
+msgstr "매일 밤, 살아있는 플레이어를 선택하세요: 당신이나 그들이 황혼까지 취해 있을 것입니다. 당신은 죽을 수 없습니다. (이야기꾼이 어느쪽이 취할지 선택, 취한 상태이면 죽을수 있습니다)"
+
+msgctxt "sailor flavor"
+msgid "I'll drink any one of yer under the table! You! The chatterbox! Reckon you can take me? No? Howza 'bout you, Grandma? You ever tried Old McKillys Extra Spiced Rum before? Guaranteed to put hairs on yer chest! Step aboard, aye!"
+msgstr "I'll drink any one of yer under the table! You! The chatterbox! Reckon you can take me? No? Howza 'bout you, Grandma? You ever tried Old McKillys Extra Spiced Rum before? Guaranteed to put hairs on yer chest! Step aboard, aye!"
+
+msgctxt "sailor firstNightReminder"
+msgid "The Sailor points to a living player. Either the Sailor, or the chosen player, is drunk."
+msgstr "선원이 살아있는 플레이어를 가리킵니다. 선원 또는 그 플레이어는 취합니다"
+
+msgctxt "sailor otherNightReminder"
+msgid "The previously drunk player is no longer drunk. The Sailor points to a living player. Either the Sailor, or the chosen player, is drunk."
+msgstr "이전에 취한 플레이어는 술에서 깹니다. 살아있는 플레이어를 선택하세요: 당신이나 그들이 황혼까지 취해 있을 것입니다. 당신은 죽을 수 없습니다."
+
+msgctxt "sailor reminders"
+msgid "Drunk"
+msgstr "취함"
+
+msgctxt "saint name"
+msgid "Saint"
+msgstr "성자"
+
+msgctxt "saint ability"
+msgid "If you die by execution, your team loses."
+msgstr "처형으로 죽으면 당신의 팀이 패배합니다"
+
+msgctxt "saint flavor"
+msgid "Wisdom begets peace. Patience begets wisdom. Fear not, for the time shall come when fear too shall pass. Let us pray, and may the unity of our vision make saints of us all."
+msgstr "Wisdom begets peace. Patience begets wisdom. Fear not, for the time shall come when fear too shall pass. Let us pray, and may the unity of our vision make saints of us all."
+
+msgctxt "savant name"
+msgid "Savant"
+msgstr "학자"
+
+msgctxt "savant ability"
+msgid "Each day, you may visit the Storyteller to learn 2 things in private: 1 is true & 1 is false."
+msgstr "매일 이야기꾼을 방문하여 비공개로 2가지 사실을 알아보세요. 1은 사실이고 1은 거짓입니다."
+
+msgctxt "savant flavor"
+msgid "Seventy-two matchsticks on the floor... the sun sets early but the moon is unchanged... a torn piece of cloth... evil in the manor house... three by three... the one we trusted is not what he seems... green light means magnesium... residue, but the pattern is wrong... Seventy-two matchsticks on the floor..."
+msgstr "Seventy-two matchsticks on the floor... the sun sets early but the moon is unchanged... a torn piece of cloth... evil in the manor house... three by three... the one we trusted is not what he seems... green light means magnesium... residue, but the pattern is wrong... Seventy-two matchsticks on the floor..."
+
+msgctxt "scapegoat name"
+msgid "Scapegoat"
+msgstr "속죄하는 염소"
+
+msgctxt "scapegoat ability"
+msgid "If a player of your alignment is executed, you might be executed instead."
+msgstr "당신과 같은 성향의 플레이어가 처형당하면, 당신도 대신 처형당할 수 있습니다."
+
+msgctxt "scapegoat flavor"
+msgid "Good evening! Thank you for inviting me to the ball. I'm not from around here, but you sure seem like a friendly bunch, by golly. I'm sure we'll get along just dandy. What's all that rope for?"
+msgstr "Good evening! Thank you for inviting me to the ball. I'm not from around here, but you sure seem like a friendly bunch, by golly. I'm sure we'll get along just dandy. What's all that rope for?"
+
+msgctxt "scarletwoman name"
+msgid "Scarlet Woman"
+msgstr "부정한 여자"
+
+msgctxt "scarletwoman ability"
+msgid "If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don’t count)"
+msgstr "살아있는 플레이어가 5명 이상이고 악마가 죽으면 당신은 악마가 됩니다. (여행자는 포함되지 않습니다)"
+
+msgctxt "scarletwoman flavor"
+msgid "You have shown me the secrets of the Council of the Purple Flame. We have lain together in fire and in lust and in beastly commune, and I am forever your servant. But tonight, my dear, I am your master."
+msgstr "You have shown me the secrets of the Council of the Purple Flame. We have lain together in fire and in lust and in beastly commune, and I am forever your servant. But tonight, my dear, I am your master."
+
+msgctxt "scarletwoman otherNightReminder"
+msgid "If the Scarlet Woman became the Demon today: Show the 'You are' card, then the demon token."
+msgstr "만약 부정한 여자가 악마가 되었다면, \"당신은\" 카드와 악마 토큰을 보여줍니다"
+
+msgctxt "scarletwoman reminders"
+msgid "Demon"
+msgstr "악마"
+
+msgctxt "seamstress name"
+msgid "Seamstress"
+msgstr "재봉사"
+
+msgctxt "seamstress ability"
+msgid "Once per game, at night, choose 2 players (not yourself): you learn if they are the same alignment."
+msgstr "게임당 한 번씩, 밤에 플레이어 2명을 선택하세요(자신 제외): 그들이 같은 진영인지 알게됩니다"
+
+msgctxt "seamstress flavor"
+msgid "Did you hear that stranger in the cashmere coat put the word on our young Belle? And she said yes? Well, that's nothing compared to what Harry and that juggler got up to at the fair! The things I could say if I was a tattletale... my, yes."
+msgstr "Did you hear that stranger in the cashmere coat put the word on our young Belle? And she said yes? Well, that's nothing compared to what Harry and that juggler got up to at the fair! The things I could say if I was a tattletale... my, yes."
+
+msgctxt "seamstress firstNightReminder"
+msgid "The Seamstress either shows a 'no' head signal, or points to two other players. If the Seamstress chose players , nod 'yes' or shake 'no' for whether they are of same alignment."
+msgstr "재봉사가 능력을 쓰기로 했다면, 두명을 가리킵니다. 두명이 같은 진영인지 아닌지 알려줍니다"
+
+msgctxt "seamstress otherNightReminder"
+msgid "If the Seamstress has not yet used their ability: the Seamstress either shows a 'no' head signal, or points to two other players. If the Seamstress chose players , nod 'yes' or shake 'no' for whether they are of same alignment."
+msgstr "재봉사가 능력을 쓰기로 했다면, 두명을 가리킵니다. 두명이 같은 진영인지 아닌지 알려줍니다"
+
+msgctxt "seamstress reminders"
+msgid "No ability"
+msgstr "능력 없음"
+
+msgctxt "sentinel name"
+msgid "Sentinel"
+msgstr "보초"
+
+msgctxt "sentinel ability"
+msgid "There might be 1 extra or 1 fewer Outsider in-play."
+msgstr "플레이에 이방인이 1명 더 있거나 1명 더 적을 수 있습니다"
+
+msgctxt "sentinel flavor"
+msgid ""
+"Name, please.\n"
+"Papers, please.\n"
+"Weapons, please."
+msgstr ""
+"Name, please.\n"
+"Papers, please.\n"
+"Weapons, please."
+
+msgctxt "shabaloth name"
+msgid "Shabaloth"
+msgstr "샤발롯"
+
+msgctxt "shabaloth ability"
+msgid "Each night*, choose 2 players: they die. A dead player you chose last night might be regurgitated."
+msgstr "매일 밤*(첫날 제외), 플레이어 2명을 선택하세요: 그들은 죽습니다. 어젯밤에 선택한 죽은 플레이어는 토해낼 수도 있습니다. (이야기꾼이 결정)"
+
+msgctxt "shabaloth flavor"
+msgid "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
+msgstr "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
+
+msgctxt "shabaloth otherNightReminder"
+msgid "One player that the Shabaloth chose the previous night might be resurrected. The Shabaloth points to two players. Those players die."
+msgstr "샤발롯이 이전에 선택한 플레이어가 살아날수도 있습니다. 샤발롯이 두명을 지정하고, 그 플레이어들은 죽습니다"
+
+msgctxt "shabaloth reminders"
+msgid "Dead,Alive"
+msgstr "사망,부활"
+
+msgctxt "shugenja name"
+msgid "Shugenja"
+msgstr "순례자"
+
+msgctxt "shugenja ability"
+msgid "You start knowing if your closest evil player is clockwise or anti-clockwise. If equidistant, this info is arbitrary."
+msgstr "첫날 밤, 가장 가까운 사악한 플레이어가 시계 방향인지 반시계 방향인지 알게 됩니다. 거리가 같다면 이 정보는 임의적입니다."
+
+msgctxt "shugenja flavor"
+msgid "これは夢。それも夢。すべて夢です。"
+msgstr "これは夢。それも夢。すべて夢です。"
+
+msgctxt "shugenja firstNightReminder"
+msgid "Wake the Shugenja; point horizontally in the direction of the closest evil player. If the two closest evil players are equidistant, point your finger horizontally in either direction."
+msgstr "가장 가까운 악한 플레이어 방향을 알려줍니다 (시계/반시계), 같다면, 임의로 알려줍니다"
+
+msgctxt "slayer name"
+msgid "Slayer"
+msgstr "슬레이어"
+
+msgctxt "slayer ability"
+msgid "Once per game, during the day, publicly choose a player: if they are the Demon, they die."
+msgstr "게임당 한 번씩, 하루 동안 공개적으로 플레이어를 선택하세요. 그들이 악마라면, 그들은 죽습니다."
+
+msgctxt "slayer flavor"
+msgid "Die."
+msgstr "Die."
+
+msgctxt "slayer reminders"
+msgid "No ability"
+msgstr "능력없음"
+
+msgctxt "snakecharmer name"
+msgid "Snake Charmer"
+msgstr "뱀 조련사"
+
+msgctxt "snakecharmer ability"
+msgid "Each night, choose an alive player: a chosen Demon swaps characters & alignments with you & is then poisoned."
+msgstr "매일 밤, 살아있는 플레이어를 선택하세요.(자신 가능) 악마라면, 당신과 진영과 캐릭터를 바꾸고, 그 후 플레이어는 영구히 중독됩니다."
+
+msgctxt "snakecharmer flavor"
+msgid "Effendi... I am but a humble man, but my pipe is golden and a single tune will tame the wildest djinn, Inshallah. They say that greed hangs more men than rope. But not I, Effendi... not I."
+msgstr "Effendi... I am but a humble man, but my pipe is golden and a single tune will tame the wildest djinn, Inshallah. They say that greed hangs more men than rope. But not I, Effendi... not I."
+
+msgctxt "snakecharmer firstNightReminder"
+msgid "The Snake Charmer points to a player. If that player is the Demon: swap the Demon and Snake Charmer character and alignments. Wake each player to inform them of their new role and alignment. The new Snake Charmer is poisoned."
+msgstr "뱀 조련사가 플레이어를 선택합니다. 만약 악마라면, 뱀 조련사와 캐릭터와 진영을 바꿉니다. 각 캐릭터를 깨우고, 새로운 캐릭터와 진영을 알려줍니다. 새로운 뱀 조련사는 중독됩니다(영구히)"
+
+msgctxt "snakecharmer otherNightReminder"
+msgid "The Snake Charmer points to a player. If that player is the Demon: swap the Demon and Snake Charmer character and alignments. Wake each player to inform them of their new role and alignment. The new Snake Charmer is poisoned."
+msgstr "뱀 조련사가 플레이어를 선택합니다. 만약 악마라면, 뱀 조련사와 캐릭터와 진영을 바꿉니다. 각 캐릭터를 깨우고, 새로운 캐릭터와 진영을 알려줍니다. 새로운 뱀 조련사는 중독됩니다(영구히)"
+
+msgctxt "snakecharmer reminders"
+msgid "Poisoned"
+msgstr "중독됨"
+
+msgctxt "snitch name"
+msgid "Snitch"
+msgstr "밀고자"
+
+msgctxt "snitch ability"
+msgid "Minions start knowing 3 not-in-play characters."
+msgstr "하수인들도 악마처럼 게임에 사용되지 않는 3가지 캐릭터를 알게됩니다.(3가지는 이야기꾼이 배정, 같을수도, 다를수도 있습니다)"
+
+msgctxt "snitch flavor"
+msgid "It was John."
+msgstr "It was John."
+
+msgctxt "snitch firstNightReminder"
+msgid "After Minion info wake each Minion and show them three not-in-play character tokens. These may be the same or different to each other and the ones shown to the Demon."
+msgstr "각 하수인들에게 \"이 캐릭터는 플레이 중이 아닙니다\" 카드를 보여주고, 세개의 비 플레이 캐릭터를 보여줍니다."
+
+msgctxt "soldier name"
+msgid "Soldier"
+msgstr "군인"
+
+msgctxt "soldier ability"
+msgid "You are safe from the Demon."
+msgstr "악마로부터 죽지 않습니다"
+
+msgctxt "soldier flavor"
+msgid "As David said to Goliath, as Theseus said to the Minotaur, as Arjuna said to Bhagadatta... No."
+msgstr "As David said to Goliath, as Theseus said to the Minotaur, as Arjuna said to Bhagadatta... No."
+
+msgctxt "spiritofivory name"
+msgid "Spirit Of Ivory"
+msgstr "아이보리의 영혼"
+
+msgctxt "spiritofivory ability"
+msgid "There can't be more than 1 extra evil player."
+msgstr "악한 플레이어는 +1명 이상 있을 수 없습니다."
+
+msgctxt "spiritofivory flavor"
+msgid "The Wasteland calls. Bones rise to flesh, then fall to dust. The great spirit grows. The great spirit watches. The great spirit guides. The human listens, or the human is no more."
+msgstr "The Wasteland calls. Bones rise to flesh, then fall to dust. The great spirit grows. The great spirit watches. The great spirit guides. The human listens, or the human is no more."
+
+msgctxt "spiritofivory reminders"
+msgid "No extra evil"
+msgstr "추가악 없음"
+
+msgctxt "spy name"
+msgid "Spy"
+msgstr "스파이"
+
+msgctxt "spy ability"
+msgid "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead."
+msgstr "매일 밤, 당신은 그리모어르를 보게 됩니다. 당신은 죽었더라도, 선량하고 마을 사람이나 이방인으로 등록될 수 있습니다. (이야기꾼이 결정합니다)"
+
+msgctxt "spy flavor"
+msgid "Any brewmaster worth their liquor, knows no concoction pours trouble quicker, than one where spies seem double."
+msgstr "Any brewmaster worth their liquor, knows no concoction pours trouble quicker, than one where spies seem double."
+
+msgctxt "spy firstNightReminder"
+msgid "Show the Grimoire to the Spy for as long as they need."
+msgstr "그리모어를 필요한만큼 스파이에게 보여줍니다"
+
+msgctxt "spy otherNightReminder"
+msgid "Show the Grimoire to the Spy for as long as they need."
+msgstr "그리모어를 필요한만큼 스파이에게 보여줍니다"
+
+msgctxt "steward name"
+msgid "Steward"
+msgstr "청지기"
+
+msgctxt "steward ability"
+msgid "You start knowing 1 good player."
+msgstr "선한 플레이어 한명을 알고 시작합니다"
+
+msgctxt "steward flavor"
+msgid "How DARE you accuse Her Ladyship of wrongdoing? I’ve known her my entire life! All nine years!"
+msgstr "How DARE you accuse Her Ladyship of wrongdoing? I’ve known her my entire life! All nine years!"
+
+msgctxt "steward firstNightReminder"
+msgid "Point to 1 good player."
+msgstr "선한 플레이어 1명을 알려줍니다"
+
+msgctxt "steward reminders"
+msgid "Know"
+msgstr "알고있음"
+
+msgctxt "stormcatcher name"
+msgid "Storm Catcher"
+msgstr "스톰캐쳐"
+
+msgctxt "stormcatcher ability"
+msgid "Name a good character. If in play, they can only die by execution, but evil players learn which player it is."
+msgstr "캐릭터를 하나 지명합니다. 플레이 중이라면 처형으로만 죽을 수 있지만, 사악한 플레이어는 그 캐릭터가 누구인지 알게 됩니다."
+
+msgctxt "stormcatcher flavor"
+msgid "At dawn, the temple’s long shadow creeps to the fountain. At dusk, the obelisk blocks the red glare, cooling warm water under the archway. All lines converge here. A storm is coming, and this, this pebbled and lush and holy place between the apple trees, is the eye."
+msgstr "At dawn, the temple’s long shadow creeps to the fountain. At dusk, the obelisk blocks the red glare, cooling warm water under the archway. All lines converge here. A storm is coming, and this, this pebbled and lush and holy place between the apple trees, is the eye."
+
+msgctxt "stormcatcher reminders"
+msgid "Safe"
+msgstr "안전"
+
+msgctxt "summoner name"
+msgid "Summoner"
+msgstr "소환사"
+
+msgctxt "summoner ability"
+msgid "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]"
+msgstr "플레이 중이 아닌 캐릭터 세개를 알고 시작합니다. 셋째날 밤에, 선택한 플레이어(자신 가능)는 당신이 선택한 악마가 됩니다 [악마없음]"
+
+msgctxt "summoner flavor"
+msgid "Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness"
+msgstr "Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness"
+
+msgctxt "summoner firstNightReminder"
+msgid "Show the 'These characters are not in play' card. Show 3 character tokens of good characters not in play."
+msgstr "\"이 캐릭터들은 플레이되고 있지 않습니다\" 카드를 보여주고, 플레이되고 있지 않는 캐릭터 세개를 보여줍니다"
+
+msgctxt "summoner otherNightReminder"
+msgid "If it is the 3rd night, wake the Summoner. They point to a player and a Demon on the character sheet - that player becomes that Demon."
+msgstr "세번쨰 밤이라면, 소환사를 꺠워 캐릭터시트의 특정 악마가 될 플레이어를 고르게합니다. 그 플레이어는 악마가 됩니다.(악진영) 그 플레이어에게 알려줍니다"
+
+msgctxt "summoner reminders"
+msgid "Night 1,Night 2,Night 3"
+msgstr "첫쨰밤,둘쨰밤,셋째밤"
+
+msgctxt "sweetheart name"
+msgid "Sweetheart"
+msgstr "연인"
+
+msgctxt "sweetheart ability"
+msgid "When you die, 1 player is drunk from now on."
+msgstr "당신이 죽으면, 지금부터 플레이어 중 한 명이 취하게 됩니다."
+
+msgctxt "sweetheart flavor"
+msgid "I will never forget her. Never."
+msgstr "I will never forget her. Never."
+
+msgctxt "sweetheart otherNightReminder"
+msgid "Choose a player that is drunk."
+msgstr "연인이 죽었다면 취할 플레이어를 고릅니다 (이야기꾼이)"
+
+msgctxt "sweetheart reminders"
+msgid "Drunk"
+msgstr "취함"
+
+msgctxt "tealady name"
+msgid "Tea Lady"
+msgstr "티 레이디"
+
+msgctxt "tealady ability"
+msgid "If both your alive neighbours are good, they can't die."
+msgstr "살아있는 두 이웃이 모두 좋은 사람이라면, 그들은 죽을 수 없습니다."
+
+msgctxt "tealady flavor"
+msgid "If you are cold, tea will warm you. If you are too heated, tea will cool you. If you are depressed, tea will cheer you. If you are excited, tea will calm you."
+msgstr "If you are cold, tea will warm you. If you are too heated, tea will cool you. If you are depressed, tea will cheer you. If you are excited, tea will calm you."
+
+msgctxt "tealady reminders"
+msgid "Can not die"
+msgstr "죽지 않습니다"
+
+msgctxt "thief name"
+msgid "Thief"
+msgstr "도둑"
+
+msgctxt "thief ability"
+msgid "Each night, choose a player (not yourself): their vote counts negatively tomorrow."
+msgstr "매일 밤, 플레이어를 한 명 선택하세요(자신이 아닌). 그 사람의 투표는 내일 마이너스로 계산됩니다."
+
+msgctxt "thief flavor"
+msgid "I aint done nuffink. I weren't even in dat alley last night! It weren't me what stole Mayor Bruno's briefcase wiv all dem fancy dockoments innit. Besides, it was too 'eavy to carry far."
+msgstr "I aint done nuffink. I weren't even in dat alley last night! It weren't me what stole Mayor Bruno's briefcase wiv all dem fancy dockoments innit. Besides, it was too 'eavy to carry far."
+
+msgctxt "thief firstNightReminder"
+msgid "The Thief points to a player. Put the Thief's 'Negative vote' reminder by the chosen player's character token."
+msgstr "플레이어를 선택합니다. 도둑의 부정투표 알림을 표기합니다"
+
+msgctxt "thief otherNightReminder"
+msgid "The Thief points to a player. Put the Thief's 'Negative vote' reminder by the chosen player's character token."
+msgstr "플레이어를 선택합니다. 도둑의 부정투표 알림을 표기합니다"
+
+msgctxt "thief reminders"
+msgid "Negative vote"
+msgstr "부정투표"
+
+msgctxt "tinker name"
+msgid "Tinker"
+msgstr "땜장이"
+
+msgctxt "tinker ability"
+msgid "You might die at any time."
+msgstr "당신은 언제든지 죽을지도 몰라요(이야기꾼 선택)"
+
+msgctxt "tinker flavor"
+msgid "I think I see the problem. Luckily, I have an idea! This catapult will shoot twice as far with just a minor adjustment..."
+msgstr "I think I see the problem. Luckily, I have an idea! This catapult will shoot twice as far with just a minor adjustment..."
+
+msgctxt "tinker otherNightReminder"
+msgid "The Tinker might die."
+msgstr "떔장이가 죽을 수도 있습니다"
+
+msgctxt "tinker reminders"
+msgid "Dead"
+msgstr "사망"
+
+msgctxt "towncrier name"
+msgid "Town Crier"
+msgstr "포고꾼"
+
+msgctxt "towncrier ability"
+msgid "Each night*, you learn if a Minion nominated today."
+msgstr "매일 밤*(첫날 제외), 오늘 하수인이 후보에 올랐는지 알게 됩니다"
+
+msgctxt "towncrier flavor"
+msgid "Hear ye! Hear ye! Witchcraft in the labyrinth! Genius savant reveals all! Town in danger! Hear Ye!"
+msgstr "Hear ye! Hear ye! Witchcraft in the labyrinth! Genius savant reveals all! Town in danger! Hear Ye!"
+
+msgctxt "towncrier otherNightReminder"
+msgid "Nod 'yes' or shake head 'no' for whether a Minion nominated today. Place the 'Minion not nominated' marker (remove 'Minion nominated', if any)."
+msgstr "하수인이 오늘 지명했는지 예/아니오로 알려줍니다."
+
+msgctxt "towncrier reminders"
+msgid "Minions not nominated,Minion nominated"
+msgstr "하수인이 지명하지 않았다,하수인이 지명했다"
+
+msgctxt "toymaker name"
+msgid "Toymaker"
+msgstr "장난감 제작자"
+
+msgctxt "toymaker ability"
+msgid "The Demon may choose not to attack & must do this at least once per game. Evil players get normal starting info."
+msgstr "악마는 공격하지 않기로 선택할 수 있으며 게임당 최소 한 번은 이를 해야 합니다. 사악한 플레이어는 정상적인 시작 정보를 얻습니다"
+
+msgctxt "toymaker flavor"
+msgid "It buzzes! It walks down stairs! It keeps you warm at night! It tastes like sugar! The kiddies love it! Introducing... the brand new... Warm'o-buzzy-wuzzy-walk'a'bot-thingy-contraption! Fun for all ages!"
+msgstr "It buzzes! It walks down stairs! It keeps you warm at night! It tastes like sugar! The kiddies love it! Introducing... the brand new... Warm'o-buzzy-wuzzy-walk'a'bot-thingy-contraption! Fun for all ages!"
+
+msgctxt "toymaker reminders"
+msgid "No Attack"
+msgstr "공격 안함"
+
+msgctxt "undertaker name"
+msgid "Undertaker"
+msgstr "장의사"
+
+msgctxt "undertaker ability"
+msgid "Each night*, you learn which character died by execution today."
+msgstr "매일 밤*(첫날 제외), 오늘 어떤 캐릭터가 처형당했는지 알게 됩니다."
+
+msgctxt "undertaker flavor"
+msgid "Hmmm....what have we here? The left boot is worn down to the heel, with flint shavings under the tongue. This is the garb of a Military man."
+msgstr "Hmmm....what have we here? The left boot is worn down to the heel, with flint shavings under the tongue. This is the garb of a Military man."
+
+msgctxt "undertaker otherNightReminder"
+msgid "If a player was executed today: Show that player’s character token."
+msgstr "오늘 플레이어가 처형당했다면, 그 플레이어 토큰을 보여줍니다"
+
+msgctxt "undertaker reminders"
+msgid "Executed"
+msgstr "처형됨"
+
+msgctxt "vigormortis name"
+msgid "Vigormortis"
+msgstr "비고모르티스"
+
+msgctxt "vigormortis ability"
+msgid "Each night*, choose a player: they die. Minions you kill keep their ability & poison 1 Townsfolk neighbour. [−1 Outsider]"
+msgstr "매일 밤*(첫날 제외), 플레이어를 하나 선택하세요: 그들은 죽습니다. 당신이 죽인 하수인은 능력을 유지하고 마을 사람 이웃 1명을 중독시킵니다. [-1 이방인]"
+
+msgctxt "vigormortis flavor"
+msgid "All doors are one door. All keys are one key. All cups are one cup, but whosoever drinketh of the water that I give shall never thirst, but the water shall be in him a well springing up into everlasting life."
+msgstr "All doors are one door. All keys are one key. All cups are one cup, but whosoever drinketh of the water that I give shall never thirst, but the water shall be in him a well springing up into everlasting life."
+
+msgctxt "vigormortis otherNightReminder"
+msgid "The Vigormortis points to a player. That player dies. If a Minion, they keep their ability and one of their Townsfolk neighbours is poisoned."
+msgstr "비고모르티스가 플레이어를 가리킵니다. 그 플레이어는 죽습니다. 만약 하수인이라면, 능력을 유지하고, 주변의 마을사람중 하나를 중독시킵니다"
+
+msgctxt "vigormortis reminders"
+msgid "Dead,Has ability,Poisoned"
+msgstr "사망,능력있음,중독됨"
+
+msgctxt "villageidiot name"
+msgid "Village Idiot"
+msgstr "동네바보"
+
+msgctxt "villageidiot ability"
+msgid "Each night, choose a player: you learn their alignment. [+0 to +2 Village Idiots. 1 of the extras is drunk]"
+msgstr "매일 밤, 플레이어를 선택하세요: 그들의 성향을 알게 됩니다. [+0에서 +2 동네바보. 추가된 동네바보 중 1명이 취함]"
+
+msgctxt "villageidiot flavor"
+msgid "Roses are blue, and violets are red, Please reverse what I just said."
+msgstr "Roses are blue, and violets are red, Please reverse what I just said."
+
+msgctxt "villageidiot firstNightReminder"
+msgid "The Village Idiot points to a player; give a thumbs up if that player is good or a thumbs down if that player is evil."
+msgstr "동네바보는 한명을 가리킵니다. 선한지 악한지 알려줍니다"
+
+msgctxt "villageidiot otherNightReminder"
+msgid "The Village Idiot points to a player; give a thumbs up if that player is good or a thumbs down if that player is evil."
+msgstr "동네바보는 한명을 가리킵니다. 선한지 악한지 알려줍니다"
+
+msgctxt "villageidiot reminders"
+msgid "Drunk"
+msgstr "취함"
+
+msgctxt "virgin name"
+msgid "Virgin"
+msgstr "처녀"
+
+msgctxt "virgin ability"
+msgid "The 1st time you are nominated, if the nominator is a Townsfolk, they are executed immediately."
+msgstr "처음으로 지명될 때, 지명자가 마을 사람인 경우, 즉시 처형됩니다"
+
+msgctxt "virgin flavor"
+msgid "I am pure. Let those who are without sin cast themselves down and suffer in my stead. My reputation shall not be stained with your venomous accusations."
+msgstr "I am pure. Let those who are without sin cast themselves down and suffer in my stead. My reputation shall not be stained with your venomous accusations."
+
+msgctxt "virgin reminders"
+msgid "No ability"
+msgstr "능력 없음"
+
+msgctxt "vizier name"
+msgid "Vizier"
+msgstr "수상"
+
+msgctxt "vizier ability"
+msgid "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately."
+msgstr "모든 플레이어는 당신이 누구인지 압니다. 낮에는 죽을 수 없습니다. 선한플레어가 참여한 투표에서 즉시 처형을 선택할 수 있습니다"
+
+msgctxt "vizier flavor"
+msgid "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me."
+msgstr "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me."
+
+msgctxt "vizier firstNightReminder"
+msgid "Announce 'The Vizier is in play' and state which player they are."
+msgstr "수상이 게임에 있음을 알리고 누구인지 알려줍니다"
+
+msgctxt "vortox name"
+msgid "Vortox"
+msgstr "볼텍스"
+
+msgctxt "vortox ability"
+msgid "Each night*, choose a player: they die. Townsfolk abilities yield false info. Each day, if no-one is executed, evil wins."
+msgstr "매일 밤*(첫날 제외), 플레이어를 선택하세요. 그들은 죽습니다. 마을 사람들의 능력은 거짓 정보만 제공합니다. 매일, 아무도 처형되지 않으면 악이 승리합니다."
+
+msgctxt "vortox flavor"
+msgid "Black is White. Right is Wrong. Left is Right. Up is Long. Down is Sight. Short is Blind. Follow me. Answers find."
+msgstr "Black is White. Right is Wrong. Left is Right. Up is Long. Down is Sight. Short is Blind. Follow me. Answers find."
+
+msgctxt "vortox otherNightReminder"
+msgid "The Vortox points to a player. That player dies."
+msgstr "볼텍스는 플레이어를 가리킵니다 그 플레이어는 죽습니다"
+
+msgctxt "vortox reminders"
+msgid "Dead"
+msgstr "사망"
+
+msgctxt "voudon name"
+msgid "Voudon"
+msgstr "부두술사"
+
+msgctxt "voudon ability"
+msgid "Only you and the dead can vote. They don't need a vote token to do so. A 50% majority is not required."
+msgstr "당신과 죽은 자만 투표할 수 있습니다. 투표 토큰이 필요하지 않습니다. 50%의 과반수는 필요하지 않습니다."
+
+msgctxt "voudon flavor"
+msgid "Bien venu. Sit down. Breathe deep. Enter the land of the dead. See with their eyes. Speak with their voice. Yon sel lang se janm ase."
+msgstr "Bien venu. Sit down. Breathe deep. Enter the land of the dead. See with their eyes. Speak with their voice. Yon sel lang se janm ase."
+
+msgctxt "washerwoman name"
+msgid "Washerwoman"
+msgstr "세탁부"
+
+msgctxt "washerwoman ability"
+msgid "You start knowing that 1 of 2 players is a particular Townsfolk."
+msgstr "플레이어 2명 중 1명이 특정 마을주민이라는 걸 알게 됩니다."
+
+msgctxt "washerwoman flavor"
+msgid "Bloodstains on a dinner jacket? No, this is cooking sherry. How careless."
+msgstr "Bloodstains on a dinner jacket? No, this is cooking sherry. How careless."
+
+msgctxt "washerwoman firstNightReminder"
+msgid "Show the character token of a Townsfolk in play. Point to two players, one of which is that character."
+msgstr "현재 플레이 중인 마을주민 하나를 보여줍니다. 그 캐릭터를 포함해 두명을 가리킵니다"
+
+msgctxt "washerwoman reminders"
+msgid "Townsfolk,Wrong"
+msgstr "마을주민,가짜"
+
+msgctxt "widow name"
+msgid "Widow"
+msgstr "과부"
+
+msgctxt "widow ability"
+msgid "On your 1st night, look at the Grimoire and choose a player: they are poisoned. 1 good player knows a Widow is in play."
+msgstr "첫날 밤, 그리모어를 보고 플레이어를 하나 고르세요: 그들은 중독당했습니다. 선한 플레이어 한 명은 과부가 있다는 것을 압니다."
+
+msgctxt "widow flavor"
+msgid "More wine? Château d’Ergot ’07 is a very special vintage. My yes, very special indeed."
+msgstr "More wine? Château d’Ergot ’07 is a very special vintage. My yes, very special indeed."
+
+msgctxt "widow firstNightReminder"
+msgid "Show the Grimoire to the Widow for as long as they need. The Widow points to a player. That player is poisoned. Wake a good player. Show the 'These characters are in play' card, then the Widow character token."
+msgstr "과부에서 그리모어를 필요한 만큼 보게 합니다. 과부는 한명을 선택하고, 그 플레이어는 중독됩니다. 선한 플레이어 한명을 꺠우고, \"이 캐릭터는 플레이 중 입니다\" 카드를 보여주고, 과부 토큰을 보여줍니다"
+
+msgctxt "widow remindersGlobal"
+msgid "Knows"
+msgstr "알고있음"
+
+msgctxt "widow reminders"
+msgid "Poisoned"
+msgstr "중독됨"
+
+msgctxt "witch name"
+msgid "Witch"
+msgstr "마녀"
+
+msgctxt "witch ability"
+msgid "Each night, choose a player: if they nominate tomorrow, they die. If just 3 players live, you lose this ability."
+msgstr "매일 밤, 플레이어를 선택하세요. 내일 투표를 열면(다른 플레이어를 지명하면) 죽습니다. 플레이어 3명만 살아남으면 이 능력을 잃습니다."
+
+msgctxt "witch flavor"
+msgid "Three drops of goat's blood. A lock of hair, torn in anger. The name is spoken, the shadow cast. Walk left foot first down that brambled path, and don't look back."
+msgstr "Three drops of goat's blood. A lock of hair, torn in anger. The name is spoken, the shadow cast. Walk left foot first down that brambled path, and don't look back."
+
+msgctxt "witch firstNightReminder"
+msgid "The Witch points to a player. If that player nominates tomorrow they die immediately."
+msgstr "마녀는 플레이어를 선택합니다. 만약 그 플레이어가 내일 누군가를 지명한다면, 즉시 사망합니다"
+
+msgctxt "witch otherNightReminder"
+msgid "If there are 4 or more players alive: The Witch points to a player. If that player nominates tomorrow they die immediately."
+msgstr "만약 4명 이상이 살아있다면, 마녀는 플레이어를 지명합니다. 만약 그 플레이어가 내일 누군가를 지명한다면, 즉시 사망합니다"
+
+msgctxt "witch reminders"
+msgid "Cursed"
+msgstr "저주받음"
+
+msgctxt "wizard name"
+msgid "Wizard"
+msgstr "Wizard"
+
+msgctxt "wizard ability"
+msgid "Once per game, choose to make a wish.  If granted, it might have a price & leave a clue as to its nature."
+msgstr "Once per game, choose to make a wish.  If granted, it might have a price & leave a clue as to its nature."
+
+msgctxt "wizard flavor"
+msgid "Genies are overrated."
+msgstr "Genies are overrated."
+
+msgctxt "wizard firstNightReminder"
+msgid "Run the Wizard ability if applicable."
+msgstr "Run the Wizard ability if applicable."
+
+msgctxt "wizard otherNightReminder"
+msgid "Run the Wizard ability if applicable."
+msgstr "Run the Wizard ability if applicable."
+
+msgctxt "wizard reminders"
+msgid "?"
+msgstr "?"
+
+msgctxt "xaan name"
+msgid "Xaan"
+msgstr "Xaan"
+
+msgctxt "xaan ability"
+msgid "On night X, all Townsfolk are poisoned until dusk. [X Outsiders]"
+msgstr "On night X, all Townsfolk are poisoned until dusk. [X Outsiders]"
+
+msgctxt "xaan flavor"
+msgid "Down they fall. One by one. By two, by three, by five."
+msgstr "Down they fall. One by one. By two, by three, by five."
+
+msgctxt "xaan reminders"
+msgid "Night 1, Night 2, Night 3, X"
+msgstr "Night 1, Night 2, Night 3, X"
+
+msgctxt "yaggababble name"
+msgid "Yaggababble"
+msgstr "야가보블"
+
+msgctxt "yaggababble ability"
+msgid "You start knowing a secret phrase. For each time you said it publicly today, a player might die."
+msgstr "비밀 문구를 알게 됩니다. 오늘 공개적으로 말할 때마다 플레이어가 죽을 수 있습니다."
+
+msgctxt "yaggababble flavor"
+msgid "Murders inside the Rue Morgue? Фальшивые новости! Hounds on the Baskerville moor? Фальшивые новости! Death while sailing the Nile? Фальшивые новости!"
+msgstr "Murders inside the Rue Morgue? Фальшивые новости! Hounds on the Baskerville moor? Фальшивые новости! Death while sailing the Nile? Фальшивые новости!"
+
+msgctxt "yaggababble firstNightReminder"
+msgid "Show the Yaggababble their secret phrase."
+msgstr "야가보블에게 비밀 문구를 보여주세요"
+
+msgctxt "yaggababble otherNightReminder"
+msgid "Choose a number of players up to the total number of times the Yaggababble said their secret phrase publicly, those players die."
+msgstr "야가보블이 비밀 문구를 공개적으로 말한 횟수보다 적게 플레이어를 선택합니다. 그들은 죽습니다"
+
+msgctxt "yaggababble reminders"
+msgid "Dead"
+msgstr "사망"
+
+msgctxt "zealot name"
+msgid "Zealot"
+msgstr "광신도"
+
+msgctxt "zealot ability"
+msgid "If there are 5 or more players alive, you must vote for every nomination."
+msgstr "살아있는 플레이어가 5명 이상인 경우, 모든 후보에 투표해야 합니다"
+
+msgctxt "zealot flavor"
+msgid "I enjoy talking to you. Your mind appeals to me. It resembles my own mind except that you happen to be insane."
+msgstr "I enjoy talking to you. Your mind appeals to me. It resembles my own mind except that you happen to be insane."
+
+msgctxt "zombuul name"
+msgid "Zombuul"
+msgstr "좀부울"
+
+msgctxt "zombuul ability"
+msgid "Each night*, if no-one died today, choose a player: they die. The 1st time you die, you live but register as dead."
+msgstr "매일 밤*(첫날 제외), 만약 오늘 낮에 아무도 죽지 않았다면, 좀부울은 플레이어 1명을 선택합니다 : 해당 플레이어는 죽습니다. 좀부울이 처음으로 사망할 경우, 죽은 것처럼 취급되지만 실제로는 살아있습니다."
+
+msgctxt "zombuul flavor"
+msgid "I do not. Understand. Your ways. Fellow human. Show me. The dirt. Where the holy. Lay. Sleeping. I too. Must sleep. Soon."
+msgstr "I do not. Understand. Your ways. Fellow human. Show me. The dirt. Where the holy. Lay. Sleeping. I too. Must sleep. Soon."
+
+msgctxt "zombuul otherNightReminder"
+msgid "If no-one died during the day: The Zombuul points to a player. That player dies."
+msgstr "만약 오늘 낮에 아무도 죽지 않았다면, 좀부울은 플레이어 1명을 선택합니다 : 해당 플레이어는 죽습니다."
+
+msgctxt "zombuul reminders"
+msgid "Died today,Dead"
+msgstr "오늘 사망함,사망"

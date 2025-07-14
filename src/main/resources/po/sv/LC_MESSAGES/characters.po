@@ -1,0 +1,3170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+msgctxt "acrobat name"
+msgid "Acrobat"
+msgstr "Akrobaten"
+
+msgctxt "acrobat ability"
+msgid "Each night*, choose a player: if they are or become drunk or poisoned tonight, you die."
+msgstr "Varje natt* väljer du en spelare; om hen är eller blir full eller förgiftad inatt dör du."
+
+msgctxt "acrobat flavor"
+msgid "Welcome, one and all, to the greatest show on earth."
+msgstr "Mina damer och herrar, håll i hattarna, för nu kommer jag trotsa självaste tyngdlagen och dansa på luften, med förundransvärd djärvhet och grace, för ert nöje."
+
+msgctxt "acrobat otherNightReminder"
+msgid "The Acrobat chooses a player. If they are become drunk or poisoned tonight, the Acrobat player dies."
+msgstr "Akrobaten väljer en spelare. Om den spelaren är eller blir full eller förgiftad under natten dör Akrobaten."
+
+msgctxt "acrobat reminders"
+msgid "Dead"
+msgstr "Död"
+
+msgctxt "alchemist name"
+msgid "Alchemist"
+msgstr "Alkemisten"
+
+msgctxt "alchemist ability"
+msgid "You have a Minion ability. When using this, the Storyteller may prompt you to choose differently."
+msgstr "Du har en Kumpanförmåga. När du använder den kan Berättaren uppmana dig att välja annorlunda."
+
+msgctxt "alchemist flavor"
+msgid "Visit the interior of the Earth. By rectification thou shalt find the hidden stone. Above the gold, lieth the red. Kether in Malkuth."
+msgstr "Beträd jordens inre. Genom rektifiering finner du den dolda stenen. Ovan guldet vilar det röda. Kether i Malkuth."
+
+msgctxt "alchemist firstNightReminder"
+msgid "Show the Alchemist a not-in-play Minion token"
+msgstr "Visa Alkemisten en Kumpan som inte är i spel."
+
+msgctxt "alchemist remindersGlobal"
+msgid "Is the Alchemist"
+msgstr "Är Alkemisten"
+
+msgctxt "alhadikhia name"
+msgid "Al-Hadikhia"
+msgstr "al Hadikhia"
+
+msgctxt "alhadikhia ability"
+msgid "Each night*, you may choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die."
+msgstr "Varje natt* kan du välja 3 spelare (alla spelare vet vilka du valt); de väljer tyst att leva eller dö. Om alla lever dör alla tre."
+
+msgctxt "alhadikhia flavor"
+msgid "Alsukut min dhahab."
+msgstr "Alsukut min dhahab."
+
+msgctxt "alhadikhia otherNightReminder"
+msgid "The Al-Hadikhia chooses 3 players. Announce the first player, wake them to nod yes to live or shake head no to die, kill or resurrect accordingly, then put to sleep and announce the next player. If all 3 are alive after this, all 3 die."
+msgstr "al Hadikhia kan välja 3 spelare. Tillkännage och väck den första spelaren; hen nickar för att leva eller skakar på huvudet för att dö; markera hen som död eller återupplivad; spelaren somnar. Upprepa för de två andra spelarna. Om alla 3 lever efter detta dör alla 3."
+
+msgctxt "alhadikhia reminders"
+msgid "1,2,3,Chose death,Chose life"
+msgstr "1,2,3,Valt att dö,Valt att leva"
+
+msgctxt "alsaahir name"
+msgid "Alsaahir"
+msgstr "al Saahir"
+
+msgctxt "alsaahir ability"
+msgid "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins."
+msgstr "Varje dag kan du gissa vilka spelare som är Kumpan(er) och Demon(er). Om du har rätt vinner de goda."
+
+msgctxt "alsaahir flavor"
+msgid "I am here because of you, and you are here because of me."
+msgstr "Jag är här på grund av er, och ni är här på grund av mig."
+
+msgctxt "amnesiac name"
+msgid "Amnesiac"
+msgstr "Virrpannan"
+
+msgctxt "amnesiac ability"
+msgid "You do not know what your ability is. Each day, privately guess what it is: you learn how accurate you are."
+msgstr "Du vet inte vad din förmåga är. Varje dag kan du gissa privat för Berättaren; du får veta hur nära du är."
+
+msgctxt "amnesiac flavor"
+msgid "Wait. What. Who? Oh, ok. Wait. What?"
+msgstr "Vänta. Va. Vem? Jaha. Vänta, va?"
+
+msgctxt "amnesiac firstNightReminder"
+msgid "Decide the Amnesiac's entire ability. If the Amnesiac's ability causes them to wake tonight: Wake the Amnesiac and run their ability."
+msgstr "Bestäm Virrpannans förmåga. Om förmågan får Virrpannan att vakna inatt så väck hen och använd förmågan."
+
+msgctxt "amnesiac otherNightReminder"
+msgid "If the Amnesiac's ability causes them to wake tonight: Wake the Amnesiac and run their ability."
+msgstr "Om Virrpannans förmåga får hen att vakna inatt så väck hen och använd förmågan."
+
+msgctxt "amnesiac reminders"
+msgid "?"
+msgstr "?"
+
+msgctxt "angel name"
+msgid "Angel"
+msgstr "Ängeln"
+
+msgctxt "angel ability"
+msgid "Something bad might happen to whoever is most responsible for the death of a new player."
+msgstr "Något dåligt kanske händer den som är främsta skälet till att en ny spelare dör."
+
+msgctxt "angel flavor"
+msgid "Let those who are without sin dare to raise their hand to my chosen, for I shall strike such fools down with the fury and righteousness of a thousand storms."
+msgstr "Låt den som är utan synd våga kröka ett hår på min utvalda, ty den dåren skall jag hugga ned med tusen stormars vrede."
+
+msgctxt "angel reminders"
+msgid "Protect,Something Bad"
+msgstr "Skyddad,Något dåligt"
+
+msgctxt "apprentice name"
+msgid "Apprentice"
+msgstr "Lärlingen"
+
+msgctxt "apprentice ability"
+msgid "On your 1st night, you gain a Townsfolk ability (if good), or a Minion ability (if evil)."
+msgstr "Din första natt får du en Bybos förmåga (om du är god) eller en Kumpans (om du är ond)."
+
+msgctxt "apprentice flavor"
+msgid "For years have I traveled, studying the ways of The Craft. Which craft, you ask? Simply that of the simple folk. Nothing to worry about. Not yet."
+msgstr "Många år har jag vandrat och studerat hantverket. Vilket hantverk? Bara det enkla folkets. Inget att oroa sig för. Inte än."
+
+msgctxt "apprentice firstNightReminder"
+msgid "Show the Apprentice the 'You are' card, then a Townsfolk or Minion token. In the Grimoire, replace the Apprentice token with that character token, and put the Apprentice's 'Is the Apprentice' reminder by that character token."
+msgstr "Visa Lärlingen kortet ”Du är” och en Bybos eller Kumpans rollbricka. Byt ut Lärlingsbrickan mot den nya rollbrickan i Spelboken och sätt påminnelsen ”Är Lärlingen” bredvid."
+
+msgctxt "apprentice reminders"
+msgid "Is the Apprentice"
+msgstr "Är Lärlingen"
+
+msgctxt "artist name"
+msgid "Artist"
+msgstr "Konstnären"
+
+msgctxt "artist ability"
+msgid "Once per game, during the day, privately ask the Storyteller any yes/no question."
+msgstr "En gång per spel, på dagen, kan du privat ställa en ja/nej-fråga till Berättaren."
+
+msgctxt "artist flavor"
+msgid "Mon Dieu! C'est lumineux! My work, she is... how you say... Magnifique! Dieu est révélé! Oui."
+msgstr "Mon Dieu ! C’est lumineux ! Mitt verk, hon är… hur man säger… magnifique ! Dieu est révélé ! Oui."
+
+msgctxt "artist reminders"
+msgid "No ability"
+msgstr "Ingen förmåga"
+
+msgctxt "assassin name"
+msgid "Assassin"
+msgstr "Lönnmördaren"
+
+msgctxt "assassin ability"
+msgid "Once per game, at night*, choose a player: they die, even if for some reason they could not."
+msgstr "En gång per spel, på natten*, kan du välja en spelare; hen dör, även om hen av någon anledning skulle överleva."
+
+msgctxt "assassin flavor"
+msgid "..."
+msgstr "…"
+
+msgctxt "assassin otherNightReminder"
+msgid "If the Assassin has not yet used their ability: The Assassin either shows the 'no' head signal, or points to a player. That player dies."
+msgstr "Om Lönnmördaren inte har använt sin förmåga skakar hen på huvudet eller pekar på en spelare. Den utpekade spelaren dör."
+
+msgctxt "assassin reminders"
+msgid "Dead,No ability"
+msgstr "Död,Ingen förmåga"
+
+msgctxt "atheist name"
+msgid "Atheist"
+msgstr "Ateisten"
+
+msgctxt "atheist ability"
+msgid "The Storyteller can break the game rules & if executed, good wins, even if you are dead [No evil characters]"
+msgstr "Berättaren kan bryta mot spelets regler och måste avrättas för att de goda ska vinna, även om du är död. [Inga onda roller]"
+
+msgctxt "atheist flavor"
+msgid "Let us disperse with unnecessary conjecture and silly paranoia. There is a perfectly rational explanation for everything. Yes, a teacup may indeed be orbiting the planet, too small to see, but I shall drink my tea from the very real china in my very real hands."
+msgstr "Nu lägger vi av med det onödiga gissandet och den larviga paranoian. Det finns en fullständigt logisk förklaring till allt. Ja, kanske är det så att en tekopp kretsar kring planeten, för liten att se, men jag dricker hellre mitt te från det högst verkliga porslinet i mina högst verkliga händer."
+
+msgctxt "balloonist name"
+msgid "Balloonist"
+msgstr "Ballongfararen"
+
+msgctxt "balloonist ability"
+msgid "Each night, you learn a player of a different character type than last night. [+0 or +1 Outsider]"
+msgstr "Varje natt får du veta en spelare med en annan rolltyp än igår. [+0 eller +1 Utböling]"
+
+msgctxt "balloonist flavor"
+msgid "More heat! Higher! Higher! Più alto! Ahhh... it is so beautiful from up here, don't you agree? Can you see the children fishing by the river, under the willow? Can you see the  glint of the sun on the circus tent-poles? What's this? An old man, alone, passed out in the vineyard? Less heat! Lower! Lower! Vai più in basso!"
+msgstr "Mer värme! Högre! Högre! Più alto! Ahhh… Det är så vackert uppifrån, eller vad säger du? Ser du barnen som fiskar vid floden, under pilen? Ser du solens glans i cirkusets tältstänger? Vad nu? En gammal man som har svimmat i vingården? Mindre värme! Lägre! Lägre! Vai più in basso!"
+
+msgctxt "balloonist firstNightReminder"
+msgid "Choose a character type. Point to a player whose character is of that type. Place the Balloonist's Seen reminder next to that character."
+msgstr "Välj en rolltyp. Peka på en spelare vars roll är den typen. Sätt påminnelsen bredvid den spelarens bricka."
+
+msgctxt "balloonist otherNightReminder"
+msgid "Choose a character type different to the previous night. Point to a player whose character is of that type. Place the Balloonist's Seen reminder next to that character, remove the Seen reminder from the previous character."
+msgstr "Välj en annan rolltyp än den Ballongfararen såg igår. Peka på en spelare vars roll är den typen. Sätt en påminnelse bredvid den spelarens bricka."
+
+msgctxt "balloonist reminders"
+msgid "Seen Townsfolk,Seen Outsider,Seen Minion,Seen Demon,Seen Traveller"
+msgstr "Visad"
+
+msgctxt "banshee name"
+msgid "Banshee"
+msgstr "Bansheen"
+
+msgctxt "banshee ability"
+msgid "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination."
+msgstr "Om Demonen dödar dig får alla veta det. Därefter kan du nominera 2 gånger per dag och rösta 2 gånger per nominering."
+
+msgctxt "banshee flavor"
+msgid "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh."
+msgstr "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh."
+
+msgctxt "banshee otherNightReminder"
+msgid "Announce that the Banshee has died."
+msgstr "Säg att Bansheen har dött."
+
+msgctxt "banshee reminders"
+msgid "Has Ability"
+msgstr "Har förmåga"
+
+msgctxt "barber name"
+msgid "Barber"
+msgstr "Barberaren"
+
+msgctxt "barber ability"
+msgid "If you died today or tonight, the Demon may choose 2 players (not another Demon) to swap characters."
+msgstr "Om du dör kan Demonen inatt välja 2 spelare (inte en annan Demon) som byter roll."
+
+msgctxt "barber flavor"
+msgid "Did you know that barbery and surgery were once the same profession? No? Well, now you do."
+msgstr "Visste du att barberare och kirurg en gång var samma yrke? Inte? Nu vet du."
+
+msgctxt "barber otherNightReminder"
+msgid "If the Barber died today: Wake the Demon. Show the 'This character selected you' card, then Barber token. The Demon either shows a 'no' head signal, or points to 2 players. If they chose players: Swap the character tokens. Wake each player. Show 'You are', then their new character token."
+msgstr "Om Barberaren dog idag: Väck Demonen. Visa kortet ”Den här rollen valde dig” och sedan Barberarens bricka. Demonen skakar på huvudet för nej eller pekar på 2 spelare. Om Demonen väljer två spelare så byt plats på deras rollbrickor. Väck varje spelare och visa ”Du är” följt av den nya rollbrickan."
+
+msgctxt "barber reminders"
+msgid "Haircuts tonight"
+msgstr "Klipper inatt"
+
+msgctxt "barista name"
+msgid "Barista"
+msgstr "Baristan"
+
+msgctxt "barista ability"
+msgid "Each night, until dusk, 1) a player becomes sober, healthy and gets true info, or 2) their ability works twice. They learn which."
+msgstr "Varje natt, till skymningen, blir en spelare frisk och får sann info, eller kan använda sin förmåga två gånger. Hen får veta vilket."
+
+msgctxt "barista flavor"
+msgid "A cup of coffee with no cream, Monsieur? I’m terribly sorry, but we’re fresh out of cream — how about with no milk?"
+msgstr "Kaffe utan grädde? Jag är hemskt ledsen, men grädden är slut – går det bra utan mjölk istället?"
+
+msgctxt "barista firstNightReminder"
+msgid "Choose a player, wake them and tell them which Barista power is affecting them. Treat them accordingly (sober/healthy/true info or activate their ability twice)."
+msgstr "Välj en spelare, väck hen och ange vilken Baristakraft hen fått. Agera därefter (frisk och sann info eller aktivera förmågan två gånger)."
+
+msgctxt "barista otherNightReminder"
+msgid "Choose a player, wake them and tell them which Barista power is affecting them. Treat them accordingly (sober/healthy/true info or activate their ability twice)."
+msgstr "Välj en spelare, väck hen och ange vilken Baristakraft hen fått. Agera därefter (frisk och sann info eller aktivera förmågan två gånger)."
+
+msgctxt "barista reminders"
+msgid "Sober & Healthy,Ability twice"
+msgstr "Frisk & nykter,Dubbel förmåga"
+
+msgctxt "baron name"
+msgid "Baron"
+msgstr "Baronen"
+
+msgctxt "baron ability"
+msgid "There are extra Outsiders in play. [+2 Outsiders]"
+msgstr "Det är extra Utbölingar i spel. [+2 Utbölingar]"
+
+msgctxt "baron flavor"
+msgid "This town has gone to the dogs, what? Cheap foreign labor... that's the ticket. Stuff them in the mine, I say. A bit of hard work never hurt anyone, and a clip'o'the ears to any brigand who says otherwise. It's all about the bottom line, what?"
+msgstr "Byn har gått helt åt pipsvängen, eller hur? Billig utländsk arbetskraft – det är lösningen. Släng ner dem i gruvan. Lite hårt arbete har ingen dött av, och en hurring ska den skurk ha som säger annat. Profiten framför allt, eller hur?"
+
+msgctxt "beggar name"
+msgid "Beggar"
+msgstr "Tiggaren"
+
+msgctxt "beggar ability"
+msgid "You must use a vote token to vote. Dead players may choose to give you theirs. If so, you learn their alignment. You are sober & healthy."
+msgstr "Du kan bara rösta med en röstbricka. Om en död spelare ger dig sin bricka får du veta hens lag. Du är frisk och nykter."
+
+msgctxt "beggar flavor"
+msgid "Alms for the poor, good Sir? Spare a coin, Madam? Thank you. God bless! You're a right kind soul and no mistake! I'll have some swanky nosh tonight, I will!"
+msgstr "Allmosor till en fattig, min gode herre? Har du en slant över, madam? Tack. Gud signe dig! Du är en ädel själ! Idag får jag mig ett rejält skrovmål!"
+
+msgctxt "bishop name"
+msgid "Bishop"
+msgstr "Biskopen"
+
+msgctxt "bishop ability"
+msgid "Only the Storyteller can nominate. At least 1 opposite player must be nominated each day."
+msgstr "Bara Berättaren kan nominera. Minst 1 spelare som inte är på Biskopens lag måste nomineras varje dag."
+
+msgctxt "bishop flavor"
+msgid "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis."
+msgstr "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis."
+
+msgctxt "bishop reminders"
+msgid "Nominate good,Nominate evil"
+msgstr "Nominera god,Nominera ond"
+
+msgctxt "boffin name"
+msgid "Boffin"
+msgstr "Vetenskaparen"
+
+msgctxt "boffin ability"
+msgid "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which."
+msgstr "Demonen (även om hen är full eller förgiftad) har en god rolls förmåga (inte en som är i spel). Ni vet båda vilken."
+
+msgctxt "boffin flavor"
+msgid "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle."
+msgstr "Stjärnväte, massivt, inert; kol, syre, neon, allt är förstört. Molekylärt kaos, entropi, skapar nya kosmiska fenomen, återfödsel ur atomiskt kaos, tät, kollapsande materia. Allt i en liten, liten flaska."
+
+msgctxt "boffin firstNightReminder"
+msgid "Wake the Boffin and show them the token of the ability the Demon has. Put the Boffin back to sleep. Wake the Demon, show the Boffin token, then show the token of the good ability the Demon has."
+msgstr "Väck Vetenskaparen och visa hen brickan för den förmåga som Demonen har. Väck Demonen, visa Vetenskaparens bricka och sedan brickan med den goda förmåga som Demonen har."
+
+msgctxt "bonecollector name"
+msgid "Bone Collector"
+msgstr "Bensamlaren"
+
+msgctxt "bonecollector ability"
+msgid "Once per game, at night, choose a dead player: they regain their ability until dusk."
+msgstr "En gång per spel, på natten*, kan du välja en död spelare; hen återfår sin förmåga fram till skymningen."
+
+msgctxt "bonecollector flavor"
+msgid "I collect many things. Hair. Teeth. Clothes. Fragments of poems. The dreams of lost lovers. My secret arts are not for you to know but my fee is a mere pittance. Bring me the blood of a noblewoman who died of heartbreak under a full moon, and you shall have your answers."
+msgstr "Jag samlar många saker. Hår. Tänder. Kläder. Brottsstycken av dikter. Gamla älskares drömmar. Mina metoder är min hemlighet, men min avgift är en spottstyver. Ge mig blod från en adelskvinna som dött av brustet hjärta under fullmånen, så ska du få dina svar."
+
+msgctxt "bonecollector otherNightReminder"
+msgid "The Bone Collector either shakes their head no or points at any dead player. If they pointed at any dead player, put the Bone Collector's 'Has Ability' reminder by the chosen player's character token. (They may need to be woken tonight to use it.)"
+msgstr "Bensamlaren skakar på huvudet för nej eller pekar på en död spelare. Om hen pekar på en död spelare, sätt Bensamlarens påminnelse ”Har förmåga” vid den valda spelarens rollbricka. (Spelaren ska eventuellt väckas inatt för att kunna använda den.)"
+
+msgctxt "bonecollector reminders"
+msgid "No ability,Has ability"
+msgstr "Ingen förmåga,Har förmåga"
+
+msgctxt "boomdandy name"
+msgid "Boomdandy"
+msgstr "Krutdandyn"
+
+msgctxt "boomdandy ability"
+msgid "If you are executed, all but 3 players die. After a 10 to 1 countdown, the player with the most players pointing at them, dies."
+msgstr "Om du avrättas dör alla utom 3 spelare. Efter en nedräkning från 10 till 1 dör den spelare som flest pekar på."
+
+msgctxt "boomdandy flavor"
+msgid "Tick... Tick... Tick... TOCK."
+msgstr "Tick… Tick… Tick… TICK."
+
+msgctxt "bootlegger name"
+msgid "Bootlegger"
+msgstr "Hembrännaren"
+
+msgctxt "bootlegger ability"
+msgid "This script has homebrew characters or rules."
+msgstr "Det här skriptet har hemgjorda roller eller regler."
+
+msgctxt "bootlegger flavor"
+msgid "I've got the latest shipment from home, a brew I'd like to call 'Barrowfog'. Wanna try?"
+msgstr "Jag har med mig senaste leveransen hemifrån, en brygd jag kallar ”Barrowfog”. Vill du smaka?"
+
+msgctxt "bootlegger firstNightReminder"
+msgid "Announce the Bootlegger is in play and inform the group of all homebrew characters and/or rules you are using in this game."
+msgstr "Berätta att Hembrännaren är i spel och tala om vilka hemgjorda roller och regler du använder."
+
+msgctxt "bountyhunter name"
+msgid "Bounty Hunter"
+msgstr "Prisjägaren"
+
+msgctxt "bountyhunter ability"
+msgid "You start knowing 1 evil player. If the player you know dies, you learn another evil player tonight. [1 Townsfolk is evil]"
+msgstr "I början får du veta 1 ond spelare. Om hen dör får du veta en annan ond spelare inatt. [1 Bybo är ond]"
+
+msgctxt "bountyhunter flavor"
+msgid "Alone, I walk these streets, paved with the sick stench of corruption. Its thickness worms its way into my nostrils, unbidden, burning with revulsion. And anticipation. The illness of this wretched place grows each night. And I... I am the cure."
+msgstr "Ensam strövar jag på dessa gator, som stinker av korruption. Stanken nästlar sig in i näsan som bränner av avsmak. Och förväntan. Denna erbarmerliga plats blir sjukare för var natt som går. Och jag… jag är boten."
+
+msgctxt "bountyhunter firstNightReminder"
+msgid "Point to 1 evil player. Wake the townsfolk who is evil and show them the 'You are' card and the thumbs down evil sign."
+msgstr "Peka på 1 ond spelare. Väck den onda Bybon och visa kortet ”Du är” följt av tummen ner för ond."
+
+msgctxt "bountyhunter otherNightReminder"
+msgid "If the known evil player has died, point to another evil player."
+msgstr "Om den avslöjade onda spelaren har dött, peka på en annan ond spelare."
+
+msgctxt "bountyhunter reminders"
+msgid "Known"
+msgstr "Visad"
+
+msgctxt "buddhist name"
+msgid "Buddhist"
+msgstr "Buddisten"
+
+msgctxt "buddhist ability"
+msgid "For the first 2 minutes of each day, veteran players may not talk."
+msgstr "De 2 första minuterna varje dag får veteranspelare inte prata."
+
+msgctxt "buddhist flavor"
+msgid "You throw thorns. Falling in my silence, they become flowers."
+msgstr "Om du är tyst som en sönderslagen gonggong har du nått nirvana. Högmod finns inte hos dig."
+
+msgctxt "bureaucrat name"
+msgid "Bureaucrat"
+msgstr "Byråkraten"
+
+msgctxt "bureaucrat ability"
+msgid "Each night, choose a player (not yourself): their vote counts as 3 votes tomorrow."
+msgstr "Varje natt väljer du en spelare (inte dig själv); imorgon räknas hens röst som 3."
+
+msgctxt "bureaucrat flavor"
+msgid "Sign here please. And here. And here. Aaaaaaaaand here. This should all be sorted and tallied by the end of the day, assuming everyone's signatures are legible. We haven't had a mix-up in the paperwork for ages. Yesterday noon, if memory serves..."
+msgstr "Skriv på här. Och här. Och här. Ooooooch här. Det borde vara allt, förutsatt att allas underskrifter är läsliga. Vi har inte haft något strul på en evighet. Igår förmiddag, om jag minns rätt…"
+
+msgctxt "bureaucrat firstNightReminder"
+msgid "The Bureaucrat points to a player. Put the Bureaucrat's '3 votes' reminder by the chosen player's character token."
+msgstr "Byråkraten pekar på en spelare. Sätt Byråkratens påminnelse ”3 röster” vid den valda spelarens rollbricka."
+
+msgctxt "bureaucrat otherNightReminder"
+msgid "The Bureaucrat points to a player. Put the Bureaucrat's '3 votes' reminder by the chosen player's character token."
+msgstr "Byråkraten pekar på en spelare. Sätt Byråkratens påminnelse ”3 röster” vid den valda spelarens rollbricka."
+
+msgctxt "bureaucrat reminders"
+msgid "3 votes"
+msgstr "3 röster"
+
+msgctxt "butcher name"
+msgid "Butcher"
+msgstr "Slaktaren"
+
+msgctxt "butcher ability"
+msgid "Each day, after the 1st execution, you may nominate again."
+msgstr "Varje dag efter den första avrättningen kan du nominera igen."
+
+msgctxt "butcher flavor"
+msgid "It tastes like chicken. More please."
+msgstr "Smakar kyckling. Mer, tack."
+
+msgctxt "butler name"
+msgid "Butler"
+msgstr "Butlern"
+
+msgctxt "butler ability"
+msgid "Each night, choose a player (not yourself): tomorrow, you may only vote if they are voting too."
+msgstr "Varje natt väljer du en spelare (inte dig själv); imorgon får du bara rösta om hen också röstar."
+
+msgctxt "butler flavor"
+msgid ""
+"Yes, sir...\n"
+"No, sir...\n"
+"Certainly, sir."
+msgstr "Ja, herrn. Nej, herrn. Naturligtvis, herrn."
+
+msgctxt "butler firstNightReminder"
+msgid "The Butler points to a player. Mark that player as 'Master'."
+msgstr "Butlern pekar på en spelare. Markera den spelaren som ”Husbonde”."
+
+msgctxt "butler otherNightReminder"
+msgid "The Butler points to a player. Mark that player as 'Master'."
+msgstr "Butlern pekar på en spelare. Markera den spelaren som ”Husbonde”."
+
+msgctxt "butler reminders"
+msgid "Master"
+msgstr "Husbonde"
+
+msgctxt "cannibal name"
+msgid "Cannibal"
+msgstr "Kannibalen"
+
+msgctxt "cannibal ability"
+msgid "You have the ability of the recently killed executee. If they are evil, you are poisoned until a good player dies by execution."
+msgstr "Du har samma förmåga som den som sist dog av avrättning. Om hen är ond är du förgiftad tills en god spelare dör av avrättning."
+
+msgctxt "cannibal flavor"
+msgid "I don’t like clowns. They taste funny."
+msgstr "Jag tyckte mycket om din make. Han var en god man."
+
+msgctxt "cannibal reminders"
+msgid "Poisoned,Died today"
+msgstr "Förgiftad,Middag"
+
+msgctxt "cerenovus name"
+msgid "Cerenovus"
+msgstr "Cerenovus"
+
+msgctxt "cerenovus ability"
+msgid "Each night, choose a player & a good character: they are “mad” they are this character tomorrow, or might be executed."
+msgstr "Varje natt väljer du en spelare och en god roll; hen är rabiat om att hen är den rollen imorgon, annars kanske hen avrättas."
+
+msgctxt "cerenovus flavor"
+msgid "Reality is merely an opinion. Specifically, my opinion."
+msgstr "Verkligheten är bara en uppfattning. Närmare bestämt min uppfattning."
+
+msgctxt "cerenovus firstNightReminder"
+msgid "The Cerenovus points to a player, then to a character on their sheet. Wake that player. Show the 'This character selected you' card, then the Cerenovus token. Show the selected character token. If the player is not mad about being that character tomorrow, they can be executed."
+msgstr "Cerenovus pekar på en spelare och sedan på en roll på sitt ark. Väck den spelaren. Visa kortet ”Den här rollen valde dig” följt av Cerenovus bricka. Visa den valda rollens bricka. Om spelaren inte försöker övertyga de andra om att hen är den rollen imorgon kan hen avrättas."
+
+msgctxt "cerenovus otherNightReminder"
+msgid "The Cerenovus points to a player, then to a character on their sheet. Wake that player. Show the 'This character selected you' card, then the Cerenovus token. Show the selected character token. If the player is not mad about being that character tomorrow, they can be executed."
+msgstr "Cerenovus pekar på en spelare och sedan på en roll på sitt ark. Väck den spelaren. Visa kortet ”Den här rollen valde dig” följt av Cerenovus bricka. Visa den valda rollens bricka. Om spelaren inte försöker övertyga de andra om att hen är den rollen imorgon kan hen avrättas."
+
+msgctxt "cerenovus reminders"
+msgid "Mad"
+msgstr "Rabiat"
+
+msgctxt "chambermaid name"
+msgid "Chambermaid"
+msgstr "Husan"
+
+msgctxt "chambermaid ability"
+msgid "Each night, choose 2 alive players (not yourself): you learn how many woke tonight due to their ability."
+msgstr "Varje natt väljer du 2 levande spelare (inte dig själv); du får veta hur många som vaknade inatt p.g.a. sin förmåga."
+
+msgctxt "chambermaid flavor"
+msgid "I aint seen nothin' untoward, Milady. Begging your pardon, but if I did see somethin', it certainly weren't the master o' the house sneaking into the professor's laboratory 'round eleven o'clock and mixing up fancy potions, just like you said, Miss."
+msgstr "Jag har inte sett nåt opassande, frun. Och med förlov sagt, om jag hade sett nåt så var det verkligen inte husbonn som smög in i professorns laboratorium runt klockan elva och mixtrade med brygder, precis som frun misstänkte."
+
+msgctxt "chambermaid firstNightReminder"
+msgid "The Chambermaid points to two players. Show the number signal (0, 1, 2, …) for how many of those players wake tonight for their ability."
+msgstr "Husan pekar på två levande spelare. Signalera hur många av dem som vaknade inatt på grund av sin förmåga (0, 1 eller 2)."
+
+msgctxt "chambermaid otherNightReminder"
+msgid "The Chambermaid points to two players. Show the number signal (0, 1, 2, …) for how many of those players wake tonight for their ability."
+msgstr "Husan pekar på två levande spelare. Signalera hur många av dem som vaknade inatt på grund av sin förmåga (0, 1 eller 2)."
+
+msgctxt "chef name"
+msgid "Chef"
+msgstr "Kocken"
+
+msgctxt "chef ability"
+msgid "You start knowing how many pairs of evil players there are."
+msgstr "I början får du veta hur många par onda spelare det finns."
+
+msgctxt "chef flavor"
+msgid "This evening's reservations seem odd. Never before has Mrs Mayweather kept company with that scamp from Hudson Lane. Yet, tonight, they have a table for two. Strange."
+msgstr "Aftonens bokningar är allt märkliga. Aldrig tidigare har väl fru Löwensporre hållit sällskap med den odågan från Gamla brinken. Men inatt har de bokat bord för två. Besynnerligt."
+
+msgctxt "chef firstNightReminder"
+msgid "Show the finger signal (0, 1, 2, …) for the number of pairs of neighbouring evil players."
+msgstr "Signalera hur många par onda spelare som sitter bredvid varandra (0, 1, 2 eller 3)."
+
+msgctxt "choirboy name"
+msgid "Choirboy"
+msgstr "Korgossen"
+
+msgctxt "choirboy ability"
+msgid "If the Demon kills the King, you learn which player is the Demon. [+ the King]"
+msgstr "Om Demonen dödar Kungen får du veta vem som är Demonen. [+Kungen]"
+
+msgctxt "choirboy flavor"
+msgid "I saw it, I did. I was in the pews, tidying the hymn books, when a dreadful tune started from the pipe organ. The organist had a long cloak, and long fingers on the keys. And a hat that looked… just like… yours."
+msgstr "Jag såg det. Jag höll på att ställa i ordning psalmböckerna när jag hörde en hemsk melodi från orgeln. Organisten hade en lång mantel, och långa fingrar på tangenterna. Och en hatt som såg ut… precis som… din."
+
+msgctxt "choirboy otherNightReminder"
+msgid "If the King was killed by the Demon, wake the Choirboy and point to the Demon player."
+msgstr "Om Kungen dödades av Demonen, väck Korgossen och peka på den spelare som är Demonen."
+
+msgctxt "clockmaker name"
+msgid "Clockmaker"
+msgstr "Urmakaren"
+
+msgctxt "clockmaker ability"
+msgid "You start knowing how many steps from the Demon to its nearest Minion."
+msgstr "I början får du veta hur många steg det är från Demonen till hens närmsta Kumpan."
+
+msgctxt "clockmaker flavor"
+msgid "Do not disturb me. The tick must continue, for the circle is a symbol of life and contains all things - all answers - in its divine machinery. I must work."
+msgstr "Stör mig inte. Tickandet måste fortsätta, för cirkeln symboliserar livet och innehåller alltet – alla svar – i sitt gudomliga maskineri. Jag måste arbeta."
+
+msgctxt "clockmaker firstNightReminder"
+msgid "Show the hand signal for the number (1, 2, 3, etc.) of places from Demon to closest Minion."
+msgstr "Signalera med handen (1, 2, 3 osv.) hur många platser det är från Demonen till närmsta Kumpan."
+
+msgctxt "courtier name"
+msgid "Courtier"
+msgstr "Hovmästaren"
+
+msgctxt "courtier ability"
+msgid "Once per game, at night, choose a character: they are drunk for 3 nights & 3 days."
+msgstr "En gång per spel, på natten, kan du välja en roll; den spelaren är full i 3 dygn."
+
+msgctxt "courtier flavor"
+msgid "I am more afraid of an army of one hundred sheep led by a lion than an army of one hundred lions led by a sheep."
+msgstr "Jag fruktar mer en här av hundra får ledda av ett lejon, än en här av hundra lejon ledda av ett får."
+
+msgctxt "courtier firstNightReminder"
+msgid "The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgstr "Hovmästaren skakar på huvudet för nej, eller pekar på en roll på sitt ark. Om Hovmästaren använder sin förmåga och den utpekade rollen är i spel blir den spelaren full."
+
+msgctxt "courtier otherNightReminder"
+msgid "Reduce the remaining number of days the marked player is poisoned. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgstr "Minska antalet dagar som den markerade spelaren är förgiftad. Om Hovmästaren inte har använt sin förmåga: Hovmästaren skakar på huvudet för nej, eller pekar på en roll på sitt ark. Om Hovmästaren använder sin förmåga och den utpekade rollen är i spel blir den spelaren full."
+
+msgctxt "courtier reminders"
+msgid "Drunk 3,Drunk 2,Drunk 1,No ability"
+msgstr "Full 3,Full 2, Full 1, Ingen förmåga"
+
+msgctxt "cultleader name"
+msgid "Cult Leader"
+msgstr "Kultledaren"
+
+msgctxt "cultleader ability"
+msgid "Each night, you become the alignment of an alive neighbour. If all good players choose to join your cult, your team wins."
+msgstr "Varje natt hamnar du på en levande grannes lag. Om alla goda spelare går med i din kult vinner ditt lag."
+
+msgctxt "cultleader flavor"
+msgid "Thinking themselves wise, they became fools."
+msgstr "De ville gälla för visa, men blev till dårar."
+
+msgctxt "cultleader firstNightReminder"
+msgid "If the cult leader changed alignment, show them the thumbs up good signal of the thumbs down evil signal accordingly."
+msgstr "Om Kultledaren bytt lag, visa hen tummen upp för goda laget eller tummen ner för onda laget."
+
+msgctxt "cultleader otherNightReminder"
+msgid "If the cult leader changed alignment, show them the thumbs up good signal of the thumbs down evil signal accordingly."
+msgstr "Om Kultledaren bytt lag, visa hen tummen upp för goda laget eller tummen ner för onda laget."
+
+msgctxt "damsel name"
+msgid "Damsel"
+msgstr "Ungmön"
+
+msgctxt "damsel ability"
+msgid "All Minions know you are in play. If a Minion publicly guesses you (once), your team loses."
+msgstr "Alla Kumpaner vet att Ungmön är i spel. Om en Kumpan öppet gissar dig (en chans) förlorar ditt lag."
+
+msgctxt "damsel flavor"
+msgid "Don't touch the hair, honey."
+msgstr "Rör inte håret, raring."
+
+msgctxt "damsel firstNightReminder"
+msgid "Wake all the Minions, show them the 'This character selected you' card and the Damsel token."
+msgstr "Väck alla Kumpaner; visa dem kortet ”Den här rollen valde dig” och Ungmöns rollbricka."
+
+msgctxt "damsel otherNightReminder"
+msgid "If selected by the Huntsman, wake the Damsel, show 'You are' card and a not-in-play Townsfolk token."
+msgstr "Om Jägaren valde Ungmön så väck Ungmön, visa kortet ”Du är” och rollbrickan för en Bybo som inte är i spel."
+
+msgctxt "damsel reminders"
+msgid "Guess used"
+msgstr "Har gissat"
+
+msgctxt "deusexfiasco name"
+msgid "Deus ex Fiasco"
+msgstr "Deus ex fiasco"
+
+msgctxt "deusexfiasco ability"
+msgid "At least once per game, the Storyteller will make a mistake, correct it and publicly admit to it."
+msgstr "En gång per spel begår Berättaren ett ”misstag”, rättar till det och erkänner."
+
+msgctxt "deusexfiasco reminders"
+msgid "Whoopsie"
+msgstr "Hoppsan!"
+
+msgctxt "deviant name"
+msgid "Deviant"
+msgstr "Avvikaren"
+
+msgctxt "deviant ability"
+msgid "If you were funny today, you cannot die by exile."
+msgstr "Om du var rolig idag kan du inte bli utstött."
+
+msgctxt "deviant flavor"
+msgid "Twas the lady's quip, forsooth."
+msgstr "… sa flickan."
+
+msgctxt "devilsadvocate name"
+msgid "Devil's Advocate"
+msgstr "Djävulens advokat"
+
+msgctxt "devilsadvocate ability"
+msgid "Each night, choose a living player (different to last night): if executed tomorrow, they don't die."
+msgstr "Varje natt* väljer du en levande spelare (inte samma som sist); om hen avrättas imorgon dör hen inte."
+
+msgctxt "devilsadvocate flavor"
+msgid "My client, should the objection be overruled, pleads innocent by virtue of the prosecution's non-observance of statute 27.B - incorrect or misleading conjugation of a verb. The fact that nine of the jury died last night is simply prima facie, which is, as Wills vs Thule set precedent for, further reason to acquit."
+msgstr "Skulle invändningen ogillas vill min klient dementera anklagelserna med hänvisning till kärandesidans underlåtenhet att efterleva paragraf 27b: felaktig eller vilseledande verbkonjugation. Det faktum att nio juryledamoter avled igår kväll är helt enkelt prima facie, vilket – enligt prejudikat efter Larsson mot Thule – är ytterligare skäl att fria."
+
+msgctxt "devilsadvocate firstNightReminder"
+msgid "The Devil’s Advocate points to a living player. That player survives execution tomorrow."
+msgstr "Djävulens advokat pekar på en levande spelare. Den spelaren överlever avrättning imorgon."
+
+msgctxt "devilsadvocate otherNightReminder"
+msgid "The Devil’s Advocate points to a living player, different from the previous night. That player survives execution tomorrow."
+msgstr "Djävulens advokat pekar på en levande spelare, men inte samma som igår natt. Den spelaren överlever avrättning imorgon."
+
+msgctxt "devilsadvocate reminders"
+msgid "Survives execution"
+msgstr "Överlever avrättning"
+
+msgctxt "djinn name"
+msgid "Djinn"
+msgstr "Djinnen"
+
+msgctxt "djinn ability"
+msgid "Use the Djinn's special rule. All players know what it is."
+msgstr "Använd Djinnens specialregel. Alla spelare vet vilken det är."
+
+msgctxt "djinn flavor"
+msgid ""
+"نحن لسنا هنا.\n"
+"                                انت لست حقيقي.\n"
+"                                كل شيء هو وهم.\n"
+"                                أسئلتك هي جبل نار في يوم صافٍ."
+msgstr "نحن لسنا هنا. انت لست حقيقي. كل شيء هو وهم. أسئلتك هي جبل نار في يوم صافٍ."
+
+msgctxt "doomsayer name"
+msgid "Doomsayer"
+msgstr "Domedagsprofeten"
+
+msgctxt "doomsayer ability"
+msgid "If 4 or more players live, each living player may publicly choose (once per game) that a player of their own alignment dies."
+msgstr "Varje levande spelare kan en gång per spel öppet välja att en spelare på hens lag dör, så länge minst 4 spelare lever."
+
+msgctxt "doomsayer flavor"
+msgid "And on the Seventh Day, there shall be a great flood and a pestilence upon the People of the Village of the Ravens! The dead shall rise and the living shall repent! O Woe! O Unholy day! Only by great sacrifice shall they prevail! So sayeth the Sages of Nostros and so sayeth I."
+msgstr "Och på den Sjunde dagen skall syndaflod och farsot drabba folket i korparnas by! De döda skall resa sig ur sina gravar och de levande skall få sona! Ve! Grymma dag! Endast stora uppoffringar kan rädda dem! Så säger Nostros vise och så säger jag."
+
+msgctxt "dreamer name"
+msgid "Dreamer"
+msgstr "Drömmaren"
+
+msgctxt "dreamer ability"
+msgid "Each night, choose a player (not yourself or Travellers): you learn 1 good and 1 evil character, 1 of which is correct."
+msgstr "Varje natt väljer du en spelare (inte dig själv eller Resenärer); du får veta 1 god och 1 ond roll som hen kan vara."
+
+msgctxt "dreamer flavor"
+msgid "I remember the Clockmaker. The sky was red and it was raining fractal triangles. There was a smell of violets and a bubbling sound. A woman with glowing eyes and a scraggly beard was hissing at the sky. Then, I awoke."
+msgstr "Jag minns urmakaren. Himlen var röd och det regnade triangelfraktaler. Luften låg tät av violdoft och ett sjudande. En kvinna med lysande ögon och tovigt skägg väste mot himlen. Sedan vaknade jag."
+
+msgctxt "dreamer firstNightReminder"
+msgid "The Dreamer points to a player. Show 1 good and 1 evil character token; one of these is correct."
+msgstr "Drömmaren pekar på en spelare. Visa 1 god och 1 ond rollbricka; en av dem stämmer."
+
+msgctxt "dreamer otherNightReminder"
+msgid "The Dreamer points to a player. Show 1 good and 1 evil character token; one of these is correct."
+msgstr "Drömmaren pekar på en spelare. Visa 1 god och 1 ond rollbricka; en av dem stämmer."
+
+msgctxt "drunk name"
+msgid "Drunk"
+msgstr "Fyllot"
+
+msgctxt "drunk ability"
+msgid "You do not know you are the Drunk. You think you are a Townsfolk character, but you are not."
+msgstr "Du vet inte att du är Fyllot. Du tror att du är en Bybo, men det är du inte."
+
+msgctxt "drunk flavor"
+msgid "I’m only a *hic* social drinker, my dear. Admittedly, I am a heavy *burp* socializer."
+msgstr "Jag dricker bara *hick* socialt, kära du. Jag är bara väldigt social av mig."
+
+msgctxt "drunk remindersGlobal"
+msgid "Drunk"
+msgstr "Är Fyllot"
+
+msgctxt "duchess name"
+msgid "Duchess"
+msgstr "Hertiginnan"
+
+msgctxt "duchess ability"
+msgid "Each day, 3 players may choose to visit you. At night*, each visitor learns how many visitors are evil, but 1 gets false info."
+msgstr "Varje dag kan 3 spelare besöka dig. Inatt* får besökarna veta hur många besökare som var onda, men 1 får falsk info."
+
+msgctxt "duchess flavor"
+msgid "We shall entertain between the hours of 6 and 7 precisely. Tea at 6:15. Scones at 6:45. Do not be late. Formal wear applies, as always."
+msgstr "Bjudning mellan klockan sex och sju, på pricken. Te serveras 6.15. Scones 6.45. Kom inte sent. Aftonklädsel gäller, som alltid."
+
+msgctxt "duchess reminders"
+msgid "Visitor,False Info"
+msgstr "Besökare,Falsk info"
+
+msgctxt "empath name"
+msgid "Empath"
+msgstr "Empaten"
+
+msgctxt "empath ability"
+msgid "Each night, you learn how many of your 2 alive neighbours are evil."
+msgstr "Varje natt får du veta hur många av dina 2 levande grannar som är onda."
+
+msgctxt "empath flavor"
+msgid "My skin prickles. Something is not right here. I can feel it."
+msgstr "Det kryper i skinnet på mig. Jag känner på mig att det är något som inte står rätt till."
+
+msgctxt "empath firstNightReminder"
+msgid "Show the finger signal (0, 1, 2) for the number of evil alive neighbours of the Empath."
+msgstr "Signalera med fingrarna hur många av Empatens levande grannar som är onda (0, 1 eller 2)."
+
+msgctxt "empath otherNightReminder"
+msgid "Show the finger signal (0, 1, 2) for the number of evil neighbours."
+msgstr "Signalera med fingrarna hur många av Empatens levande grannar som är onda (0, 1 eller 2)."
+
+msgctxt "engineer name"
+msgid "Engineer"
+msgstr "Ingenjören"
+
+msgctxt "engineer ability"
+msgid "Once per game, at night, choose which Minions or which Demon is in play."
+msgstr "En gång per spel, på natten, kan du välja vilka Kumpaner eller vilken Demon som är i spel."
+
+msgctxt "engineer flavor"
+msgid "If it bends, great. If it breaks, well, it probably needed fixing anyway."
+msgstr "Det ska böjas i tid, det som krokigt ska bli. Och om det går av, ja, då behövde det väl ändå lagas."
+
+msgctxt "engineer firstNightReminder"
+msgid "The Engineer shows a 'no' head signal, or points to a Demon or points to the relevant number of Minions. If the Engineer chose characters, replace the Demon or Minions with the choices, then wake the relevant players and show them the You are card and the relevant character tokens."
+msgstr "Ingenjören skakar på huvudet för nej, eller pekar på en Demon eller rätt antal Kumpaner på sitt rollark. Om Ingenjören väljer roller, ersätt Demonen eller Kumpanerna med de valda. Väck sedan de berörda spelarna och visa dem kortet ”Du är” följt av de valda rollernas brickor."
+
+msgctxt "engineer otherNightReminder"
+msgid "The Engineer shows a 'no' head signal, or points to a Demon or points to the relevant number of Minions. If the Engineer chose characters, replace the Demon or Minions with the choices, then wake the relevant players and show them the 'You are' card and the relevant character tokens."
+msgstr "Ingenjören skakar på huvudet för nej, eller pekar på en Demon eller rätt antal Kumpaner på sitt rollark. Om Ingenjören väljer roller, ersätt Demonen eller Kumpanerna med de valda. Väck sedan de berörda spelarna och visa dem kortet ”Du är” följt av de valda rollernas brickor."
+
+msgctxt "engineer reminders"
+msgid "No ability"
+msgstr "Ingen förmåga"
+
+msgctxt "eviltwin name"
+msgid "Evil Twin"
+msgstr "Onda Tvillingen"
+
+msgctxt "eviltwin ability"
+msgid "You & an opposing player know each other. If the good player is executed, evil wins. Good can't win if you both live."
+msgstr "Du och en motspelare vet om varandra. Om den goda avrättas vinner de onda. De goda kan inte vinna om båda lever."
+
+msgctxt "eviltwin flavor"
+msgid "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!"
+msgstr "Jag är inte Sara! Jag är Klara! HON är Sara! Det är Sara som är den onda! Inte jag!"
+
+msgctxt "eviltwin firstNightReminder"
+msgid "Wake the Evil Twin and their twin. Confirm that they have acknowledged each other. Point to the Evil Twin. Show their Evil Twin token to the twin player. Point to the twin. Show their character token to the Evil Twin player."
+msgstr "Väck Onda Tvillingen och den andra spelaren. Bekräfta att de har sett varandra. Peka på Onda Tvillingen och visa hens rollbricka för den andra spelaren. Peka på den andra spelaren och visa hens rollbricka för Onda Tvillingen."
+
+msgctxt "eviltwin reminders"
+msgid "Twin"
+msgstr "Tvilling"
+
+msgctxt "exorcist name"
+msgid "Exorcist"
+msgstr "Exorcisten"
+
+msgctxt "exorcist ability"
+msgid "Each night*, choose a player (different to last night): the Demon, if chosen, learns who you are then doesn't wake tonight."
+msgstr "Varje natt väljer du en spelare (inte samma som sist); om du väljer Demonen kan hen inte agera inatt, men får veta vem du är."
+
+msgctxt "exorcist flavor"
+msgid "We cast you out, every unclean spirit, every satanic power, every onslaught of the infernal adversary, every legion, every diabolical group and sect, in the name and by the power of Our Lord Jesus Christ. We command you, begone and fly far from the Church of God, from the souls made by God in His image and redeemed by the precious blood of the divine Lamb."
+msgstr "Vi driver ut er, varje oren ande, varje satans kraft, varje angrepp från den onde, varje legion, varje djävulsk grupp och sekt, i vår herre Jesu Kristi namn. Vi befaller er, försvinn och flyg långt från Guds kyrka, från själarna som Gud skapat i sin avbild och frälst i blodet från Guds lamm."
+
+msgctxt "exorcist otherNightReminder"
+msgid "The Exorcist points to a player, different from the previous night. If that player is the Demon: Wake the Demon. Show the Exorcist token. Point to the Exorcist. The Demon does not act tonight."
+msgstr "Exorcisten pekar på en spelare, men inte samma som igår natt. Om den spelaren är Demonen så väck Demonen, visa Exorcistens rollbricka och peka på Exorcistens spelare. Demonen får inte agera inatt."
+
+msgctxt "exorcist reminders"
+msgid "Chosen"
+msgstr "Vald"
+
+msgctxt "fanggu name"
+msgid "Fang Gu"
+msgstr "Fang Gu"
+
+msgctxt "fanggu ability"
+msgid "Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu & you die instead. [+1 Outsider]"
+msgstr "Varje natt* väljer du en spelare; hen dör. Den första Utbölingen som dör så blir en ond Fang Gu och du dör istället. [+1 Utböling]"
+
+msgctxt "fanggu flavor"
+msgid "Your walls and your weapons are but smoke in dreams."
+msgstr "Era murar och era vapen är blott drömmars rök."
+
+msgctxt "fanggu otherNightReminder"
+msgid "The Fang Gu points to a player. That player dies. Or, if that player was an Outsider and there are no other Fang Gu in play: The Fang Gu dies instead of the chosen player. The chosen player is now an evil Fang Gu. Wake the new Fang Gu. Show the 'You are' card, then the Fang Gu token. Show the 'You are' card, then the thumb-down 'evil' hand sign."
+msgstr "Fang Gu pekar på en spelare, och den spelaren dör. Men om spelaren var Utböling och ingen annan spelare är Fang Gu så dör Fang Gu istället för den valda spelaren. Den valda spelaren blir ond och blir Fang Gu. Väck den nya Fang Gu och visa kortet ”Du är” följt av Fang Gus rollbricka. Visa igen kortet ”Du är” följt av tummen ner för ond."
+
+msgctxt "fanggu reminders"
+msgid "Dead,Once"
+msgstr "Död,Förbrukad"
+
+msgctxt "farmer name"
+msgid "Farmer"
+msgstr "Bonden"
+
+msgctxt "farmer ability"
+msgid "If you die at night, an alive good player becomes a Farmer."
+msgstr "När du dör på natten blir en levande god spelare till Bonde."
+
+msgctxt "farmer flavor"
+msgid "Even the high and mighty need food on the table. Without us, the city starves."
+msgstr "Även maktens folk måste ha mat på bordet. Utan oss svälter staden."
+
+msgctxt "farmer otherNightReminder"
+msgid "If a Farmer died tonight, choose another good player and make them the Farmer. Wake this player, show them the 'You are' card and the Farmer character token."
+msgstr "Om en Bonde dog inatt, välj en annan spelare och gör hen till Bonden. Väck den valda spelaren och visa kortet ”Du är” följt av Bondens rollbricka."
+
+msgctxt "fearmonger name"
+msgid "Fearmonger"
+msgstr "Skräckspridaren"
+
+msgctxt "fearmonger ability"
+msgid "Each night, choose a player. If you nominate & execute them, their team loses. All players know if you choose a new player."
+msgstr "Varje natt väljer du en spelare; om du nominerar och avrättar hen förlorar hens lag. Alla får veta när du väljer en ny spelare."
+
+msgctxt "fearmonger flavor"
+msgid "Beware of gazing long into the Abyss, lest the Abyss also gaze into you."
+msgstr "Om du stirrar för länge in i avgrunden, kommer avgrunden också att stirra in i dig."
+
+msgctxt "fearmonger firstNightReminder"
+msgid "The Fearmonger points to a player. Place the Fear token next to that player and announce that a new player has been selected with the Fearmonger ability."
+msgstr "Skräckspridaren pekar på en spelare. Sätt ”Rädd”-brickan bredvid den spelaren och tillkännage att Skräckspridaren har valt en ny spelare."
+
+msgctxt "fearmonger otherNightReminder"
+msgid "The Fearmonger points to a player. If different from the previous night, place the Fear token next to that player and announce that a new player has been selected with the Fearmonger ability."
+msgstr "Skräckspridaren pekar på en spelare, men inte samma som igår. Sätt ”Rädd”-brickan bredvid den spelaren och tillkännage att Skräckspridaren har valt en ny spelare."
+
+msgctxt "fearmonger reminders"
+msgid "Fear"
+msgstr "Rädd"
+
+msgctxt "ferryman name"
+msgid "Ferryman"
+msgstr "Färjkarlen"
+
+msgctxt "ferryman ability"
+msgid "On the final day, all dead players regain their vote token."
+msgstr "Den sista dagen får alla döda spelare tillbaka sin röstbricka."
+
+msgctxt "ferryman flavor"
+msgid "When righteous dreams come, they have the weight of truth."
+msgstr "Drömmar från saligas hem är ej bedrägliga sken."
+
+msgctxt "fibbin name"
+msgid "Fibbin"
+msgstr "Lögnaren"
+
+msgctxt "fibbin ability"
+msgid "Once per game, 1 good player might get false information."
+msgstr "En gång per spel kanske 1 god spelare får falsk info."
+
+msgctxt "fibbin flavor"
+msgid ""
+"Tee-hee-hee.\n"
+"Tee. Hee. Hee."
+msgstr "Tihihi. Hihi."
+
+msgctxt "fibbin reminders"
+msgid "Used"
+msgstr "Förbrukad"
+
+msgctxt "fiddler name"
+msgid "Fiddler"
+msgstr "Violinisten"
+
+msgctxt "fiddler ability"
+msgid "Once per game, the Demon secretly chooses an opposing player: all players choose which of these 2 players win."
+msgstr "En gång per spel väljer Demonen privat en motspelare; alla spelare väljer vem av de 2 spelarna som vinner."
+
+msgctxt "fiddler flavor"
+msgid "I'll wager mi lyef ye cannae best me in a fiddle contest, ye boss-eyed snook! We'll go out on the lash, get the pub jammers an' have a right craic. I'll be layin' ma boots into ya come mornin' ye rumbly muppet."
+msgstr "Jag sätter mitt liv på att du inte kan slå mig i fiolduell, din skelögda gammelgädda! Du och jag får ta oss en svängom uppe på berget, så ska du se att den skrattar bäst som dansar sist!"
+
+msgctxt "fisherman name"
+msgid "Fisherman"
+msgstr "Fiskaren"
+
+msgctxt "fisherman ability"
+msgid "Once per game, during the day, visit the Storyteller for some advice to help you win."
+msgstr "En gång per spel, på dagen, kan du be Berättaren om tips för att vinna."
+
+msgctxt "fisherman flavor"
+msgid "This was my favourite part of the river... see how the sunlight makes a rainbow from the monastery to the market? This was the best place for big fish. And the older I get, the bigger they were."
+msgstr "Jag har alltid älskat den här delen av älven. Ser du hur solskenet bildar en regnbåge från klostret till marknaden? Här fångade man alltid störst fisk. Och ju äldre jag blir, desto större var de."
+
+msgctxt "fisherman reminders"
+msgid "No ability"
+msgstr "Ingen förmåga"
+
+msgctxt "flowergirl name"
+msgid "Flowergirl"
+msgstr "Floristen"
+
+msgctxt "flowergirl ability"
+msgid "Each night*, you learn if a Demon voted today."
+msgstr "Varje natt* får du veta om en Demon röstade den dagen."
+
+msgctxt "flowergirl flavor"
+msgid "Yesterday's violets have withered and died, but today my poppies bloom."
+msgstr "Gårdagens violer har vissnat och dött, men idag blommar vallmon."
+
+msgctxt "flowergirl otherNightReminder"
+msgid "Nod 'yes' or shake head 'no' for whether the Demon voted today. Place the 'Demon not voted' marker (remove 'Demon voted', if any)."
+msgstr "Sätt brickan ”Röstade” vid Floristens bricka om Demonen röstar på dagen, och annars ”Röstade inte” (ta bort motsatt bricka vid behov). Väck Floristen och nicka för ja om Demonen röstade, och skaka annars på huvudet."
+
+msgctxt "flowergirl reminders"
+msgid "Demon voted,Demon not voted"
+msgstr "Röstade,Röstade inte"
+
+msgctxt "fool name"
+msgid "Fool"
+msgstr "Narren"
+
+msgctxt "fool ability"
+msgid "The first time you die, you don't."
+msgstr "Första gången du dör överlever du."
+
+msgctxt "fool flavor"
+msgid "...and the King said 'What?! I've never even owned a pair of rubber pantaloons, let alone a custard cannon!' Ho-ho! Jolly day!"
+msgstr "… och kungen sa ”Vafalls?! Jag har då aldrig haft gummipantalonger, för att inte tala om någon skinnflöjt!” Haha!"
+
+msgctxt "fool reminders"
+msgid "No ability"
+msgstr "Ingen förmåga"
+
+msgctxt "fortuneteller name"
+msgid "Fortune Teller"
+msgstr "Spådamen"
+
+msgctxt "fortuneteller ability"
+msgid "Each night, choose 2 players: you learn if either is a Demon. There is a good player that registers as a Demon to you."
+msgstr "Varje natt väljer du 2 spelare; du får veta om någon av dem är Demon. 1 god spelare registreras som Demon för dig."
+
+msgctxt "fortuneteller flavor"
+msgid "I sense great evil in your soul! But... that could just be your perfume. I am allergic to Elderberry."
+msgstr "Jag känner en stor ondska i din själ! Fast… det skulle kunna vara din parfym. Jag är allergisk mot fläder."
+
+msgctxt "fortuneteller firstNightReminder"
+msgid "The Fortune Teller points to two players. Give the head signal (nod yes, shake no) for whether one of those players is the Demon."
+msgstr "Spådamen pekar på två spelare. Nicka om någon av dem är Demonen, och skaka annars på huvudet."
+
+msgctxt "fortuneteller otherNightReminder"
+msgid "The Fortune Teller points to two players. Show the head signal (nod 'yes', shake 'no') for whether one of those players is the Demon."
+msgstr "Spådamen pekar på två spelare. Nicka om någon av dem är Demonen, och skaka annars på huvudet."
+
+msgctxt "fortuneteller reminders"
+msgid "Red herring"
+msgstr "Villospår"
+
+msgctxt "gambler name"
+msgid "Gambler"
+msgstr "Hasardspelaren"
+
+msgctxt "gambler ability"
+msgid "Each night*, choose a player & guess their character: if you guess wrong, you die."
+msgstr "Varje natt* väljer du en spelare och gissar hens roll; om du gissar fel dör du."
+
+msgctxt "gambler flavor"
+msgid "Heads, I win. Tails, you lose."
+msgstr "Krona så vinner jag. Klave så förlorar du."
+
+msgctxt "gambler otherNightReminder"
+msgid "The Gambler points to a player, and a character on their sheet. If incorrect, the Gambler dies."
+msgstr "Hasardspelaren pekar på en spelare och en roll på sitt ark. Om den utpekade spelaren inte har den rollen så dör Hasardspelaren."
+
+msgctxt "gambler reminders"
+msgid "Dead"
+msgstr "Död"
+
+msgctxt "gangster name"
+msgid "Gangster"
+msgstr "Gangstern"
+
+msgctxt "gangster ability"
+msgid "Once per day, you may choose to kill an alive neighbour, if your other alive neighbour agrees."
+msgstr "En gång per dag kan du döda en levande granne, om din andra levande granne går med på det."
+
+msgctxt "gangster flavor"
+msgid "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
+msgstr "Fina skor. Det vore synd om du råkade ut för en olycka och de blev förstörda. Apropå det, fina manschettknappar."
+
+msgctxt "gardener name"
+msgid "Gardener"
+msgstr "Trädgårdsmästaren"
+
+msgctxt "gardener ability"
+msgid "The Storyteller assigns 1 or more players' characters."
+msgstr "Berättaren bestämmer 1 eller flera spelares karaktär."
+
+msgctxt "gardener flavor"
+msgid "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
+msgstr "Nej men det här går ju inte för sig. Munkaluvan har blandats med ulvatanden, och odörten kväver julrosen! Kära någon, det är bäst att börja om. Hämta saxen."
+
+msgctxt "general name"
+msgid "General"
+msgstr "Generalen"
+
+msgctxt "general ability"
+msgid "Each night, you learn which alignment the Storyteller believes is winning: good, evil, or neither."
+msgstr "Varje natt får du veta vilket lag som Berättaren tror har övertaget: de goda, de onda eller varken eller."
+
+msgctxt "general flavor"
+msgid "I don’t have time for quotes."
+msgstr "Jag har inte tid för citat."
+
+msgctxt "general firstNightReminder"
+msgid "Show the General thumbs up for good winning, thumbs down for evil winning or thumb to the side for neither."
+msgstr "Visa Generalen tummen upp om de goda har övertaget, tummen ner om de onda har övertaget eller tummen sidan om lagen ligger lika."
+
+msgctxt "general otherNightReminder"
+msgid "Show the General thumbs up for good winning, thumbs down for evil winning or thumb to the side for neither."
+msgstr "Visa Generalen tummen upp om de goda har övertaget, tummen ner om de onda har övertaget eller tummen sidan om lagen ligger lika."
+
+msgctxt "gnome name"
+msgid "Gnome"
+msgstr "Pysslingen"
+
+msgctxt "gnome ability"
+msgid "All players start knowing a player of your alignment. You may choose to kill anyone who nominates them."
+msgstr "I början får alla veta en spelare på ditt lag. Du kan välja att döda alla som nominerar hen."
+
+msgctxt "gnome flavor"
+msgid "Four the score or seven beers, no shows are goes for me and my. A prank to crack the cranks and planks o' the floor foundation length, so incontravertabubbilly mini. The large essays down streams of joyce, no greater than is scene, not inherdt, Ha-urrumph.o."
+msgstr "Vad det är bra att jag har dig. Vad det är bra att du har mig. Vad det är bra att vi har oss, och jättebra är det förstås att vi får träffas varje dag, och va tillsammans, du och jag, för ingen, nä ingen, vill va ensam."
+
+msgctxt "gnome reminders"
+msgid "Amigo"
+msgstr "Kompis"
+
+msgctxt "goblin name"
+msgid "Goblin"
+msgstr "Vätten"
+
+msgctxt "goblin ability"
+msgid "If you publicly claim to be the Goblin when nominated & are executed that day, your team wins."
+msgstr "Ditt lag vinner om du öppet säger att du är Vätten när du nomineras, och därefter avrättas."
+
+msgctxt "goblin flavor"
+msgid "You don’t want to insult the goblins. You really, really don’t. On a completely different note… can I have another piece of cake?"
+msgstr "Du vill inte förolämpa vättarna. Det vill du verkligen, verkligen inte… Apropå ingenting, kan jag få mer tårta?"
+
+msgctxt "goblin reminders"
+msgid "Claimed"
+msgstr "Hävdad"
+
+msgctxt "godfather name"
+msgid "Godfather"
+msgstr "Gudfadern"
+
+msgctxt "godfather ability"
+msgid "You start knowing which Outsiders are in play. If 1 died today, choose a player tonight: they die. [−1 or +1 Outsider]"
+msgstr "I början får du veta vilka Utbölingar som är i spel. Om en Utböling dog idag väljer du en spelare inatt; hen dör. [±1 Utböling]"
+
+msgctxt "godfather flavor"
+msgid "Normally, it's just business. But when you insult my daughter, you insult me. And when you insult me, you insult my family. You really should be more careful - it would be a shame if you had an unfortunate accident."
+msgstr "I vanliga fall är det bara affärer. Men när du förolämpar min dotter så förolämpar du mig. Och när du förolämpar mig så förolämpar du min familj. Du borde vara försiktigare än så – vi vill ju inte att du ska råka illa ut."
+
+msgctxt "godfather firstNightReminder"
+msgid "Show each of the Outsider tokens in play."
+msgstr "Visa alla rollbrickor för Utbölingar i spel."
+
+msgctxt "godfather otherNightReminder"
+msgid "If an Outsider died today: The Godfather points to a player. That player dies."
+msgstr "Om en Utböling dog idag pekar Gudfadern på en spelare; den spelaren dör."
+
+msgctxt "godfather reminders"
+msgid "Died today,Dead"
+msgstr "Dog idag,Död"
+
+msgctxt "golem name"
+msgid "Golem"
+msgstr "Golem"
+
+msgctxt "golem ability"
+msgid "You may only nominate once per game. When you do, if the nominee is not the Demon, they die."
+msgstr "Du kan bara nominera en gång per spel. Den du nominerat dör om hen inte är Demonen."
+
+msgctxt "golem flavor"
+msgid "Golem help? Golem smash! Golem help."
+msgstr "Golem hjälpa? Golem krossa! Golem hjälpa."
+
+msgctxt "golem reminders"
+msgid "Can not nominate"
+msgstr "Kan inte nominera"
+
+msgctxt "goon name"
+msgid "Goon"
+msgstr "Hejduken"
+
+msgctxt "goon ability"
+msgid "Each night, the 1st player to choose you with their ability is drunk until dusk. You become their alignment."
+msgstr "Varje natt blir den första spelaren som väljer dig med sin förmåga full fram till skymningen. Du går över till hens lag."
+
+msgctxt "goon flavor"
+msgid "Yes boss. I explained fings real good to dat geezer. He don't want me explain it again. Nah boss, I don't need no doctor - it's only a knife wound. Be right come mornin'"
+msgstr "Ja, boss. Gubben har fattat vinken nu, det har jag sett till. Han behövde inte en andra omgång. Nej, boss, behövs ingen läkare – det är bara ett knivsår. Inget en god natts sömn inte fixar."
+
+msgctxt "goon reminders"
+msgid "Drunk"
+msgstr "Full"
+
+msgctxt "gossip name"
+msgid "Gossip"
+msgstr "Skvallerbyttan"
+
+msgctxt "gossip ability"
+msgid "Each day, you may make a public statement. Tonight, if it was true, a player dies."
+msgstr "Varje dag kan du öppet påstå något. Om påståendet stämmer dör en spelare inatt."
+
+msgctxt "gossip flavor"
+msgid "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah."
+msgstr "Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla. Bla."
+
+msgctxt "gossip otherNightReminder"
+msgid "If the Gossip’s public statement was true: Choose a player not protected from dying tonight. That player dies."
+msgstr "Om Skvallerbyttans offentliga påstående stämde så välj en spelare som inte är skyddad från att dö. Den spelaren dör på natten."
+
+msgctxt "gossip reminders"
+msgid "Dead"
+msgstr "Död"
+
+msgctxt "grandmother name"
+msgid "Grandmother"
+msgstr "Farmorn"
+
+msgctxt "grandmother ability"
+msgid "You start knowing a good player & their character. If the Demon kills them, you die too."
+msgstr "I början får du veta en god spelare och hens roll. Om hen dödas av Demonen dör du också."
+
+msgctxt "grandmother flavor"
+msgid "Take a jacket if you go outside, dearie. And your thermos. And your scarf. I have a weak heart, you know. Whatever would I do if you caught cold...or worse?"
+msgstr "Ta på dig en jacka om du går ut, raring. Och termosen. Och halsduken. Du vet att jag har ett svagt hjärta. Vad skulle jag ta mig till om du blev förkyld… eller värre?"
+
+msgctxt "grandmother firstNightReminder"
+msgid "Show the marked character token. Point to the marked player."
+msgstr "Visa den markerade rollens bricka och peka på den markerade spelaren."
+
+msgctxt "grandmother otherNightReminder"
+msgid "If the Grandmother’s grandchild was killed by the Demon tonight: The Grandmother dies."
+msgstr "Om Farmorns barnbarn dödades av Demonen inatt så dör Farmorn också."
+
+msgctxt "grandmother reminders"
+msgid "Grandchild"
+msgstr "Barnbarn"
+
+msgctxt "gunslinger name"
+msgid "Gunslinger"
+msgstr "Skytten"
+
+msgctxt "gunslinger ability"
+msgid "Each day, after the 1st vote has been tallied, you may choose a player that voted: they die."
+msgstr "Varje dag, efter att dagens första omröstning är avslutad, kan du välja en spelare som röstade; hen dör."
+
+msgctxt "gunslinger flavor"
+msgid "It's time someone took matters into their own hands. That someone... is me."
+msgstr "Det är hög tid att någon tar saken i egna händer. Denna någon… är jag."
+
+msgctxt "harlot name"
+msgid "Harlot"
+msgstr "Skökan"
+
+msgctxt "harlot ability"
+msgid "Each night*, choose a living player: if they agree, you learn their character, but you both might die."
+msgstr "Varje natt* väljer du en levande spelare; om hen går med på det får du veta hens roll, men ni båda kanske dör."
+
+msgctxt "harlot flavor"
+msgid "Enchanté, Sailor. You look like you need someone to really listen to your troubles. I'm a good listener. Very, very good."
+msgstr "Enchanté, matros. Du ser ut som att du behöver lätta på hjärtat för någon. Jag är bra på att lyssna. Mycket, mycket bra."
+
+msgctxt "harlot otherNightReminder"
+msgid "The Harlot points at any player. Then, put the Harlot to sleep. Wake the chosen player, show them the 'This character selected you' token, then the Harlot token. That player either nods their head yes or shakes their head no. If they nodded their head yes, wake the Harlot and show them the chosen player's character token. Then, you may decide that both players die."
+msgstr "Skökan pekar på en spelare och somnar. Väck den valda spelaren, visa kortet ”Den här rollen valde dig” och sedan Skökans bricka. Den valda spelaren kan nicka för ja eller skaka på huvudet för nej. Om hen nickar så väck Skökan igen och visa den valda spelarens bricka. Bestäm sedan om båda ska dö eller inte."
+
+msgctxt "harlot reminders"
+msgid "Dead"
+msgstr "Död"
+
+msgctxt "harpy name"
+msgid "Harpy"
+msgstr "Harpyan"
+
+msgctxt "harpy ability"
+msgid "Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or one or both might die."
+msgstr "Varje natt väljer du 2 spelare; imorgon är den första rabiat om att den andra är ond, annars kanske en eller båda dör."
+
+msgctxt "harpy flavor"
+msgid "So fair a day I never did see, nor so fowl a presence hanging over me."
+msgstr "En dag så skön jag än ej såg, ej heller en skugga så grym över mig hänga."
+
+msgctxt "harpy firstNightReminder"
+msgid "Wake the Harpy; they point at one player, then another. Wake the 1st player the Harpy pointed to, show them the 'This character has selected you' card, show them the Harpy token, then point at the 2nd player the Harpy pointed to."
+msgstr "Väck Harpyan; hen pekar på två spelare, en i taget. Väck den första spelaren som Harpyan pekade på, visa kortet ”Den här rollen valde dig”, visa Harpyans rollbricka och peka på den andra spelaren som Harpyan pekade på."
+
+msgctxt "harpy otherNightReminder"
+msgid "Wake the Harpy; they point at one player, then another. Wake the 1st player the Harpy pointed to, show them the 'This character has selected you' card, show them the Harpy token, then point at the 2nd player the Harpy pointed to."
+msgstr "Väck Harpyan; hen pekar på två spelare, en i taget. Väck den första spelaren som Harpyan pekade på, visa kortet ”Den här rollen valde dig”, visa Harpyans rollbricka och peka på den andra spelaren som Harpyan pekade på."
+
+msgctxt "harpy reminders"
+msgid "Mad, 2nd"
+msgstr "Rabiat,Utpekad"
+
+msgctxt "hatter name"
+msgid "Hatter"
+msgstr "Hattmakaren"
+
+msgctxt "hatter ability"
+msgid "If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be."
+msgstr "Om du dör får Kumpanerna och Demonen välja nya Kumpan- och Demonroller att vara."
+
+msgctxt "hatter flavor"
+msgid "One Hat. Too Hat. Three Hat. Tea Hat. Fore Hat. Thrive Hat. Six Hat. Sticks Hat."
+msgstr "En hatt, två hatt, tre hatt, te hatt, fyr hatt, dyr hatt, fem hatt, kläm hatt, sex hatt, spex hatt."
+
+msgctxt "hatter otherNightReminder"
+msgid "If the Hatter died today: Wake the Minions and Demon. Show them the 'This Character Selected You' info token, then the Hatter token. Each player either shakes their head no or points to another character of the same type as their current character.  If a second player would end up with the same character as another player, shake your head no and gesture for them to choose again. Put them to sleep. Change each player to the character they chose."
+msgstr "Väck Kumpanerna och Demonen om Hattmakaren dog idag. Visa dem infobrickan ”Den här rollen valde dig” och Hattmakarens bricka. Varje spelare antingen skakar på huvudet för nej, eller pekar på en annan roll av samma typ som sin nuvarande roll. Om en andra spelare väljer samma roll som en annan spelare, skaka på huvudet och få hen att välja om. Låt alla somna. Ändra varje spelare till sin valda roll."
+
+msgctxt "hatter reminders"
+msgid "Tea Party Tonight"
+msgstr "Tebjudning ikväll"
+
+msgctxt "hellslibrarian name"
+msgid "Hell's Librarian"
+msgstr "Hyssjaren"
+
+msgctxt "hellslibrarian ability"
+msgid "Something bad might happen to whoever talks when the Storyteller has asked for silence."
+msgstr "Något dåligt kanske händer den som pratar när Berättaren har bett om tystnad."
+
+msgctxt "hellslibrarian flavor"
+msgid "Shhhhhh. Please be quiet. It is best not to disturb the Librarian. I've heard it has a temper."
+msgstr "Schhhhh. Du måste vara tyst. Det är bäst att inte störa bibliotekarien; den lär ha ett himla temperament."
+
+msgctxt "hellslibrarian reminders"
+msgid "Something Bad"
+msgstr "Något dåligt"
+
+msgctxt "heretic name"
+msgid "Heretic"
+msgstr "Kättaren"
+
+msgctxt "heretic ability"
+msgid "Whoever wins, loses & whoever loses, wins, even if you are dead."
+msgstr "Vinnarlaget förlorar och förlorarlaget vinner, även om du är död."
+
+msgctxt "heretic flavor"
+msgid "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
+msgstr "När haglet gått igenom taket och krossat glaset i katedralfönstren så smälter det åter ner i jorden, som ett döende lamm i ökensolen. Så lyder dårens parabel."
+
+msgctxt "highpriestess name"
+msgid "High Priestess"
+msgstr "Prästinnan"
+
+msgctxt "highpriestess ability"
+msgid "Each night, learn which player the Storyteller believes you should talk to most."
+msgstr "Varje natt får du veta vilken spelare Berättaren tycker att du främst borde prata med."
+
+msgctxt "highpriestess flavor"
+msgid "There is life behind the personality that uses personalities as masks. There are times when life puts off the mask and deep answers to deep."
+msgstr "Bakom personligheten finns ett liv som bär personligheter som masker. Ibland tar livet av sig masken, och djupet står till svars för djupet."
+
+msgctxt "highpriestess firstNightReminder"
+msgid "Point to a player."
+msgstr "Peka på en spelare."
+
+msgctxt "highpriestess otherNightReminder"
+msgid "Point to a player."
+msgstr "Peka på en spelare."
+
+msgctxt "huntsman name"
+msgid "Huntsman"
+msgstr "Jägaren"
+
+msgctxt "huntsman ability"
+msgid "Once per game, at night, choose a living player: the Damsel, if chosen, becomes a not-in-play Townsfolk. [+the Damsel]"
+msgstr "En gång per spel, på natten, kan du välja en levande spelare; om du väljer Ungmön blir hen en Bybo som inte är i spel. [+Ungmön]"
+
+msgctxt "huntsman flavor"
+msgid "My cabin is warm and sturdy. My axe by the door, my boots drying by the fire, and elk stew a-simmering… Hark! A scream echoes through the valley! The rain and the mud and the cold, cold wind mask the scent of the wolves, but I know the path and my pace is steady. I am coming."
+msgstr "Stugan är bekväm och varm. Min yxa står vid dörren, mina kängor torkar vid eldstaden, och hjortgrytan kokar… Men hör! Ett skrik ekar i dalen! Regnet och leran och kölden, den kalla vinden döljer lukten av vargar, men jag vet vägen och rör mig snabbt. Jag kommer."
+
+msgctxt "huntsman firstNightReminder"
+msgid "The Huntsman shakes their head 'no' or points to a player. If they point to the Damsel, wake that player, show the 'You are' card and a not-in-play character token."
+msgstr "Jägaren skakar på huvudet för nej eller pekar på en spelare. Om Jägaren pekar på Ungmön så väck den spelaren, visa kortet ”Du är” och en rollbricka för en Bybo som inte är i spel."
+
+msgctxt "huntsman otherNightReminder"
+msgid "The Huntsman shakes their head 'no' or points to a player. If they point to the Damsel, wake that player, show the 'You are' card and a not-in-play character token."
+msgstr "Jägaren skakar på huvudet för nej eller pekar på en spelare. Om Jägaren pekar på Ungmön så väck den spelaren, visa kortet ”Du är” och en rollbricka för en Bybo som inte är i spel."
+
+msgctxt "huntsman reminders"
+msgid "No ability"
+msgstr "Ingen förmåga"
+
+msgctxt "imp name"
+msgid "Imp"
+msgstr "Djävulen"
+
+msgctxt "imp ability"
+msgid "Each night*, choose a player: they die. If you kill yourself this way, a Minion becomes the Imp."
+msgstr "Varje natt* väljer du en spelare; hen dör. Om du dödar dig själv på det sättet blir en Kumpan till Djävulen."
+
+msgctxt "imp flavor"
+msgid "We must keep our wits sharp and our sword sharper. Evil walks among us, and will stop at nothing to destroy us good, simple folk, bringing our fine town to ruin. Trust no-one. But, if you must trust someone, trust me."
+msgstr "Vi måste vara på vår vakt och ha våra klingor nära till hands. Ondskan vandrar bland oss, och är beredd att göra vad som helst för att förgöra oss hederliga människor och göra vår by till ruiner. Lita inte på någon. Men om ni måste lita på någon, lita på mig."
+
+msgctxt "imp otherNightReminder"
+msgid "The Imp points to a player. That player dies. If the Imp chose themselves: Replace the character of 1 alive minion with a spare Imp token. Show the 'You are' card, then the Imp token."
+msgstr "Djävulen pekar på en spelare. Den spelaren dör. Om Djävulen väljer sig själv så ersätt en levande Kumpans roll med en andra Djävulsbricka. Visa ”Du är”-kortet för Kumpanen, följt av Djävulens rollbricka."
+
+msgctxt "imp reminders"
+msgid "Dead"
+msgstr "Död"
+
+msgctxt "innkeeper name"
+msgid "Innkeeper"
+msgstr "Gästgivaren"
+
+msgctxt "innkeeper ability"
+msgid "Each night*, choose 2 players: they can't die tonight, but 1 is drunk until dusk."
+msgstr "Varje natt* väljer du 2 spelare; de kan inte dö inatt, men 1 blir full till skymningen."
+
+msgctxt "innkeeper flavor"
+msgid "Come inside, fair traveller, and rest your weary bones. Drink and be merry, for the legions of the Dark One shall not harass thee tonight."
+msgstr "Kom in, kära vandrare, och vila dina trötta ben. Drick och var glad, för den ondas härer kommer inte ofreda dig inatt."
+
+msgctxt "innkeeper otherNightReminder"
+msgid "The previously protected and drunk players lose those markers. The Innkeeper points to two players. Those players are protected. One is drunk."
+msgstr "De tidigare skyddade och fulla spelarna förlorar sina markörer. Gästgivaren pekar på två spelare; båda är skyddade och en är full."
+
+msgctxt "innkeeper reminders"
+msgid "Protected,Drunk"
+msgstr "Skyddad,Full"
+
+msgctxt "investigator name"
+msgid "Investigator"
+msgstr "Detektiven"
+
+msgctxt "investigator ability"
+msgid "You start knowing that 1 of 2 players is a particular Minion."
+msgstr "I början får du veta att 1 av 2 spelare är en viss Kumpan."
+
+msgctxt "investigator flavor"
+msgid "It is a fine night for a stroll, wouldn't you say, Mister Morozov? Or should I say... BARON Morozov?"
+msgstr "Det är en fin kväll för en promenad, inte sant, herr Morozov? Eller borde jag säga… BARON Morozov?"
+
+msgctxt "investigator firstNightReminder"
+msgid "Show the character token of a Minion in play. Point to two players, one of which is that character."
+msgstr "Välj en Kumpan som är i spel och visa dess rollbricka. Peka på två spelare varav en är den rollen."
+
+msgctxt "investigator reminders"
+msgid "Minion,Wrong"
+msgstr "Kumpan,Fel"
+
+msgctxt "judge name"
+msgid "Judge"
+msgstr "Domaren"
+
+msgctxt "judge ability"
+msgid "Once per game, if another player nominated, you may choose to force the current execution to pass or fail."
+msgstr "En gång per spel, när någon annan nominerat, kan du tvinga omröstningen att gå igenom eller inte."
+
+msgctxt "judge flavor"
+msgid "I find the defendant guilty of the crimes of murder, fraud, arson, larceny, impersonating an officer of the law, practicing medicine without a license, slander, regicide, and littering."
+msgstr "Jag förklarar den svarande skyldig till mord, bedrägeri, mordbrand, stöld, föregivande av allmän ställning, obehörigt arbete som läkare, förtal, kungamord och nedskräpning."
+
+msgctxt "judge reminders"
+msgid "No ability"
+msgstr "Ingen förmåga"
+
+msgctxt "juggler name"
+msgid "Juggler"
+msgstr "Jonglören"
+
+msgctxt "juggler ability"
+msgid "On your 1st day, publicly guess up to 5 players' characters. That night, you learn how many you got correct."
+msgstr "På din första dag får du öppet gissa upp till 5 spelares roller. Inatt får du veta hur många rätt du hade."
+
+msgctxt "juggler flavor"
+msgid "For my next trick, as per request, I will need a flower, a bag of beans, a toy snake, a paintbrush, and a motorized gasoline-powered hedge trimming device. I warn you, this trick may be my last. Oh dear."
+msgstr "Nästa trick har efterfrågats av flera. Jag behöver en blomma, en bönpåse, en leksaksorm, en pensel och en bensindriven häcksax. Jag varnar er, det här tricket kan bli mitt sista. Oj då."
+
+msgctxt "juggler otherNightReminder"
+msgid "If today was the Juggler’s first day: Show the hand signal for the number (0, 1, 2, etc.) of 'Correct' markers. Remove markers."
+msgstr "Om idag var Jonglörens första dag: Visa med fingrarna (0, 1, 2 osv.) hur många rätt Jonglören hade. Ta sedan bort markörerna."
+
+msgctxt "juggler reminders"
+msgid "Correct"
+msgstr "Rätt"
+
+msgctxt "kazali name"
+msgid "Kazali"
+msgstr "Kazali"
+
+msgctxt "kazali ability"
+msgid "Each night*, choose a player: they die. [You choose which players are Minions. -? to +? Outsiders]"
+msgstr "Varje natt* väljer du en spelare; hen dör. [Du väljer vilka spelare som är Kumpaner. ±? Utbölingar]"
+
+msgctxt "kazali flavor"
+msgid "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig."
+msgstr "Gon(z)a7les6. Var for60g. Hela mek4an4sm1n = iNvert10ad. F3l isy6tem. Omko{7}fig."
+
+msgctxt "kazali firstNightReminder"
+msgid "The Kazali points at a player and a Minion on the character sheet. Replace their old character token with the Minion token, show them the “You Are” info token then the Minion character token, and give a thumbs down. Repeat until the normal number of Minions exist. Put the Kazali to sleep."
+msgstr "Kazali pekar på en spelare och en Kumpan på rollarket. Byt ut den spelarens rollbricka mot den valda Kumpanbrickan, visa hen infobrickan ”Du är” följt av Kumpanbrickan, och visa tummen ner för ond. Upprepa detta tills rätt antal spelare är Kumpaner. Låt Kazali somna."
+
+msgctxt "kazali otherNightReminder"
+msgid "The Kazali points to a player. That player dies."
+msgstr "Kazali pekar på en spelare. Den spelaren dör."
+
+msgctxt "kazali reminders"
+msgid "Dead"
+msgstr "Död"
+
+msgctxt "king name"
+msgid "King"
+msgstr "Kungen"
+
+msgctxt "king ability"
+msgid "Each night, if the dead equal or outnumber the living, you learn 1 alive character. The Demon knows who you are."
+msgstr "Varje natt med minst lika många döda som levande spelare får du veta 1 levande roll. Demonen vet att du är Kungen."
+
+msgctxt "king flavor"
+msgid ""
+"↑Betwixt the unknown strains of mortal strife→\n"
+"And morbid night, sweet↓ with mystery and woe\n"
+"←Lies unfettered joys of fate’s long and colored life\n"
+"Who’s garden blooms with each painted Face to Show."
+msgstr "Tungt är att dö förgäten och utan namn, // Dock tyngre, fader, är det att leva. // Bliv ej så mörk! Att leva förmår jag ej, // men lyda jag kan, jag lyder och dör."
+
+msgctxt "king firstNightReminder"
+msgid "Wake the Demon, show them the 'This Player is' card, show the King token and point to the King player."
+msgstr "Väck Demonen. Visa kortet ”Den här rollen valde dig”, visa Kungens rollbricka och peka på Kungens spelare."
+
+msgctxt "king otherNightReminder"
+msgid "If there are more dead than living, show the King a character token of a living player."
+msgstr "Om det finns fler döda än levande spelare så visa Kungen en levande spelares rollbricka."
+
+msgctxt "klutz name"
+msgid "Klutz"
+msgstr "Klanten"
+
+msgctxt "klutz ability"
+msgid "When you learn that you died, publicly choose 1 alive player: if they are evil, your team loses."
+msgstr "När du får veta att du dött väljer du öppet 1 levande spelare; om hen är ond förlorar ditt lag."
+
+msgctxt "klutz flavor"
+msgid "Oops."
+msgstr "Hoppsan."
+
+msgctxt "knight name"
+msgid "Knight"
+msgstr "Riddaren"
+
+msgctxt "knight ability"
+msgid "You start knowing 2 players that are not the Demon."
+msgstr "I början får du veta 2 spelare som inte är Demonen."
+
+msgctxt "knight flavor"
+msgid "When a man lies, he murders some part of the world."
+msgstr "När en man ljuger mördar han ock en del av världen."
+
+msgctxt "knight firstNightReminder"
+msgid "Point to 2 non-Demon players."
+msgstr "Peka på 2 spelare som inte är Demon."
+
+msgctxt "knight reminders"
+msgid "Know, Know"
+msgstr "Visad"
+
+msgctxt "legion name"
+msgid "Legion"
+msgstr "Legionen"
+
+msgctxt "legion ability"
+msgid "Each night*, a player might die. Executions fail if only evil voted. You register as a Minion too. [Most players are Legion]"
+msgstr "Varje natt* kan en spelare dö. Röstar bara onda avrättas ingen. Du registreras också som Kumpan. [De flesta är Legionen]"
+
+msgctxt "legion flavor"
+msgid "We are the chill wind on a winter’s day. We are the shadow in the moonless night. We are the poison in your tea and the whisper in your ear. We are everywhere."
+msgstr "Vi är den kalla vinden en vinterdag. Vi är skuggan en månlös natt. Vi är giftet i ditt te och viskningen i ditt öra. Vi är överallt."
+
+msgctxt "legion otherNightReminder"
+msgid "Choose a player, that player dies."
+msgstr "Välj en spelare; den spelaren dör."
+
+msgctxt "legion reminders"
+msgid "Dead,About to die"
+msgstr "Död,Dömd"
+
+msgctxt "leviathan name"
+msgid "Leviathan"
+msgstr "Leviatan"
+
+msgctxt "leviathan ability"
+msgid "If more than 1 good player is executed, you win. All players know you are in play. After day 5, evil wins."
+msgstr "Om mer än 1 god spelare avrättas vinner de onda. Alla spelare vet att du är i spel. Efter dag 5 vinner de onda."
+
+msgctxt "leviathan flavor"
+msgid "To the last, I grapple with thee. From Hell’s heart, I stab at thee. For hate’s sake, I spit my last breath at thee."
+msgstr "Till det sista kämpar jag mot dig. Från dödsrikets hjärta riktar jag mitt järn mot dig. Med mitt sista andetag slungar jag emot dig mitt utmanande hat."
+
+msgctxt "leviathan firstNightReminder"
+msgid "Place the Leviathan 'Day 1' marker. Announce 'The Leviathan is in play; this is Day 1.'"
+msgstr "Sätt Leviatans markör ”Dag 1” i Spelboken. Tillkännage ”Leviatan är i spel; det här är dag 1”."
+
+msgctxt "leviathan otherNightReminder"
+msgid "Change the Leviathan Day reminder for the next day."
+msgstr "Ändra Leviatans dagmarkör till nästa dag."
+
+msgctxt "leviathan reminders"
+msgid "Day 1,Day 2,Day 3,Day 4,Day 5,Good player executed"
+msgstr "Dag 1,Dag 2,Dag 3,Dag 4,Dag 5,God spelare avrättad"
+
+msgctxt "librarian name"
+msgid "Librarian"
+msgstr "Bibliotekarien"
+
+msgctxt "librarian ability"
+msgid "You start knowing that 1 of 2 players is a particular Outsider. (Or that zero are in play.)"
+msgstr "I början får du veta att 1 av 2 spelare är en viss Utböling (eller att 0 är med)."
+
+msgctxt "librarian flavor"
+msgid "Certainly madam, under normal circumstances, you may borrow the Codex Malificarium from the library vaults. However, you do not seem to be a member."
+msgstr "Naturligtvis. I vanliga fall skulle det gå alldeles utmärkt att låna Codex Malificarium från biblioteksvalvet, men du verkar inte ha ett lånekonto hos oss."
+
+msgctxt "librarian firstNightReminder"
+msgid "Show the character token of an Outsider in play. Point to two players, one of which is that character."
+msgstr "Visa rollbrickan för en Utböling som är i spel. Peka på två spelare varav en är den rollen."
+
+msgctxt "librarian reminders"
+msgid "Outsider,Wrong"
+msgstr "Utböling,Fel"
+
+msgctxt "lilmonsta name"
+msgid "Lil' Monsta"
+msgstr "Lillmonstret"
+
+msgctxt "lilmonsta ability"
+msgid "Each night, Minions choose who babysits Lil' Monsta's token & \"is the Demon\". Each night*, a player might die. [+1 Minion]"
+msgstr "Varje natt väljer Kumpanerna vem som vaktar Lillmonstret och räknas som Demon. Varje natt* kan en spelare dö. [+1 Kumpan]"
+
+msgctxt "lilmonsta flavor"
+msgid ""
+"Step 1: Be cute.\n"
+"Step 2: World domination.\n"
+"Step 3: Bweakfast."
+msgstr ""
+"Steg 1: Vara söt.\n"
+"Steg 2: Världsherravälde.\n"
+"Steg 3: Frukost."
+
+msgctxt "lilmonsta firstNightReminder"
+msgid "Wake all Minions together, allow them to vote by pointing at who they want to babysit Lil' Monsta."
+msgstr "Väck alla Kumpaner tillsammans. De röstar om vem som ska vakta Lillmonstret genom att peka."
+
+msgctxt "lilmonsta otherNightReminder"
+msgid "Wake all Minions together, allow them to vote by pointing at who they want to babysit Lil' Monsta. Choose a player, that player dies."
+msgstr "Väck alla Kumpaner tillsammans. De röstar om vem som ska vakta Lillmonstret genom att peka. Välj eventuellt en spelare; den spelaren dör."
+
+msgctxt "lilmonsta remindersGlobal"
+msgid "Is the Demon,Dead"
+msgstr "Lillmonstret,Död"
+
+msgctxt "lleech name"
+msgid "Lleech"
+msgstr "Lleech"
+
+msgctxt "lleech ability"
+msgid "Each night*, choose a player: they die. You start by choosing a player: they are poisoned. You die if & only if they are dead."
+msgstr "Varje natt* väljer du en spelare; hen dör. I början väljer du en spelare; hen förgiftas. Du dör endast om hen är död."
+
+msgctxt "lleech flavor"
+msgid "Tasty, tasty, tasty, tasty, tasty, tasty, tasty, tasty brai- I mean pie! Yes. Tasty pie. That’s what I meant to say."
+msgstr "Mumsiga, mumsiga, mumsiga, mumsiga, mumsiga hjär– jag menar paj! Ja, mumsiga paj. Det var det jag höll på att säga."
+
+msgctxt "lleech firstNightReminder"
+msgid "The Lleech points to a player. Place the Poisoned reminder token."
+msgstr "Lleech pekar på en spelare. Sätt brickan ”Förgiftad” vid den valda spelarens rollbricka."
+
+msgctxt "lleech otherNightReminder"
+msgid "The Lleech points to a player. That player dies."
+msgstr "Lleech pekar på en spelare. Den spelaren dör."
+
+msgctxt "lleech reminders"
+msgid "Dead,Poisoned"
+msgstr "Död,Förgiftad"
+
+msgctxt "lordoftyphon name"
+msgid "Lord of Typhon"
+msgstr "Tyfons Herre"
+
+msgctxt "lordoftyphon ability"
+msgid "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? To +? Outsiders]"
+msgstr "Varje natt* väljer du en spelare; hen dör. [Onda sitter på rad & du är inte ytterst. +1 Kumpan. ±? Utbölingar]"
+
+msgctxt "lordoftyphon flavor"
+msgid "In the shadowed and forgotten corners of the cosmos, where the stars whisper secrets to the void, lies a truth so profound that the merest glimpse of it unravels the sanity of mortal minds."
+msgstr "I kosmos förgätna avkrokar, där stjärnorna viskar hemligheter till intet, vilar en sanning så djup att minsta skymt av den kan driva dödliga till vansinne."
+
+msgctxt "lordoftyphon firstNightReminder"
+msgid "Wake the players on either side of the Demon. Show them the 'You Are' card, the token of the Minion they now are, and a thumbs down to indicate they are evil."
+msgstr "Väck spelarna på var sida om Demonen. Visa dem kortet ”Du är”, sedan brickan för den Kumpan de har blivit, och tummen ner för att visa att de är onda."
+
+msgctxt "lordoftyphon otherNightReminder"
+msgid "The Lord of Typhon points to a player. That player dies."
+msgstr "Tyfons Herre pekar på en spelare. Den spelaren dör."
+
+msgctxt "lordoftyphon reminders"
+msgid "Dead"
+msgstr "Död"
+
+msgctxt "lunatic name"
+msgid "Lunatic"
+msgstr "Galningen"
+
+msgctxt "lunatic ability"
+msgid "You think you are a Demon, but you are not. The Demon knows who you are & who you choose at night."
+msgstr "Du tror att du är en Demon, men det är du inte. Demonen vet vem du är och vad du väljer på natten."
+
+msgctxt "lunatic flavor"
+msgid "I am the night... I think."
+msgstr "Jag är natten… tror jag."
+
+msgctxt "lunatic firstNightReminder"
+msgid "If 7 or more players: Show the Lunatic a number of arbitrary 'Minions', players equal to the number of Minions in play. Show 3 character tokens of arbitrary good characters. If the token received by the Lunatic is a Demon that would wake tonight: Allow the Lunatic to do the Demon actions. Place their 'attack' markers. Wake the Demon. Show the Demon’s real character token. Show them the Lunatic player. If the Lunatic attacked players: Show the real demon each marked player. Remove any Lunatic 'attack' markers."
+msgstr "Om det är 7 eller fler spelare: Visa Galningen godtyckliga spelare som ”Kumpaner”, lika många som antalet faktiska Kumpaner i spel. Visa 3 godtyckliga goda rollers brickor. Om Galningens bricka är en Demon som skulle vakna inatt, låt Galningen utföra Demonhandlingen. Sätt ut Galningens ”Vald”-markörer. Väck Demonen. Visa Demonens riktiga roll. Visa Demonen vilken spelare som är Galningen. Om Galningen valde spelare, visa den riktiga Demonen varje vald spelare. Ta bort Galningens ”Vald”-markörer."
+
+msgctxt "lunatic otherNightReminder"
+msgid "Allow the Lunatic to do the actions of the Demon. Place their 'attack' markers. If the Lunatic selected players: Wake the Demon. Show the 'attack' marker, then point to each marked player. Remove any Lunatic 'attack' markers."
+msgstr "Låt Galningen utföra Demonens handling och sätt ut Galningens ”Vald”-markörer. Om Galningen valde spelare så väck Demonen, visa ”Vald”-markören och peka på varje markerad spelare. Ta bort Galningens ”Vald”-markörer."
+
+msgctxt "lunatic reminders"
+msgid "Attack 1,Attack 2,Attack 3"
+msgstr "Vald"
+
+msgctxt "lycanthrope name"
+msgid "Lycanthrope"
+msgstr "Lykantropen"
+
+msgctxt "lycanthrope ability"
+msgid "Each night*, choose an alive player. If good, they die & the Demon doesn’t kill tonight. One good player registers as evil."
+msgstr "Varje natt* väljer du en levande spelare; om hen är god dör hen och Demonen får inte döda inatt. En god spelare registreras som ond."
+
+msgctxt "lycanthrope flavor"
+msgid "Beneath the thin veneer of civilisation lies a howling madness."
+msgstr "Bakom civilisationens tunna fernissa döljer sig ett ylande vanvett."
+
+msgctxt "lycanthrope otherNightReminder"
+msgid "The Lycanthrope points to a living player: if good, they die and the Demon doesn't kill tonight"
+msgstr "Lykantropen pekar på en levande spelare. Om hen är god dör hen, och Demonen får inte döda någon inatt."
+
+msgctxt "lycanthrope reminders"
+msgid "Dead,Faux Paw"
+msgstr "Död,Luktar ond"
+
+msgctxt "magician name"
+msgid "Magician"
+msgstr "Magikern"
+
+msgctxt "magician ability"
+msgid "The Demon thinks you are a Minion. Minions think you are a Demon."
+msgstr "Demonen tror att du är en Kumpan. Kumpanerna tror att du är en Demon."
+
+msgctxt "magician flavor"
+msgid ""
+"1... 2... Abra... 3... 4... Cadabra... *poof!*\n"
+"And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!"
+msgstr "Ett… två… abra… tre… fyra… kadabra… *poff!* Och som ni ser, mina damer och herrar, har kapten Farncreutz guldbörs förvunnit! Spårlöst borta! Tack så mycket, och god natt!"
+
+msgctxt "marionette name"
+msgid "Marionette"
+msgstr "Marionetten"
+
+msgctxt "marionette ability"
+msgid "You think you are a good character but you are not. The Demon knows who you are. [You neighbour the Demon]"
+msgstr "Du tror att du är en god roll, men det är du inte. Demonen vet vem du är. [Granne med Demonen]"
+
+msgctxt "marionette flavor"
+msgid "Words, words. They're all we have to go on."
+msgstr "Ord, ord. Det är allt vi har att gå på."
+
+msgctxt "marionette firstNightReminder"
+msgid "Select one of the good players next to the Demon and place the Is the Marionette reminder token. Wake the Demon and show them the Marionette."
+msgstr "Välj en av de goda spelarna bredvid Demonen och sätt påminnelsen ”Är Marionetten” bredvid. Väck Demonen och visa Marionetten."
+
+msgctxt "marionette remindersGlobal"
+msgid "Is the Marionette"
+msgstr "Är Marionetten"
+
+msgctxt "mastermind name"
+msgid "Mastermind"
+msgstr "Mästaren"
+
+msgctxt "mastermind ability"
+msgid "If the Demon dies by execution (ending the game), play for 1 more day. If a player is then executed, their team loses."
+msgstr "Om Demonen dör av avrättning (så spelet skulle ta slut) pågår spelet 1 dag till. Om en spelare avrättas då förlorar hens lag."
+
+msgctxt "mastermind flavor"
+msgid "The tentacles of that monster are nailed to the doors of the church. Mothers and children are dancing in the street. Excellent. Everything is proceeding exactly as I have planned."
+msgstr "Monstrets tentakler har spikats upp på kyrkporten. Mödrar och barn dansar på gatorna… Utmärkt. Allting går precis enligt plan."
+
+msgctxt "mathematician name"
+msgid "Mathematician"
+msgstr "Matematikern"
+
+msgctxt "mathematician ability"
+msgid "Each night, you learn how many players’ abilities worked abnormally (since dawn) due to another character's ability."
+msgstr "Varje natt får du veta hur många spelares förmågor som fungerat onormalt sedan gryningen p.g.a. andras förmågor."
+
+msgctxt "mathematician flavor"
+msgid "Any consistent formal system x, within which a certain amount of elementary arithmetic can be carried out is incomplete; that is, there are statements of the language of x which can neither be proved nor disproved in x. Ergo, you are drunk."
+msgstr "Varje givet konsistent formellt system x, inom vilket en viss mängd elementär aritmetik kan utföras, är ofullständigt; det vill säga att det finns uttalanden på språket i x som varken kan bekräftas eller falsifieras i x. Ergo, du är full."
+
+msgctxt "mathematician firstNightReminder"
+msgid "Show the hand signal for the number (0, 1, 2, etc.) of players whose ability malfunctioned due to other abilities."
+msgstr "Signalera med fingrarna (0, 1, 2 osv.) hur många spelare vars förmåga inte fungerade normalt på grund av andras förmågor."
+
+msgctxt "mathematician otherNightReminder"
+msgid "Show the hand signal for the number (0, 1, 2, etc.) of players whose ability malfunctioned due to other abilities."
+msgstr "Signalera med fingrarna (0, 1, 2 osv.) hur många spelare vars förmåga inte fungerade normalt på grund av andras förmågor."
+
+msgctxt "mathematician reminders"
+msgid "Abnormal"
+msgstr "Onormalt"
+
+msgctxt "matron name"
+msgid "Matron"
+msgstr "Föreståndarinnan"
+
+msgctxt "matron ability"
+msgid "Each day, you may choose up to 3 sets of 2 players to swap seats. Players may not leave their seats to talk in private."
+msgstr "Varje dag kan du välja upp till 3 par spelare som byter plats. Spelarna får inte lämna sina platser för privata samtal."
+
+msgctxt "matron flavor"
+msgid "Miss Featherbottom, be quiet. Master Rutherford, a teacup needs just the four fingers, please. I know you are a father of nine, but age, or lack there-of as the case may be, is never an excuse for poor manners."
+msgstr "Fröken Lunneblom, dämpa er. Herr Rudbeck, fyra fingrar räcker för tekoppen. Jag vet att ni är niobarnsfar, men ålder – eller brist därpå – är aldrig en ursäkt för dålig hyfs."
+
+msgctxt "mayor name"
+msgid "Mayor"
+msgstr "Borgmästaren"
+
+msgctxt "mayor ability"
+msgid "If only 3 players live & no execution occurs, your team wins. If you die at night, another player might die instead."
+msgstr "Om bara 3 spelare lever och ingen avrättas vinner ditt lag. Om du dör på natten kanske en annan spelare dör istället."
+
+msgctxt "mayor flavor"
+msgid "We must put our differences aside, and cease this senseless killing. We are all taxpayers after all. Well, most of us."
+msgstr "Vi måste åsidosätta våra olikheter och sätta stopp för det vanvettiga dödandet. Vi är ju alla skattebetalare. Eller ja, de flesta av oss."
+
+msgctxt "mezepheles name"
+msgid "Mezepheles"
+msgstr "Mezefeles"
+
+msgctxt "mezepheles ability"
+msgid "You start knowing a secret word. The 1st good player to say this word becomes evil that night."
+msgstr "I början får du veta ett hemligt ord. Den första goda spelaren som säger ordet blir ond inatt."
+
+msgctxt "mezepheles flavor"
+msgid "That which issues from the heart alone, will bend the hearts of others to your own."
+msgstr "Pass på, min vän! Du skall förnimma mer sinnesfröjd i denna timma än på ett år av vanligt tråkigt slag."
+
+msgctxt "mezepheles firstNightReminder"
+msgid "Show the Mezepheles their secret word."
+msgstr "Visa Mezefeles det hemliga ordet."
+
+msgctxt "mezepheles otherNightReminder"
+msgid "Wake the 1st good player that said the Mezepheles' secret word and show them the 'You are' card and the thumbs down evil signal."
+msgstr "Väck den första goda spelaren som yttrade Mezefeles hemliga ord. Visa kortet ”Du är” följt av tummen ner för ond."
+
+msgctxt "mezepheles reminders"
+msgid "Turns evil,No ability"
+msgstr "Blir ond,Ingen förmåga"
+
+msgctxt "minstrel name"
+msgid "Minstrel"
+msgstr "Trubaduren"
+
+msgctxt "minstrel ability"
+msgid "When a Minion dies by execution, all other players (except Travellers) are drunk until dusk tomorrow."
+msgstr "Om en Kumpan dör av avrättning blir alla andra spelare (utom Resenärer) fulla fram till skymningen imorgon."
+
+msgctxt "minstrel flavor"
+msgid "And I shall hear, tho' soft you tread above me... And all my dreams will warm and sweeter be... If you'll not fail to tell me that you love me... I simply sleep in peace until you come to me."
+msgstr "Somna, min nymf! Dröm om min lyra // till dess vår sol går opp klockan fyra // och du dig sträcker // och armarna räcker // till min kanna och min famn // eldad av mitt blod och namn."
+
+msgctxt "minstrel reminders"
+msgid "Everyone drunk"
+msgstr "Alla är fulla"
+
+msgctxt "monk name"
+msgid "Monk"
+msgstr "Munken"
+
+msgctxt "monk ability"
+msgid "Each night*, choose a player (not yourself): they are safe from the Demon tonight."
+msgstr "Varje natt* väljer du en spelare (inte dig själv); hen är skyddad från Demonen inatt."
+
+msgctxt "monk flavor"
+msgid "Tis an ill and deathly wind that blows tonight. Come, my brother, take shelter in the abbey while the storm rages. By my word, or by my life, you will be safe."
+msgstr "Det blåser en grym och dödlig vind inatt. Kom, broder, och ta skydd i klostret medan stormen rasar. Jag svär vid mitt liv att du är säker här."
+
+msgctxt "monk otherNightReminder"
+msgid "The previously protected player is no longer protected. The Monk points to a player not themself. Mark that player 'Protected'."
+msgstr "Den spelare som skyddades sist är inte skyddad längre. Munken pekar på en annan spelare än sig själv. Markera den spelaren som skyddad."
+
+msgctxt "monk reminders"
+msgid "Protected"
+msgstr "Skyddad"
+
+msgctxt "moonchild name"
+msgid "Moonchild"
+msgstr "Månflickan"
+
+msgctxt "moonchild ability"
+msgid "When you learn that you died, publicly choose 1 alive player. Tonight, if it was a good player, they die."
+msgstr "När du får veta att du dött väljer du öppet 1 levande spelare. Om hen är god dör hen inatt."
+
+msgctxt "moonchild flavor"
+msgid "Scorpio looks sideways at the lovers, and you have a choice to make. With silver cross my palm, and your fate shall be revealed. With steel cross my throat, and by the stars you shall regret it."
+msgstr "Skorpionen ser mot älskarna, och du har ett beslut att fatta. För silver till min hand, och ditt öde skall avslöjas. För stål mot min hals, och ditt öde skall beseglas."
+
+msgctxt "moonchild otherNightReminder"
+msgid "If the Moonchild used their ability to target a player today: If that player is good, they die."
+msgstr "Om Månflickan använde sin förmåga för att peka ut en god spelare idag så dör den utpekade."
+
+msgctxt "moonchild reminders"
+msgid "Dead"
+msgstr "Död"
+
+msgctxt "mutant name"
+msgid "Mutant"
+msgstr "Mutanten"
+
+msgctxt "mutant ability"
+msgid "If you are “mad” about being an Outsider, you might be executed."
+msgstr "Om du är rabiat om att du är Utböling kanske du blir avrättad."
+
+msgctxt "mutant flavor"
+msgid "I am not a freak! I am a human being! Have mercy!"
+msgstr "Jag är inget monster! Jag är en människa! Ha barmhärtighet!"
+
+msgctxt "nightwatchman name"
+msgid "Nightwatchman"
+msgstr "Nattvakten"
+
+msgctxt "nightwatchman ability"
+msgid "Once per game, at night, choose a player: they learn who you are."
+msgstr "En gång per spel, på natten, kan du välja en spelare; hen får veta att du är Nattvakten."
+
+msgctxt "nightwatchman flavor"
+msgid "The night is cold and lonely, but I have the moon, the stars, the crisp wind and the soft thud of leather boots on cobbled stone for company. Yonder, candlelight flickers behind a murky window..."
+msgstr "Natten är kall och ensam, men jag har månen, stjärnorna, den kalla vinden och ljudet av läderkängor mot kullersten till sällskap. Där borta flimrar ett ljus i ett dunkelt fönster…"
+
+msgctxt "nightwatchman firstNightReminder"
+msgid "The Nightwatchman may point to a player. Wake that player, show the 'This character selected you' card and the Nightwatchman token, then point to the Nightwatchman player."
+msgstr "Nattvakten får peka på en spelare. Väck den utpekade, visa kortet ”Den här rollen valde dig” och Nattvaktens rollbricka, och peka sedan på Nattvaktens spelare."
+
+msgctxt "nightwatchman otherNightReminder"
+msgid "The Nightwatchman may point to a player. Wake that player, show the 'This character selected you' card and the Nightwatchman token, then point to the Nightwatchman player."
+msgstr "Nattvakten får peka på en spelare. Väck den utpekade, visa kortet ”Den här rollen valde dig” och Nattvaktens rollbricka, och peka sedan på Nattvaktens spelare."
+
+msgctxt "nightwatchman reminders"
+msgid "No ability"
+msgstr "Ingen förmåga"
+
+msgctxt "noble name"
+msgid "Noble"
+msgstr "Adelsmannen"
+
+msgctxt "noble ability"
+msgid "You start knowing 3 players, 1 and only 1 of which is evil."
+msgstr "I början får du veta 3 spelare, varav exakt 1 är ond."
+
+msgctxt "noble flavor"
+msgid "Sarcasm is indeed the lowest form of wit. But speaking in response to your criticism, Sir, it is, nevertheless, a form of wit."
+msgstr "Sarkasm är förvisso den lägsta formen av humor. Men för att bemöta er kritik, min gode herre, är det alltjämt en form av humor."
+
+msgctxt "noble firstNightReminder"
+msgid "Point to 3 players including one evil player, in no particular order."
+msgstr "Peka på 3 spelare, varav 1 ond, utan inbördes ordning."
+
+msgctxt "noble reminders"
+msgid "Seen"
+msgstr "Visad"
+
+msgctxt "nodashii name"
+msgid "No Dashii"
+msgstr "No Dashii"
+
+msgctxt "nodashii ability"
+msgid "Each night*, choose a player: they die. Your 2 Townsfolk neighbours are poisoned."
+msgstr "Varje natt* väljer du en spelare; hen dör. Dina 2 Bybogrannar är förgiftade."
+
+msgctxt "nodashii flavor"
+msgid "By the sins of Arnoch, I feel thy laden stench. By the curs-ed sun and her foul legion of tiny grinning gods, I corrupt thee. By the blessed night and the hidden depths of the horrid and unholy sea, I end thy squalid life upon this plane."
+msgstr "Vid Arnochs synder känner jag din stank. Vid den fördömda solen och hennes eländiga skara flinande gudar korrumperar jag dig. Vid den välsignade natten och det oheliga havets hemliga djup avslutar jag ditt ynkliga liv på detta plan."
+
+msgctxt "nodashii otherNightReminder"
+msgid "The No Dashii points to a player. That player dies."
+msgstr "No Dashii pekar på en spelare. Den spelaren dör."
+
+msgctxt "nodashii reminders"
+msgid "Dead,Poisoned"
+msgstr "Död,Förgiftad"
+
+msgctxt "ogre name"
+msgid "Ogre"
+msgstr "Trollet"
+
+msgctxt "ogre ability"
+msgid "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned."
+msgstr "Din första natt väljer du en spelare (inte dig själv); du går över till hens lag (men vet inte vilket), även om du är full eller förgiftad."
+
+msgctxt "ogre flavor"
+msgid "<grunt><grin></grunt>"
+msgstr "<grymt><flin></grymt>"
+
+msgctxt "ogre firstNightReminder"
+msgid "The Ogre points to a player (not themselves) and becomes their alignment."
+msgstr "Trollet pekar på en spelare (inte sig själv) och går över till hens lag."
+
+msgctxt "ogre reminders"
+msgid "Friend"
+msgstr "Vän"
+
+msgctxt "ojo name"
+msgid "Ojo"
+msgstr "Ojo"
+
+msgctxt "ojo ability"
+msgid "Each night*, choose a character: they die. If they are not in play, the Storyteller chooses who dies."
+msgstr "Varje natt väljer du en roll*; hen dör. Om rollen inte är i spel väljer Berättaren vem som dör."
+
+msgctxt "ojo flavor"
+msgid "Like a bonfire on a moonless night… I see you, mortal."
+msgstr "Jag ser dig, klart som ett bål på en månfri natt."
+
+msgctxt "ojo otherNightReminder"
+msgid "The Ojo points to a character on the sheet; if in play, that player dies. If it is not in play, the Storyteller chooses who dies instead."
+msgstr "Ojo pekar på en roll på sitt rollark; om rollen är i spel så dör den spelaren. Om rollen inte är i spel så väljer Berättaren vem eller vilka som dör istället."
+
+msgctxt "ojo reminders"
+msgid "Dead"
+msgstr "Död"
+
+msgctxt "oracle name"
+msgid "Oracle"
+msgstr "Oraklet"
+
+msgctxt "oracle ability"
+msgid "Each night*, you learn how many dead players are evil."
+msgstr "Varje natt* får du veta hur många döda spelare som är onda."
+
+msgctxt "oracle flavor"
+msgid "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
+msgstr "Endast de utvalda får se på andra sidan floret. De döda är rolösa, och de pekar tysta mot den kalla norden."
+
+msgctxt "oracle otherNightReminder"
+msgid "Show the hand signal for the number (0, 1, 2, etc.) of dead evil players."
+msgstr "Signalera med fingrarna (0, 1, 2 osv.) hur många döda spelare som är onda."
+
+msgctxt "organgrinder name"
+msgid "Organ Grinder"
+msgstr "Positivhalaren"
+
+msgctxt "organgrinder ability"
+msgid "All players keep their eyes closed when voting and the vote tally is secret. Each night, choose if you are drunk or not."
+msgstr "Alla spelare blundar under röstningen & resultatet är hemligt. Varje natt väljer du om du ska vara full till skymningen."
+
+msgctxt "organgrinder flavor"
+msgid "Round and round the handles go. The more you dance the less you know."
+msgstr "Veven snurrar runt i dans. Dansa med, glöm vett och sans."
+
+msgctxt "organgrinder reminders"
+msgid "Drunk,About to die"
+msgstr "Full,Dömd"
+
+msgctxt "pacifist name"
+msgid "Pacifist"
+msgstr "Pacifisten"
+
+msgctxt "pacifist ability"
+msgid "Executed good players might not die."
+msgstr "Avrättade goda spelare kanske inte dör."
+
+msgctxt "pacifist flavor"
+msgid "Distrust all in whom the impulse to punish is powerful."
+msgstr "Misstro alla i vilka impulsen att straffa är stark."
+
+msgctxt "philosopher name"
+msgid "Philosopher"
+msgstr "Filosofen"
+
+msgctxt "philosopher ability"
+msgid "Once per game, at night, choose a good character: gain that ability. If this character is in play, they are drunk."
+msgstr "En gång per spel, på natten, kan du välja en god roll; du får dess förmåga. Om rollen redan är i spel blir den spelaren full."
+
+msgctxt "philosopher flavor"
+msgid "If anything is real, beer is real. Drink, for tomorrow we may die."
+msgstr "Om det är någonting som är verkligt så är det öl. Drick, för imorgon kan vi vara döda."
+
+msgctxt "philosopher firstNightReminder"
+msgid "The Philosopher either shows a 'no' head signal, or points to a good character on their sheet. If they chose a character: Swap the out-of-play character token with the Philosopher token and add the 'Is the Philosopher' reminder. If the character is in play, place the drunk marker by that player."
+msgstr "Filosofen skakar på huvudet för ”nej”, eller pekar på en god roll på sitt ark. Om Filosofen valde en roll så byt ut den valda rollbrickan mot Filosofens bricka. Om den valda rollen redan är i spel så sätt markören ”Full” vid den valda spelaren. Sätt markören ”Är Filosofen” vid den spelare som var Filosofen."
+
+msgctxt "philosopher otherNightReminder"
+msgid "If the Philosopher has not used their ability: the Philosopher either shows a 'no' head signal, or points to a good character on their sheet. If they chose a character: Swap the out-of-play character token with the Philosopher token and add the 'Is the Philosopher' reminder. If the character is in play, place the drunk marker by that player."
+msgstr "Filosofen skakar på huvudet för ”nej”, eller pekar på en god roll på sitt ark. Om Filosofen valde en roll så byt ut den valda rollbrickan mot Filosofens bricka. Om den valda rollen redan är i spel så sätt markören ”Full” vid den valda spelaren. Sätt markören ”Är Filosofen” vid den spelare som var Filosofen."
+
+msgctxt "philosopher remindersGlobal"
+msgid "Is the Philosopher,Drunk"
+msgstr "Är Filosofen,Full"
+
+msgctxt "pithag name"
+msgid "Pit-Hag"
+msgstr "Trollpackan"
+
+msgctxt "pithag ability"
+msgid "Each night*, choose a player & a character they become (if not-in-play). If a Demon is made, deaths tonight are arbitrary."
+msgstr "Varje natt* väljer du en spelare och en roll; om rollen inte är i spel blir spelaren den. Om en Demon skapas dör spelare godtyckligt."
+
+msgctxt "pithag flavor"
+msgid "Round about the cauldron go; In the poison'd entrails throw; Toad, that under cold stone; Days and nights has thirty-one; Sweated venom sleeping got; Boil thou first in the charmed pot."
+msgstr "Kringom kitteln gå med flit; innanmätet kasta dit. Padda, du, som under sten, dar och nätter trettien, sov och sög av gift dig stinn – gå du först i kitteln in!"
+
+msgctxt "pithag otherNightReminder"
+msgid "The Pit-Hag points to a player and a character on the sheet. If this character is not in play, wake that player and show them the 'You are' card and the relevant character token. If the character is in play, nothing happens."
+msgstr "Trollpackan pekar på en spelare och en roll på arket. Om rollen inte är i spel, väck spelaren och visa kortet ”Du är” följt av den valda rollens bricka. Om den valda rollen är i spel händer ingenting."
+
+msgctxt "pixie name"
+msgid "Pixie"
+msgstr "Älvan"
+
+msgctxt "pixie ability"
+msgid "You start knowing 1 in-play Townsfolk. If you were mad that you were this character, you gain their ability when they die."
+msgstr "I början får du veta 1 Bybo som är i spel. Om du är rabiat om att du är den rollen får du dess förmåga när den dör."
+
+msgctxt "pixie flavor"
+msgid ""
+"Round and round the garden, go.\n"
+"Little girls run to and fro.\n"
+"Little boys climb up the tree.\n"
+"Which of these should Pixie be?\n"
+"Ladies smile and go to town. \n"
+"Lords with axe chop forest down.\n"
+"What’s yours is mine. What’s mine, divine.\n"
+"Silly little Pixie, me."
+msgstr "Bro, bro, breja, stockar och stenar, barn går mellan grenar. Vem ska älvan vara? Svara! Folk hugger skogen, så den hugger barn – vem ska jag ta?"
+
+msgctxt "pixie firstNightReminder"
+msgid "Show the Pixie 1 in-play Townsfolk character token."
+msgstr "Visa Älvan rollbrickan för en Bybo som är i spel."
+
+msgctxt "pixie reminders"
+msgid "Mad,Has ability"
+msgstr "Rabiat,Har förmåga"
+
+msgctxt "plaguedoctor name"
+msgid "Plague Doctor"
+msgstr "Pestläkaren"
+
+msgctxt "plaguedoctor ability"
+msgid "If you die, the Storyteller gains a Minion ability."
+msgstr "När du dör får Berättaren en Kumpanförmåga."
+
+msgctxt "plaguedoctor flavor"
+msgid "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh."
+msgstr "Stå stilla. Det tar tid för kroppen att läka. Mer myrra."
+
+msgctxt "plaguedoctor reminders"
+msgid "Storyteller Ability"
+msgstr "Berättarförmåga"
+
+msgctxt "po name"
+msgid "Po"
+msgstr "Po"
+
+msgctxt "po ability"
+msgid "Each night*, you may choose a player: they die. If your last choice was no-one, choose 3 players tonight."
+msgstr "Varje natt* kan du välja en spelare; hen dör. Om du inte valde någon sist väljer du 3 inatt."
+
+msgctxt "po flavor"
+msgid "Would you like a flower? I'm so lonely."
+msgstr "Vill du ha en blomma? Jag är så ensam…"
+
+msgctxt "po otherNightReminder"
+msgid "If the Po chose no-one the previous night: The Po points to three players. Otherwise: The Po either shows the 'no' head signal , or points to a player. Chosen players die"
+msgstr "Om Po inte valde någon igår natt pekar Po på tre spelare. Annars skakar Po på huvudet för nej eller pekar på en spelare. Alla valda spelare dör."
+
+msgctxt "po reminders"
+msgid "Dead,3 attacks"
+msgstr "Död,3 attacker"
+
+msgctxt "poisoner name"
+msgid "Poisoner"
+msgstr "Giftblandaren"
+
+msgctxt "poisoner ability"
+msgid "Each night, choose a player: they are poisoned tonight and tomorrow day."
+msgstr "Varje natt väljer du en spelare; hen är förgiftad inatt och imorgon."
+
+msgctxt "poisoner flavor"
+msgid "Add compound Alpha to compound Beta... NOT TOO MUCH!"
+msgstr "Tillsätt förening alfa till förening beta… INTE FÖR MYCKET!"
+
+msgctxt "poisoner firstNightReminder"
+msgid "The Poisoner points to a player. That player is poisoned."
+msgstr "Giftblandaren pekar på en spelare. Den spelaren är förgiftad."
+
+msgctxt "poisoner otherNightReminder"
+msgid "The previously poisoned player is no longer poisoned. The Poisoner points to a player. That player is poisoned."
+msgstr "Den spelare som förgiftades igår blir frisk. Giftblandaren pekar på en spelare. Den spelaren är förgiftad."
+
+msgctxt "poisoner reminders"
+msgid "Poisoned"
+msgstr "Förgiftad"
+
+msgctxt "politician name"
+msgid "Politician"
+msgstr "Politikern"
+
+msgctxt "politician ability"
+msgid "If you were the player most responsible for your team losing, you change alignment & win, even if dead."
+msgstr "Om du är främsta skälet till att ditt lag förlorade byter du lag och vinner, även om du är död."
+
+msgctxt "politician flavor"
+msgid "I'm glad you asked that question. Truly, I am. But I think the REAL question here is..."
+msgstr "Jag tror inte att det är den viktigaste frågan. Jag förstår att det är intressant, men nu pratar vi konstitutionella frågor."
+
+msgctxt "poppygrower name"
+msgid "Poppy Grower"
+msgstr "Vallmoodlaren"
+
+msgctxt "poppygrower ability"
+msgid "Minions & Demons do not know each other. If you die, they learn who each other are that night."
+msgstr "Kumpanerna och Demonen känner inte till varandra. Om du dör får de veta om varandra inatt."
+
+msgctxt "poppygrower flavor"
+msgid "In the hidden groves of the deep forest, the black poppy dwells. To see its revelry is to be enchanted. To smell its thick aroma is to be lost forever, a slave to the gods of light and dark."
+msgstr "I den djupa skogens dolda lunder växer fjädervallmon. Att se dess frejdighet är att förtrollas. Att dofta dess fylliga arom är att förloras, slav under ljusets och mörkrets gudar."
+
+msgctxt "poppygrower firstNightReminder"
+msgid "Do not inform the Demon/Minions who each other are"
+msgstr "Demonen och Kumpanerna får inte veta om varandra."
+
+msgctxt "poppygrower otherNightReminder"
+msgid "If the Poppy Grower has died, show the Minions/Demon who each other are."
+msgstr "Om Vallmoodlaren dog, visa Kumpanerna och Demonen för varandra."
+
+msgctxt "poppygrower reminders"
+msgid "Evil wakes"
+msgstr "Onda vaknar"
+
+msgctxt "preacher name"
+msgid "Preacher"
+msgstr "Predikanten"
+
+msgctxt "preacher ability"
+msgid "Each night, choose a player: a Minion, if chosen, learns this. All chosen Minions have no ability."
+msgstr "Varje natt väljer du en spelare; om du väljer en Kumpan får hen veta det. Valda Kumpaner har ingen förmåga."
+
+msgctxt "preacher flavor"
+msgid "It is better to be rich and healthy than poor and sick."
+msgstr "Hellre rik och frisk än fattig och sjuk."
+
+msgctxt "preacher firstNightReminder"
+msgid "The Preacher chooses a player. If a Minion is chosen, wake the Minion and show the 'This character selected you' card and then the Preacher token."
+msgstr "Predikanten väljer en spelare. Om Predikanten väljer en Kumpan så väck Kumpanen och visa kortet ”Den här rollen valde dig” följt av Predikantens rollbricka."
+
+msgctxt "preacher otherNightReminder"
+msgid "The Preacher chooses a player. If a Minion is chosen, wake the Minion and show the 'This character selected you' card and then the Preacher token."
+msgstr "Predikanten väljer en spelare. Om Predikanten väljer en Kumpan, väck Kumpanen och visa kortet ”Den här rollen valde dig” följt av Predikantens rollbricka."
+
+msgctxt "preacher reminders"
+msgid "At a sermon"
+msgstr "Ingen förmåga"
+
+msgctxt "princess name"
+msgid "Princess"
+msgstr "Princess"
+
+msgctxt "princess ability"
+msgid "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
+msgstr "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
+
+msgctxt "princess flavor"
+msgid "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
+msgstr "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
+
+msgctxt "princess otherNightReminder"
+msgid "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
+msgstr "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
+
+msgctxt "princess reminders"
+msgid "Doesn't Kill"
+msgstr "Doesn't Kill"
+
+msgctxt "professor name"
+msgid "Professor"
+msgstr "Professorn"
+
+msgctxt "professor ability"
+msgid "Once per game, at night*, choose a dead player: if they are a Townsfolk, they are resurrected."
+msgstr "En gång per spel, på natten, kan du välja en död spelare; om du väljer en Bybo börjar hen leva igen."
+
+msgctxt "professor flavor"
+msgid "The process is simple. Attach the hydraulic confabulator to the modified chi matrix amplifier, add 20 CCs of pseudodorafine, keep his Z levels above 20%, and your husband will be fine. Now, all we need is a lightning strike."
+msgstr "Processen är enkel. Fäst hydraulkonfabulatorn i den modifierade chi-matrisförstärkaren, tillsätt 20 ml pseudodorafin, och håll hans z-nivå över 20 %, så ska du se att det ordnar sig med din make. Nu behöver vi bara ett blixtnedslag."
+
+msgctxt "professor otherNightReminder"
+msgid "If the Professor has not used their ability: The Professor either shakes their head no, or points to a player. If that player is a Townsfolk, they are now alive."
+msgstr "Om Professorn inte har använt sin förmåga kan hen skaka på huvudet för nej eller peka på en spelare. Om den valda spelaren är Bybo så lever hen nu."
+
+msgctxt "professor reminders"
+msgid "Alive,No ability"
+msgstr "Lever,Ingen förmåga"
+
+msgctxt "psychopath name"
+msgid "Psychopath"
+msgstr "Psykopaten"
+
+msgctxt "psychopath ability"
+msgid "Each day, before nominations, you may publicly choose a player: they die. If executed, you only die if you lose roshambo."
+msgstr "Varje dag innan någon nominerats kan du öppet välja en spelare; hen dör. Om du avrättas dör du bara om du förlorar sten-sax-påse."
+
+msgctxt "psychopath flavor"
+msgid "Surprise!"
+msgstr "Tittut!"
+
+msgctxt "pukka name"
+msgid "Pukka"
+msgstr "Pukka"
+
+msgctxt "pukka ability"
+msgid "Each night, choose a player: they are poisoned. The previously poisoned player dies then becomes healthy."
+msgstr "Varje natt väljer du en spelare; hen blir förgiftad. Förra förgiftade spelaren dör och blir frisk."
+
+msgctxt "pukka flavor"
+msgid "You truly have been kind welcoming me into your beautiful home. I am so sorry I accidentally scratched you. A little thing. No matter. But please, take this golden toothpick as a humble token of my regret."
+msgstr "Du har varit så vänlig som välkomnat mig till ditt vackra hem. Jag ber om ursäkt för att jag råkade riva dig. Det kanske var en struntsak, men jag vill ändå att du tar denna gyllene tandpetare som ett tecken på min ånger."
+
+msgctxt "pukka firstNightReminder"
+msgid "The Pukka points to a player. That player is poisoned."
+msgstr "Pukka pekar på en spelare. Den spelaren är förgiftad."
+
+msgctxt "pukka otherNightReminder"
+msgid "The Pukka points to a player. That player is poisoned. The previously poisoned player dies."
+msgstr "Pukka pekar på en spelare. Den spelaren är förgiftad. Den tidigare förgiftade spelaren dör."
+
+msgctxt "pukka reminders"
+msgid "Poisoned,Dead"
+msgstr "Förgiftad,Död"
+
+msgctxt "puzzlemaster name"
+msgid "Puzzlemaster"
+msgstr "Pusselläggaren"
+
+msgctxt "puzzlemaster ability"
+msgid "1 player is drunk, even if you die. If you guess (once) who it is, learn the Demon player, but guess wrong & get false info."
+msgstr "1 spelare är full, även om du dör. Om du gissar vem (en chans) får du veta vem Demonen är, annars får du falsk info."
+
+msgctxt "puzzlemaster flavor"
+msgid "When one begins to think that some thing is merely some other thing, one is usually on the brink of an error. Patience, patience. Don’t confuse just and should with is and isn’t."
+msgstr "Börjar man tro att en sak bara är en annan sak så är man oftast på väg att begå ett misstag. Tålamod, tålamod. Förväxla inte det som borde vara med det som är."
+
+msgctxt "puzzlemaster reminders"
+msgid "Drunk,Guess used"
+msgstr "Full,Förbrukad"
+
+msgctxt "ravenkeeper name"
+msgid "Ravenkeeper"
+msgstr "Korpskötaren"
+
+msgctxt "ravenkeeper ability"
+msgid "If you die at night, you are woken to choose a player: you learn their character."
+msgstr "Om du dör på natten väcks du och väljer en spelare; du får veta hens roll."
+
+msgctxt "ravenkeeper flavor"
+msgid "My birds will avenge me! Fly! Fly, my sweet and dutiful pets! To the manor and to the river! To the alleys and to the salons! Fly!"
+msgstr "Mina fåglar kommer hämnas mig! Flyg! Flyg, mina vackra och plikttrogna vänner! Till godset och till älven! Till gränderna och salongerna! Flyg!"
+
+msgctxt "ravenkeeper otherNightReminder"
+msgid "If the Ravenkeeper died tonight: The Ravenkeeper points to a player. Show that player’s character token."
+msgstr "Om Korpskötaren dog inatt pekar hen på en spelare. Visa den spelarens rollbricka."
+
+msgctxt "recluse name"
+msgid "Recluse"
+msgstr "Enstöringen"
+
+msgctxt "recluse ability"
+msgid "You might register as evil & as a Minion or Demon, even if dead."
+msgstr "Du kan registreras som ond och som Kumpan eller Demon, även om du är död."
+
+msgctxt "recluse flavor"
+msgid "Garn git ya darn grub ya mitts ofma lorn yasee. Grr. Natsy pikkins yonder southwise ye begittin afta ya! Git! Me harvy no so widda licks and demmons no be fightin' hadsup ne'er ma kin. Git, assay!"
+msgstr "Di va’na förbasta åhäver å kom’ å nada på marska mi. Ska fan te å skrata eft’er! Kas! Ja dreter i döbler ja å di gör bäst di i å höll se hissed frå tôfta mi. Kas, sa ja!"
+
+msgctxt "revolutionary name"
+msgid "Revolutionary"
+msgstr "Revolutionären"
+
+msgctxt "revolutionary ability"
+msgid "2 neighboring players are known to be the same alignment. Once per game, one of them registers falsely"
+msgstr "Alla vet att 2 grannspelare är i samma lag. En gång per spel registreras en av dem fel."
+
+msgctxt "revolutionary flavor"
+msgid ""
+"United we feigned.\n"
+"Divided, we stalled."
+msgstr "Enade vi falla, söndrade vi gå i stå."
+
+msgctxt "revolutionary reminders"
+msgid "Register Falsely?"
+msgstr "Registreras fel?"
+
+msgctxt "riot name"
+msgid "Riot"
+msgstr "Kravallen"
+
+msgctxt "riot ability"
+msgid "On day 3, Minions become Riot & nominees die but nominate an alive player immediately. This must happen."
+msgstr "Dag 3 blir Kumpaner till Kravallen & nominerade dör men nominerar en levande spelare direkt. Detta måste hända."
+
+msgctxt "riot flavor"
+msgid "Larga vida a la revolución! Mi revolucion!"
+msgstr "¡Larga vida a la revolución! ¡Mi revolución!"
+
+msgctxt "sage name"
+msgid "Sage"
+msgstr "Gurun"
+
+msgctxt "sage ability"
+msgid "If the Demon kills you, you learn that it is 1 of 2 players."
+msgstr "Om Demonen dödar dig får du veta att hen är 1 av 2 spelare."
+
+msgctxt "sage flavor"
+msgid "These mountainous tomes guard the secret, I am sure of it! Twixt word and word, it lies in wait. More candles, boy! More ink! These notes may look arcane, but the infernal puzzle is revealing itself."
+msgstr "Dessa digra volymer döljer hemligheten, det är jag säker på! Den väntar oss mellan orden. Mer ljus, pojk! Mer bläck! Språket är märkligt, ja, men den infernaliska gåtan vecklar långsamt ut sig."
+
+msgctxt "sage otherNightReminder"
+msgid "If the Sage was killed by a Demon: Point to two players, one of which is that Demon."
+msgstr "Om Gurun dödades av en Demon så peka på två spelare, varav en är den Demonen."
+
+msgctxt "sailor name"
+msgid "Sailor"
+msgstr "Matrosen"
+
+msgctxt "sailor ability"
+msgid "Each night, choose an alive player: either you or they are drunk until dusk. You can't die."
+msgstr "Varje natt väljer du en levande spelare; hen eller du blir full fram till skymningen. Du kan inte dö."
+
+msgctxt "sailor flavor"
+msgid "I'll drink any one of yer under the table! You! The chatterbox! Reckon you can take me? No? Howza 'bout you, Grandma? You ever tried Old McKillys Extra Spiced Rum before? Guaranteed to put hairs on yer chest! Step aboard, aye!"
+msgstr "Jag kan supa omkull vem som helst! Du! Pratkvarnen! Tror du att du kan klå mig! Inte? Du då, mormor? Har du nånsin smakat McKillys karibiska rom förut? Det ger garanterat hår på bröstet! Kliv ombord!"
+
+msgctxt "sailor firstNightReminder"
+msgid "The Sailor points to a living player. Either the Sailor, or the chosen player, is drunk."
+msgstr "Matrosen pekar på en levande spelare. Antingen Matrosen eller den valda spelaren är full."
+
+msgctxt "sailor otherNightReminder"
+msgid "The previously drunk player is no longer drunk. The Sailor points to a living player. Either the Sailor, or the chosen player, is drunk."
+msgstr "Den spelare som var full igår blir nykter. Matrosen pekar på en levande spelare. Antingen Matrosen eller den valda spelaren är full."
+
+msgctxt "sailor reminders"
+msgid "Drunk"
+msgstr "Full"
+
+msgctxt "saint name"
+msgid "Saint"
+msgstr "Helgonet"
+
+msgctxt "saint ability"
+msgid "If you die by execution, your team loses."
+msgstr "Om du dör av avrättning förlorar ditt lag."
+
+msgctxt "saint flavor"
+msgid "Wisdom begets peace. Patience begets wisdom. Fear not, for the time shall come when fear too shall pass. Let us pray, and may the unity of our vision make saints of us all."
+msgstr "Vishet föder fred. Tålamod föder vishet. Frukta ej, ty dagen kommer när också fruktan flyr. Låt oss be, och må vår enade vision göra helgon av oss alla."
+
+msgctxt "savant name"
+msgid "Savant"
+msgstr "Savanten"
+
+msgctxt "savant ability"
+msgid "Each day, you may visit the Storyteller to learn 2 things in private: 1 is true & 1 is false."
+msgstr "Varje dag kan du prata med Berättaren privat och få 2 påståenden: 1 sant och 1 falskt."
+
+msgctxt "savant flavor"
+msgid "Seventy-two matchsticks on the floor... the sun sets early but the moon is unchanged... a torn piece of cloth... evil in the manor house... three by three... the one we trusted is not what he seems... green light means magnesium... residue, but the pattern is wrong... Seventy-two matchsticks on the floor..."
+msgstr "Sjuttiotvå tändstickor på golvet… solen går ner tidigt, men månen är oförändrad… ett avslitet tygstycke… ondska på godset… tre gånger tre… den vi litade på är inte det han utger sig för… grönt ljus betyder magnesium… rester, men mönstret är fel… Sjuttiotvå tändstickor på golvet…"
+
+msgctxt "scapegoat name"
+msgid "Scapegoat"
+msgstr "Syndabocken"
+
+msgctxt "scapegoat ability"
+msgid "If a player of your alignment is executed, you might be executed instead."
+msgstr "Om en spelare på ditt lag avrättas kanske du avrättas istället."
+
+msgctxt "scapegoat flavor"
+msgid "Good evening! Thank you for inviting me to the ball. I'm not from around here, but you sure seem like a friendly bunch, by golly. I'm sure we'll get along just dandy. What's all that rope for?"
+msgstr "God afton! Tack så mycket för att ni ville bjuda mig till er bal. Jag är inte härifrån, men ni verkar ju vara ett riktigt trevligt gäng! Vi kommer säkert bli goda vänner. Vad ska ni ha allt rep till?"
+
+msgctxt "scarletwoman name"
+msgid "Scarlet Woman"
+msgstr "Röda Damen"
+
+msgctxt "scarletwoman ability"
+msgid "If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don’t count)"
+msgstr "Om 5 eller fler spelare lever och Demonen dör blir du Demonen. (Resenärer räknas inte.)"
+
+msgctxt "scarletwoman flavor"
+msgid "You have shown me the secrets of the Council of the Purple Flame. We have lain together in fire and in lust and in beastly commune, and I am forever your servant. But tonight, my dear, I am your master."
+msgstr "Du har visat mig Purpurlågans hemligheter. Vi har delat säng i eld och lust och djuriskt umgänge, och jag är för alltid din tjänare. Men inatt, min kära, är jag din mästare."
+
+msgctxt "scarletwoman otherNightReminder"
+msgid "If the Scarlet Woman became the Demon today: Show the 'You are' card, then the demon token."
+msgstr "Om Demonen har dött så visa kortet ”Du är” följt av Demonens rollbricka."
+
+msgctxt "scarletwoman reminders"
+msgid "Demon"
+msgstr "Demon"
+
+msgctxt "seamstress name"
+msgid "Seamstress"
+msgstr "Sömmerskan"
+
+msgctxt "seamstress ability"
+msgid "Once per game, at night, choose 2 players (not yourself): you learn if they are the same alignment."
+msgstr "En gång per spel, på natten, kan du välja 2 spelare (inte dig själv); du får veta om de är i samma lag."
+
+msgctxt "seamstress flavor"
+msgid "Did you hear that stranger in the cashmere coat put the word on our young Belle? And she said yes? Well, that's nothing compared to what Harry and that juggler got up to at the fair! The things I could say if I was a tattletale... my, yes."
+msgstr "Hörde du att främlingen i kaschmirrock uppvaktade unga Isabella? Och att hon sa ja? Och det är ändå ingenting emot vad Harry och jonglören gjorde på marknaden! Du anar inte vad jag skulle kunna berätta om jag varit en skvallerbytta… oj oj oj."
+
+msgctxt "seamstress firstNightReminder"
+msgid "The Seamstress either shows a 'no' head signal, or points to two other players. If the Seamstress chose players , nod 'yes' or shake 'no' for whether they are of same alignment."
+msgstr "Sömmerskan skakar på huvudet för nej eller pekar på två andra spelare. Om Sömmerskan väljer två spelare på samma lag så nicka för ja; skaka annars på huvudet för nej."
+
+msgctxt "seamstress otherNightReminder"
+msgid "If the Seamstress has not yet used their ability: the Seamstress either shows a 'no' head signal, or points to two other players. If the Seamstress chose players , nod 'yes' or shake 'no' for whether they are of same alignment."
+msgstr "Om Sömmerskan inte har använt sin förmåga får hen skaka på huvudet för nej eller peka på två andra spelare. Om Sömmerskan väljer två spelare på samma lag så nicka för ja; skaka annars på huvudet för nej."
+
+msgctxt "seamstress reminders"
+msgid "No ability"
+msgstr "Ingen förmåga"
+
+msgctxt "sentinel name"
+msgid "Sentinel"
+msgstr "Väktaren"
+
+msgctxt "sentinel ability"
+msgid "There might be 1 extra or 1 fewer Outsider in-play."
+msgstr "Det kan vara 1 Utböling mer eller mindre i spel."
+
+msgctxt "sentinel flavor"
+msgid ""
+"Name, please.\n"
+"Papers, please.\n"
+"Weapons, please."
+msgstr "Namn. Dokument. Vapen."
+
+msgctxt "shabaloth name"
+msgid "Shabaloth"
+msgstr "Shabaloth"
+
+msgctxt "shabaloth ability"
+msgid "Each night*, choose 2 players: they die. A dead player you chose last night might be regurgitated."
+msgstr "Varje natt* väljer du 2 spelare; de dör. En död spelare du valde igår natt kan börja leva igen."
+
+msgctxt "shabaloth flavor"
+msgid "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
+msgstr "Blarg f’taag nm mataan! No sho gumtha m’sik na yuuu. Fluuuuuuuuurg h-sikkkh."
+
+msgctxt "shabaloth otherNightReminder"
+msgid "One player that the Shabaloth chose the previous night might be resurrected. The Shabaloth points to two players. Those players die."
+msgstr "En spelare som Shabaloth valde igår natt kan återupplivas. Shabaloth pekar på två spelare. De dör."
+
+msgctxt "shabaloth reminders"
+msgid "Dead,Alive"
+msgstr "Död,Lever"
+
+msgctxt "shugenja name"
+msgid "Shugenja"
+msgstr "Shugenjan"
+
+msgctxt "shugenja ability"
+msgid "You start knowing if your closest evil player is clockwise or anti-clockwise. If equidistant, this info is arbitrary."
+msgstr "I början får du veta om närmsta onda spelare är medurs eller moturs från dig. Om det är lika blir svaret godtyckligt."
+
+msgctxt "shugenja flavor"
+msgid "これは夢。それも夢。すべて夢です。"
+msgstr "これは夢。それも夢。すべて夢です。"
+
+msgctxt "shugenja firstNightReminder"
+msgid "Wake the Shugenja; point horizontally in the direction of the closest evil player. If the two closest evil players are equidistant, point your finger horizontally in either direction."
+msgstr "Väck Shugenjan och peka horisontellt åt det håll där den närmaste onda spelaren sitter. Om de två närmaste onda spelarna är lika långt borta så peka åt valfritt av de två hållen."
+
+msgctxt "slayer name"
+msgid "Slayer"
+msgstr "Dråparen"
+
+msgctxt "slayer ability"
+msgid "Once per game, during the day, publicly choose a player: if they are the Demon, they die."
+msgstr "En gång per spel, på dagen, kan du öppet välja en spelare; om du väljer Demonen dör hen."
+
+msgctxt "slayer flavor"
+msgid "Die."
+msgstr "Dö."
+
+msgctxt "slayer reminders"
+msgid "No ability"
+msgstr "Ingen förmåga"
+
+msgctxt "snakecharmer name"
+msgid "Snake Charmer"
+msgstr "Ormtjusaren"
+
+msgctxt "snakecharmer ability"
+msgid "Each night, choose an alive player: a chosen Demon swaps characters & alignments with you & is then poisoned."
+msgstr "Varje natt väljer du en levande spelare; om du väljer Demonen byter ni roll och lag, och spelaren du valde blir förgiftad."
+
+msgctxt "snakecharmer flavor"
+msgid "Effendi... I am but a humble man, but my pipe is golden and a single tune will tame the wildest djinn, Inshallah. They say that greed hangs more men than rope. But not I, Effendi... not I."
+msgstr "Effendi… jag är en enkel man, men en enda ton från min gyllene flöjt kan tämja den vildaste djinn, inshallah. Man brukar säga att fler har hängts av girighet än av rep, men inte jag, effendi… inte jag."
+
+msgctxt "snakecharmer firstNightReminder"
+msgid "The Snake Charmer points to a player. If that player is the Demon: swap the Demon and Snake Charmer character and alignments. Wake each player to inform them of their new role and alignment. The new Snake Charmer is poisoned."
+msgstr "Ormtjusaren pekar på en spelare. Om den spelaren är Demonen byter Ormtjusaren och Demonen roller och lag med varandra. Väck varje spelare för att meddela den nya rollen och lagtillhörigheten. Den nya Ormtjusaren är förgiftad."
+
+msgctxt "snakecharmer otherNightReminder"
+msgid "The Snake Charmer points to a player. If that player is the Demon: swap the Demon and Snake Charmer character and alignments. Wake each player to inform them of their new role and alignment. The new Snake Charmer is poisoned."
+msgstr "Ormtjusaren pekar på en spelare. Om den spelaren är Demonen byter Ormtjusaren och Demonen roller och lag med varandra. Väck varje spelare för att meddela den nya rollen och lagtillhörigheten. Den nya Ormtjusaren är förgiftad."
+
+msgctxt "snakecharmer reminders"
+msgid "Poisoned"
+msgstr "Förgiftad"
+
+msgctxt "snitch name"
+msgid "Snitch"
+msgstr "Golaren"
+
+msgctxt "snitch ability"
+msgid "Minions start knowing 3 not-in-play characters."
+msgstr "Varje Kumpan får 3 bluffar."
+
+msgctxt "snitch flavor"
+msgid "It was John."
+msgstr "Det var Jan."
+
+msgctxt "snitch firstNightReminder"
+msgid "After Minion info wake each Minion and show them three not-in-play character tokens. These may be the same or different to each other and the ones shown to the Demon."
+msgstr "Efter att Kumpanerna fått sin första information, väck varje Kumpan för sig och visa tre rollbrickor för roller som inte är i spel. Kumpanerna kan se samma brickor som varandra eller Demonen, eller olika."
+
+msgctxt "soldier name"
+msgid "Soldier"
+msgstr "Soldaten"
+
+msgctxt "soldier ability"
+msgid "You are safe from the Demon."
+msgstr "Du är skyddad från Demonen."
+
+msgctxt "soldier flavor"
+msgid "As David said to Goliath, as Theseus said to the Minotaur, as Arjuna said to Bhagadatta... No."
+msgstr "Som David sa till Goljat, som Theseus sa till Minotauren, som Arjuna sa till Bhagadatta… Nej."
+
+msgctxt "spiritofivory name"
+msgid "Spirit Of Ivory"
+msgstr "Amulettbäraren"
+
+msgctxt "spiritofivory ability"
+msgid "There can't be more than 1 extra evil player."
+msgstr "Det kan inte finnas mer än 1 extra ond spelare."
+
+msgctxt "spiritofivory flavor"
+msgid "The Wasteland calls. Bones rise to flesh, then fall to dust. The great spirit grows. The great spirit watches. The great spirit guides. The human listens, or the human is no more."
+msgstr "Ödemarken kallar. Ben reser sig till kött och faller till stoft. Den stora anden växer. Den stora anden vakar. Den stora anden leder vägen. Människan lyssnar, eller möter sitt öde."
+
+msgctxt "spiritofivory reminders"
+msgid "No extra evil"
+msgstr "Inga extra onda"
+
+msgctxt "spy name"
+msgid "Spy"
+msgstr "Spionen"
+
+msgctxt "spy ability"
+msgid "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead."
+msgstr "Varje natt ser du Spelboken. Du kan registreras som god och Bybo eller Utböling, även om du är död."
+
+msgctxt "spy flavor"
+msgid "Any brewmaster worth their liquor, knows no concoction pours trouble quicker, than one where spies seem double."
+msgstr "Vi föds alla som spioner. Det är inget att skämmas för; skammen är den att de hemligheter som finns att upptäcka är så banala och så få."
+
+msgctxt "spy firstNightReminder"
+msgid "Show the Grimoire to the Spy for as long as they need."
+msgstr "Visa Spelboken för Spionen så länge hen behöver."
+
+msgctxt "spy otherNightReminder"
+msgid "Show the Grimoire to the Spy for as long as they need."
+msgstr "Visa Spelboken för Spionen så länge hen behöver."
+
+msgctxt "steward name"
+msgid "Steward"
+msgstr "Kammartjänaren"
+
+msgctxt "steward ability"
+msgid "You start knowing 1 good player."
+msgstr "I början får du veta 1 god spelare."
+
+msgctxt "steward flavor"
+msgid "How DARE you accuse Her Ladyship of wrongdoing? I’ve known her my entire life! All nine years!"
+msgstr "Hur VÅGAR ni anklaga Hennes Nåd för oförrätter? Jag har känt henne i hela mitt liv! Nio år!"
+
+msgctxt "steward firstNightReminder"
+msgid "Point to 1 good player."
+msgstr "Peka på 1 god spelare."
+
+msgctxt "steward reminders"
+msgid "Know"
+msgstr "Visad"
+
+msgctxt "stormcatcher name"
+msgid "Storm Catcher"
+msgstr "Stormjägaren"
+
+msgctxt "stormcatcher ability"
+msgid "Name a good character. If in play, they can only die by execution, but evil players learn which player it is."
+msgstr "Säg en god roll. Om den är i spel kan den spelaren bara dö genom avrättning, men alla onda får veta vem spelaren är."
+
+msgctxt "stormcatcher flavor"
+msgid "At dawn, the temple’s long shadow creeps to the fountain. At dusk, the obelisk blocks the red glare, cooling warm water under the archway. All lines converge here. A storm is coming, and this, this pebbled and lush and holy place between the apple trees, is the eye."
+msgstr "I gryningen sträcker sig templets skugga fram till fontänen. I skymningen blockerar obelisken det röda skenet och kyler vattnet under valvporten. Alla linjer möts här. Stormen nalkas, och detta, denna steniga och frodiga och heliga plats mellan äppelträden, är ögat."
+
+msgctxt "stormcatcher reminders"
+msgid "Safe"
+msgstr "Skyddad"
+
+msgctxt "summoner name"
+msgid "Summoner"
+msgstr "Åkallaren"
+
+msgctxt "summoner ability"
+msgid "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]"
+msgstr "Du får 3 bluffar. 3:e natten väljer du en spelare; hen blir en ond Demon du väljer. [Ingen Demon]"
+
+msgctxt "summoner flavor"
+msgid "Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness"
+msgstr "Hell väktarna i nord; av mitt intellekt är ni sårade. Hell väktarna i öst; av min vilja är ni härskade. Hell väktarna i syd; av världen bortom denna är mysteriet avslöjat. Hell väktarna i väst; en sköld i mörkret."
+
+msgctxt "summoner firstNightReminder"
+msgid "Show the 'These characters are not in play' card. Show 3 character tokens of good characters not in play."
+msgstr "Visa kortet ”De här rollerna är inte i spel”. Visa tre rollbrickor för goda roller som inte är i spel."
+
+msgctxt "summoner otherNightReminder"
+msgid "If it is the 3rd night, wake the Summoner. They point to a player and a Demon on the character sheet - that player becomes that Demon."
+msgstr "Väck åkallaren om det är tredje natten. Hen pekar på en spelare och en Demon på sitt rollark. Den spelaren blir till den Demonen."
+
+msgctxt "summoner reminders"
+msgid "Night 1,Night 2,Night 3"
+msgstr "Natt 1,Natt 2,Natt 3"
+
+msgctxt "sweetheart name"
+msgid "Sweetheart"
+msgstr "Kärestan"
+
+msgctxt "sweetheart ability"
+msgid "When you die, 1 player is drunk from now on."
+msgstr "Om du dör blir 1 spelare full."
+
+msgctxt "sweetheart flavor"
+msgid "I will never forget her. Never."
+msgstr "Jag kommer aldrig glömma henne. Aldrig."
+
+msgctxt "sweetheart otherNightReminder"
+msgid "Choose a player that is drunk."
+msgstr "Välj en spelare som är full."
+
+msgctxt "sweetheart reminders"
+msgid "Drunk"
+msgstr "Full"
+
+msgctxt "tealady name"
+msgid "Tea Lady"
+msgstr "Tekokerskan"
+
+msgctxt "tealady ability"
+msgid "If both your alive neighbours are good, they can't die."
+msgstr "Om båda dina levande grannar är goda kan de inte dö."
+
+msgctxt "tealady flavor"
+msgid "If you are cold, tea will warm you. If you are too heated, tea will cool you. If you are depressed, tea will cheer you. If you are excited, tea will calm you."
+msgstr "Är du kall kan te värma. Är du för varm kan te svalka. Är du nedstämd kan te fröjda. Är du upprymd kan te lugna."
+
+msgctxt "tealady reminders"
+msgid "Can not die"
+msgstr "Kan inte dö"
+
+msgctxt "thief name"
+msgid "Thief"
+msgstr "Tjuven"
+
+msgctxt "thief ability"
+msgid "Each night, choose a player (not yourself): their vote counts negatively tomorrow."
+msgstr "Varje natt väljer du en spelare (inte dig själv); hens röst räknas negativt imorgon."
+
+msgctxt "thief flavor"
+msgid "I aint done nuffink. I weren't even in dat alley last night! It weren't me what stole Mayor Bruno's briefcase wiv all dem fancy dockoments innit. Besides, it was too 'eavy to carry far."
+msgstr "Jag har inte gjort nåt. Jag var inte ens i den gränden igår kväll! Det var inte jag som stal borgmästare Brunos portfölj med alla tjusiga dokument. Förresten var den för tung för att bära med sig."
+
+msgctxt "thief firstNightReminder"
+msgid "The Thief points to a player. Put the Thief's 'Negative vote' reminder by the chosen player's character token."
+msgstr "Tjuven pekar på en spelare. Sätt Tjuvens påminnelse ”Negativ röst” vid den valda spelarens rollbricka."
+
+msgctxt "thief otherNightReminder"
+msgid "The Thief points to a player. Put the Thief's 'Negative vote' reminder by the chosen player's character token."
+msgstr "Tjuven pekar på en spelare. Sätt Tjuvens påminnelse ”Negativ röst” vid den valda spelarens rollbricka."
+
+msgctxt "thief reminders"
+msgid "Negative vote"
+msgstr "Negativ röst"
+
+msgctxt "tinker name"
+msgid "Tinker"
+msgstr "Mekaren"
+
+msgctxt "tinker ability"
+msgid "You might die at any time."
+msgstr "Du kan dö när som helst."
+
+msgctxt "tinker flavor"
+msgid "I think I see the problem. Luckily, I have an idea! This catapult will shoot twice as far with just a minor adjustment..."
+msgstr "Jag tror jag vet vad problemet är. Som tur är så har jag en idé! En smärre justering är allt som krävs för att få katapulten att skjuta dubbelt så långt…"
+
+msgctxt "tinker otherNightReminder"
+msgid "The Tinker might die."
+msgstr "Mekaren kan dö."
+
+msgctxt "tinker reminders"
+msgid "Dead"
+msgstr "Död"
+
+msgctxt "towncrier name"
+msgid "Town Crier"
+msgstr "Härolden"
+
+msgctxt "towncrier ability"
+msgid "Each night*, you learn if a Minion nominated today."
+msgstr "Varje natt* får du veta om en Kumpan nominerade idag."
+
+msgctxt "towncrier flavor"
+msgid "Hear ye! Hear ye! Witchcraft in the labyrinth! Genius savant reveals all! Town in danger! Hear Ye!"
+msgstr "Hör upp! Hör upp! Häxkonst i labyrinten! Savant avslöjar allt! Byn i fara! Hör upp!"
+
+msgctxt "towncrier otherNightReminder"
+msgid "Nod 'yes' or shake head 'no' for whether a Minion nominated today. Place the 'Minion not nominated' marker (remove 'Minion nominated', if any)."
+msgstr "Nicka om en Kumpan nominerade idag; skaka annars på huvudet. Sätt in markören ”Har inte nominerat” och ta bort ”Nominerat” vid behov."
+
+msgctxt "towncrier reminders"
+msgid "Minions not nominated,Minion nominated"
+msgstr "Har inte nominerat,Nominerat"
+
+msgctxt "toymaker name"
+msgid "Toymaker"
+msgstr "Leksaksmakaren"
+
+msgctxt "toymaker ability"
+msgid "The Demon may choose not to attack & must do this at least once per game. Evil players get normal starting info."
+msgstr "Demonen kan välja att inte attackera, och måste välja detta minst en gång per spel. De onda får vanlig startinfo."
+
+msgctxt "toymaker flavor"
+msgid "It buzzes! It walks down stairs! It keeps you warm at night! It tastes like sugar! The kiddies love it! Introducing... the brand new... Warm'o-buzzy-wuzzy-walk'a'bot-thingy-contraption! Fun for all ages!"
+msgstr "Den surrar! Den går i trappor! Den värmer om natten! Den smakar socker! Ungarna älskar den! Får jag presentera, den splitter nya… Värme-vandrar-surrar-automat-mojängen! Rolig för liten som stor!"
+
+msgctxt "toymaker reminders"
+msgid "No Attack"
+msgstr "Ingen attack"
+
+msgctxt "undertaker name"
+msgid "Undertaker"
+msgstr "Dödgrävaren"
+
+msgctxt "undertaker ability"
+msgid "Each night*, you learn which character died by execution today."
+msgstr "Varje natt* får du veta vilken roll som dog av avrättning idag."
+
+msgctxt "undertaker flavor"
+msgid "Hmmm....what have we here? The left boot is worn down to the heel, with flint shavings under the tongue. This is the garb of a Military man."
+msgstr "Hmmm… vad har vi här då? Vänstra kängan är sliten ner till hälen, med flintspån under spännet… Så klär sig en man i det militära."
+
+msgctxt "undertaker otherNightReminder"
+msgid "If a player was executed today: Show that player’s character token."
+msgstr "Om en spelare avrättades idag, visa den spelarens rollbricka."
+
+msgctxt "undertaker reminders"
+msgid "Executed"
+msgstr "Avrättad"
+
+msgctxt "vigormortis name"
+msgid "Vigormortis"
+msgstr "Vigormortis"
+
+msgctxt "vigormortis ability"
+msgid "Each night*, choose a player: they die. Minions you kill keep their ability & poison 1 Townsfolk neighbour. [−1 Outsider]"
+msgstr "Varje natt* väljer du en spelare; hen dör. Kumpaner du dödar behåller sin förmåga och förgiftar 1 angränsande Bybo. [−1 Utböling]"
+
+msgctxt "vigormortis flavor"
+msgid "All doors are one door. All keys are one key. All cups are one cup, but whosoever drinketh of the water that I give shall never thirst, but the water shall be in him a well springing up into everlasting life."
+msgstr "Alla dörrar är en dörr. Alla nycklar är en nyckel. Alla bägare är en bägare, men den som dricker av vattnet jag ger kommer aldrig gå törstig, för vattnet ska i honom vara en källa som ger evigt liv."
+
+msgctxt "vigormortis otherNightReminder"
+msgid "The Vigormortis points to a player. That player dies. If a Minion, they keep their ability and one of their Townsfolk neighbours is poisoned."
+msgstr "Vigormortis pekar på en spelare. Den spelaren dör. Om spelaren är Kumpan behåller hen sin förmåga, och en av hens grannar blir förgiftad om den grannen är Bybo."
+
+msgctxt "vigormortis reminders"
+msgid "Dead,Has ability,Poisoned"
+msgstr "Död,Har förmåga,Förgiftad"
+
+msgctxt "villageidiot name"
+msgid "Village Idiot"
+msgstr "Byfånen"
+
+msgctxt "villageidiot ability"
+msgid "Each night, choose a player: you learn their alignment. [+0 to +2 Village Idiots. 1 of the extras is drunk]"
+msgstr "Varje natt väljer du en spelare; du får veta hens lag. [+0 till +2 extra Byfånar. En av de extra är full.]"
+
+msgctxt "villageidiot flavor"
+msgid "Roses are blue, and violets are red, Please reverse what I just said."
+msgstr "Violer är röda, rosor är blå. Vänd det jag sa, och låt vara så."
+
+msgctxt "villageidiot firstNightReminder"
+msgid "The Village Idiot points to a player; give a thumbs up if that player is good or a thumbs down if that player is evil."
+msgstr "Byfånen pekar på en spelare; ge tummen upp om den spelaren är god, och tummen ner om den spelaren är ond."
+
+msgctxt "villageidiot otherNightReminder"
+msgid "The Village Idiot points to a player; give a thumbs up if that player is good or a thumbs down if that player is evil."
+msgstr "Byfånen pekar på en spelare; ge tummen upp om den spelaren är god, och tummen ner om den spelaren är ond."
+
+msgctxt "villageidiot reminders"
+msgid "Drunk"
+msgstr "Full"
+
+msgctxt "virgin name"
+msgid "Virgin"
+msgstr "Jungfrun"
+
+msgctxt "virgin ability"
+msgid "The 1st time you are nominated, if the nominator is a Townsfolk, they are executed immediately."
+msgstr "Om den första som nominerar dig är Bybo avrättas hen omedelbart."
+
+msgctxt "virgin flavor"
+msgid "I am pure. Let those who are without sin cast themselves down and suffer in my stead. My reputation shall not be stained with your venomous accusations."
+msgstr "Jag bär ingen skuld. Låt dem som är utan synd lida i mitt ställe. Mitt anseende låter sig inte befläckas av era giftiga anklagelser."
+
+msgctxt "virgin reminders"
+msgid "No ability"
+msgstr "Ingen förmåga"
+
+msgctxt "vizier name"
+msgid "Vizier"
+msgstr "Vesiren"
+
+msgctxt "vizier ability"
+msgid "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately."
+msgstr "Alla spelare vet att du är Vesiren. Du kan inte dö på dagen. Om någon god röstat kan du välja att avrätta direkt."
+
+msgctxt "vizier flavor"
+msgid "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me."
+msgstr "Ett utmärkt beslut som alltid, ers nåd. Ett så småsint brott som att stöta till biskopen förtjänar verkligen er ”rättvisa” och ”nåd”. Ta ni en promenad i trädgården. Besök galleriet och betrakta von Straufs skulpturer. Slappna bara av, ers nåd, och lämna allt åt mig."
+
+msgctxt "vizier firstNightReminder"
+msgid "Announce 'The Vizier is in play' and state which player they are."
+msgstr "Tillkännage ”Vesiren är i spel” och säg vilken spelare som är Vesiren."
+
+msgctxt "vortox name"
+msgid "Vortox"
+msgstr "Vortox"
+
+msgctxt "vortox ability"
+msgid "Each night*, choose a player: they die. Townsfolk abilities yield false info. Each day, if no-one is executed, evil wins."
+msgstr "Varje natt* väljer du en spelare; hen dör. Bybors förmågor ger falsk info. Om ingen avrättas en dag vinner de onda."
+
+msgctxt "vortox flavor"
+msgid "Black is White. Right is Wrong. Left is Right. Up is Long. Down is Sight. Short is Blind. Follow me. Answers find."
+msgstr "Natt är dag. Rätt är fel. Bak är svag. Fram är hel. Ner är bort. Upp är kvar. Följ med mig. Här finns svar."
+
+msgctxt "vortox otherNightReminder"
+msgid "The Vortox points to a player. That player dies."
+msgstr "Vortox pekar på en spelare. Den spelaren dör."
+
+msgctxt "vortox reminders"
+msgid "Dead"
+msgstr "Död"
+
+msgctxt "voudon name"
+msgid "Voudon"
+msgstr "Voudon"
+
+msgctxt "voudon ability"
+msgid "Only you and the dead can vote. They don't need a vote token to do so. A 50% majority is not required."
+msgstr "Bara du och de döda kan rösta. De behöver ingen röstbricka för att rösta. 50% majoritet behövs inte."
+
+msgctxt "voudon flavor"
+msgid "Bien venu. Sit down. Breathe deep. Enter the land of the dead. See with their eyes. Speak with their voice. Yon sel lang se janm ase."
+msgstr "Bien venu. Sitt. Ta ett djupt andetag. Beträd de dödas land. Se med deras ögon. Tala med deras röst. Yon sel lang se janm ase."
+
+msgctxt "washerwoman name"
+msgid "Washerwoman"
+msgstr "Tvätterskan"
+
+msgctxt "washerwoman ability"
+msgid "You start knowing that 1 of 2 players is a particular Townsfolk."
+msgstr "I början får du veta att 1 av 2 spelare är en viss Bybo."
+
+msgctxt "washerwoman flavor"
+msgid "Bloodstains on a dinner jacket? No, this is cooking sherry. How careless."
+msgstr "Blodfläckar på smokingen? Nej, det är matlagningssherry. Så vårdslöst."
+
+msgctxt "washerwoman firstNightReminder"
+msgid "Show the character token of a Townsfolk in play. Point to two players, one of which is that character."
+msgstr "Visa rollbrickan för en Bybo som är i spel. Peka på två spelare varav en är den rollen."
+
+msgctxt "washerwoman reminders"
+msgid "Townsfolk,Wrong"
+msgstr "Bybo,Fel"
+
+msgctxt "widow name"
+msgid "Widow"
+msgstr "Änkan"
+
+msgctxt "widow ability"
+msgid "On your 1st night, look at the Grimoire and choose a player: they are poisoned. 1 good player knows a Widow is in play."
+msgstr "Din första natt ser du Spelboken och väljer en spelare; hen blir förgiftad. 1 god spelare vet att Änkan är i spel."
+
+msgctxt "widow flavor"
+msgid "More wine? Château d’Ergot ’07 is a very special vintage. My yes, very special indeed."
+msgstr "Mer vin? Château d’Ergot ’07 är en mycket speciell årgång. Ja, sannerligen speciell."
+
+msgctxt "widow firstNightReminder"
+msgid "Show the Grimoire to the Widow for as long as they need. The Widow points to a player. That player is poisoned. Wake a good player. Show the 'These characters are in play' card, then the Widow character token."
+msgstr "Visa Spelboken för Änkan så länge hen behöver. Änkan pekar på en spelare; den spelaren är förgiftad. Väck en god spelare. Visa kortet ”De här rollerna är i spel” och visa Änkans rollbricka."
+
+msgctxt "widow remindersGlobal"
+msgid "Knows"
+msgstr "Vet"
+
+msgctxt "widow reminders"
+msgid "Poisoned"
+msgstr "Förgiftad"
+
+msgctxt "witch name"
+msgid "Witch"
+msgstr "Häxan"
+
+msgctxt "witch ability"
+msgid "Each night, choose a player: if they nominate tomorrow, they die. If just 3 players live, you lose this ability."
+msgstr "Varje natt väljer du en spelare; om hen nominerar imorgon dör hen. Om bara 3 spelare lever förlorar du denna förmåga."
+
+msgctxt "witch flavor"
+msgid "Three drops of goat's blood. A lock of hair, torn in anger. The name is spoken, the shadow cast. Walk left foot first down that brambled path, and don't look back."
+msgstr "Tre droppar getblod. En hårlock, avsliten i vrede. Namnet är talat, skuggan är kastad. Gå med vänster fot först längs törnestigen, och se dig inte om."
+
+msgctxt "witch firstNightReminder"
+msgid "The Witch points to a player. If that player nominates tomorrow they die immediately."
+msgstr "Häxan pekar på en spelare. Om den spelaren nominerar imorgon så dör hen direkt."
+
+msgctxt "witch otherNightReminder"
+msgid "If there are 4 or more players alive: The Witch points to a player. If that player nominates tomorrow they die immediately."
+msgstr "Om 4 eller fler spelare lever så pekar Häxan på en spelare. Om den spelaren nominerar imorgon så dör hen direkt."
+
+msgctxt "witch reminders"
+msgid "Cursed"
+msgstr "Förhäxad"
+
+msgctxt "wizard name"
+msgid "Wizard"
+msgstr "Trollkarlen"
+
+msgctxt "wizard ability"
+msgid "Once per game, choose to make a wish.  If granted, it might have a price & leave a clue as to its nature."
+msgstr "En gång per spel får du önska dig något. Om önskan uppfylls kan den få en kostnad och ge en ledtråd om sin natur."
+
+msgctxt "wizard flavor"
+msgid "Genies are overrated."
+msgstr "Varje man och varje kvinna är en stjärna. Kärlek är lagen, kärlek under vilja."
+
+msgctxt "wizard firstNightReminder"
+msgid "Run the Wizard ability if applicable."
+msgstr "Använd eventuellt Trollkarlens förmåga."
+
+msgctxt "wizard otherNightReminder"
+msgid "Run the Wizard ability if applicable."
+msgstr "Använd eventuellt Trollkarlens förmåga."
+
+msgctxt "wizard reminders"
+msgid "?"
+msgstr "?"
+
+msgctxt "xaan name"
+msgid "Xaan"
+msgstr "Xaan"
+
+msgctxt "xaan ability"
+msgid "On night X, all Townsfolk are poisoned until dusk. [X Outsiders]"
+msgstr "På natt X är alla Bybor förgiftade till skymningen. [X Utbölingar]"
+
+msgctxt "xaan flavor"
+msgid "Down they fall. One by one. By two, by three, by five."
+msgstr "Se dem falla. En efter en. Efter två, efter tre, efter fem."
+
+msgctxt "xaan reminders"
+msgid "Night 1, Night 2, Night 3, X"
+msgstr "Natt 1,Natt 2,Natt 3,X"
+
+msgctxt "yaggababble name"
+msgid "Yaggababble"
+msgstr "Yaggababbel"
+
+msgctxt "yaggababble ability"
+msgid "You start knowing a secret phrase. For each time you said it publicly today, a player might die."
+msgstr "I början får du veta en hemlig fras. För varje gång du sagt den öppet idag kan en spelare dö."
+
+msgctxt "yaggababble flavor"
+msgid "Murders inside the Rue Morgue? Фальшивые новости! Hounds on the Baskerville moor? Фальшивые новости! Death while sailing the Nile? Фальшивые новости!"
+msgstr "Mord på Rue Morgue? Фальшивые новости! Hundar på Baskervillemyren? Фальшивые новости! Död på Nilen? Фальшивые новости!"
+
+msgctxt "yaggababble firstNightReminder"
+msgid "Show the Yaggababble their secret phrase."
+msgstr "Visa Yaggababbel den hemliga frasen."
+
+msgctxt "yaggababble otherNightReminder"
+msgid "Choose a number of players up to the total number of times the Yaggababble said their secret phrase publicly, those players die."
+msgstr "Välj högst så många spelare som antalet gånger Yaggababbel öppet sa sin fras. De valda spelarna dör."
+
+msgctxt "yaggababble reminders"
+msgid "Dead"
+msgstr "Död"
+
+msgctxt "zealot name"
+msgid "Zealot"
+msgstr "Fanatikern"
+
+msgctxt "zealot ability"
+msgid "If there are 5 or more players alive, you must vote for every nomination."
+msgstr "Om minst 5 spelare lever måste du alltid rösta för avrättning."
+
+msgctxt "zealot flavor"
+msgid "I enjoy talking to you. Your mind appeals to me. It resembles my own mind except that you happen to be insane."
+msgstr "Jag tycker om att prata med dig. Ditt sinne tilltalar mig. Det liknar mitt, förutom det att du råkar vara helt från vettet."
+
+msgctxt "zombuul name"
+msgid "Zombuul"
+msgstr "Zombuul"
+
+msgctxt "zombuul ability"
+msgid "Each night*, if no-one died today, choose a player: they die. The 1st time you die, you live but register as dead."
+msgstr "Varje natt* efter en dag när ingen dog väljer du en spelare; hen dör. Första gången du dör blir du skendöd men lever fortfarande."
+
+msgctxt "zombuul flavor"
+msgid "I do not. Understand. Your ways. Fellow human. Show me. The dirt. Where the holy. Lay. Sleeping. I too. Must sleep. Soon."
+msgstr "Jag. Förstår inte. Dig. Medmänniska. Visa mig. Jorden. Där den heliga. Sover. Jag måste. Också sova. Snart."
+
+msgctxt "zombuul otherNightReminder"
+msgid "If no-one died during the day: The Zombuul points to a player. That player dies."
+msgstr "Om ingen dog på dagen så pekar Zombuul på en spelare. Den spelaren dör."
+
+msgctxt "zombuul reminders"
+msgid "Died today,Dead"
+msgstr "Dog idag,Död"

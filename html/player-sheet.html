@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Titel</title>
+  <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Lexend Deca', sans-serif;
+      font-size: 14px;
+    }
+
+    .title {
+      font-size: 150%;
+      font-weight: bold;
+      text-align: center;
+      padding-bottom: 0.2em;
+    }
+
+    .section-header {
+      transform: rotate(-90deg);
+      white-space: nowrap;
+    }
+
+    .character-icon {
+      width: 1.5cm;
+      height: 1.5cm;
+      position: relative;
+      top: 0;
+      left: 0;
+    }
+
+    .character-name {
+      font-weight: bold;
+      padding-bottom: 0.2em;
+    }
+
+    .character-ability {
+    }
+
+    .first-night-order {
+      color: white;
+      background: orange;
+      width: 3ch;
+      text-align: center;
+      border-radius: 0.3em;
+      font-size: 80%;
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+
+    .first-night-order-explanation {
+      color: white;
+      background: orange;
+      border-radius: 0.3em;
+      padding-left: .5em;
+      padding-right: .5em;
+      float: left;
+    }
+
+    .other-night-order {
+      color: white;
+      background: green;
+      width: 3ch;
+      text-align: center;
+      font-size: 80%;
+      border-radius: 0.3em;
+      position: absolute;
+      top: 0;
+      right: 0;
+    }
+
+    .not-first-night-explanation {
+      grid-column: 2 / span 4;
+      text-align: center;
+      font-size: 80%;
+    }
+
+    .other-night-order-explanation {
+      color: white;
+      background: green;
+      border-radius: 0.3em;
+      float: right;
+      padding-left: .5em;
+      padding-right: .5em;
+    }
+
+    .character-grid {
+      display: grid;
+      grid-template-columns: auto repeat(4, auto);
+      border: 1px solid black;
+    }
+
+    .character-grid > div {
+    }
+
+    .section-column {
+      grid-column: 1;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 2em;
+    }
+
+    .character-icon-cell {
+      position: relative;
+    }
+
+    .character-info-cell {
+      display: flex;
+      padding: 0.2em;
+      padding-left: 0.4em;
+      flex-direction: column;
+    }
+
+    .townsfolk-section {
+      grid-row: span 7;
+      background-color: #2a6099;
+      color: white;
+    }
+
+    .outsider-section {
+      grid-row: span 2;
+      background-color: #b4c7dc;
+    }
+
+    .minion-section {
+      grid-row: span 2;
+      background-color: #ffd7d7;
+    }
+
+    .demon-section {
+      grid-row: span 2;
+      background-color: red;
+      color: white;
+    }
+
+    .english-name {
+      font-style: italic;
+    }
+
+    .setup-modification {
+      font-weight: bold;
+      text-wrap: nowrap;
+    }
+
+    .title-container {
+      display: flex;
+      justify-content: center;
+      align-items: baseline;
+      position: relative;
+    }
+
+    .author {
+      font-size: 14px;
+      margin-left: auto;
+    }
+  </style>
+</head>
+<body>
+<div class="title-container">
+  <div class="title">
+    Separation of Church and State
+  </div>
+  <div class="author">
+    by Steven Medway
+  </div>
+</div>
+<div class="character-grid">
+  <div class="section-column townsfolk-section">
+    <div class="section-header">Bürger</div>
+  </div>
+
+  <div class="character-icon-cell">
+    <img class="character-icon" src="img/Icon_washerwoman.png"/>
+    <div class="first-night-order">1</div>
+    <div class="other-night-order">22</div>
+  </div>
+  <div class="character-info-cell">
+    <div class="character-name">Soldat <span class="english-name">(Soldier)</span></div>
+    <div class="character-ability">Du kannst vom Dämon nicht getötet werden. <span
+      class="setup-modification">[+1 Außenseiter]</span></div>
+  </div>
+  <div class="character-icon-cell">
+    <img src="img/Icon_washerwoman.png" class="character-icon"/>
+    <div class="first-night-order">1</div>
+    <div class="other-night-order">22</div>
+  </div>
+  <div class="character-info-cell">
+    <div class="character-name">Waschweib</div>
+    <div class="character-ability">Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter
+      Bürger ist.
+    </div>
+  </div>
+
+  <!-- Second row of Bürger -->
+  <div class="character-icon-cell">
+    <img src="img/Icon_washerwoman.png" class="character-icon"/>
+  </div>
+  <div class="character-info-cell">
+    <div class="character-name">Waschweib</div>
+    <div class="character-ability">Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter
+      Bürger ist.
+    </div>
+  </div>
+  <div class="character-icon-cell">
+    <img src="img/Icon_washerwoman.png" class="character-icon"/>
+  </div>
+  <div class="character-info-cell">
+    <div class="character-name">Waschweib</div>
+    <div class="character-ability">Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter
+      Bürger ist.
+    </div>
+  </div>
+
+  <!-- Third row of Bürger -->
+  <div class="character-icon-cell">
+    <img src="img/Icon_washerwoman.png" class="character-icon"/>
+  </div>
+  <div class="character-info-cell">
+    <div class="character-name">Waschweib</div>
+    <div class="character-ability">Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter
+      Bürger ist.
+    </div>
+  </div>
+  <div class="character-icon-cell">
+    <img src="img/Icon_washerwoman.png" class="character-icon"/>
+  </div>
+  <div class="character-info-cell">
+    <div class="character-name">Waschweib</div>
+    <div class="character-ability">Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter
+      Bürger ist.
+    </div>
+  </div>
+
+  <!-- Fourth row of Bürger -->
+  <div class="character-icon-cell">
+    <img src="img/Icon_washerwoman.png" class="character-icon"/>
+  </div>
+  <div class="character-info-cell">
+    <div class="character-name">Waschweib</div>
+    <div class="character-ability">Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter
+      Bürger ist.
+    </div>
+  </div>
+  <div class="character-icon-cell">
+    <img src="img/Icon_washerwoman.png" class="character-icon"/>
+  </div>
+  <div class="character-info-cell">
+    <div class="character-name">Waschweib</div>
+    <div class="character-ability">Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter
+      Bürger ist.
+    </div>
+  </div>
+
+  <!-- Fifth row of Bürger -->
+  <div class="character-icon-cell">
+    <img src="img/Icon_washerwoman.png" class="character-icon"/>
+  </div>
+  <div class="character-info-cell">
+    <div class="character-name">Waschweib</div>
+    <div class="character-ability">Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter
+      Bürger ist.
+    </div>
+  </div>
+  <div class="character-icon-cell">
+    <img src="img/Icon_washerwoman.png" class="character-icon"/>
+  </div>
+  <div class="character-info-cell">
+    <div class="character-name">Waschweib</div>
+    <div class="character-ability">Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter
+      Bürger ist.
+    </div>
+  </div>
+
+  <div class="character-icon-cell">
+    <img src="img/Icon_washerwoman.png" class="character-icon"/>
+  </div>
+  <div class="character-info-cell">
+    <div class="character-name">Waschweib</div>
+    <div class="character-ability">Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter
+      Bürger ist.
+    </div>
+  </div>
+  <div class="character-icon-cell">
+    <img src="img/Icon_washerwoman.png" class="character-icon"/>
+  </div>
+  <div class="character-info-cell">
+    <div class="character-name">Waschweib</div>
+    <div class="character-ability">Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter
+      Bürger ist.
+    </div>
+  </div>
+  <div class="character-icon-cell">
+    <img src="img/Icon_washerwoman.png" class="character-icon"/>
+  </div>
+  <div class="character-info-cell">
+    <div class="character-name">Waschweib</div>
+    <div class="character-ability">Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter
+      Bürger ist.
+    </div>
+  </div>
+  <div style="grid-column: span 5; background: #2a6099; height: 0.1em;"></div>
+  <div class="section-column outsider-section">
+    <div class="section-header">Außenseiter</div>
+  </div>
+  <div class="character-icon-cell">
+    <img src="img/Icon_washerwoman.png" class="character-icon"/>
+  </div>
+  <div class="character-info-cell">
+    <div class="character-name">Waschweib</div>
+    <div class="character-ability">Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter
+      Bürger ist.
+    </div>
+  </div>
+  <div class="character-icon-cell">
+    <img src="img/Icon_washerwoman.png" class="character-icon"/>
+  </div>
+  <div class="character-info-cell">
+    <div class="character-name">Waschweib</div>
+    <div class="character-ability">Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter
+      Bürger ist.
+    </div>
+  </div>
+  <div class="character-icon-cell">
+    <img src="img/Icon_washerwoman.png" class="character-icon"/>
+  </div>
+  <div class="character-info-cell">
+    <div class="character-name">Waschweib</div>
+    <div class="character-ability">Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter
+      Bürger ist.
+    </div>
+  </div>
+  <div class="character-icon-cell">
+    <img src="img/Icon_washerwoman.png" class="character-icon"/>
+  </div>
+  <div class="character-info-cell">
+    <div class="character-name">Waschweib</div>
+    <div class="character-ability">Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter
+      Bürger ist.
+    </div>
+  </div>
+  <div style="grid-column: span 5; background: #808080; height: 0.2em;"></div>
+
+  <div class="section-column minion-section">
+    <div class="section-header">Schergen</div>
+  </div>
+  <div class="character-icon-cell">
+    <img src="img/Icon_washerwoman.png" class="character-icon"/>
+  </div>
+  <div class="character-info-cell">
+    <div class="character-name">Waschweib</div>
+    <div class="character-ability">Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter
+      Bürger ist.
+    </div>
+  </div>
+  <div class="character-icon-cell">
+    <img src="img/Icon_washerwoman.png" class="character-icon"/>
+  </div>
+  <div class="character-info-cell">
+    <div class="character-name">Waschweib</div>
+    <div class="character-ability">Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter
+      Bürger ist.
+    </div>
+  </div>
+  <div class="character-icon-cell">
+    <img src="img/Icon_washerwoman.png" class="character-icon"/>
+  </div>
+  <div class="character-info-cell">
+    <div class="character-name">Waschweib</div>
+    <div class="character-ability">Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter
+      Bürger ist.
+    </div>
+  </div>
+  <div class="character-icon-cell">
+    <img src="img/Icon_washerwoman.png" class="character-icon"/>
+  </div>
+  <div class="character-info-cell">
+    <div class="character-name">Waschweib</div>
+    <div class="character-ability">Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter
+      Bürger ist.
+    </div>
+  </div>
+
+  <div style="grid-column: span 5; background: red; height: 0.1em;"></div>
+  <div class="section-column demon-section">
+    <div class="section-header">Dämonen</div>
+  </div>
+  <div class="character-icon-cell">
+    <img src="img/Icon_washerwoman.png" class="character-icon"/>
+  </div>
+  <div class="character-info-cell">
+    <div class="character-name">Waschweib</div>
+    <div class="character-ability">Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter
+      Bürger ist.
+    </div>
+  </div>
+  <div class="character-icon-cell">
+    <img src="img/Icon_washerwoman.png" class="character-icon"/>
+  </div>
+  <div class="character-info-cell">
+    <div class="character-name">Waschweib</div>
+    <div class="character-ability">Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter
+      Bürger ist.
+    </div>
+  </div>
+  <div class="character-icon-cell">
+    <img src="img/Icon_washerwoman.png" class="character-icon"/>
+  </div>
+  <div class="character-info-cell">
+    <div class="character-name">Waschweib</div>
+    <div class="character-ability">Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter
+      Bürger ist.
+    </div>
+  </div>
+  <div class="character-icon-cell">
+    <img src="img/Icon_washerwoman.png" class="character-icon"/>
+  </div>
+  <div class="character-info-cell">
+    <div class="character-name">Waschweib</div>
+    <div class="character-ability">Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter
+      Bürger ist.
+    </div>
+  </div>
+  <div class="not-first-night-explanation">
+    <div class="first-night-order-explanation">First night order</div>
+    <div class="other-night-order-explanation">Other nights order</div>
+    * Not in the first night
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,14 @@
+= Tools for Blood on the Clocktower
+
+== Translations
+
+The translations where taken from the
+https://docs.google.com/spreadsheets/d/1aAJdqSTafHnw01w-WZ94UPx1Me70Kz-EG1NFfBht2tA/edit[Community BOTC Translations].
+
+If you did some of the translations and like to be mentioned as translator, please drop a message or open an issue on GitHub.
+
+== Data
+
+https://script.bloodontheclocktower.com/data/roles.json
+
+https://script.bloodontheclocktower.com/data/nightsheet.json

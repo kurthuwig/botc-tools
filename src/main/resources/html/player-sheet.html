@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>###SCRIPT_NAME###</title>
+  <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Lexend Deca', sans-serif;
+      font-size: 14px;
+      text-wrap: pretty;
+    }
+
+    .title {
+      font-size: 150%;
+      font-weight: bold;
+      text-align: center;
+      padding-bottom: 0.2em;
+    }
+
+    .section-header {
+      transform: rotate(-90deg);
+      white-space: nowrap;
+    }
+
+    .character-icon {
+      width: 1.2cm;
+      height: 1.2cm;
+      padding-top: 1em;
+    }
+
+    .character-name {
+      font-weight: bold;
+      display: inline;
+    }
+
+    .character-ability {
+      display: inline;
+    }
+
+    .first-night-order {
+      color: white;
+      background: orange;
+      width: 3ch;
+      text-align: center;
+      border-radius: 0.3em;
+      font-size: 80%;
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+
+    .first-night-order-explanation {
+      color: white;
+      background: orange;
+      border-radius: 0.3em;
+      padding-left: .5em;
+      padding-right: .5em;
+      float: left;
+    }
+
+    .other-night-order {
+      color: white;
+      background: green;
+      width: 3ch;
+      text-align: center;
+      font-size: 80%;
+      border-radius: 0.3em;
+      position: absolute;
+      top: 0;
+      right: 0;
+    }
+
+    .not-first-night-explanation {
+      grid-column: 2 / span 4;
+      text-align: center;
+      font-size: 80%;
+    }
+
+    .other-night-order-explanation {
+      color: white;
+      background: green;
+      border-radius: 0.3em;
+      float: right;
+      padding-left: .5em;
+      padding-right: .5em;
+    }
+
+    .character-grid {
+      display: grid;
+      grid-template-columns: auto auto 1fr auto 1fr;
+      border: 1px solid black;
+    }
+
+    .character-grid > div {
+    }
+
+    .section-column {
+      grid-column: 1;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 2em;
+    }
+
+    .character-icon-cell {
+      position: relative;
+      margin-left: 0.1em;
+    }
+
+    .character-info-cell {
+      padding: 0.2em;
+      padding-left: 0.4em;
+      flex-direction: column;
+    }
+
+    .townsfolk-section {
+      grid-row: span ###TOWNSFOLK_ROWS###;
+      background-color: #2a6099;
+      color: white;
+    }
+
+    .outsider-section {
+      grid-row: span ###OUTSIDER_ROWS###;
+      background-color: #b4c7dc;
+    }
+
+    .minion-section {
+      grid-row: span ###MINION_ROWS###;
+      background-color: #ffd7d7;
+    }
+
+    .demon-section {
+      grid-row: span ###DEMON_ROWS###;
+      background-color: red;
+      color: white;
+    }
+
+    .english-name {
+      font-style: italic;
+    }
+
+    .setup-modification {
+      font-weight: bold;
+    }
+
+    .title-container {
+      display: flex;
+      justify-content: center;
+      align-items: baseline;
+      position: relative;
+    }
+
+    .author {
+      margin-left: auto;
+    }
+
+    .copyright {
+      font-size: 80%;
+    }
+  </style>
+</head>
+<body>
+<div class="title-container">
+  <div class="title">###SCRIPT_NAME###</div>
+  <div class="author">###AUTHOR###</div>
+</div>
+<div class="character-grid">
+  <div class="section-column townsfolk-section">
+    <div class="section-header">###SECTION_TOWNSFOLK###</div>
+  </div>
+  ###TOWNSFOLK###
+  <div style="grid-column: span 5; background: #2a6099; height: 0.1em;"></div>
+
+  <div class="section-column outsider-section">
+    <div class="section-header">###SECTION_OUTSIDERS###</div>
+  </div>
+  ###OUTSIDERS###
+
+  <div style="grid-column: span 5; background: #808080; height: 0.2em;"></div>
+
+  <div class="section-column minion-section">
+    <div class="section-header">###SECTION_MINIONS###</div>
+  </div>
+  ###MINIONS###
+
+  <div style="grid-column: span 5; background: red; height: 0.1em;"></div>
+  <div class="section-column demon-section">
+    <div class="section-header">###SECTION_DEMONS###</div>
+  </div>
+  ###DEMONS###
+
+  <div class="not-first-night-explanation">
+    <div class="first-night-order-explanation">###FIRST_NIGHT_EXPLANATION###</div>
+    <div class="other-night-order-explanation">###OTHER_NIGHT_EXPLANATION###</div>
+    ###NOT_FIRST_NIGHT_EXPLANATION###
+  </div>
+</div>
+<div class="copyright">
+  &copy; Steven Medway, www.bloodontheclocktower.com
+</div>
+</body>
+</html>

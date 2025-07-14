@@ -1,0 +1,3198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+msgctxt "acrobat name"
+msgid "Acrobat"
+msgstr "Акробат"
+
+msgctxt "acrobat ability"
+msgid "Each night*, choose a player: if they are or become drunk or poisoned tonight, you die."
+msgstr "Щоночі* обирай гравця: якщо вночі він п'ян чи отруєн - ти помираєш."
+
+msgctxt "acrobat flavor"
+msgid "Welcome, one and all, to the greatest show on earth."
+msgstr "Пані та панове, вітаємо вас на найвеличнішому шоу в світі!"
+
+msgctxt "acrobat otherNightReminder"
+msgid "The Acrobat chooses a player. If they are become drunk or poisoned tonight, the Acrobat player dies."
+msgstr "Акробат обирає гравця. Якщо цей гравець стає п'ян чи отруєн вночі, Акробат помирає"
+
+msgctxt "acrobat reminders"
+msgid "Dead"
+msgstr "Мертв"
+
+msgctxt "alchemist name"
+msgid "Alchemist"
+msgstr "Алхімік"
+
+msgctxt "alchemist ability"
+msgid "You have a Minion ability. When using this, the Storyteller may prompt you to choose differently."
+msgstr "Ти маєш здібність Міньона. Використовуючи її, Оповідач може заборонити вибір."
+
+msgctxt "alchemist flavor"
+msgid "Visit the interior of the Earth. By rectification thou shalt find the hidden stone. Above the gold, lieth the red. Kether in Malkuth."
+msgstr "Глибоко в надрах Землі, через очищення знайдеш таємничий камінь. Над золотом червоне. Kether in Malkuth."
+
+msgctxt "alchemist firstNightReminder"
+msgid "Show the Alchemist a not-in-play Minion token"
+msgstr "Покажіть Алхіміку жетон Міньона не в грі"
+
+msgctxt "alchemist remindersGlobal"
+msgid "Is the Alchemist"
+msgstr "Це - Алхімік"
+
+msgctxt "alhadikhia name"
+msgid "Al-Hadikhia"
+msgstr "Ал-Хадіхая"
+
+msgctxt "alhadikhia ability"
+msgid "Each night*, you may choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die."
+msgstr "Щоночі* ти можеш обрати трьох гравців (всі знають кого): кожен таємно обирає жити чи вмерти, але якщо всі живі - всі помирають."
+
+msgctxt "alhadikhia flavor"
+msgid "Alsukut min dhahab."
+msgstr "Альзумт мін Дхааб."
+
+msgctxt "alhadikhia otherNightReminder"
+msgid "The Al-Hadikhia chooses 3 players. Announce the first player, wake them to nod yes to live or shake head no to die, kill or resurrect accordingly, then put to sleep and announce the next player. If all 3 are alive after this, all 3 die."
+msgstr "Ал-Хадіхая вказує на трьох гравців. Оголосіть першого гравця, розбудіть їх щоб обрати (так/ні), хочуть вони жити чи померти. Вбийте чи оживіть відповідно вибору. Повторіть для кожного з обраних гравців. Якщо всі троє вижили, всі троє помирають."
+
+msgctxt "alhadikhia reminders"
+msgid "1,2,3,Chose death,Chose life"
+msgstr "1,2,3,Обрали жити,Обрали вмерти"
+
+msgctxt "alsaahir name"
+msgid "Alsaahir"
+msgstr "Азахір"
+
+msgctxt "alsaahir ability"
+msgid "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins."
+msgstr "Щодня, якщо публічно вгадаєш які гравці Міньони і які - Демони, добро перемагає."
+
+msgctxt "alsaahir flavor"
+msgid "I am here because of you, and you are here because of me."
+msgstr "Я тут через тебе, а ти - через мене."
+
+msgctxt "amnesiac name"
+msgid "Amnesiac"
+msgstr "Амнезіак"
+
+msgctxt "amnesiac ability"
+msgid "You do not know what your ability is. Each day, privately guess what it is: you learn how accurate you are."
+msgstr "Ти не знаєш своєї здібності. Щодня спробуй (приватно) вгадати її; ти дізнаєшся наскільки ти близько."
+
+msgctxt "amnesiac flavor"
+msgid "Wait. What. Who? Oh, ok. Wait. What?"
+msgstr "Га? Що? Хто? А-а-а... Стоп, що?"
+
+msgctxt "amnesiac firstNightReminder"
+msgid "Decide the Amnesiac's entire ability. If the Amnesiac's ability causes them to wake tonight: Wake the Amnesiac and run their ability."
+msgstr "Вирішіть, яку здібність матиме Амнезіак. Якщо через свою здібність Амнезіак прокинеться цієї ночі, розбудіть його і дійте за здібністю."
+
+msgctxt "amnesiac otherNightReminder"
+msgid "If the Amnesiac's ability causes them to wake tonight: Wake the Amnesiac and run their ability."
+msgstr "Якщо через свою здібність Амнезіак прокинеться цієї ночі, розбудіть його і дійте за здібністю."
+
+msgctxt "amnesiac reminders"
+msgid "?"
+msgstr "?"
+
+msgctxt "angel name"
+msgid "Angel"
+msgstr "Ангел"
+
+msgctxt "angel ability"
+msgid "Something bad might happen to whoever is most responsible for the death of a new player."
+msgstr "Щось погане станеться з тим, через кого помер новий гравець."
+
+msgctxt "angel flavor"
+msgid "Let those who are without sin dare to raise their hand to my chosen, for I shall strike such fools down with the fury and righteousness of a thousand storms."
+msgstr "Let those who are without sin dare to raise their hand to my chosen, for I shall strike such fools down with the fury and righteousness of a thousand storms."
+
+msgctxt "angel reminders"
+msgid "Protect,Something Bad"
+msgstr "Захищено,Щось погане"
+
+msgctxt "apprentice name"
+msgid "Apprentice"
+msgstr "Підмастер'є"
+
+msgctxt "apprentice ability"
+msgid "On your 1st night, you gain a Townsfolk ability (if good), or a Minion ability (if evil)."
+msgstr "Першої ночі отримай здібність Міщана (якщо за добро) чи Міньона (якщо за зло)."
+
+msgctxt "apprentice flavor"
+msgid "For years have I traveled, studying the ways of The Craft. Which craft, you ask? Simply that of the simple folk. Nothing to worry about. Not yet."
+msgstr "Багато років я мандрував, вивчаючи шляхи Ремесла. Якого ремесла, питаєте? Та простого, народного. Нічого страшного. Поки що"
+
+msgctxt "apprentice firstNightReminder"
+msgid "Show the Apprentice the 'You are' card, then a Townsfolk or Minion token. In the Grimoire, replace the Apprentice token with that character token, and put the Apprentice's 'Is the Apprentice' reminder by that character token."
+msgstr "Покажіть Підмастер'ю картку \"Ви є\", потім жетон Міщана чи Міньона. В Ґримуарі, замініть жетон персонажа Пімастер'я показаним жетоном, і позначте їх жетоном \"Це - Підмастер'є\"."
+
+msgctxt "apprentice reminders"
+msgid "Is the Apprentice"
+msgstr "Це - Підмастер'є"
+
+msgctxt "artist name"
+msgid "Artist"
+msgstr "Художник"
+
+msgctxt "artist ability"
+msgid "Once per game, during the day, privately ask the Storyteller any yes/no question."
+msgstr "Раз за гру, протягом дня, приватно задай Оповідачу питання (так/ні)."
+
+msgctxt "artist flavor"
+msgid "Mon Dieu! C'est lumineux! My work, she is... how you say... Magnifique! Dieu est révélé! Oui."
+msgstr "Mon Dieu! C'est lumineux! Моє творіння, воно... як там кажуть... Magnifique! Dieu est révélé! Oui."
+
+msgctxt "artist reminders"
+msgid "No ability"
+msgstr "Без здібності"
+
+msgctxt "assassin name"
+msgid "Assassin"
+msgstr "Вбивця"
+
+msgctxt "assassin ability"
+msgid "Once per game, at night*, choose a player: they die, even if for some reason they could not."
+msgstr "Раз за гру, вночі*, обери гравця: він помирає, навіть якщо не може."
+
+msgctxt "assassin flavor"
+msgid "..."
+msgstr "..."
+
+msgctxt "assassin otherNightReminder"
+msgid "If the Assassin has not yet used their ability: The Assassin either shows the 'no' head signal, or points to a player. That player dies."
+msgstr "Якщо Вбивця ще не використав свою здібність: Вбивця або дає сигнал 'ні', або вказує на гравця; обраний гравець помирає."
+
+msgctxt "assassin reminders"
+msgid "Dead,No ability"
+msgstr "Мертв,Без здібності"
+
+msgctxt "atheist name"
+msgid "Atheist"
+msgstr "Атеїст"
+
+msgctxt "atheist ability"
+msgid "The Storyteller can break the game rules & if executed, good wins, even if you are dead [No evil characters]"
+msgstr "Оповідач може порушувати правила і, як того страчено, добро перемагає, навіть якщо помреш. [Нема злих персонажів]"
+
+msgctxt "atheist flavor"
+msgid "Let us disperse with unnecessary conjecture and silly paranoia. There is a perfectly rational explanation for everything. Yes, a teacup may indeed be orbiting the planet, too small to see, but I shall drink my tea from the very real china in my very real hands."
+msgstr "Давайте припинимо безпідставні здогади та безглузду паніку. Всьому є раціональне пояснення. Так, можливо, десь там є чашка що обертається навколо планети, замала щоб побачити, але пити чай я буду з реальної порцеляни що в моїх - цілком реальних - руках."
+
+msgctxt "balloonist name"
+msgid "Balloonist"
+msgstr "Аеронавт"
+
+msgctxt "balloonist ability"
+msgid "Each night, you learn a player of a different character type than last night. [+0 or +1 Outsider]"
+msgstr "Щоночі ти дізнаєшся гравця, тип персонажу якого відмінний від минулої ночі. [+0 чи +1 Приїжджих]"
+
+msgctxt "balloonist flavor"
+msgid "More heat! Higher! Higher! Più alto! Ahhh... it is so beautiful from up here, don't you agree? Can you see the children fishing by the river, under the willow? Can you see the  glint of the sun on the circus tent-poles? What's this? An old man, alone, passed out in the vineyard? Less heat! Lower! Lower! Vai più in basso!"
+msgstr "Більше жару! Вище! Вище! Più alto! Ахх... як же тут гарно, згодні? Бачите дітей, які рибалять біля річки під вербою? Бачите, як сонце виблискує на циркових шатрах? Що це? Старець,на самоті, знепритомнів у винограднику? Менше жару! Нижче! Нижче! Vai più in basso!"
+
+msgctxt "balloonist firstNightReminder"
+msgid "Choose a character type. Point to a player whose character is of that type. Place the Balloonist's Seen reminder next to that character."
+msgstr "Оберіть тип персонажа. Вкажіть на гравця, що має цей тип. Позначте їх жетоном \"Знає\" Аеронавта."
+
+msgctxt "balloonist otherNightReminder"
+msgid "Choose a character type different to the previous night. Point to a player whose character is of that type. Place the Balloonist's Seen reminder next to that character, remove the Seen reminder from the previous character."
+msgstr "Обери тип персонажа відмінний від минулої ночі. Вкажи на гравця, чий персонаж відноситься до цього типу. Познач його жетоном \"Знає\" Аеронавта, прибери попередній жетон \"Знає\"."
+
+msgctxt "balloonist reminders"
+msgid "Seen Townsfolk,Seen Outsider,Seen Minion,Seen Demon,Seen Traveller"
+msgstr "Знає"
+
+msgctxt "banshee name"
+msgid "Banshee"
+msgstr "Банші"
+
+msgctxt "banshee ability"
+msgid "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination."
+msgstr "Як тебе вбиває Демон, всі дізнаються про це. Відтоді ти можеш номінувати двічі на день і голосувати двічі за номінацію."
+
+msgctxt "banshee flavor"
+msgid "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh."
+msgstr "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh."
+
+msgctxt "banshee otherNightReminder"
+msgid "Announce that the Banshee has died."
+msgstr "Якщо Демон вбиває Банші: оголоси всім гравцям про це."
+
+msgctxt "banshee reminders"
+msgid "Has Ability"
+msgstr "Має здібність"
+
+msgctxt "barber name"
+msgid "Barber"
+msgstr "Перукар"
+
+msgctxt "barber ability"
+msgid "If you died today or tonight, the Demon may choose 2 players (not another Demon) to swap characters."
+msgstr "Якщо цього дня чи цієї ночі ти помер, Демон може обрати двох гравців (не іншого Демона); вони міняються персонажами."
+
+msgctxt "barber flavor"
+msgid "Did you know that barbery and surgery were once the same profession? No? Well, now you do."
+msgstr "Ви знали, що перукар і хірург були одною професією? Ні? Ну, тепер знаєте."
+
+msgctxt "barber otherNightReminder"
+msgid "If the Barber died today: Wake the Demon. Show the 'This character selected you' card, then Barber token. The Demon either shows a 'no' head signal, or points to 2 players. If they chose players: Swap the character tokens. Wake each player. Show 'You are', then their new character token."
+msgstr "Якщо Перукар сьогодні помер: Розбудіть Демона. Покажіть картку 'Ви обрані персонажем' і жетон Перукаря. Демон або дає сигнал 'ні', або вказує на двох гравців. Якщо обрано гравців: Поміняйте місцями їх жетони персонажей. Почергово розбудіть їх, покажіть картку 'Ви є' і їх нових персонажей."
+
+msgctxt "barber reminders"
+msgid "Haircuts tonight"
+msgstr "Сьогодні стрижка"
+
+msgctxt "barista name"
+msgid "Barista"
+msgstr "Бариста"
+
+msgctxt "barista ability"
+msgid "Each night, until dusk, 1) a player becomes sober, healthy and gets true info, or 2) their ability works twice. They learn which."
+msgstr "Щоночі, до сутінок: 1) гравець стає тверезим, здоровим і отримує правдиві дані, або 2) їхня здібність спрацьовує двічі. Вони дізнаються котре з них."
+
+msgctxt "barista flavor"
+msgid "A cup of coffee with no cream, Monsieur? I’m terribly sorry, but we’re fresh out of cream — how about with no milk?"
+msgstr "A cup of coffee with no cream, Monsieur? I’m terribly sorry, but we’re fresh out of cream — how about with no milk?"
+
+msgctxt "barista firstNightReminder"
+msgid "Choose a player, wake them and tell them which Barista power is affecting them. Treat them accordingly (sober/healthy/true info or activate their ability twice)."
+msgstr "Оберіть гравця, розбудіть них і скажіть, що вони під впливом здібності Баристи. Дій відповідно (тверезий/здоровий/правдиві дані чи активуй їхню здібність двічі)."
+
+msgctxt "barista otherNightReminder"
+msgid "Choose a player, wake them and tell them which Barista power is affecting them. Treat them accordingly (sober/healthy/true info or activate their ability twice)."
+msgstr "Оберіть гравця, розбудіть них і скажіть, що вони під впливом здібності Баристи. Дій відповідно (тверезий/здоровий/правдиві дані чи активуй їхню здібність двічі)."
+
+msgctxt "barista reminders"
+msgid "Sober & Healthy,Ability twice"
+msgstr "Тверезий і Здоровий,Двічі здібність"
+
+msgctxt "baron name"
+msgid "Baron"
+msgstr "Барон"
+
+msgctxt "baron ability"
+msgid "There are extra Outsiders in play. [+2 Outsiders]"
+msgstr "В грі більше Приїжджих. [+2 Приїжджих]"
+
+msgctxt "baron flavor"
+msgid "This town has gone to the dogs, what? Cheap foreign labor... that's the ticket. Stuff them in the mine, I say. A bit of hard work never hurt anyone, and a clip'o'the ears to any brigand who says otherwise. It's all about the bottom line, what?"
+msgstr "This town has gone to the dogs, what? Cheap foreign labor... that's the ticket. Stuff them in the mine, I say. A bit of hard work never hurt anyone, and a clip'o'the ears to any brigand who says otherwise. It's all about the bottom line, what?"
+
+msgctxt "beggar name"
+msgid "Beggar"
+msgstr "Злидар"
+
+msgctxt "beggar ability"
+msgid "You must use a vote token to vote. Dead players may choose to give you theirs. If so, you learn their alignment. You are sober & healthy."
+msgstr "Тобі потрібен жетон голосу, щоб голосувати. Мертві гравці можуть віддати тобі свій; тоді ти дізнаєшся їх команду. Ти тверезий і здоровий."
+
+msgctxt "beggar flavor"
+msgid "Alms for the poor, good Sir? Spare a coin, Madam? Thank you. God bless! You're a right kind soul and no mistake! I'll have some swanky nosh tonight, I will!"
+msgstr "Alms for the poor, good Sir? Spare a coin, Madam? Thank you. God bless! You're a right kind soul and no mistake! I'll have some swanky nosh tonight, I will!"
+
+msgctxt "bishop name"
+msgid "Bishop"
+msgstr "Єпископ"
+
+msgctxt "bishop ability"
+msgid "Only the Storyteller can nominate. At least 1 opposite player must be nominated each day."
+msgstr "Номінує лише Оповідач. Кожного дня має бути номінований хоча б один гравець з іншої команди."
+
+msgctxt "bishop flavor"
+msgid "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis."
+msgstr "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis."
+
+msgctxt "bishop reminders"
+msgid "Nominate good,Nominate evil"
+msgstr "Номінуй добро,Номінуй зло"
+
+msgctxt "boffin name"
+msgid "Boffin"
+msgstr "Хімік"
+
+msgctxt "boffin ability"
+msgid "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which."
+msgstr "Демон (навіть якщо п'ян чи отруєн) має здібність доброго персонажа не в грі; ви обидва знаєте яку."
+
+msgctxt "boffin flavor"
+msgid "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle."
+msgstr "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle."
+
+msgctxt "boffin firstNightReminder"
+msgid "Wake the Boffin and show them the token of the ability the Demon has. Put the Boffin back to sleep. Wake the Demon, show the Boffin token, then show the token of the good ability the Demon has."
+msgstr "Розбуди Хіміка і покажи йому жетон персонажа, здібність якого отримав Демон. Хімік засинає. Розбуди Демона, покажи жетон Хіміка і жетон персонажа, здібність якого отримав Демон"
+
+msgctxt "bonecollector name"
+msgid "Bone Collector"
+msgstr "Збирач Кісток"
+
+msgctxt "bonecollector ability"
+msgid "Once per game, at night, choose a dead player: they regain their ability until dusk."
+msgstr "Раз за гру, вночі, обери мертвого гравця: вони мають свою здібність до сутінок."
+
+msgctxt "bonecollector flavor"
+msgid "I collect many things. Hair. Teeth. Clothes. Fragments of poems. The dreams of lost lovers. My secret arts are not for you to know but my fee is a mere pittance. Bring me the blood of a noblewoman who died of heartbreak under a full moon, and you shall have your answers."
+msgstr "I collect many things. Hair. Teeth. Clothes. Fragments of poems. The dreams of lost lovers. My secret arts are not for you to know but my fee is a mere pittance. Bring me the blood of a noblewoman who died of heartbreak under a full moon, and you shall have your answers."
+
+msgctxt "bonecollector otherNightReminder"
+msgid "The Bone Collector either shakes their head no or points at any dead player. If they pointed at any dead player, put the Bone Collector's 'Has Ability' reminder by the chosen player's character token. (They may need to be woken tonight to use it.)"
+msgstr "Збирач Кісток або дає сигнал 'ні', або вказує на будь-якого мертвого гравця. Якщо вказано на мертвого гравця: позначте їх жетоном \"Має здібність\" (можливо цієї ночі вони прокинуться щоб використати їх здібність)."
+
+msgctxt "bonecollector reminders"
+msgid "No ability,Has ability"
+msgstr "Без здібності,Має здібність"
+
+msgctxt "boomdandy name"
+msgid "Boomdandy"
+msgstr "Бумбадир"
+
+msgctxt "boomdandy ability"
+msgid "If you are executed, all but 3 players die. After a 10 to 1 countdown, the player with the most players pointing at them, dies."
+msgstr "Як тебе стратили, всі окрім трьох гравців помирають. Після відрахунку з 10 той, на якого вказує більшість гравців, помирає."
+
+msgctxt "boomdandy flavor"
+msgid "Tick... Tick... Tick... TOCK."
+msgstr "Tick... Tick... Tick... TOCK."
+
+msgctxt "bootlegger name"
+msgid "Bootlegger"
+msgstr "Контрабандист"
+
+msgctxt "bootlegger ability"
+msgid "This script has homebrew characters or rules."
+msgstr "Цей скрипт має інші правила або неофіційних персонажей."
+
+msgctxt "bootlegger flavor"
+msgid "I've got the latest shipment from home, a brew I'd like to call 'Barrowfog'. Wanna try?"
+msgstr "I've got the latest shipment from home, a brew I'd like to call 'Barrowfog'. Wanna try?"
+
+msgctxt "bootlegger firstNightReminder"
+msgid "Announce the Bootlegger is in play and inform the group of all homebrew characters and/or rules you are using in this game."
+msgstr "Оголосіть що Контрабандист в грі і поясніть гравцям всі нові правила чи персонажей, які будуть використані в грі."
+
+msgctxt "bountyhunter name"
+msgid "Bounty Hunter"
+msgstr "Головолов"
+
+msgctxt "bountyhunter ability"
+msgid "You start knowing 1 evil player. If the player you know dies, you learn another evil player tonight. [1 Townsfolk is evil]"
+msgstr "Ти одразу знаєш одного злого гравця; як він помре, вночі дізнаєшся нового злого гравця. [1 з Міщан за зло]"
+
+msgctxt "bountyhunter flavor"
+msgid "Alone, I walk these streets, paved with the sick stench of corruption. Its thickness worms its way into my nostrils, unbidden, burning with revulsion. And anticipation. The illness of this wretched place grows each night. And I... I am the cure."
+msgstr "Alone, I walk these streets, paved with the sick stench of corruption. Its thickness worms its way into my nostrils, unbidden, burning with revulsion. And anticipation. The illness of this wretched place grows each night. And I... I am the cure."
+
+msgctxt "bountyhunter firstNightReminder"
+msgid "Point to 1 evil player. Wake the townsfolk who is evil and show them the 'You are' card and the thumbs down evil sign."
+msgstr "Вкажіть на одного злого гравця. Розбудіть злого Міщана; покажіть їм картку \"Ви є\" і жест \"за зло\"."
+
+msgctxt "bountyhunter otherNightReminder"
+msgid "If the known evil player has died, point to another evil player."
+msgstr "Якщо вказаний злий гравець помер, вкажіть на іншого злого гравця."
+
+msgctxt "bountyhunter reminders"
+msgid "Known"
+msgstr "Знає"
+
+msgctxt "buddhist name"
+msgid "Buddhist"
+msgstr "Буддист"
+
+msgctxt "buddhist ability"
+msgid "For the first 2 minutes of each day, veteran players may not talk."
+msgstr "Перші дві хвилини дня гравці-ветерани не можуть говорити."
+
+msgctxt "buddhist flavor"
+msgid "You throw thorns. Falling in my silence, they become flowers."
+msgstr "You throw thorns. Falling in my silence, they become flowers."
+
+msgctxt "bureaucrat name"
+msgid "Bureaucrat"
+msgstr "Бюрократ"
+
+msgctxt "bureaucrat ability"
+msgid "Each night, choose a player (not yourself): their vote counts as 3 votes tomorrow."
+msgstr "Щоночі, обирай гравця (не себе): завтра їхній голос рахується як 3."
+
+msgctxt "bureaucrat flavor"
+msgid "Sign here please. And here. And here. Aaaaaaaaand here. This should all be sorted and tallied by the end of the day, assuming everyone's signatures are legible. We haven't had a mix-up in the paperwork for ages. Yesterday noon, if memory serves..."
+msgstr "Sign here please. And here. And here. Aaaaaaaaand here. This should all be sorted and tallied by the end of the day, assuming everyone's signatures are legible. We haven't had a mix-up in the paperwork for ages. Yesterday noon, if memory serves..."
+
+msgctxt "bureaucrat firstNightReminder"
+msgid "The Bureaucrat points to a player. Put the Bureaucrat's '3 votes' reminder by the chosen player's character token."
+msgstr "Бюрократ вказує на гравця. Позначте обраного граця жетоном Бюрократа \"3 голоси\"."
+
+msgctxt "bureaucrat otherNightReminder"
+msgid "The Bureaucrat points to a player. Put the Bureaucrat's '3 votes' reminder by the chosen player's character token."
+msgstr "Бюрократ вказує на гравця. Позначте обраного граця жетоном Бюрократа \"3 голоси\"."
+
+msgctxt "bureaucrat reminders"
+msgid "3 votes"
+msgstr "3 голоси"
+
+msgctxt "butcher name"
+msgid "Butcher"
+msgstr "М'ясник"
+
+msgctxt "butcher ability"
+msgid "Each day, after the 1st execution, you may nominate again."
+msgstr "Щодня, після першої страти, ти можеш ще раз номінувати."
+
+msgctxt "butcher flavor"
+msgid "It tastes like chicken. More please."
+msgstr "It tastes like chicken. More please."
+
+msgctxt "butler name"
+msgid "Butler"
+msgstr "Дворецький"
+
+msgctxt "butler ability"
+msgid "Each night, choose a player (not yourself): tomorrow, you may only vote if they are voting too."
+msgstr "Щоночі обирай гравця (не себе); ти можетш голосувати тільки якщо вони теж голосують."
+
+msgctxt "butler flavor"
+msgid ""
+"Yes, sir...\n"
+"No, sir...\n"
+"Certainly, sir."
+msgstr ""
+"Yes, sir...\n"
+"No, sir...\n"
+"Certainly, sir."
+
+msgctxt "butler firstNightReminder"
+msgid "The Butler points to a player. Mark that player as 'Master'."
+msgstr "Дворецький вказує на гравця. Позначте цього гравця жетоном \"Сер\"."
+
+msgctxt "butler otherNightReminder"
+msgid "The Butler points to a player. Mark that player as 'Master'."
+msgstr "Дворецький вказує на гравця. Позначте цього гравця жетоном \"Сер\"."
+
+msgctxt "butler reminders"
+msgid "Master"
+msgstr "Сер"
+
+msgctxt "cannibal name"
+msgid "Cannibal"
+msgstr "Канібал"
+
+msgctxt "cannibal ability"
+msgid "You have the ability of the recently killed executee. If they are evil, you are poisoned until a good player dies by execution."
+msgstr "Ти маєш здібність останнього вбитого стратою гравця. Якщо вони були за зло, ти отруєн доки гравець не помре від страти."
+
+msgctxt "cannibal flavor"
+msgid "I don’t like clowns. They taste funny."
+msgstr "I don’t like clowns. They taste funny."
+
+msgctxt "cannibal reminders"
+msgid "Poisoned,Died today"
+msgstr "Отруєно,Обід"
+
+msgctxt "cerenovus name"
+msgid "Cerenovus"
+msgstr "Сереновус"
+
+msgctxt "cerenovus ability"
+msgid "Each night, choose a player & a good character: they are “mad” they are this character tomorrow, or might be executed."
+msgstr "Щоночі обирай гравця і доброго персонажа: вони \"марять\", що вони цей персонаж, інакше їх може бути страчено."
+
+msgctxt "cerenovus flavor"
+msgid "Reality is merely an opinion. Specifically, my opinion."
+msgstr "Reality is merely an opinion. Specifically, my opinion."
+
+msgctxt "cerenovus firstNightReminder"
+msgid "The Cerenovus points to a player, then to a character on their sheet. Wake that player. Show the 'This character selected you' card, then the Cerenovus token. Show the selected character token. If the player is not mad about being that character tomorrow, they can be executed."
+msgstr "Сереновус вказує на гравця, потім на персонажа в списку. Розбудіть обраного гравця; покажіть їм картку \"Ви обрані персонажем\" і жетон Сереновуса, потім обраного персонажа. Якщо цей гравець не \"марить\" що вони цей персонаж, їх може бути страчено."
+
+msgctxt "cerenovus otherNightReminder"
+msgid "The Cerenovus points to a player, then to a character on their sheet. Wake that player. Show the 'This character selected you' card, then the Cerenovus token. Show the selected character token. If the player is not mad about being that character tomorrow, they can be executed."
+msgstr "Сереновус вказує на гравця, потім на персонажа в списку. Розбудіть обраного гравця; покажіть їм картку \"Ви обрані персонажем\" і жетон Сереновуса, потім обраного персонажа. Якщо цей гравець не \"марить\" що вони цей персонаж, їх може бути страчено."
+
+msgctxt "cerenovus reminders"
+msgid "Mad"
+msgstr "Марить"
+
+msgctxt "chambermaid name"
+msgid "Chambermaid"
+msgstr "Покоївка"
+
+msgctxt "chambermaid ability"
+msgid "Each night, choose 2 alive players (not yourself): you learn how many woke tonight due to their ability."
+msgstr "Щоночі, обирай двох гравців (не себе); дізнайся скільки з них прокинулися через свою здібність."
+
+msgctxt "chambermaid flavor"
+msgid "I aint seen nothin' untoward, Milady. Begging your pardon, but if I did see somethin', it certainly weren't the master o' the house sneaking into the professor's laboratory 'round eleven o'clock and mixing up fancy potions, just like you said, Miss."
+msgstr "I aint seen nothin' untoward, Milady. Begging your pardon, but if I did see somethin', it certainly weren't the master o' the house sneaking into the professor's laboratory 'round eleven o'clock and mixing up fancy potions, just like you said, Miss."
+
+msgctxt "chambermaid firstNightReminder"
+msgid "The Chambermaid points to two players. Show the number signal (0, 1, 2, …) for how many of those players wake tonight for their ability."
+msgstr "Покоївка вказує на двох гравців. Покажіть числовим сигналом (0, 1, 2, ...), скільки з цих гравців прокинулися цієї ночі через їхню здібність."
+
+msgctxt "chambermaid otherNightReminder"
+msgid "The Chambermaid points to two players. Show the number signal (0, 1, 2, …) for how many of those players wake tonight for their ability."
+msgstr "Покоївка вказує на двох гравців. Покажіть числовим сигналом (0, 1, 2, ...), скільки з цих гравців прокинулися цієї ночі через їхню здібність."
+
+msgctxt "chef name"
+msgid "Chef"
+msgstr "Шеф"
+
+msgctxt "chef ability"
+msgid "You start knowing how many pairs of evil players there are."
+msgstr "Ти одразу знаєш скільки пар злих гравців сидять поруч одне з одним."
+
+msgctxt "chef flavor"
+msgid "This evening's reservations seem odd. Never before has Mrs Mayweather kept company with that scamp from Hudson Lane. Yet, tonight, they have a table for two. Strange."
+msgstr "This evening's reservations seem odd. Never before has Mrs Mayweather kept company with that scamp from Hudson Lane. Yet, tonight, they have a table for two. Strange."
+
+msgctxt "chef firstNightReminder"
+msgid "Show the finger signal (0, 1, 2, …) for the number of pairs of neighbouring evil players."
+msgstr "Покажи числовий сигнал (0, 1, 2, ...), що відповідає кількості злих гравців, що сидять поруч одне з одним."
+
+msgctxt "choirboy name"
+msgid "Choirboy"
+msgstr "Хорист"
+
+msgctxt "choirboy ability"
+msgid "If the Demon kills the King, you learn which player is the Demon. [+ the King]"
+msgstr "Якщо Демон вб'є Короля, ти дізнаєшся хто Демон. [+ Король]"
+
+msgctxt "choirboy flavor"
+msgid "I saw it, I did. I was in the pews, tidying the hymn books, when a dreadful tune started from the pipe organ. The organist had a long cloak, and long fingers on the keys. And a hat that looked… just like… yours."
+msgstr "I saw it, I did. I was in the pews, tidying the hymn books, when a dreadful tune started from the pipe organ. The organist had a long cloak, and long fingers on the keys. And a hat that looked… just like… yours."
+
+msgctxt "choirboy otherNightReminder"
+msgid "If the King was killed by the Demon, wake the Choirboy and point to the Demon player."
+msgstr "Щоночі, якщо живих не більше мертвих, дізнайся живого персонажа. Демон знає, що ти - Король."
+
+msgctxt "clockmaker name"
+msgid "Clockmaker"
+msgstr "Годинникар"
+
+msgctxt "clockmaker ability"
+msgid "You start knowing how many steps from the Demon to its nearest Minion."
+msgstr "Ти одразу знаєш кількість місць від Демона до найближчого Міньона."
+
+msgctxt "clockmaker flavor"
+msgid "Do not disturb me. The tick must continue, for the circle is a symbol of life and contains all things - all answers - in its divine machinery. I must work."
+msgstr "Do not disturb me. The tick must continue, for the circle is a symbol of life and contains all things - all answers - in its divine machinery. I must work."
+
+msgctxt "clockmaker firstNightReminder"
+msgid "Show the hand signal for the number (1, 2, 3, etc.) of places from Demon to closest Minion."
+msgstr "Покажіть числовий сигнал (1, 2, 3, і т.д.), що відповідає кількості місць від Демона до найближчого Міньона."
+
+msgctxt "courtier name"
+msgid "Courtier"
+msgstr "Придворний"
+
+msgctxt "courtier ability"
+msgid "Once per game, at night, choose a character: they are drunk for 3 nights & 3 days."
+msgstr "Раз за гру, вночі, обери персонажа; обраний персонаж п'ян три ночі і три дні."
+
+msgctxt "courtier flavor"
+msgid "I am more afraid of an army of one hundred sheep led by a lion than an army of one hundred lions led by a sheep."
+msgstr "I am more afraid of an army of one hundred sheep led by a lion than an army of one hundred lions led by a sheep."
+
+msgctxt "courtier firstNightReminder"
+msgid "The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgstr "Придворний або дає сигнал 'ні', або вказує на персонажа в списку. Якщо Придворний використав свою здібність: якщо обраний персонаж у грі, той гравець п'ян."
+
+msgctxt "courtier otherNightReminder"
+msgid "Reduce the remaining number of days the marked player is poisoned. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgstr "Зменш число днів персонаж буде ще п'ян на 1. Якщо Придворний не використав своєї здібності: Придворний або дає сигнал 'ні', або вказує на персонажа в списку. Якщо Придворний використав свою здібність: якщо обраний персонаж у грі, той гравець п'ян."
+
+msgctxt "courtier reminders"
+msgid "Drunk 3,Drunk 2,Drunk 1,No ability"
+msgstr "П'ян 3,П'ян 2,П'ян 1,Без здібності"
+
+msgctxt "cultleader name"
+msgid "Cult Leader"
+msgstr "Лідер Культу"
+
+msgctxt "cultleader ability"
+msgid "Each night, you become the alignment of an alive neighbour. If all good players choose to join your cult, your team wins."
+msgstr "Щоночі ти переходиш в команду твого живого сусіда. Якщо всі добрі гравці приєднуються до твого культу - твоя команда перемагає."
+
+msgctxt "cultleader flavor"
+msgid "Thinking themselves wise, they became fools."
+msgstr "Thinking themselves wise, they became fools."
+
+msgctxt "cultleader firstNightReminder"
+msgid "If the cult leader changed alignment, show them the thumbs up good signal of the thumbs down evil signal accordingly."
+msgstr "Якщо Лідер Культу змінив команду, покажіть відповідний жест 'за добро' чи 'за зло'."
+
+msgctxt "cultleader otherNightReminder"
+msgid "If the cult leader changed alignment, show them the thumbs up good signal of the thumbs down evil signal accordingly."
+msgstr "Якщо Лідер Культу змінив команду, покажіть відповідний жест 'за добро' чи 'за зло'."
+
+msgctxt "damsel name"
+msgid "Damsel"
+msgstr "Дівиця"
+
+msgctxt "damsel ability"
+msgid "All Minions know you are in play. If a Minion publicly guesses you (once), your team loses."
+msgstr "Всі Міньони знають, що Дівиця в грі. Якщо Міньони з першого разу вгадають тебе, твоя команда програє."
+
+msgctxt "damsel flavor"
+msgid "Don't touch the hair, honey."
+msgstr "Don't touch the hair, honey."
+
+msgctxt "damsel firstNightReminder"
+msgid "Wake all the Minions, show them the 'This character selected you' card and the Damsel token."
+msgstr "Розбудіть всіх Міньонів, покажи їм картку 'Вас обрав персонаж' і жетон Дівиці."
+
+msgctxt "damsel otherNightReminder"
+msgid "If selected by the Huntsman, wake the Damsel, show 'You are' card and a not-in-play Townsfolk token."
+msgstr "Якщо обрано Єгерем: розбуди Дівицю; покажи їм картку \"Ви є\" і жетон персонажа не в грі."
+
+msgctxt "damsel reminders"
+msgid "Guess used"
+msgstr "Вже вгадували"
+
+msgctxt "deusexfiasco name"
+msgid "Deus ex Fiasco"
+msgstr "Deus ex Fiasco"
+
+msgctxt "deusexfiasco ability"
+msgid "At least once per game, the Storyteller will make a mistake, correct it and publicly admit to it."
+msgstr "Хоча б раз за гру Оповідач зробить помилку, виправить її та публічно в цьому зізнається."
+
+msgctxt "deusexfiasco reminders"
+msgid "Whoopsie"
+msgstr "Упс"
+
+msgctxt "deviant name"
+msgid "Deviant"
+msgstr "Юродивий"
+
+msgctxt "deviant ability"
+msgid "If you were funny today, you cannot die by exile."
+msgstr "Якщо сьогодні був смішним, ти не помреш від вигнання."
+
+msgctxt "deviant flavor"
+msgid "Twas the lady's quip, forsooth."
+msgstr "Twas the lady's quip, forsooth."
+
+msgctxt "devilsadvocate name"
+msgid "Devil's Advocate"
+msgstr "Адвокат Диявола"
+
+msgctxt "devilsadvocate ability"
+msgid "Each night, choose a living player (different to last night): if executed tomorrow, they don't die."
+msgstr "Щоночі обирай гравця (відмінного від попередньої ночі). Якщо їх завтра стратять - вони не помруть."
+
+msgctxt "devilsadvocate flavor"
+msgid "My client, should the objection be overruled, pleads innocent by virtue of the prosecution's non-observance of statute 27.B - incorrect or misleading conjugation of a verb. The fact that nine of the jury died last night is simply prima facie, which is, as Wills vs Thule set precedent for, further reason to acquit."
+msgstr "My client, should the objection be overruled, pleads innocent by virtue of the prosecution's non-observance of statute 27.B - incorrect or misleading conjugation of a verb. The fact that nine of the jury died last night is simply prima facie, which is, as Wills vs Thule set precedent for, further reason to acquit."
+
+msgctxt "devilsadvocate firstNightReminder"
+msgid "The Devil’s Advocate points to a living player. That player survives execution tomorrow."
+msgstr "Адвокат Диявола вказує на гравця. Завтра цей гравець переживе страту."
+
+msgctxt "devilsadvocate otherNightReminder"
+msgid "The Devil’s Advocate points to a living player, different from the previous night. That player survives execution tomorrow."
+msgstr "Адвокат Диявола вказує на гравця (відмінного від попередньої ночі). Завтра цей гравець переживе страту."
+
+msgctxt "devilsadvocate reminders"
+msgid "Survives execution"
+msgstr "Переживе страту"
+
+msgctxt "djinn name"
+msgid "Djinn"
+msgstr "Джин"
+
+msgctxt "djinn ability"
+msgid "Use the Djinn's special rule. All players know what it is."
+msgstr "Дотримуйся особливого правила Джина. Всі гравці знають це правило."
+
+msgctxt "djinn flavor"
+msgid ""
+"نحن لسنا هنا.\n"
+"                                انت لست حقيقي.\n"
+"                                كل شيء هو وهم.\n"
+"                                أسئلتك هي جبل نار في يوم صافٍ."
+msgstr ""
+"نحن لسنا هنا.\n"
+"                                انت لست حقيقي.\n"
+"                                كل شيء هو وهم.\n"
+"                                أسئلتك هي جبل نار في يوم صافٍ."
+
+msgctxt "doomsayer name"
+msgid "Doomsayer"
+msgstr "Прирекатель"
+
+msgctxt "doomsayer ability"
+msgid "If 4 or more players live, each living player may publicly choose (once per game) that a player of their own alignment dies."
+msgstr "Якщо 4 або більше гравців в живих, кожен живий гравець може публічно раз за гру обрати, щоб їх союзник помер."
+
+msgctxt "doomsayer flavor"
+msgid "And on the Seventh Day, there shall be a great flood and a pestilence upon the People of the Village of the Ravens! The dead shall rise and the living shall repent! O Woe! O Unholy day! Only by great sacrifice shall they prevail! So sayeth the Sages of Nostros and so sayeth I."
+msgstr "And on the Seventh Day, there shall be a great flood and a pestilence upon the People of the Village of the Ravens! The dead shall rise and the living shall repent! O Woe! O Unholy day! Only by great sacrifice shall they prevail! So sayeth the Sages of Nostros and so sayeth I."
+
+msgctxt "dreamer name"
+msgid "Dreamer"
+msgstr "Сновида"
+
+msgctxt "dreamer ability"
+msgid "Each night, choose a player (not yourself or Travellers): you learn 1 good and 1 evil character, 1 of which is correct."
+msgstr "Щоночі обирай гравця (окрім себе й Мандрівників) і дізнайся одного доброго й одного злого персонажа; один з них правильний."
+
+msgctxt "dreamer flavor"
+msgid "I remember the Clockmaker. The sky was red and it was raining fractal triangles. There was a smell of violets and a bubbling sound. A woman with glowing eyes and a scraggly beard was hissing at the sky. Then, I awoke."
+msgstr "I remember the Clockmaker. The sky was red and it was raining fractal triangles. There was a smell of violets and a bubbling sound. A woman with glowing eyes and a scraggly beard was hissing at the sky. Then, I awoke."
+
+msgctxt "dreamer firstNightReminder"
+msgid "The Dreamer points to a player. Show 1 good and 1 evil character token; one of these is correct."
+msgstr "Сновида вказує на гравця. Покажіть 1 жетон доброго, і 1 - злого персонажі; один з них є жетоном обраного гравця."
+
+msgctxt "dreamer otherNightReminder"
+msgid "The Dreamer points to a player. Show 1 good and 1 evil character token; one of these is correct."
+msgstr "Сновида вказує на гравця. Покажіть 1 жетон доброго, і 1 - злого персонажі; один з них є жетоном обраного гравця."
+
+msgctxt "drunk name"
+msgid "Drunk"
+msgstr "П'яниця"
+
+msgctxt "drunk ability"
+msgid "You do not know you are the Drunk. You think you are a Townsfolk character, but you are not."
+msgstr "Ти не знаєш, що ти - П'яниця. Тобі здається що ти Міщанин, але це не так."
+
+msgctxt "drunk flavor"
+msgid "I’m only a *hic* social drinker, my dear. Admittedly, I am a heavy *burp* socializer."
+msgstr "I’m only a *hic* social drinker, my dear. Admittedly, I am a heavy *burp* socializer."
+
+msgctxt "drunk remindersGlobal"
+msgid "Drunk"
+msgstr "Це - П'яниця"
+
+msgctxt "duchess name"
+msgid "Duchess"
+msgstr "Княгиня"
+
+msgctxt "duchess ability"
+msgid "Each day, 3 players may choose to visit you. At night*, each visitor learns how many visitors are evil, but 1 gets false info."
+msgstr "Кожного дня 3 гравця можуть відвідати тебе. Вночі* кожен з відвідавших дізнається скільки з них за зло; один отримає хибні дані"
+
+msgctxt "duchess flavor"
+msgid "We shall entertain between the hours of 6 and 7 precisely. Tea at 6:15. Scones at 6:45. Do not be late. Formal wear applies, as always."
+msgstr "We shall entertain between the hours of 6 and 7 precisely. Tea at 6:15. Scones at 6:45. Do not be late. Formal wear applies, as always."
+
+msgctxt "duchess reminders"
+msgid "Visitor,False Info"
+msgstr "Відвідав,Хиба"
+
+msgctxt "empath name"
+msgid "Empath"
+msgstr "Емпат"
+
+msgctxt "empath ability"
+msgid "Each night, you learn how many of your 2 alive neighbours are evil."
+msgstr "Щоночі ти дізнаєшся скільки з двох твоїх живих сусідів за зло."
+
+msgctxt "empath flavor"
+msgid "My skin prickles. Something is not right here. I can feel it."
+msgstr "My skin prickles. Something is not right here. I can feel it."
+
+msgctxt "empath firstNightReminder"
+msgid "Show the finger signal (0, 1, 2) for the number of evil alive neighbours of the Empath."
+msgstr "Покажіть числовий сигнал (0, 1, 2), що відповідає кількості злих живих сусідів Емпата."
+
+msgctxt "empath otherNightReminder"
+msgid "Show the finger signal (0, 1, 2) for the number of evil neighbours."
+msgstr "Покажіть числовий сигнал (0, 1, 2), що відповідає кількості злих живих сусідів."
+
+msgctxt "engineer name"
+msgid "Engineer"
+msgstr "Інжинер"
+
+msgctxt "engineer ability"
+msgid "Once per game, at night, choose which Minions or which Demon is in play."
+msgstr "Раз за гру, вночі, обери які Міньони чи який Демон в грі."
+
+msgctxt "engineer flavor"
+msgid "If it bends, great. If it breaks, well, it probably needed fixing anyway."
+msgstr "If it bends, great. If it breaks, well, it probably needed fixing anyway."
+
+msgctxt "engineer firstNightReminder"
+msgid "The Engineer shows a 'no' head signal, or points to a Demon or points to the relevant number of Minions. If the Engineer chose characters, replace the Demon or Minions with the choices, then wake the relevant players and show them the You are card and the relevant character tokens."
+msgstr "Інжинер або дає сигнал 'ні', або вказує на Демона чи на відповідну кількість Міньонів. Якщо Інжинер обрав персонажів, замініть персонажів Демона чи Міньонів відповідними і розбудіть змінених гравців; покажіть їм картку 'Ви є' і їх нових персонажей."
+
+msgctxt "engineer otherNightReminder"
+msgid "The Engineer shows a 'no' head signal, or points to a Demon or points to the relevant number of Minions. If the Engineer chose characters, replace the Demon or Minions with the choices, then wake the relevant players and show them the 'You are' card and the relevant character tokens."
+msgstr "Інжинер або дає сигнал 'ні', або вказує на Демона чи на відповідну кількість Міньонів. Якщо Інжинер обрав персонажів, замініть персонажів Демона чи Міньонів відповідними і розбудіть змінених гравців; покажіть їм картку 'Ви є' і їх нових персонажей."
+
+msgctxt "engineer reminders"
+msgid "No ability"
+msgstr "Без здібності"
+
+msgctxt "eviltwin name"
+msgid "Evil Twin"
+msgstr "Злий Близнюк"
+
+msgctxt "eviltwin ability"
+msgid "You & an opposing player know each other. If the good player is executed, evil wins. Good can't win if you both live."
+msgstr "Ти й гравець іншої сторони знаєте одне одного. Як доброго з вас страчено - зло перемагає. Добро не може перемогти доки ви обидва живі."
+
+msgctxt "eviltwin flavor"
+msgid "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!"
+msgstr "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!"
+
+msgctxt "eviltwin firstNightReminder"
+msgid "Wake the Evil Twin and their twin. Confirm that they have acknowledged each other. Point to the Evil Twin. Show their Evil Twin token to the twin player. Point to the twin. Show their character token to the Evil Twin player."
+msgstr "Розбудіть Злого Близнюка і їх близнюка. Підтвердьте, що вони помітили одне одного. Вкажіть на Злого Близнюка; покажіть близнюку жетон Злого Близнюка. Вкажи на близнюка; покажи Злому Близнюку їх жетон персонажа."
+
+msgctxt "eviltwin reminders"
+msgid "Twin"
+msgstr "Близнюк"
+
+msgctxt "exorcist name"
+msgid "Exorcist"
+msgstr "Екзорцист"
+
+msgctxt "exorcist ability"
+msgid "Each night*, choose a player (different to last night): the Demon, if chosen, learns who you are then doesn't wake tonight."
+msgstr "Щоночі* обирай гравця (відмінного від попередньої ночі): Обраний Демон дізнається про це і не діє вночі."
+
+msgctxt "exorcist flavor"
+msgid "We cast you out, every unclean spirit, every satanic power, every onslaught of the infernal adversary, every legion, every diabolical group and sect, in the name and by the power of Our Lord Jesus Christ. We command you, begone and fly far from the Church of God, from the souls made by God in His image and redeemed by the precious blood of the divine Lamb."
+msgstr "We cast you out, every unclean spirit, every satanic power, every onslaught of the infernal adversary, every legion, every diabolical group and sect, in the name and by the power of Our Lord Jesus Christ. We command you, begone and fly far from the Church of God, from the souls made by God in His image and redeemed by the precious blood of the divine Lamb."
+
+msgctxt "exorcist otherNightReminder"
+msgid "The Exorcist points to a player, different from the previous night. If that player is the Demon: Wake the Demon. Show the Exorcist token. Point to the Exorcist. The Demon does not act tonight."
+msgstr "Екзорцист вказує на гравця, відмінного від попередньої ночі. Якщо обраний гравець - Демон: розбудіть демона. Покажіть жетон Екзорциста. Вкажіть на Екзорциста. Цієї ночі Демон не прокидається."
+
+msgctxt "exorcist reminders"
+msgid "Chosen"
+msgstr "Обрано"
+
+msgctxt "fanggu name"
+msgid "Fang Gu"
+msgstr "Фань-Ґу"
+
+msgctxt "fanggu ability"
+msgid "Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu & you die instead. [+1 Outsider]"
+msgstr "Щоночі* обирай гравця; він помирає. Перший вбитий так Приїжджий стає злим Фань-Ґу і натомість помираєш ти. [+1 Приїжджий]"
+
+msgctxt "fanggu flavor"
+msgid "Your walls and your weapons are but smoke in dreams."
+msgstr "Your walls and your weapons are but smoke in dreams."
+
+msgctxt "fanggu otherNightReminder"
+msgid "The Fang Gu points to a player. That player dies. Or, if that player was an Outsider and there are no other Fang Gu in play: The Fang Gu dies instead of the chosen player. The chosen player is now an evil Fang Gu. Wake the new Fang Gu. Show the 'You are' card, then the Fang Gu token. Show the 'You are' card, then the thumb-down 'evil' hand sign."
+msgstr "Фань-Ґу вказує на гравця. Цей гравець помирає, або, якщо це Приїжджий і в грі нема інших Фань-Ґу, натомість помирає Фань-Ґу, і обраний гравець стає новим Фань-Ґу. Розбудіть нового Фань-Ґу; покажіть їм картку 'Ви є' і жетон Фань-Ґу, потім картку 'Ви є' і сигнал 'за зло'."
+
+msgctxt "fanggu reminders"
+msgid "Dead,Once"
+msgstr "Мертв, Раз"
+
+msgctxt "farmer name"
+msgid "Farmer"
+msgstr "Фермер"
+
+msgctxt "farmer ability"
+msgid "If you die at night, an alive good player becomes a Farmer."
+msgstr "Як ти помреш вночі - живий добрий гравець стає Фермером."
+
+msgctxt "farmer flavor"
+msgid "Even the high and mighty need food on the table. Without us, the city starves."
+msgstr "Even the high and mighty need food on the table. Without us, the city starves."
+
+msgctxt "farmer otherNightReminder"
+msgid "If a Farmer died tonight, choose another good player and make them the Farmer. Wake this player, show them the 'You are' card and the Farmer character token."
+msgstr "Якщо цієї ночі помер Фермер, оберіть гравця і зробіть їх Фермером. Розбудіть обраного гравця; покажіть їм картку 'Ви є' і жетон Фермера."
+
+msgctxt "fearmonger name"
+msgid "Fearmonger"
+msgstr "Страховій"
+
+msgctxt "fearmonger ability"
+msgid "Each night, choose a player. If you nominate & execute them, their team loses. All players know if you choose a new player."
+msgstr "Щоночі обирай гравця; як ти його номінував і стратив - їх команда програє. Всі гравці знають коли ти обираєш нового гравця."
+
+msgctxt "fearmonger flavor"
+msgid "Beware of gazing long into the Abyss, lest the Abyss also gaze into you."
+msgstr "Beware of gazing long into the Abyss, lest the Abyss also gaze into you."
+
+msgctxt "fearmonger firstNightReminder"
+msgid "The Fearmonger points to a player. Place the Fear token next to that player and announce that a new player has been selected with the Fearmonger ability."
+msgstr "Страховій вказує на гравця. Позначте гравця жетоном 'Страх' і оголосіть, що Страховій обрав нового гравця."
+
+msgctxt "fearmonger otherNightReminder"
+msgid "The Fearmonger points to a player. If different from the previous night, place the Fear token next to that player and announce that a new player has been selected with the Fearmonger ability."
+msgstr "Страховій вказує на гравця. Якщо відмінний від попередньої ночі: позначте гравця жетоном 'Страх' і оголосіть, що Страховій обрав нового гравця."
+
+msgctxt "fearmonger reminders"
+msgid "Fear"
+msgstr "Страх"
+
+msgctxt "ferryman name"
+msgid "Ferryman"
+msgstr "Ferryman"
+
+msgctxt "ferryman ability"
+msgid "On the final day, all dead players regain their vote token."
+msgstr "On the final day, all dead players regain their vote token."
+
+msgctxt "ferryman flavor"
+msgid "When righteous dreams come, they have the weight of truth."
+msgstr "When righteous dreams come, they have the weight of truth."
+
+msgctxt "fibbin name"
+msgid "Fibbin"
+msgstr "Жартівник"
+
+msgctxt "fibbin ability"
+msgid "Once per game, 1 good player might get false information."
+msgstr "Раз за гру один з гравців може отримати хибні дані"
+
+msgctxt "fibbin flavor"
+msgid ""
+"Tee-hee-hee.\n"
+"Tee. Hee. Hee."
+msgstr ""
+"Tee-hee-hee.\n"
+"Tee. Hee. Hee."
+
+msgctxt "fibbin reminders"
+msgid "Used"
+msgstr "Хиба"
+
+msgctxt "fiddler name"
+msgid "Fiddler"
+msgstr "Скрипач"
+
+msgctxt "fiddler ability"
+msgid "Once per game, the Demon secretly chooses an opposing player: all players choose which of these 2 players win."
+msgstr "Раз за гру, Демон обирає гравця іншої команди; всі голосують хто з них переможе"
+
+msgctxt "fiddler flavor"
+msgid "I'll wager mi lyef ye cannae best me in a fiddle contest, ye boss-eyed snook! We'll go out on the lash, get the pub jammers an' have a right craic. I'll be layin' ma boots into ya come mornin' ye rumbly muppet."
+msgstr "I'll wager mi lyef ye cannae best me in a fiddle contest, ye boss-eyed snook! We'll go out on the lash, get the pub jammers an' have a right craic. I'll be layin' ma boots into ya come mornin' ye rumbly muppet."
+
+msgctxt "fisherman name"
+msgid "Fisherman"
+msgstr "Риболов"
+
+msgctxt "fisherman ability"
+msgid "Once per game, during the day, visit the Storyteller for some advice to help you win."
+msgstr "Раз за гру, днем, приватно отримай від Оповідача пораду як перемогти."
+
+msgctxt "fisherman flavor"
+msgid "This was my favourite part of the river... see how the sunlight makes a rainbow from the monastery to the market? This was the best place for big fish. And the older I get, the bigger they were."
+msgstr "This was my favourite part of the river... see how the sunlight makes a rainbow from the monastery to the market? This was the best place for big fish. And the older I get, the bigger they were."
+
+msgctxt "fisherman reminders"
+msgid "No ability"
+msgstr "Без здібності"
+
+msgctxt "flowergirl name"
+msgid "Flowergirl"
+msgstr "Квіткарка"
+
+msgctxt "flowergirl ability"
+msgid "Each night*, you learn if a Demon voted today."
+msgstr "Щоночі* дізнайся, чи голосував сьогодні Демон."
+
+msgctxt "flowergirl flavor"
+msgid "Yesterday's violets have withered and died, but today my poppies bloom."
+msgstr "Yesterday's violets have withered and died, but today my poppies bloom."
+
+msgctxt "flowergirl otherNightReminder"
+msgid "Nod 'yes' or shake head 'no' for whether the Demon voted today. Place the 'Demon not voted' marker (remove 'Demon voted', if any)."
+msgstr "Покажіть сигналом (так або ні) чи проголосував сьогодні Демон. Позначте жетоном \"Демон не голосував\" (якщо є, приберіть жетон \"Демон голосував\")."
+
+msgctxt "flowergirl reminders"
+msgid "Demon voted,Demon not voted"
+msgstr "Демон голосував,Демон не голосував"
+
+msgctxt "fool name"
+msgid "Fool"
+msgstr "Шут"
+
+msgctxt "fool ability"
+msgid "The first time you die, you don't."
+msgstr "Перший раз ти не помираєш."
+
+msgctxt "fool flavor"
+msgid "...and the King said 'What?! I've never even owned a pair of rubber pantaloons, let alone a custard cannon!' Ho-ho! Jolly day!"
+msgstr "...and the King said 'What?! I've never even owned a pair of rubber pantaloons, let alone a custard cannon!' Ho-ho! Jolly day!"
+
+msgctxt "fool reminders"
+msgid "No ability"
+msgstr "Без здібності"
+
+msgctxt "fortuneteller name"
+msgid "Fortune Teller"
+msgstr "Ворожка"
+
+msgctxt "fortuneteller ability"
+msgid "Each night, choose 2 players: you learn if either is a Demon. There is a good player that registers as a Demon to you."
+msgstr "Щоночі обирай двох гравців: ти дізнаєшся, чи є серед них Демон. Один з добрих гравців сприймається як Демон для цього."
+
+msgctxt "fortuneteller flavor"
+msgid "I sense great evil in your soul! But... that could just be your perfume. I am allergic to Elderberry."
+msgstr "I sense great evil in your soul! But... that could just be your perfume. I am allergic to Elderberry."
+
+msgctxt "fortuneteller firstNightReminder"
+msgid "The Fortune Teller points to two players. Give the head signal (nod yes, shake no) for whether one of those players is the Demon."
+msgstr "Ворожка вказує на двох гравців. Покажіть сигналом (так або ні), чи є один з цих гравців Демоном."
+
+msgctxt "fortuneteller otherNightReminder"
+msgid "The Fortune Teller points to two players. Show the head signal (nod 'yes', shake 'no') for whether one of those players is the Demon."
+msgstr "Ворожка вказує на двох гравців. Покажіть сигналом (так або ні), чи є один з цих гравців Демоном."
+
+msgctxt "fortuneteller reminders"
+msgid "Red herring"
+msgstr "Хибний слід"
+
+msgctxt "gambler name"
+msgid "Gambler"
+msgstr "Азартний Гравець"
+
+msgctxt "gambler ability"
+msgid "Each night*, choose a player & guess their character: if you guess wrong, you die."
+msgstr "Щоночі* обирай гравця і вгадай його персонажа; якщо помилишся - помираєш."
+
+msgctxt "gambler flavor"
+msgid "Heads, I win. Tails, you lose."
+msgstr "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
+
+msgctxt "gambler otherNightReminder"
+msgid "The Gambler points to a player, and a character on their sheet. If incorrect, the Gambler dies."
+msgstr "Азартний гравець вказує на гравця і на персонажа в списку. Якщо обраний гравець не є обраним персонажем: Азартний Гравець помирає."
+
+msgctxt "gambler reminders"
+msgid "Dead"
+msgstr "Мертв"
+
+msgctxt "gangster name"
+msgid "Gangster"
+msgstr "Гангстер"
+
+msgctxt "gangster ability"
+msgid "Once per day, you may choose to kill an alive neighbour, if your other alive neighbour agrees."
+msgstr "Раз в день ти можете вбити одного свого живого сусіда за згоди іншого."
+
+msgctxt "gangster flavor"
+msgid "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
+msgstr "Heads, I win. Tails, you lose."
+
+msgctxt "gardener name"
+msgid "Gardener"
+msgstr "Садівник"
+
+msgctxt "gardener ability"
+msgid "The Storyteller assigns 1 or more players' characters."
+msgstr "Оповідач обирає персонажа одного чи кліькох гравців."
+
+msgctxt "gardener flavor"
+msgid "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
+msgstr "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
+
+msgctxt "general name"
+msgid "General"
+msgstr "Генерал"
+
+msgctxt "general ability"
+msgid "Each night, you learn which alignment the Storyteller believes is winning: good, evil, or neither."
+msgstr "Щоночі ти дізнаєшся, яка сторона на думку Оповідача перемагає: добро, зло, чи жодна."
+
+msgctxt "general flavor"
+msgid "I don’t have time for quotes."
+msgstr "Мені не до цитат."
+
+msgctxt "general firstNightReminder"
+msgid "Show the General thumbs up for good winning, thumbs down for evil winning or thumb to the side for neither."
+msgstr "Покажіть Генералу великий палець угору якщо добро перемагає, вниз якщо зло перемагає, і вбік якщо жодна сторона не перемагає."
+
+msgctxt "general otherNightReminder"
+msgid "Show the General thumbs up for good winning, thumbs down for evil winning or thumb to the side for neither."
+msgstr "Покажіть Генералу великий палець угору якщо добро перемагає, вниз якщо зло перемагає, і вбік якщо жодна сторона не перемагає."
+
+msgctxt "gnome name"
+msgid "Gnome"
+msgstr "Гном"
+
+msgctxt "gnome ability"
+msgid "All players start knowing a player of your alignment. You may choose to kill anyone who nominates them."
+msgstr "Всі одразу знають гравця з твоєї команди. Ти можеш обрати вбити будь-кого хто його номінує."
+
+msgctxt "gnome flavor"
+msgid "Four the score or seven beers, no shows are goes for me and my. A prank to crack the cranks and planks o' the floor foundation length, so incontravertabubbilly mini. The large essays down streams of joyce, no greater than is scene, not inherdt, Ha-urrumph.o."
+msgstr "Four the score or seven beers, no shows are goes for me and my. A prank to crack the cranks and planks o' the floor foundation length, so incontravertabubbilly mini. The large essays down streams of joyce, no greater than is scene, not inherdt, Ha-urrumph.o."
+
+msgctxt "gnome reminders"
+msgid "Amigo"
+msgstr "Аміго"
+
+msgctxt "goblin name"
+msgid "Goblin"
+msgstr "Гоблін"
+
+msgctxt "goblin ability"
+msgid "If you publicly claim to be the Goblin when nominated & are executed that day, your team wins."
+msgstr "Якщо сьогодні, коли тебе номінували, ти оголосив себе Гобліном і тебе страчено, твоя команда перемагає."
+
+msgctxt "goblin flavor"
+msgid "You don’t want to insult the goblins. You really, really don’t. On a completely different note… can I have another piece of cake?"
+msgstr "You don’t want to insult the goblins. You really, really don’t. On a completely different note… can I have another piece of cake?"
+
+msgctxt "goblin reminders"
+msgid "Claimed"
+msgstr "Оголосив"
+
+msgctxt "godfather name"
+msgid "Godfather"
+msgstr "Хрещений Батько"
+
+msgctxt "godfather ability"
+msgid "You start knowing which Outsiders are in play. If 1 died today, choose a player tonight: they die. [−1 or +1 Outsider]"
+msgstr "Ти одразу знаєш котрі Приїжджі в грі. Як днем помирає Приїжджий, обирай вночі гравця: він помирає [-1 або +1 Приїжджий]"
+
+msgctxt "godfather flavor"
+msgid "Normally, it's just business. But when you insult my daughter, you insult me. And when you insult me, you insult my family. You really should be more careful - it would be a shame if you had an unfortunate accident."
+msgstr "Normally, it's just business. But when you insult my daughter, you insult me. And when you insult me, you insult my family. You really should be more careful - it would be a shame if you had an unfortunate accident."
+
+msgctxt "godfather firstNightReminder"
+msgid "Show each of the Outsider tokens in play."
+msgstr "Покажи кожен жетон Приїжджих в грі."
+
+msgctxt "godfather otherNightReminder"
+msgid "If an Outsider died today: The Godfather points to a player. That player dies."
+msgstr "Якщо сьогодні помер Приїжджий: Хрещений Батько вказує на гравця; обраний гравець помирає."
+
+msgctxt "godfather reminders"
+msgid "Died today,Dead"
+msgstr "Сьогодні помер,Мертв"
+
+msgctxt "golem name"
+msgid "Golem"
+msgstr "Голем"
+
+msgctxt "golem ability"
+msgid "You may only nominate once per game. When you do, if the nominee is not the Demon, they die."
+msgstr "Ти можеш номінувати лиш раз за гру. Якщо номінований тобою гравець не Демон, він помирає."
+
+msgctxt "golem flavor"
+msgid "Golem help? Golem smash! Golem help."
+msgstr "Golem help? Golem smash! Golem help."
+
+msgctxt "golem reminders"
+msgid "Can not nominate"
+msgstr "Не може номінувати"
+
+msgctxt "goon name"
+msgid "Goon"
+msgstr "Прибічник"
+
+msgctxt "goon ability"
+msgid "Each night, the 1st player to choose you with their ability is drunk until dusk. You become their alignment."
+msgstr "Щоночі перший гравець, що обрав тебе своєю здібністю п'ян до сутінок. Ти переходиш на їх сторону."
+
+msgctxt "goon flavor"
+msgid "Yes boss. I explained fings real good to dat geezer. He don't want me explain it again. Nah boss, I don't need no doctor - it's only a knife wound. Be right come mornin'"
+msgstr "Yes boss. I explained fings real good to dat geezer. He don't want me explain it again. Nah boss, I don't need no doctor - it's only a knife wound. Be right come mornin'"
+
+msgctxt "goon reminders"
+msgid "Drunk"
+msgstr "П'ян"
+
+msgctxt "gossip name"
+msgid "Gossip"
+msgstr "Пліткар"
+
+msgctxt "gossip ability"
+msgid "Each day, you may make a public statement. Tonight, if it was true, a player dies."
+msgstr "Щодня ти можеш публічно оголосити твердження. Вночі, якщо твердження істинне, хтось помирає."
+
+msgctxt "gossip flavor"
+msgid "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah."
+msgstr "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah."
+
+msgctxt "gossip otherNightReminder"
+msgid "If the Gossip’s public statement was true: Choose a player not protected from dying tonight. That player dies."
+msgstr "Якщо публічне твердження Пліткаря істинне: оберіть гравця, котрого не захищено від смерті; обраний гравець помирає."
+
+msgctxt "gossip reminders"
+msgid "Dead"
+msgstr "Мертв"
+
+msgctxt "grandmother name"
+msgid "Grandmother"
+msgstr "Бабуся"
+
+msgctxt "grandmother ability"
+msgid "You start knowing a good player & their character. If the Demon kills them, you die too."
+msgstr "Ти одразу знаєш одного гравця і їх персонажа. Як їх вбиває Демон - ти теж помираєш."
+
+msgctxt "grandmother flavor"
+msgid "Take a jacket if you go outside, dearie. And your thermos. And your scarf. I have a weak heart, you know. Whatever would I do if you caught cold...or worse?"
+msgstr "Take a jacket if you go outside, dearie. And your thermos. And your scarf. I have a weak heart, you know. Whatever would I do if you caught cold...or worse?"
+
+msgctxt "grandmother firstNightReminder"
+msgid "Show the marked character token. Point to the marked player."
+msgstr "Покажіть жетон обраного гравця. Вкажіть на обраного гравця."
+
+msgctxt "grandmother otherNightReminder"
+msgid "If the Grandmother’s grandchild was killed by the Demon tonight: The Grandmother dies."
+msgstr "Якщо Онука Бабусі вбито Демоном: Бабуся помирає."
+
+msgctxt "grandmother reminders"
+msgid "Grandchild"
+msgstr "Онук"
+
+msgctxt "gunslinger name"
+msgid "Gunslinger"
+msgstr "Стрілок"
+
+msgctxt "gunslinger ability"
+msgid "Each day, after the 1st vote has been tallied, you may choose a player that voted: they die."
+msgstr "Кожного дня, після зарахування першого голосу, ти можеш обрати проголосувавшого; той помирає."
+
+msgctxt "gunslinger flavor"
+msgid "It's time someone took matters into their own hands. That someone... is me."
+msgstr "It's time someone took matters into their own hands. That someone... is me."
+
+msgctxt "harlot name"
+msgid "Harlot"
+msgstr "Повія"
+
+msgctxt "harlot ability"
+msgid "Each night*, choose a living player: if they agree, you learn their character, but you both might die."
+msgstr "Щоночі* обирай живого гравця: якщо вони погодились, дізнайся їх персонажа, але ви обидва можете померти."
+
+msgctxt "harlot flavor"
+msgid "Enchanté, Sailor. You look like you need someone to really listen to your troubles. I'm a good listener. Very, very good."
+msgstr "Enchanté, Sailor. You look like you need someone to really listen to your troubles. I'm a good listener. Very, very good."
+
+msgctxt "harlot otherNightReminder"
+msgid "The Harlot points at any player. Then, put the Harlot to sleep. Wake the chosen player, show them the 'This character selected you' token, then the Harlot token. That player either nods their head yes or shakes their head no. If they nodded their head yes, wake the Harlot and show them the chosen player's character token. Then, you may decide that both players die."
+msgstr "Блудниця вказує на бідь-якого гравця. Блудниця засинає. Розбудіть обраного гравця, покажіть їм картку 'Вас обрав персонаж' і жетон Блудниці. Вони дають сигнал так або ні. Якщо так, покажіть Блудниці жетон персонажа обраного гравця, після чого Ви можете вирішити, що вони обидва помирають."
+
+msgctxt "harlot reminders"
+msgid "Dead"
+msgstr "Мертв"
+
+msgctxt "harpy name"
+msgid "Harpy"
+msgstr "Гарпія"
+
+msgctxt "harpy ability"
+msgid "Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or one or both might die."
+msgstr "Щоночі обирай двох гравців: перший 'марить', що другий за зло, інакше одного чи обох може бути вбито."
+
+msgctxt "harpy flavor"
+msgid "So fair a day I never did see, nor so fowl a presence hanging over me."
+msgstr "So fair a day I never did see, nor so fowl a presence hanging over me."
+
+msgctxt "harpy firstNightReminder"
+msgid "Wake the Harpy; they point at one player, then another. Wake the 1st player the Harpy pointed to, show them the 'This character has selected you' card, show them the Harpy token, then point at the 2nd player the Harpy pointed to."
+msgstr "Гарпія почергово вказує на двох гравців. Розбудіть першого обраного гравця; покажіть їм картку 'Ви обрані персонажем' і жетон Гарпії, потім вкажіть на другого гравця."
+
+msgctxt "harpy otherNightReminder"
+msgid "Wake the Harpy; they point at one player, then another. Wake the 1st player the Harpy pointed to, show them the 'This character has selected you' card, show them the Harpy token, then point at the 2nd player the Harpy pointed to."
+msgstr "Гарпія почергово вказує на двох гравців. Розбудіть першого обраного гравця; покажіть їм картку 'Ви обрані персонажем' і жетон Гарпії, потім вкажіть на другого гравця."
+
+msgctxt "harpy reminders"
+msgid "Mad, 2nd"
+msgstr "Марить, Другий"
+
+msgctxt "hatter name"
+msgid "Hatter"
+msgstr "Капелюшник"
+
+msgctxt "hatter ability"
+msgid "If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be."
+msgstr "Якщо цього дня чи цієї ночі ти помер, гравці-Міньони і Демони можуть обрати, яким Міньоном чи Демоном стати."
+
+msgctxt "hatter flavor"
+msgid "One Hat. Too Hat. Three Hat. Tea Hat. Fore Hat. Thrive Hat. Six Hat. Sticks Hat."
+msgstr "One Hat. Too Hat. Three Hat. Tea Hat. Fore Hat. Thrive Hat. Six Hat. Sticks Hat."
+
+msgctxt "hatter otherNightReminder"
+msgid "If the Hatter died today: Wake the Minions and Demon. Show them the 'This Character Selected You' info token, then the Hatter token. Each player either shakes their head no or points to another character of the same type as their current character.  If a second player would end up with the same character as another player, shake your head no and gesture for them to choose again. Put them to sleep. Change each player to the character they chose."
+msgstr "Якщо сьогодні помер Капелюшник: розбудіть Маньонів та Демонів, покажіть їм картку даних \"Вас обрано цим персонажем\" і жетон Капелюшника. Кожен гравець або показує жест \"ні\", або вказує на персонажа, тип якого відповідає типу їх персонажа. Якщо другий гравець мав би того ж персонажа як в іншого гравця, покажіть жест \"ні\" і покажіть їм обрати знову. Гравці засинають. Замініть персонажа кожного з гравців обраним."
+
+msgctxt "hatter reminders"
+msgid "Tea Party Tonight"
+msgstr "Чаювання вночі"
+
+msgctxt "hellslibrarian name"
+msgid "Hell's Librarian"
+msgstr "Бібліотекар Аду"
+
+msgctxt "hellslibrarian ability"
+msgid "Something bad might happen to whoever talks when the Storyteller has asked for silence."
+msgstr "Щось погане трапиться з тим, хто заговорить коли Оповідач попросив тиші"
+
+msgctxt "hellslibrarian flavor"
+msgid "Shhhhhh. Please be quiet. It is best not to disturb the Librarian. I've heard it has a temper."
+msgstr "Shhhhhh. Please be quiet. It is best not to disturb the Librarian. I've heard it has a temper."
+
+msgctxt "hellslibrarian reminders"
+msgid "Something Bad"
+msgstr "Щось погане"
+
+msgctxt "heretic name"
+msgid "Heretic"
+msgstr "Єретик"
+
+msgctxt "heretic ability"
+msgid "Whoever wins, loses & whoever loses, wins, even if you are dead."
+msgstr "Хто переможе - програє, і хто програє - переможе, навіть після смерті."
+
+msgctxt "heretic flavor"
+msgid "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
+msgstr "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
+
+msgctxt "highpriestess name"
+msgid "High Priestess"
+msgstr "Верховна Жриця"
+
+msgctxt "highpriestess ability"
+msgid "Each night, learn which player the Storyteller believes you should talk to most."
+msgstr "Щоночі ти дізнаєшся, з яким гравцем на думку Оповідача тобі краще всього поговорити."
+
+msgctxt "highpriestess flavor"
+msgid "There is life behind the personality that uses personalities as masks. There are times when life puts off the mask and deep answers to deep."
+msgstr "There is life behind the personality that uses personalities as masks. There are times when life puts off the mask and deep answers to deep."
+
+msgctxt "highpriestess firstNightReminder"
+msgid "Point to a player."
+msgstr "Покажіть Верховній Жриці гравця, з ким на Вашу думку їй краще всього поговорити завтра."
+
+msgctxt "highpriestess otherNightReminder"
+msgid "Point to a player."
+msgstr "Покажіть Верховній Жриці гравця, з ким на Вашу думку їй краще всього поговорити завтра."
+
+msgctxt "huntsman name"
+msgid "Huntsman"
+msgstr "Єгер"
+
+msgctxt "huntsman ability"
+msgid "Once per game, at night, choose a living player: the Damsel, if chosen, becomes a not-in-play Townsfolk. [+the Damsel]"
+msgstr "Раз за гру, вночі, обери живого гравця: обрана Дівиця стає Міщаном не в грі. [+Дівиця]"
+
+msgctxt "huntsman flavor"
+msgid "My cabin is warm and sturdy. My axe by the door, my boots drying by the fire, and elk stew a-simmering… Hark! A scream echoes through the valley! The rain and the mud and the cold, cold wind mask the scent of the wolves, but I know the path and my pace is steady. I am coming."
+msgstr "My cabin is warm and sturdy. My axe by the door, my boots drying by the fire, and elk stew a-simmering… Hark! A scream echoes through the valley! The rain and the mud and the cold, cold wind mask the scent of the wolves, but I know the path and my pace is steady. I am coming."
+
+msgctxt "huntsman firstNightReminder"
+msgid "The Huntsman shakes their head 'no' or points to a player. If they point to the Damsel, wake that player, show the 'You are' card and a not-in-play character token."
+msgstr "Єгер або дає сигнал 'ні', або вказує на гравця. Якщо вони вказали на Дівицю, покажіть Дівиці картку 'Ви є' і жетон персонажа не в грі."
+
+msgctxt "huntsman otherNightReminder"
+msgid "The Huntsman shakes their head 'no' or points to a player. If they point to the Damsel, wake that player, show the 'You are' card and a not-in-play character token."
+msgstr "Єгер або дає сигнал 'ні', або вказує на гравця. Якщо вони вказали на Дівицю, покажіть Дівиці картку 'Ви є' і жетон персонажа не в грі."
+
+msgctxt "huntsman reminders"
+msgid "No ability"
+msgstr "Без здібності"
+
+msgctxt "imp name"
+msgid "Imp"
+msgstr "Чорт"
+
+msgctxt "imp ability"
+msgid "Each night*, choose a player: they die. If you kill yourself this way, a Minion becomes the Imp."
+msgstr "Щоночі* обирай гравця: він помирає. Якщо ти таким чином вбив себе, Міньон стає Чортом."
+
+msgctxt "imp flavor"
+msgid "We must keep our wits sharp and our sword sharper. Evil walks among us, and will stop at nothing to destroy us good, simple folk, bringing our fine town to ruin. Trust no-one. But, if you must trust someone, trust me."
+msgstr "We must keep our wits sharp and our sword sharper. Evil walks among us, and will stop at nothing to destroy us good, simple folk, bringing our fine town to ruin. Trust no-one. But, if you must trust someone, trust me."
+
+msgctxt "imp otherNightReminder"
+msgid "The Imp points to a player. That player dies. If the Imp chose themselves: Replace the character of 1 alive minion with a spare Imp token. Show the 'You are' card, then the Imp token."
+msgstr "Чортеня вказує на гравця: цей гравець помирає. Якщо Чортеня обрало себе: Замініть жетон одного з міньонів на додатковий жетон Чортеня. Покажіть їм картку 'Ви є', потім жетон Чортеня."
+
+msgctxt "imp reminders"
+msgid "Dead"
+msgstr "Мертв"
+
+msgctxt "innkeeper name"
+msgid "Innkeeper"
+msgstr "Трактирник"
+
+msgctxt "innkeeper ability"
+msgid "Each night*, choose 2 players: they can't die tonight, but 1 is drunk until dusk."
+msgstr "Щоночі* обирай двох гравців; цієї ночі вони не можуть померти, але один з них п'ян до сутінок."
+
+msgctxt "innkeeper flavor"
+msgid "Come inside, fair traveller, and rest your weary bones. Drink and be merry, for the legions of the Dark One shall not harass thee tonight."
+msgstr "Come inside, fair traveller, and rest your weary bones. Drink and be merry, for the legions of the Dark One shall not harass thee tonight."
+
+msgctxt "innkeeper otherNightReminder"
+msgid "The previously protected and drunk players lose those markers. The Innkeeper points to two players. Those players are protected. One is drunk."
+msgstr "Попередньо захищені і п'яні гравці втрачають ці позначки. Трактирник вказує на двох гравців. Ці гравці захищені. Один з них п'ян."
+
+msgctxt "innkeeper reminders"
+msgid "Protected,Drunk"
+msgstr "Захищен,П'ян"
+
+msgctxt "investigator name"
+msgid "Investigator"
+msgstr "Слідчий"
+
+msgctxt "investigator ability"
+msgid "You start knowing that 1 of 2 players is a particular Minion."
+msgstr "Ти одразу знаєш що один з двох гравців - певний Міньон."
+
+msgctxt "investigator flavor"
+msgid "It is a fine night for a stroll, wouldn't you say, Mister Morozov? Or should I say... BARON Morozov?"
+msgstr "It is a fine night for a stroll, wouldn't you say, Mister Morozov? Or should I say... BARON Morozov?"
+
+msgctxt "investigator firstNightReminder"
+msgid "Show the character token of a Minion in play. Point to two players, one of which is that character."
+msgstr "Покажи жетон Міньона в грі. Вкажи на двох гравців, один з котрих - цей персонаж."
+
+msgctxt "investigator reminders"
+msgid "Minion,Wrong"
+msgstr "Міньон,Хиба"
+
+msgctxt "judge name"
+msgid "Judge"
+msgstr "Суддя"
+
+msgctxt "judge ability"
+msgid "Once per game, if another player nominated, you may choose to force the current execution to pass or fail."
+msgstr "Раз за гру ти можеш вирішити результат поточної номінації, ігноруючи стандартні умови для цього."
+
+msgctxt "judge flavor"
+msgid "I find the defendant guilty of the crimes of murder, fraud, arson, larceny, impersonating an officer of the law, practicing medicine without a license, slander, regicide, and littering."
+msgstr "I find the defendant guilty of the crimes of murder, fraud, arson, larceny, impersonating an officer of the law, practicing medicine without a license, slander, regicide, and littering."
+
+msgctxt "judge reminders"
+msgid "No ability"
+msgstr "Без здібності"
+
+msgctxt "juggler name"
+msgid "Juggler"
+msgstr "Жонглер"
+
+msgctxt "juggler ability"
+msgid "On your 1st day, publicly guess up to 5 players' characters. That night, you learn how many you got correct."
+msgstr "Першого свого дня публічно назви до 5-ти гравців і їх персонажів: цієї ночі ти дізнаєшся скільки вгадав."
+
+msgctxt "juggler flavor"
+msgid "For my next trick, as per request, I will need a flower, a bag of beans, a toy snake, a paintbrush, and a motorized gasoline-powered hedge trimming device. I warn you, this trick may be my last. Oh dear."
+msgstr "For my next trick, as per request, I will need a flower, a bag of beans, a toy snake, a paintbrush, and a motorized gasoline-powered hedge trimming device. I warn you, this trick may be my last. Oh dear."
+
+msgctxt "juggler otherNightReminder"
+msgid "If today was the Juggler’s first day: Show the hand signal for the number (0, 1, 2, etc.) of 'Correct' markers. Remove markers."
+msgstr "Якщо сьогодні перший день Жонглера: Покажіть числовий сигнал (0, 1, 2 і т.д.), що відповідає кількості жетонів 'Вірно'. Приберіть їх."
+
+msgctxt "juggler reminders"
+msgid "Correct"
+msgstr "Вірно"
+
+msgctxt "kazali name"
+msgid "Kazali"
+msgstr "Казалі"
+
+msgctxt "kazali ability"
+msgid "Each night*, choose a player: they die. [You choose which players are Minions. -? to +? Outsiders]"
+msgstr "Щоночі* обирай гравця: він помирає. [Ти обираєш які гравці стають якими Міньонами. -? до +? Приїжджих]"
+
+msgctxt "kazali flavor"
+msgid "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig."
+msgstr "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig."
+
+msgctxt "kazali firstNightReminder"
+msgid "The Kazali points at a player and a Minion on the character sheet. Replace their old character token with the Minion token, show them the “You Are” info token then the Minion character token, and give a thumbs down. Repeat until the normal number of Minions exist. Put the Kazali to sleep."
+msgstr "Казалі вказує на гравця і на Міньона в списку персонажів. Замініть персонажа обраного гравця цим Міньоном, покажіть їм картку \"Ви є\", їх новий жетон персонажа і жест \"за зло\". Повторіть, доки не отримаєте нормальну кількість Міньонів. Казалі засинає."
+
+msgctxt "kazali otherNightReminder"
+msgid "The Kazali points to a player. That player dies."
+msgstr "Казалі вказує на гравця; обраний гравець помирає"
+
+msgctxt "kazali reminders"
+msgid "Dead"
+msgstr "Мертв"
+
+msgctxt "king name"
+msgid "King"
+msgstr "Король"
+
+msgctxt "king ability"
+msgid "Each night, if the dead equal or outnumber the living, you learn 1 alive character. The Demon knows who you are."
+msgstr "Щоночі, якщо живих не більше мертвих, дізнайся живого персонажа. Демон знає, що ти - Король."
+
+msgctxt "king flavor"
+msgid ""
+"↑Betwixt the unknown strains of mortal strife→\n"
+"And morbid night, sweet↓ with mystery and woe\n"
+"←Lies unfettered joys of fate’s long and colored life\n"
+"Who’s garden blooms with each painted Face to Show."
+msgstr ""
+"↑Betwixt the unknown strains of mortal strife→\n"
+"And morbid night, sweet↓ with mystery and woe\n"
+"←Lies unfettered joys of fate’s long and colored life\n"
+"Who’s garden blooms with each painted Face to Show."
+
+msgctxt "king firstNightReminder"
+msgid "Wake the Demon, show them the 'This Player is' card, show the King token and point to the King player."
+msgstr "Розбудіть Демона, покажіть картку 'Вас обрав персонаж' і жетон Короля. Вкажіть на гравця-Короля."
+
+msgctxt "king otherNightReminder"
+msgid "If there are more dead than living, show the King a character token of a living player."
+msgstr "Якщо більше мертвих аніж живих гравців: покажіть Королю жетон персонажа живого гравця."
+
+msgctxt "klutz name"
+msgid "Klutz"
+msgstr "Вайло"
+
+msgctxt "klutz ability"
+msgid "When you learn that you died, publicly choose 1 alive player: if they are evil, your team loses."
+msgstr "Як дізнаєшся що помер, публічно обери живого гравця: якщо він за зло - твоя команда програє."
+
+msgctxt "klutz flavor"
+msgid "Oops."
+msgstr "Упс."
+
+msgctxt "knight name"
+msgid "Knight"
+msgstr "Лицар"
+
+msgctxt "knight ability"
+msgid "You start knowing 2 players that are not the Demon."
+msgstr "Ти одразу знаєш що два гравці не Демони."
+
+msgctxt "knight flavor"
+msgid "When a man lies, he murders some part of the world."
+msgstr "When a man lies, he murders some part of the world."
+
+msgctxt "knight firstNightReminder"
+msgid "Point to 2 non-Demon players."
+msgstr "Вкажи на двох гравців, жоден з яких Демон."
+
+msgctxt "knight reminders"
+msgid "Know, Know"
+msgstr "Знає,Знає"
+
+msgctxt "legion name"
+msgid "Legion"
+msgstr "Легіон"
+
+msgctxt "legion ability"
+msgid "Each night*, a player might die. Executions fail if only evil voted. You register as a Minion too. [Most players are Legion]"
+msgstr "Щоночі* може померти гравець. Страта провалюється якщо лиш зло проголосувало. Ти також сприймаєшся як Міньон. [Більшість гравців - Легіон]"
+
+msgctxt "legion flavor"
+msgid "We are the chill wind on a winter’s day. We are the shadow in the moonless night. We are the poison in your tea and the whisper in your ear. We are everywhere."
+msgstr "We are the chill wind on a winter’s day. We are the shadow in the moonless night. We are the poison in your tea and the whisper in your ear. We are everywhere."
+
+msgctxt "legion otherNightReminder"
+msgid "Choose a player, that player dies."
+msgstr "Оберіть гравця: він помирає."
+
+msgctxt "legion reminders"
+msgid "Dead,About to die"
+msgstr "Мертв,Буде страчено"
+
+msgctxt "leviathan name"
+msgid "Leviathan"
+msgstr "Левіафан"
+
+msgctxt "leviathan ability"
+msgid "If more than 1 good player is executed, you win. All players know you are in play. After day 5, evil wins."
+msgstr "Як більше одного доброго гравця страчено - зло перемагає. Всі гравці знають що ти в грі. Наприкінці 5-го дня зло перемагає."
+
+msgctxt "leviathan flavor"
+msgid "To the last, I grapple with thee. From Hell’s heart, I stab at thee. For hate’s sake, I spit my last breath at thee."
+msgstr "To the last, I grapple with thee. From Hell’s heart, I stab at thee. For hate’s sake, I spit my last breath at thee."
+
+msgctxt "leviathan firstNightReminder"
+msgid "Place the Leviathan 'Day 1' marker. Announce 'The Leviathan is in play; this is Day 1.'"
+msgstr "Поклади жетон 'День 1' Левіафана. Оголоси 'Левіафан в грі. Зараз день 1'"
+
+msgctxt "leviathan otherNightReminder"
+msgid "Change the Leviathan Day reminder for the next day."
+msgstr "Заміни маркер дня Левіафана на наступний."
+
+msgctxt "leviathan reminders"
+msgid "Day 1,Day 2,Day 3,Day 4,Day 5,Good player executed"
+msgstr "День 1,День 2,День 3,День 4,День 5,Доброго гравця страчено"
+
+msgctxt "librarian name"
+msgid "Librarian"
+msgstr "Бібліотекар"
+
+msgctxt "librarian ability"
+msgid "You start knowing that 1 of 2 players is a particular Outsider. (Or that zero are in play.)"
+msgstr "Ти одразу знаєш що один з двох гравців - певний Приїжджий. (або що жоден Приїжджий у грі.)"
+
+msgctxt "librarian flavor"
+msgid "Certainly madam, under normal circumstances, you may borrow the Codex Malificarium from the library vaults. However, you do not seem to be a member."
+msgstr "Certainly madam, under normal circumstances, you may borrow the Codex Malificarium from the library vaults. However, you do not seem to be a member."
+
+msgctxt "librarian firstNightReminder"
+msgid "Show the character token of an Outsider in play. Point to two players, one of which is that character."
+msgstr "Покажіть жетон Приїжджого в грі. Вкажіть на двох гравців, один з котрих цей персонаж."
+
+msgctxt "librarian reminders"
+msgid "Outsider,Wrong"
+msgstr "Приїжджий,Хиба"
+
+msgctxt "lilmonsta name"
+msgid "Lil' Monsta"
+msgstr "Мінімонста"
+
+msgctxt "lilmonsta ability"
+msgid "Each night, Minions choose who babysits Lil' Monsta's token & \"is the Demon\". Each night*, a player might die. [+1 Minion]"
+msgstr "Щоночі Міньони вирішують хто няньчить Мінімонста і \"Демон\". Щоночі* може померти гравець. [+1 Міньон]"
+
+msgctxt "lilmonsta flavor"
+msgid ""
+"Step 1: Be cute.\n"
+"Step 2: World domination.\n"
+"Step 3: Bweakfast."
+msgstr ""
+"Step 1: Be cute.\n"
+"Step 2: World domination.\n"
+"Step 3: Bweakfast."
+
+msgctxt "lilmonsta firstNightReminder"
+msgid "Wake all Minions together, allow them to vote by pointing at who they want to babysit Lil' Monsta."
+msgstr "Розбудіть всіх Міньонів; дозвольте їм проголосувати (вказуючи), хто буде няньчити Мінімонста."
+
+msgctxt "lilmonsta otherNightReminder"
+msgid "Wake all Minions together, allow them to vote by pointing at who they want to babysit Lil' Monsta. Choose a player, that player dies."
+msgstr "Розбудіть всіх Міньонів; дозвольте їм проголосувати (вказуючи), хто буде няньчити Мінімонста. Оберіть гравця; він помирає."
+
+msgctxt "lilmonsta remindersGlobal"
+msgid "Is the Demon,Dead"
+msgstr "Демон,Мертв"
+
+msgctxt "lleech name"
+msgid "Lleech"
+msgstr "Пійявка"
+
+msgctxt "lleech ability"
+msgid "Each night*, choose a player: they die. You start by choosing a player: they are poisoned. You die if & only if they are dead."
+msgstr "Щоночі* обирай гравця; він помирає. Ти одразу обираєш гравця: його отруєно. Ти помреш виключно якщо цей гравець мертв."
+
+msgctxt "lleech flavor"
+msgid "Tasty, tasty, tasty, tasty, tasty, tasty, tasty, tasty brai- I mean pie! Yes. Tasty pie. That’s what I meant to say."
+msgstr "Tasty, tasty, tasty, tasty, tasty, tasty, tasty, tasty brai- I mean pie! Yes. Tasty pie. That’s what I meant to say."
+
+msgctxt "lleech firstNightReminder"
+msgid "The Lleech points to a player. Place the Poisoned reminder token."
+msgstr "Пійявка вказує на гравця. Познач їх жетоном \"Отруєно\"."
+
+msgctxt "lleech otherNightReminder"
+msgid "The Lleech points to a player. That player dies."
+msgstr "Пійявка вказує на гравця: обраний гравець помирає."
+
+msgctxt "lleech reminders"
+msgid "Dead,Poisoned"
+msgstr "Мертв,Отруєно"
+
+msgctxt "lordoftyphon name"
+msgid "Lord of Typhon"
+msgstr "Лорд Тифона"
+
+msgctxt "lordoftyphon ability"
+msgid "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? To +? Outsiders]"
+msgstr "Щоночі* обирай гравця; він помирає. [Всі злі гравці сидять поруч; ти не скраю. +1 Міньон. -? до +? Приїжджих]"
+
+msgctxt "lordoftyphon flavor"
+msgid "In the shadowed and forgotten corners of the cosmos, where the stars whisper secrets to the void, lies a truth so profound that the merest glimpse of it unravels the sanity of mortal minds."
+msgstr "In the shadowed and forgotten corners of the cosmos, where the stars whisper secrets to the void, lies a truth so profound that the merest glimpse of it unravels the sanity of mortal minds."
+
+msgctxt "lordoftyphon firstNightReminder"
+msgid "Wake the players on either side of the Demon. Show them the 'You Are' card, the token of the Minion they now are, and a thumbs down to indicate they are evil."
+msgstr "Розбуди гравців поруч з Демоном. Покажи їм картку 'Ти є', жетон Міньона яким вони стають і жестом що вони за зло."
+
+msgctxt "lordoftyphon otherNightReminder"
+msgid "The Lord of Typhon points to a player. That player dies."
+msgstr "Лорд Тифона вказує на гравця: обраний гравець помирає."
+
+msgctxt "lordoftyphon reminders"
+msgid "Dead"
+msgstr "Мертв"
+
+msgctxt "lunatic name"
+msgid "Lunatic"
+msgstr "Лунатик"
+
+msgctxt "lunatic ability"
+msgid "You think you are a Demon, but you are not. The Demon knows who you are & who you choose at night."
+msgstr "Тобі здається що ти Демон, але це не так. Демон знає хто ти і кого ти обраєш вночі."
+
+msgctxt "lunatic flavor"
+msgid "I am the night... I think."
+msgstr "I am the night... I think."
+
+msgctxt "lunatic firstNightReminder"
+msgid "If 7 or more players: Show the Lunatic a number of arbitrary 'Minions', players equal to the number of Minions in play. Show 3 character tokens of arbitrary good characters. If the token received by the Lunatic is a Demon that would wake tonight: Allow the Lunatic to do the Demon actions. Place their 'attack' markers. Wake the Demon. Show the Demon’s real character token. Show them the Lunatic player. If the Lunatic attacked players: Show the real demon each marked player. Remove any Lunatic 'attack' markers."
+msgstr "Якщо в грі 7 або більше гравців: Покажіть Лунатику стільки 'Міньонів' (кого показати обираєте Ви), скільки Міньонів має бути у грі. Покажіть будь-які три жетони добрих персонажей. Якщо Лунатик отримав Демона, що зараз прокидається: Дайте Лунатику зробити дії Демона. Позначте їх вибір жетонами \"Нападу\". Розбудіть Демона. Покажіть Демону їх справжній жетон персонажа. Вкажіть Демону на гравця-Лунатика. Якщо Лунатик обрав когось: Покажіть Демону обраних гравців. Приберіть жетони \"Нападу\" Лунатика."
+
+msgctxt "lunatic otherNightReminder"
+msgid "Allow the Lunatic to do the actions of the Demon. Place their 'attack' markers. If the Lunatic selected players: Wake the Demon. Show the 'attack' marker, then point to each marked player. Remove any Lunatic 'attack' markers."
+msgstr "Дайте Лунатику зробити дії Демона. Позначте їх вибір жетонами \"Нападу\". Розбудіть Демона. Покажіть Демону їх справжній жетон персонажа. Якщо Лунатик обрав когось: Покажіть Демону обраних гравців. Приберіть жетони \"Нападу\" Лунатика."
+
+msgctxt "lunatic reminders"
+msgid "Attack 1,Attack 2,Attack 3"
+msgstr "Напад 1,Напад 2,Напад 3"
+
+msgctxt "lycanthrope name"
+msgid "Lycanthrope"
+msgstr "Лікантроп"
+
+msgctxt "lycanthrope ability"
+msgid "Each night*, choose an alive player. If good, they die & the Demon doesn’t kill tonight. One good player registers as evil."
+msgstr "Щоночі* обирай живого гравця: якщо за добро, він помирає і Демон не вбиває вночі. Один з добрих гравців сприймається як за зло."
+
+msgctxt "lycanthrope flavor"
+msgid "Beneath the thin veneer of civilisation lies a howling madness."
+msgstr "Beneath the thin veneer of civilisation lies a howling madness."
+
+msgctxt "lycanthrope otherNightReminder"
+msgid "The Lycanthrope points to a living player: if good, they die and the Demon doesn't kill tonight"
+msgstr "Лікантроп вказує на гравця; цей гравець помирає, і цієї ночі Демон не вбиває."
+
+msgctxt "lycanthrope reminders"
+msgid "Dead,Faux Paw"
+msgstr "Мертв,Faux Paw"
+
+msgctxt "magician name"
+msgid "Magician"
+msgstr "Чарівник"
+
+msgctxt "magician ability"
+msgid "The Demon thinks you are a Minion. Minions think you are a Demon."
+msgstr "Міньонам здається, що ти - Демон. Демону здається, що ти - Міньон."
+
+msgctxt "magician flavor"
+msgid ""
+"1... 2... Abra... 3... 4... Cadabra... *poof!*\n"
+"And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!"
+msgstr ""
+"1... 2... Abra... 3... 4... Cadabra... *poof!*\n"
+"And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!"
+
+msgctxt "marionette name"
+msgid "Marionette"
+msgstr "Маріонетка"
+
+msgctxt "marionette ability"
+msgid "You think you are a good character but you are not. The Demon knows who you are. [You neighbour the Demon]"
+msgstr "Тобі здається що ти - добрий персонаж, але це не так. Демон знає хто ти. [ти сидиш поруч з Демоном]"
+
+msgctxt "marionette flavor"
+msgid "Words, words. They're all we have to go on."
+msgstr "Words, words. They're all we have to go on."
+
+msgctxt "marionette firstNightReminder"
+msgid "Select one of the good players next to the Demon and place the Is the Marionette reminder token. Wake the Demon and show them the Marionette."
+msgstr "Оберіть одного з гравців біля Демона і позначте їх жетоном \"Це - Маріонетка\". Розбудіть Демона і покажіть гравця-Маріонетку."
+
+msgctxt "marionette remindersGlobal"
+msgid "Is the Marionette"
+msgstr "Це - Маріонетка"
+
+msgctxt "mastermind name"
+msgid "Mastermind"
+msgstr "Геній"
+
+msgctxt "mastermind ability"
+msgid "If the Demon dies by execution (ending the game), play for 1 more day. If a player is then executed, their team loses."
+msgstr "Як Демон помирає від страти (що завершило б гру), продовжуйте грати ще один день: якщо цього дня гравця буде страчено - його команда програє."
+
+msgctxt "mastermind flavor"
+msgid "The tentacles of that monster are nailed to the doors of the church. Mothers and children are dancing in the street. Excellent. Everything is proceeding exactly as I have planned."
+msgstr "The tentacles of that monster are nailed to the doors of the church. Mothers and children are dancing in the street. Excellent. Everything is proceeding exactly as I have planned."
+
+msgctxt "mathematician name"
+msgid "Mathematician"
+msgstr "Математик"
+
+msgctxt "mathematician ability"
+msgid "Each night, you learn how many players’ abilities worked abnormally (since dawn) due to another character's ability."
+msgstr "Щоночі ти дізнаєшся, в скількох гравців здібність спрацювала хибно (зі світанку) через здібність іншого гравця."
+
+msgctxt "mathematician flavor"
+msgid "Any consistent formal system x, within which a certain amount of elementary arithmetic can be carried out is incomplete; that is, there are statements of the language of x which can neither be proved nor disproved in x. Ergo, you are drunk."
+msgstr "Any consistent formal system x, within which a certain amount of elementary arithmetic can be carried out is incomplete; that is, there are statements of the language of x which can neither be proved nor disproved in x. Ergo, you are drunk."
+
+msgctxt "mathematician firstNightReminder"
+msgid "Show the hand signal for the number (0, 1, 2, etc.) of players whose ability malfunctioned due to other abilities."
+msgstr "Покажи числовий сигнал (0, 1, 2 і т.д.), що відповідає кількості гравців, чия здібність збивається через здібність інших."
+
+msgctxt "mathematician otherNightReminder"
+msgid "Show the hand signal for the number (0, 1, 2, etc.) of players whose ability malfunctioned due to other abilities."
+msgstr "Покажи числовий сигнал (0, 1, 2 і т.д.), що відповідає кількості гравців, чия здібність збивається через здібність інших."
+
+msgctxt "mathematician reminders"
+msgid "Abnormal"
+msgstr "Збій"
+
+msgctxt "matron name"
+msgid "Matron"
+msgstr "Матрона"
+
+msgctxt "matron ability"
+msgid "Each day, you may choose up to 3 sets of 2 players to swap seats. Players may not leave their seats to talk in private."
+msgstr "Щодня ти можете поміняти до трьох пар гравців місцями. Гравці не можуть покинути своїх місць для приватних розмов."
+
+msgctxt "matron flavor"
+msgid "Miss Featherbottom, be quiet. Master Rutherford, a teacup needs just the four fingers, please. I know you are a father of nine, but age, or lack there-of as the case may be, is never an excuse for poor manners."
+msgstr "Miss Featherbottom, be quiet. Master Rutherford, a teacup needs just the four fingers, please. I know you are a father of nine, but age, or lack there-of as the case may be, is never an excuse for poor manners."
+
+msgctxt "mayor name"
+msgid "Mayor"
+msgstr "Мер"
+
+msgctxt "mayor ability"
+msgid "If only 3 players live & no execution occurs, your team wins. If you die at night, another player might die instead."
+msgstr "Якщо лиш 3 гравці живі і нікого не страчено, твоя команда перемагає. Якщо вночі ти помираєш, інший гравець може померти за тебе."
+
+msgctxt "mayor flavor"
+msgid "We must put our differences aside, and cease this senseless killing. We are all taxpayers after all. Well, most of us."
+msgstr "We must put our differences aside, and cease this senseless killing. We are all taxpayers after all. Well, most of us."
+
+msgctxt "mezepheles name"
+msgid "Mezepheles"
+msgstr "Мезефель"
+
+msgctxt "mezepheles ability"
+msgid "You start knowing a secret word. The 1st good player to say this word becomes evil that night."
+msgstr "Ти одразу знаєш таємне слово. Перший добрий гравець що скаже його перейде на сторону зла вночі."
+
+msgctxt "mezepheles flavor"
+msgid "That which issues from the heart alone, will bend the hearts of others to your own."
+msgstr "That which issues from the heart alone, will bend the hearts of others to your own."
+
+msgctxt "mezepheles firstNightReminder"
+msgid "Show the Mezepheles their secret word."
+msgstr "Покажи Мезефелю їх таємне слово."
+
+msgctxt "mezepheles otherNightReminder"
+msgid "Wake the 1st good player that said the Mezepheles' secret word and show them the 'You are' card and the thumbs down evil signal."
+msgstr "Розбуди першого гравця, що сказав таємне слово Мезефеля; покажи їм картку 'Ви є' і знак 'за зло'."
+
+msgctxt "mezepheles reminders"
+msgid "Turns evil,No ability"
+msgstr "Стає злим,Без здібності"
+
+msgctxt "minstrel name"
+msgid "Minstrel"
+msgstr "Міністрель"
+
+msgctxt "minstrel ability"
+msgid "When a Minion dies by execution, all other players (except Travellers) are drunk until dusk tomorrow."
+msgstr "Коли Міньон вмирає від страти, всі інші гравці (окрім Мандрівників) завтра п'яні до світанку."
+
+msgctxt "minstrel flavor"
+msgid "And I shall hear, tho' soft you tread above me... And all my dreams will warm and sweeter be... If you'll not fail to tell me that you love me... I simply sleep in peace until you come to me."
+msgstr "And I shall hear, tho' soft you tread above me... And all my dreams will warm and sweeter be... If you'll not fail to tell me that you love me... I simply sleep in peace until you come to me."
+
+msgctxt "minstrel reminders"
+msgid "Everyone drunk"
+msgstr "Всі п'яні"
+
+msgctxt "monk name"
+msgid "Monk"
+msgstr "Монах"
+
+msgctxt "monk ability"
+msgid "Each night*, choose a player (not yourself): they are safe from the Demon tonight."
+msgstr "Щоночі* обирай гравця (не себе); цієї ночі їх захищено від Демона."
+
+msgctxt "monk flavor"
+msgid "Tis an ill and deathly wind that blows tonight. Come, my brother, take shelter in the abbey while the storm rages. By my word, or by my life, you will be safe."
+msgstr "Tis an ill and deathly wind that blows tonight. Come, my brother, take shelter in the abbey while the storm rages. By my word, or by my life, you will be safe."
+
+msgctxt "monk otherNightReminder"
+msgid "The previously protected player is no longer protected. The Monk points to a player not themself. Mark that player 'Protected'."
+msgstr "Попередньо захищеного гравця не захищено. Монах вказує на гравця окрім себе. Познач цього гравця жетоном 'Захищено'."
+
+msgctxt "monk reminders"
+msgid "Protected"
+msgstr "Захищено"
+
+msgctxt "moonchild name"
+msgid "Moonchild"
+msgstr "Дитя Луни"
+
+msgctxt "moonchild ability"
+msgid "When you learn that you died, publicly choose 1 alive player. Tonight, if it was a good player, they die."
+msgstr "Коли ти дізнаєшся що помер, обери публічно гравця; якщо вони за добро, то цієї ночі помруть."
+
+msgctxt "moonchild flavor"
+msgid "Scorpio looks sideways at the lovers, and you have a choice to make. With silver cross my palm, and your fate shall be revealed. With steel cross my throat, and by the stars you shall regret it."
+msgstr "Scorpio looks sideways at the lovers, and you have a choice to make. With silver cross my palm, and your fate shall be revealed. With steel cross my throat, and by the stars you shall regret it."
+
+msgctxt "moonchild otherNightReminder"
+msgid "If the Moonchild used their ability to target a player today: If that player is good, they die."
+msgstr "Якщо Дитя Луни використало свою здібність і обрало гравця: якщо цей гравець за добро, він помирає."
+
+msgctxt "moonchild reminders"
+msgid "Dead"
+msgstr "Мертв"
+
+msgctxt "mutant name"
+msgid "Mutant"
+msgstr "Мутант"
+
+msgctxt "mutant ability"
+msgid "If you are “mad” about being an Outsider, you might be executed."
+msgstr "Якщо ти \"мариш\" що ти Приїжджий, тебе може бути страчено."
+
+msgctxt "mutant flavor"
+msgid "I am not a freak! I am a human being! Have mercy!"
+msgstr "I am not a freak! I am a human being! Have mercy!"
+
+msgctxt "nightwatchman name"
+msgid "Nightwatchman"
+msgstr "Ліхтарник"
+
+msgctxt "nightwatchman ability"
+msgid "Once per game, at night, choose a player: they learn who you are."
+msgstr "Раз за гру, вночі, обери гравця: він дізнається що ти - Ліхтарник."
+
+msgctxt "nightwatchman flavor"
+msgid "The night is cold and lonely, but I have the moon, the stars, the crisp wind and the soft thud of leather boots on cobbled stone for company. Yonder, candlelight flickers behind a murky window..."
+msgstr "The night is cold and lonely, but I have the moon, the stars, the crisp wind and the soft thud of leather boots on cobbled stone for company. Yonder, candlelight flickers behind a murky window..."
+
+msgctxt "nightwatchman firstNightReminder"
+msgid "The Nightwatchman may point to a player. Wake that player, show the 'This character selected you' card and the Nightwatchman token, then point to the Nightwatchman player."
+msgstr "Ліхтарник може вказати на гравця. Розбудіть обраного гравця, покажіть картку 'Вас обрав персонаж' і жетон Ліхтарника; вкажіть на гравця-Ліхтарника."
+
+msgctxt "nightwatchman otherNightReminder"
+msgid "The Nightwatchman may point to a player. Wake that player, show the 'This character selected you' card and the Nightwatchman token, then point to the Nightwatchman player."
+msgstr "Ліхтарник може вказати на гравця. Розбудіть обраного гравця, покажіть картку 'Вас обрав персонаж' і жетон Ліхтарника; вкажіть на гравця-Ліхтарника."
+
+msgctxt "nightwatchman reminders"
+msgid "No ability"
+msgstr "Без здібності"
+
+msgctxt "noble name"
+msgid "Noble"
+msgstr "Вельможа"
+
+msgctxt "noble ability"
+msgid "You start knowing 3 players, 1 and only 1 of which is evil."
+msgstr "Ти одразу знаєш трьох гравців; рівно один з них за зло."
+
+msgctxt "noble flavor"
+msgid "Sarcasm is indeed the lowest form of wit. But speaking in response to your criticism, Sir, it is, nevertheless, a form of wit."
+msgstr "Sarcasm is indeed the lowest form of wit. But speaking in response to your criticism, Sir, it is, nevertheless, a form of wit."
+
+msgctxt "noble firstNightReminder"
+msgid "Point to 3 players including one evil player, in no particular order."
+msgstr "Вкажи на трьох гравців, один з яких за зло, в будь-якому порядку."
+
+msgctxt "noble reminders"
+msgid "Seen"
+msgstr "Знає"
+
+msgctxt "nodashii name"
+msgid "No Dashii"
+msgstr "А-Дащіі"
+
+msgctxt "nodashii ability"
+msgid "Each night*, choose a player: they die. Your 2 Townsfolk neighbours are poisoned."
+msgstr "Щоночі* обирай гравця; він помирає. Двох твоїх сусідів-Міщан отруєно."
+
+msgctxt "nodashii flavor"
+msgid "By the sins of Arnoch, I feel thy laden stench. By the curs-ed sun and her foul legion of tiny grinning gods, I corrupt thee. By the blessed night and the hidden depths of the horrid and unholy sea, I end thy squalid life upon this plane."
+msgstr "By the sins of Arnoch, I feel thy laden stench. By the curs-ed sun and her foul legion of tiny grinning gods, I corrupt thee. By the blessed night and the hidden depths of the horrid and unholy sea, I end thy squalid life upon this plane."
+
+msgctxt "nodashii otherNightReminder"
+msgid "The No Dashii points to a player. That player dies."
+msgstr "А-Дащіі вказує на гравця. Цей гравець помирає."
+
+msgctxt "nodashii reminders"
+msgid "Dead,Poisoned"
+msgstr "Мертв,Отруєно"
+
+msgctxt "ogre name"
+msgid "Ogre"
+msgstr "Огр"
+
+msgctxt "ogre ability"
+msgid "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned."
+msgstr "Першої своєї ночі обери гравця (не себе): ти переходиш на їх сторону (не дізнаєшся яку), навіть якщо п'ян чи отруєн."
+
+msgctxt "ogre flavor"
+msgid "<grunt><grin></grunt>"
+msgstr "<grunt><grin></grunt>"
+
+msgctxt "ogre firstNightReminder"
+msgid "The Ogre points to a player (not themselves) and becomes their alignment."
+msgstr "Огр вказує на гравця (не себе) і переходить в їх команду."
+
+msgctxt "ogre reminders"
+msgid "Friend"
+msgstr "Друг"
+
+msgctxt "ojo name"
+msgid "Ojo"
+msgstr "Охо"
+
+msgctxt "ojo ability"
+msgid "Each night*, choose a character: they die. If they are not in play, the Storyteller chooses who dies."
+msgstr "Щоночі* обирай персонажа; він помирає. Якщо персонаж не в грі, Оповідач обирає хто помре."
+
+msgctxt "ojo flavor"
+msgid "Like a bonfire on a moonless night… I see you, mortal."
+msgstr "Like a bonfire on a moonless night… I see you, mortal."
+
+msgctxt "ojo otherNightReminder"
+msgid "The Ojo points to a character on the sheet; if in play, that player dies. If it is not in play, the Storyteller chooses who dies instead."
+msgstr "Охо обирає персонажа з списку; якщо в грі, цей гравець помирає. Якщо персонаж не в грі, Оповідач вирішує хто помре."
+
+msgctxt "ojo reminders"
+msgid "Dead"
+msgstr "Мертв"
+
+msgctxt "oracle name"
+msgid "Oracle"
+msgstr "Оракул"
+
+msgctxt "oracle ability"
+msgid "Each night*, you learn how many dead players are evil."
+msgstr "Щоночі* дізнайся, скільки з мертвих гравців за зло."
+
+msgctxt "oracle flavor"
+msgid "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
+msgstr "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
+
+msgctxt "oracle otherNightReminder"
+msgid "Show the hand signal for the number (0, 1, 2, etc.) of dead evil players."
+msgstr "Покажи числовий сигнал (0, 1, 2 і т.д.), що відповідає кількості мертвих злих гравців."
+
+msgctxt "organgrinder name"
+msgid "Organ Grinder"
+msgstr "Катеринщик"
+
+msgctxt "organgrinder ability"
+msgid "All players keep their eyes closed when voting and the vote tally is secret. Each night, choose if you are drunk or not."
+msgstr "Всі гравці заплющують очі під час голосувань і не знають кількість голосів. Щоночі* обирай чи ти п'ян до сутінок."
+
+msgctxt "organgrinder flavor"
+msgid "Round and round the handles go. The more you dance the less you know."
+msgstr "Round and round the handles go. The more you dance the less you know."
+
+msgctxt "organgrinder reminders"
+msgid "Drunk,About to die"
+msgstr "П'ян,Буде страчено"
+
+msgctxt "pacifist name"
+msgid "Pacifist"
+msgstr "Пацифіст"
+
+msgctxt "pacifist ability"
+msgid "Executed good players might not die."
+msgstr "Страчені добрі гравці можуть не померти."
+
+msgctxt "pacifist flavor"
+msgid "Distrust all in whom the impulse to punish is powerful."
+msgstr "Distrust all in whom the impulse to punish is powerful."
+
+msgctxt "philosopher name"
+msgid "Philosopher"
+msgstr "Філософ"
+
+msgctxt "philosopher ability"
+msgid "Once per game, at night, choose a good character: gain that ability. If this character is in play, they are drunk."
+msgstr "Раз за гру, вночі, обери доброго персонажа: ти отримуєш їх здібність. Якщо обраний персонаж в грі, вони п'яні."
+
+msgctxt "philosopher flavor"
+msgid "If anything is real, beer is real. Drink, for tomorrow we may die."
+msgstr "If anything is real, beer is real. Drink, for tomorrow we may die."
+
+msgctxt "philosopher firstNightReminder"
+msgid "The Philosopher either shows a 'no' head signal, or points to a good character on their sheet. If they chose a character: Swap the out-of-play character token with the Philosopher token and add the 'Is the Philosopher' reminder. If the character is in play, place the drunk marker by that player."
+msgstr "Філософ або дає сигнал 'ні', або вказує на доброго персонажа в списку. Якщо Філософ обрав персонажа: Замініть жетон Філософа жетоном персонажем не в грі, і позначте їх жетоном 'Це - Філософ'. Якщо персонаж в грі, позначте їх жетоном \"П'ян\"."
+
+msgctxt "philosopher otherNightReminder"
+msgid "If the Philosopher has not used their ability: the Philosopher either shows a 'no' head signal, or points to a good character on their sheet. If they chose a character: Swap the out-of-play character token with the Philosopher token and add the 'Is the Philosopher' reminder. If the character is in play, place the drunk marker by that player."
+msgstr "Якщо Філософ ще не використав свою здібність: Філософ або дає сигнал 'ні', або вказує на доброго персонажа в списку. Якщо Філософ обрав персонажа: Замініть жетон Філософа жетоном персонажем не в грі, і позначте їх жетоном 'Це - Філософ'. Якщо персонаж в грі, позначте їх жетоном \"П'ян\"."
+
+msgctxt "philosopher remindersGlobal"
+msgid "Is the Philosopher,Drunk"
+msgstr "Це - Філософ,П'ян"
+
+msgctxt "pithag name"
+msgid "Pit-Hag"
+msgstr "Чар-Зіллярка"
+
+msgctxt "pithag ability"
+msgid "Each night*, choose a player & a character they become (if not-in-play). If a Demon is made, deaths tonight are arbitrary."
+msgstr "Щоночі* обирай гравця і яким персонажем він стає (якщо не в грі). Якщо створено Демона, цієї ночі смерті випадкові."
+
+msgctxt "pithag flavor"
+msgid "Round about the cauldron go; In the poison'd entrails throw; Toad, that under cold stone; Days and nights has thirty-one; Sweated venom sleeping got; Boil thou first in the charmed pot."
+msgstr "Round about the cauldron go; In the poison'd entrails throw; Toad, that under cold stone; Days and nights has thirty-one; Sweated venom sleeping got; Boil thou first in the charmed pot."
+
+msgctxt "pithag otherNightReminder"
+msgid "The Pit-Hag points to a player and a character on the sheet. If this character is not in play, wake that player and show them the 'You are' card and the relevant character token. If the character is in play, nothing happens."
+msgstr "Чар-Зіллярка вказує на гравця, потім на персонажа в списку. Якщо цього персонажа нема в грі: розбудіть обраного гравця, покажіть їм картку 'Ви є' і жетон обраного персонажа. Якщо обраний персонаж в грі, нічого не відбувається."
+
+msgctxt "pixie name"
+msgid "Pixie"
+msgstr "Піксі"
+
+msgctxt "pixie ability"
+msgid "You start knowing 1 in-play Townsfolk. If you were mad that you were this character, you gain their ability when they die."
+msgstr "Ти одразу знаєш персонажа Міщана в грі. Як він помре, якщо ти 'марила' що це твій персонаж - ти отримуєш цю здібність."
+
+msgctxt "pixie flavor"
+msgid ""
+"Round and round the garden, go.\n"
+"Little girls run to and fro.\n"
+"Little boys climb up the tree.\n"
+"Which of these should Pixie be?\n"
+"Ladies smile and go to town. \n"
+"Lords with axe chop forest down.\n"
+"What’s yours is mine. What’s mine, divine.\n"
+"Silly little Pixie, me."
+msgstr ""
+"Round and round the garden, go.\n"
+"Little girls run to and fro.\n"
+"Little boys climb up the tree.\n"
+"Which of these should Pixie be?\n"
+"Ladies smile and go to town. \n"
+"Lords with axe chop forest down.\n"
+"What’s yours is mine. What’s mine, divine.\n"
+"Silly little Pixie, me."
+
+msgctxt "pixie firstNightReminder"
+msgid "Show the Pixie 1 in-play Townsfolk character token."
+msgstr "Покажи Піксі жетон персонажа в грі."
+
+msgctxt "pixie reminders"
+msgid "Mad,Has ability"
+msgstr "Марить,Має здібність"
+
+msgctxt "plaguedoctor name"
+msgid "Plague Doctor"
+msgstr "Чумний Доктор"
+
+msgctxt "plaguedoctor ability"
+msgid "If you die, the Storyteller gains a Minion ability."
+msgstr "Як ти помираєш, Оповідач отримує здібність Міньона."
+
+msgctxt "plaguedoctor flavor"
+msgid "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh."
+msgstr "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh."
+
+msgctxt "plaguedoctor reminders"
+msgid "Storyteller Ability"
+msgstr "Здібність Оповідача"
+
+msgctxt "po name"
+msgid "Po"
+msgstr "По"
+
+msgctxt "po ability"
+msgid "Each night*, you may choose a player: they die. If your last choice was no-one, choose 3 players tonight."
+msgstr "Щоночі*, ти можеш обрати гравця: він помирає. Якщо минулої ночі обрано нікого - натомість обери трьох."
+
+msgctxt "po flavor"
+msgid "Would you like a flower? I'm so lonely."
+msgstr "Would you like a flower? I'm so lonely."
+
+msgctxt "po otherNightReminder"
+msgid "If the Po chose no-one the previous night: The Po points to three players. Otherwise: The Po either shows the 'no' head signal , or points to a player. Chosen players die"
+msgstr "Якщо вчора По обрав нікого: По вказує на трох гравців; інакше: По або дає сигнал 'ні', або вказує на гравця. Обрані гравці помирають"
+
+msgctxt "po reminders"
+msgid "Dead,3 attacks"
+msgstr "Мертв,3 напади"
+
+msgctxt "poisoner name"
+msgid "Poisoner"
+msgstr "Отруйник"
+
+msgctxt "poisoner ability"
+msgid "Each night, choose a player: they are poisoned tonight and tomorrow day."
+msgstr "Щоночі обирай гравця; їх отруєно цієї ночі і наступного дня."
+
+msgctxt "poisoner flavor"
+msgid "Add compound Alpha to compound Beta... NOT TOO MUCH!"
+msgstr "Add compound Alpha to compound Beta... NOT TOO MUCH!"
+
+msgctxt "poisoner firstNightReminder"
+msgid "The Poisoner points to a player. That player is poisoned."
+msgstr "Отруйник обирає гравця. Цього гравця отруєно."
+
+msgctxt "poisoner otherNightReminder"
+msgid "The previously poisoned player is no longer poisoned. The Poisoner points to a player. That player is poisoned."
+msgstr "Попередньо отруєного гравця не отруєно. Отруйник обирає гравця. Цього гравця отруєно."
+
+msgctxt "poisoner reminders"
+msgid "Poisoned"
+msgstr "Отруєно"
+
+msgctxt "politician name"
+msgid "Politician"
+msgstr "Політик"
+
+msgctxt "politician ability"
+msgid "If you were the player most responsible for your team losing, you change alignment & win, even if dead."
+msgstr "Якщо ти - головна причина вашої поразки, ти змінюєш сторону і перемагаєш, навіть після смерті."
+
+msgctxt "politician flavor"
+msgid "I'm glad you asked that question. Truly, I am. But I think the REAL question here is..."
+msgstr "I'm glad you asked that question. Truly, I am. But I think the REAL question here is..."
+
+msgctxt "poppygrower name"
+msgid "Poppy Grower"
+msgstr "Маковій"
+
+msgctxt "poppygrower ability"
+msgid "Minions & Demons do not know each other. If you die, they learn who each other are that night."
+msgstr "Міньони і Демони не знають одне одного. Як ти помреш, тієї ночі Демон і Міньони дізнаються одне одного."
+
+msgctxt "poppygrower flavor"
+msgid "In the hidden groves of the deep forest, the black poppy dwells. To see its revelry is to be enchanted. To smell its thick aroma is to be lost forever, a slave to the gods of light and dark."
+msgstr "In the hidden groves of the deep forest, the black poppy dwells. To see its revelry is to be enchanted. To smell its thick aroma is to be lost forever, a slave to the gods of light and dark."
+
+msgctxt "poppygrower firstNightReminder"
+msgid "Do not inform the Demon/Minions who each other are"
+msgstr "Не повідомляйте Демону і Міньонам одне одного."
+
+msgctxt "poppygrower otherNightReminder"
+msgid "If the Poppy Grower has died, show the Minions/Demon who each other are."
+msgstr "Якщо Маковій помер, покажіть Демону і Міньонам одне одного."
+
+msgctxt "poppygrower reminders"
+msgid "Evil wakes"
+msgstr "Зло прокидається"
+
+msgctxt "preacher name"
+msgid "Preacher"
+msgstr "Проповідник"
+
+msgctxt "preacher ability"
+msgid "Each night, choose a player: a Minion, if chosen, learns this. All chosen Minions have no ability."
+msgstr "Щоночі обирай гравця; обрані Міньони дізнаються про це і не мають здібності."
+
+msgctxt "preacher flavor"
+msgid "It is better to be rich and healthy than poor and sick."
+msgstr "It is better to be rich and healthy than poor and sick."
+
+msgctxt "preacher firstNightReminder"
+msgid "The Preacher chooses a player. If a Minion is chosen, wake the Minion and show the 'This character selected you' card and then the Preacher token."
+msgstr "Проповідник обирає гравця. Якщо обрано Міньона, розбудіть його: покажіть йому картку 'Вас обрав персонаж' і жетон Проповідника."
+
+msgctxt "preacher otherNightReminder"
+msgid "The Preacher chooses a player. If a Minion is chosen, wake the Minion and show the 'This character selected you' card and then the Preacher token."
+msgstr "Проповідник обирає гравця. Якщо обрано Міньона, розбудіть його: покажіть йому картку 'Вас обрав персонаж' і жетон Проповідника."
+
+msgctxt "preacher reminders"
+msgid "At a sermon"
+msgstr "Проповідано"
+
+msgctxt "princess name"
+msgid "Princess"
+msgstr "Princess"
+
+msgctxt "princess ability"
+msgid "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
+msgstr "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
+
+msgctxt "princess flavor"
+msgid "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
+msgstr "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
+
+msgctxt "princess otherNightReminder"
+msgid "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
+msgstr "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
+
+msgctxt "princess reminders"
+msgid "Doesn't Kill"
+msgstr "Doesn't Kill"
+
+msgctxt "professor name"
+msgid "Professor"
+msgstr "Професор"
+
+msgctxt "professor ability"
+msgid "Once per game, at night*, choose a dead player: if they are a Townsfolk, they are resurrected."
+msgstr "Раз за гру, вночі*, обери мертвого гравця: якщо це Міщанин - він оживає."
+
+msgctxt "professor flavor"
+msgid "The process is simple. Attach the hydraulic confabulator to the modified chi matrix amplifier, add 20 CCs of pseudodorafine, keep his Z levels above 20%, and your husband will be fine. Now, all we need is a lightning strike."
+msgstr "The process is simple. Attach the hydraulic confabulator to the modified chi matrix amplifier, add 20 CCs of pseudodorafine, keep his Z levels above 20%, and your husband will be fine. Now, all we need is a lightning strike."
+
+msgctxt "professor otherNightReminder"
+msgid "If the Professor has not used their ability: The Professor either shakes their head no, or points to a player. If that player is a Townsfolk, they are now alive."
+msgstr "Якщо Професор ще не використав свою здібність: Професор або показує сигнал 'ні', або вказує на мертвого гравця. Якщо це Міщанин, він тепер жив."
+
+msgctxt "professor reminders"
+msgid "Alive,No ability"
+msgstr "Живі,Без здібності"
+
+msgctxt "psychopath name"
+msgid "Psychopath"
+msgstr "Психопат"
+
+msgctxt "psychopath ability"
+msgid "Each day, before nominations, you may publicly choose a player: they die. If executed, you only die if you lose roshambo."
+msgstr "Щодня, до номінацій, ти можеш публічно обрати гравця: він помирає. Якщо тебе страчено, ти помреш лиш якщо програєш в Цу-е-фа."
+
+msgctxt "psychopath flavor"
+msgid "Surprise!"
+msgstr "Surprise!"
+
+msgctxt "pukka name"
+msgid "Pukka"
+msgstr "Прикка"
+
+msgctxt "pukka ability"
+msgid "Each night, choose a player: they are poisoned. The previously poisoned player dies then becomes healthy."
+msgstr "Щоночі обирай гравця - його отруєно. Попередньо обраний гравець помирає, потім одужує."
+
+msgctxt "pukka flavor"
+msgid "You truly have been kind welcoming me into your beautiful home. I am so sorry I accidentally scratched you. A little thing. No matter. But please, take this golden toothpick as a humble token of my regret."
+msgstr "You truly have been kind welcoming me into your beautiful home. I am so sorry I accidentally scratched you. A little thing. No matter. But please, take this golden toothpick as a humble token of my regret."
+
+msgctxt "pukka firstNightReminder"
+msgid "The Pukka points to a player. That player is poisoned."
+msgstr "Прикка вказує на гравця; обраного гравця отруєно."
+
+msgctxt "pukka otherNightReminder"
+msgid "The Pukka points to a player. That player is poisoned. The previously poisoned player dies."
+msgstr "Прикка вказує на гравця; обраного гравця отруєно. Попередньо обраний гравець помирає."
+
+msgctxt "pukka reminders"
+msgid "Poisoned,Dead"
+msgstr "Отруєно,Мертв"
+
+msgctxt "puzzlemaster name"
+msgid "Puzzlemaster"
+msgstr "Розумник"
+
+msgctxt "puzzlemaster ability"
+msgid "1 player is drunk, even if you die. If you guess (once) who it is, learn the Demon player, but guess wrong & get false info."
+msgstr "1 з гравців п'ян, навіть якщо помреш. Якщо з однієї спроби вгадаєш хто - дізнаєшся хто з гравців Демон; інакше отримаєш хибні дані."
+
+msgctxt "puzzlemaster flavor"
+msgid "When one begins to think that some thing is merely some other thing, one is usually on the brink of an error. Patience, patience. Don’t confuse just and should with is and isn’t."
+msgstr "When one begins to think that some thing is merely some other thing, one is usually on the brink of an error. Patience, patience. Don’t confuse just and should with is and isn’t."
+
+msgctxt "puzzlemaster reminders"
+msgid "Drunk,Guess used"
+msgstr "П'ян,Вже вгадували"
+
+msgctxt "ravenkeeper name"
+msgid "Ravenkeeper"
+msgstr "Воронар"
+
+msgctxt "ravenkeeper ability"
+msgid "If you die at night, you are woken to choose a player: you learn their character."
+msgstr "Як помреш вночі, тебе розбудять щоб обрати гравця: ти дізнаєшся їх персонажа."
+
+msgctxt "ravenkeeper flavor"
+msgid "My birds will avenge me! Fly! Fly, my sweet and dutiful pets! To the manor and to the river! To the alleys and to the salons! Fly!"
+msgstr "My birds will avenge me! Fly! Fly, my sweet and dutiful pets! To the manor and to the river! To the alleys and to the salons! Fly!"
+
+msgctxt "ravenkeeper otherNightReminder"
+msgid "If the Ravenkeeper died tonight: The Ravenkeeper points to a player. Show that player’s character token."
+msgstr "Якщо Воронар помер цієї ночі: Воронар вказує на гравця. Покажіть жетон персонажа цього гравця."
+
+msgctxt "recluse name"
+msgid "Recluse"
+msgstr "Відлюдник"
+
+msgctxt "recluse ability"
+msgid "You might register as evil & as a Minion or Demon, even if dead."
+msgstr "Ти можеш сприйматися як злий гравець і Демон чи Міньон, навіть після смерті."
+
+msgctxt "recluse flavor"
+msgid "Garn git ya darn grub ya mitts ofma lorn yasee. Grr. Natsy pikkins yonder southwise ye begittin afta ya! Git! Me harvy no so widda licks and demmons no be fightin' hadsup ne'er ma kin. Git, assay!"
+msgstr "Garn git ya darn grub ya mitts ofma lorn yasee. Grr. Natsy pikkins yonder southwise ye begittin afta ya! Git! Me harvy no so widda licks and demmons no be fightin' hadsup ne'er ma kin. Git, assay!"
+
+msgctxt "revolutionary name"
+msgid "Revolutionary"
+msgstr "Революціонер"
+
+msgctxt "revolutionary ability"
+msgid "2 neighboring players are known to be the same alignment. Once per game, one of them registers falsely"
+msgstr "Два гравці-сусіди завідома в одній команді. Раз за гру один з них сприймається хибно."
+
+msgctxt "revolutionary flavor"
+msgid ""
+"United we feigned.\n"
+"Divided, we stalled."
+msgstr ""
+"United we feigned.\n"
+"Divided, we stalled."
+
+msgctxt "revolutionary reminders"
+msgid "Register Falsely?"
+msgstr "Вважається хибно?"
+
+msgctxt "riot name"
+msgid "Riot"
+msgstr "Бунт"
+
+msgctxt "riot ability"
+msgid "On day 3, Minions become Riot & nominees die but nominate an alive player immediately. This must happen."
+msgstr "На 3-й день, обов'язково: Міньони стають Бунтом; номіновані помирають і одразу номінують живого гравця."
+
+msgctxt "riot flavor"
+msgid "Larga vida a la revolución! Mi revolucion!"
+msgstr "Larga vida a la revolución! Mi revolucion!"
+
+msgctxt "sage name"
+msgid "Sage"
+msgstr "Мудрець"
+
+msgctxt "sage ability"
+msgid "If the Demon kills you, you learn that it is 1 of 2 players."
+msgstr "Як тебе вбиває Демон - ти дізнаєшся, що це один з двох гравців."
+
+msgctxt "sage flavor"
+msgid "These mountainous tomes guard the secret, I am sure of it! Twixt word and word, it lies in wait. More candles, boy! More ink! These notes may look arcane, but the infernal puzzle is revealing itself."
+msgstr "These mountainous tomes guard the secret, I am sure of it! Twixt word and word, it lies in wait. More candles, boy! More ink! These notes may look arcane, but the infernal puzzle is revealing itself."
+
+msgctxt "sage otherNightReminder"
+msgid "If the Sage was killed by a Demon: Point to two players, one of which is that Demon."
+msgstr "Якщо Мудреця вбито Демоном: Вкажи на двох гравців, один з яких - той Демон."
+
+msgctxt "sailor name"
+msgid "Sailor"
+msgstr "Моряк"
+
+msgctxt "sailor ability"
+msgid "Each night, choose an alive player: either you or they are drunk until dusk. You can't die."
+msgstr "Щоночі обирай живого гравця; один з вас п'ян до сутінок. Ти не можеш померти."
+
+msgctxt "sailor flavor"
+msgid "I'll drink any one of yer under the table! You! The chatterbox! Reckon you can take me? No? Howza 'bout you, Grandma? You ever tried Old McKillys Extra Spiced Rum before? Guaranteed to put hairs on yer chest! Step aboard, aye!"
+msgstr "I'll drink any one of yer under the table! You! The chatterbox! Reckon you can take me? No? Howza 'bout you, Grandma? You ever tried Old McKillys Extra Spiced Rum before? Guaranteed to put hairs on yer chest! Step aboard, aye!"
+
+msgctxt "sailor firstNightReminder"
+msgid "The Sailor points to a living player. Either the Sailor, or the chosen player, is drunk."
+msgstr "Моряк вказує на живого гравця. Або Моряк, або обраний гравець п'ян."
+
+msgctxt "sailor otherNightReminder"
+msgid "The previously drunk player is no longer drunk. The Sailor points to a living player. Either the Sailor, or the chosen player, is drunk."
+msgstr "Попередньо п'яний гравець вже не п'ян. Моряк вказує на живого гравця. Або Моряк, або обраний гравець п'ян."
+
+msgctxt "sailor reminders"
+msgid "Drunk"
+msgstr "П'ян"
+
+msgctxt "saint name"
+msgid "Saint"
+msgstr "Святий"
+
+msgctxt "saint ability"
+msgid "If you die by execution, your team loses."
+msgstr "Якщо тебе страчено - твоя команда програє."
+
+msgctxt "saint flavor"
+msgid "Wisdom begets peace. Patience begets wisdom. Fear not, for the time shall come when fear too shall pass. Let us pray, and may the unity of our vision make saints of us all."
+msgstr "Wisdom begets peace. Patience begets wisdom. Fear not, for the time shall come when fear too shall pass. Let us pray, and may the unity of our vision make saints of us all."
+
+msgctxt "savant name"
+msgid "Savant"
+msgstr "Савант"
+
+msgctxt "savant ability"
+msgid "Each day, you may visit the Storyteller to learn 2 things in private: 1 is true & 1 is false."
+msgstr "Щодня ти можеш приватно отримати від Оповідача два твердження: одне - істина, інше - хиба."
+
+msgctxt "savant flavor"
+msgid "Seventy-two matchsticks on the floor... the sun sets early but the moon is unchanged... a torn piece of cloth... evil in the manor house... three by three... the one we trusted is not what he seems... green light means magnesium... residue, but the pattern is wrong... Seventy-two matchsticks on the floor..."
+msgstr "Seventy-two matchsticks on the floor... the sun sets early but the moon is unchanged... a torn piece of cloth... evil in the manor house... three by three... the one we trusted is not what he seems... green light means magnesium... residue, but the pattern is wrong... Seventy-two matchsticks on the floor..."
+
+msgctxt "scapegoat name"
+msgid "Scapegoat"
+msgstr "Козел Відпущення"
+
+msgctxt "scapegoat ability"
+msgid "If a player of your alignment is executed, you might be executed instead."
+msgstr "Як гравця твоєї команди страчено, натомість може бути страчено тебе."
+
+msgctxt "scapegoat flavor"
+msgid "Good evening! Thank you for inviting me to the ball. I'm not from around here, but you sure seem like a friendly bunch, by golly. I'm sure we'll get along just dandy. What's all that rope for?"
+msgstr "Good evening! Thank you for inviting me to the ball. I'm not from around here, but you sure seem like a friendly bunch, by golly. I'm sure we'll get along just dandy. What's all that rope for?"
+
+msgctxt "scarletwoman name"
+msgid "Scarlet Woman"
+msgstr "Багрова Дама"
+
+msgctxt "scarletwoman ability"
+msgid "If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don’t count)"
+msgstr "Як Демон помирає, якщо 5 або більше гравців живі - ти стаєш Демоном. (Мандрівники не враховуються)"
+
+msgctxt "scarletwoman flavor"
+msgid "You have shown me the secrets of the Council of the Purple Flame. We have lain together in fire and in lust and in beastly commune, and I am forever your servant. But tonight, my dear, I am your master."
+msgstr "You have shown me the secrets of the Council of the Purple Flame. We have lain together in fire and in lust and in beastly commune, and I am forever your servant. But tonight, my dear, I am your master."
+
+msgctxt "scarletwoman otherNightReminder"
+msgid "If the Scarlet Woman became the Demon today: Show the 'You are' card, then the demon token."
+msgstr "Якщо Багрова Дама стала сьогодні Демоном, покажіть їм картку 'Ви є' і жетон Демона."
+
+msgctxt "scarletwoman reminders"
+msgid "Demon"
+msgstr "Демон"
+
+msgctxt "seamstress name"
+msgid "Seamstress"
+msgstr "Кравчиня"
+
+msgctxt "seamstress ability"
+msgid "Once per game, at night, choose 2 players (not yourself): you learn if they are the same alignment."
+msgstr "Раз за гру, вночі, обери двох гравців (не себе); дізнайся, чи в одній команді ці гравці."
+
+msgctxt "seamstress flavor"
+msgid "Did you hear that stranger in the cashmere coat put the word on our young Belle? And she said yes? Well, that's nothing compared to what Harry and that juggler got up to at the fair! The things I could say if I was a tattletale... my, yes."
+msgstr "Did you hear that stranger in the cashmere coat put the word on our young Belle? And she said yes? Well, that's nothing compared to what Harry and that juggler got up to at the fair! The things I could say if I was a tattletale... my, yes."
+
+msgctxt "seamstress firstNightReminder"
+msgid "The Seamstress either shows a 'no' head signal, or points to two other players. If the Seamstress chose players , nod 'yes' or shake 'no' for whether they are of same alignment."
+msgstr "Кравчиня або дає сигнал 'ні', або вказує на двох інших гравців. Покажи сигналом (так або ні) чи однакова в них сторона."
+
+msgctxt "seamstress otherNightReminder"
+msgid "If the Seamstress has not yet used their ability: the Seamstress either shows a 'no' head signal, or points to two other players. If the Seamstress chose players , nod 'yes' or shake 'no' for whether they are of same alignment."
+msgstr "Якщо Крачиня ще не використала свою здібність: Кравчиня або дає сигнал 'ні', або вказує на двох інших гравців. Покажи сигналом (так або ні) чи однакова в них сторона."
+
+msgctxt "seamstress reminders"
+msgid "No ability"
+msgstr "Без здібності"
+
+msgctxt "sentinel name"
+msgid "Sentinel"
+msgstr "Вартовий"
+
+msgctxt "sentinel ability"
+msgid "There might be 1 extra or 1 fewer Outsider in-play."
+msgstr "Приїжджих в грі може бути на 1 більше або менше"
+
+msgctxt "sentinel flavor"
+msgid ""
+"Name, please.\n"
+"Papers, please.\n"
+"Weapons, please."
+msgstr ""
+"Name, please.\n"
+"Papers, please.\n"
+"Weapons, please."
+
+msgctxt "shabaloth name"
+msgid "Shabaloth"
+msgstr "Шабалот"
+
+msgctxt "shabaloth ability"
+msgid "Each night*, choose 2 players: they die. A dead player you chose last night might be regurgitated."
+msgstr "Щоночі* обирай двох гравців; вони помирають. Обраного вчора тобою гравця може бути вивержено."
+
+msgctxt "shabaloth flavor"
+msgid "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
+msgstr "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
+
+msgctxt "shabaloth otherNightReminder"
+msgid "One player that the Shabaloth chose the previous night might be resurrected. The Shabaloth points to two players. Those players die."
+msgstr "Одного з обраних Шабалотом минулої ночі гравців можна відродити. Шабалот вказує на гравця; обраний гравець помирає."
+
+msgctxt "shabaloth reminders"
+msgid "Dead,Alive"
+msgstr "Мертв,Жив"
+
+msgctxt "shugenja name"
+msgid "Shugenja"
+msgstr "Шугенша"
+
+msgctxt "shugenja ability"
+msgid "You start knowing if your closest evil player is clockwise or anti-clockwise. If equidistant, this info is arbitrary."
+msgstr "Ти одразу знаєш, чи найближчий злий гравець за чи проти годинникової стрілки від Вас. Якщо однаково - дані випадкові."
+
+msgctxt "shugenja flavor"
+msgid "これは夢。それも夢。すべて夢です。"
+msgstr "これは夢。それも夢。すべて夢です。"
+
+msgctxt "shugenja firstNightReminder"
+msgid "Wake the Shugenja; point horizontally in the direction of the closest evil player. If the two closest evil players are equidistant, point your finger horizontally in either direction."
+msgstr "Розбуди Шугенша. Вкажи їм напрямок, в якому находиться найближчий до них злий гравець. Якщо відстань однакова, оберіть який напрямок вказати"
+
+msgctxt "slayer name"
+msgid "Slayer"
+msgstr "Мисливець"
+
+msgctxt "slayer ability"
+msgid "Once per game, during the day, publicly choose a player: if they are the Demon, they die."
+msgstr "Раз за гру, протягом дня, публічно обери гравця: якщо це Демон - він помирає."
+
+msgctxt "slayer flavor"
+msgid "Die."
+msgstr "Die."
+
+msgctxt "slayer reminders"
+msgid "No ability"
+msgstr "Без здібності"
+
+msgctxt "snakecharmer name"
+msgid "Snake Charmer"
+msgstr "Заклинач Змій"
+
+msgctxt "snakecharmer ability"
+msgid "Each night, choose an alive player: a chosen Demon swaps characters & alignments with you & is then poisoned."
+msgstr "Щоночі обирай живого гравця; обраний Демон міняється з тобою командою і персонажем; його потім отруєно."
+
+msgctxt "snakecharmer flavor"
+msgid "Effendi... I am but a humble man, but my pipe is golden and a single tune will tame the wildest djinn, Inshallah. They say that greed hangs more men than rope. But not I, Effendi... not I."
+msgstr "Effendi... I am but a humble man, but my pipe is golden and a single tune will tame the wildest djinn, Inshallah. They say that greed hangs more men than rope. But not I, Effendi... not I."
+
+msgctxt "snakecharmer firstNightReminder"
+msgid "The Snake Charmer points to a player. If that player is the Demon: swap the Demon and Snake Charmer character and alignments. Wake each player to inform them of their new role and alignment. The new Snake Charmer is poisoned."
+msgstr "Заклинач Змій вказує на гравця. Якщо обраний гравець Демон: Поміняйте місцями персонажей та сторони Демона і Заклинача Змій. Почергово розбудіть цих гравців та повідомте їм їхні нові команду і персонажа. Нового Заклинача Змій тепер отруєно."
+
+msgctxt "snakecharmer otherNightReminder"
+msgid "The Snake Charmer points to a player. If that player is the Demon: swap the Demon and Snake Charmer character and alignments. Wake each player to inform them of their new role and alignment. The new Snake Charmer is poisoned."
+msgstr "Заклинач Змій вказує на гравця. Якщо обраний гравець Демон: Поміняйте місцями персонажей та сторони Демона і Заклинача Змій. Почергово розбудіть цих гравців та повідомте їм їхні нові команду і персонажа. Нового Заклинача Змій тепер отруєно."
+
+msgctxt "snakecharmer reminders"
+msgid "Poisoned"
+msgstr "Отруєно"
+
+msgctxt "snitch name"
+msgid "Snitch"
+msgstr "Стукач"
+
+msgctxt "snitch ability"
+msgid "Minions start knowing 3 not-in-play characters."
+msgstr "Міньони отримують блефи."
+
+msgctxt "snitch flavor"
+msgid "It was John."
+msgstr "It was John."
+
+msgctxt "snitch firstNightReminder"
+msgid "After Minion info wake each Minion and show them three not-in-play character tokens. These may be the same or different to each other and the ones shown to the Demon."
+msgstr "Після Даних Міньонів розбуди почергово Міньонів і покажи кожному трьох персонажей не в грі. Вони можуть співпадати чи різнитися від показаних іншим Міньонам чи Демону."
+
+msgctxt "soldier name"
+msgid "Soldier"
+msgstr "Солдат"
+
+msgctxt "soldier ability"
+msgid "You are safe from the Demon."
+msgstr "Тебе захищено від Демона."
+
+msgctxt "soldier flavor"
+msgid "As David said to Goliath, as Theseus said to the Minotaur, as Arjuna said to Bhagadatta... No."
+msgstr "As David said to Goliath, as Theseus said to the Minotaur, as Arjuna said to Bhagadatta... No."
+
+msgctxt "spiritofivory name"
+msgid "Spirit Of Ivory"
+msgstr "Дух Савани"
+
+msgctxt "spiritofivory ability"
+msgid "There can't be more than 1 extra evil player."
+msgstr "Злих гравців не може бути більше, ніж стандартне + 1"
+
+msgctxt "spiritofivory flavor"
+msgid "The Wasteland calls. Bones rise to flesh, then fall to dust. The great spirit grows. The great spirit watches. The great spirit guides. The human listens, or the human is no more."
+msgstr "The Wasteland calls. Bones rise to flesh, then fall to dust. The great spirit grows. The great spirit watches. The great spirit guides. The human listens, or the human is no more."
+
+msgctxt "spiritofivory reminders"
+msgid "No extra evil"
+msgstr "Без нового зла"
+
+msgctxt "spy name"
+msgid "Spy"
+msgstr "Шпигун"
+
+msgctxt "spy ability"
+msgid "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead."
+msgstr "Щоночі ти бачиш Ґримуар. Ти можеш сприйматися як добрий гравець і Міщан чи Приїжджий, навіть після смерті."
+
+msgctxt "spy flavor"
+msgid "Any brewmaster worth their liquor, knows no concoction pours trouble quicker, than one where spies seem double."
+msgstr "Any brewmaster worth their liquor, knows no concoction pours trouble quicker, than one where spies seem double."
+
+msgctxt "spy firstNightReminder"
+msgid "Show the Grimoire to the Spy for as long as they need."
+msgstr "Показуйте Шпигуну Ґримуар скілки вони забажають."
+
+msgctxt "spy otherNightReminder"
+msgid "Show the Grimoire to the Spy for as long as they need."
+msgstr "Показуйте Шпигуну Ґримуар скілки вони забажають."
+
+msgctxt "steward name"
+msgid "Steward"
+msgstr "Стюард"
+
+msgctxt "steward ability"
+msgid "You start knowing 1 good player."
+msgstr "Ти одразу знаєш одного доброго гравця."
+
+msgctxt "steward flavor"
+msgid "How DARE you accuse Her Ladyship of wrongdoing? I’ve known her my entire life! All nine years!"
+msgstr "How DARE you accuse Her Ladyship of wrongdoing? I’ve known her my entire life! All nine years!"
+
+msgctxt "steward firstNightReminder"
+msgid "Point to 1 good player."
+msgstr "Вкажіть на доброго гравця."
+
+msgctxt "steward reminders"
+msgid "Know"
+msgstr "Знає"
+
+msgctxt "stormcatcher name"
+msgid "Storm Catcher"
+msgstr "Ловигрім"
+
+msgctxt "stormcatcher ability"
+msgid "Name a good character. If in play, they can only die by execution, but evil players learn which player it is."
+msgstr "Назви доброго персонажа: цей персонаж, якщо в грі, може померти лиш від страти. Злі гравці знають хто це."
+
+msgctxt "stormcatcher flavor"
+msgid "At dawn, the temple’s long shadow creeps to the fountain. At dusk, the obelisk blocks the red glare, cooling warm water under the archway. All lines converge here. A storm is coming, and this, this pebbled and lush and holy place between the apple trees, is the eye."
+msgstr "At dawn, the temple’s long shadow creeps to the fountain. At dusk, the obelisk blocks the red glare, cooling warm water under the archway. All lines converge here. A storm is coming, and this, this pebbled and lush and holy place between the apple trees, is the eye."
+
+msgctxt "stormcatcher reminders"
+msgid "Safe"
+msgstr "Захищено"
+
+msgctxt "summoner name"
+msgid "Summoner"
+msgstr "Заклинач"
+
+msgctxt "summoner ability"
+msgid "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]"
+msgstr "Ти отримуєш блефи. На третю ніч обери гравця: він стає обраним Демоном. [Нема Демона]"
+
+msgctxt "summoner flavor"
+msgid "Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness"
+msgstr "Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness"
+
+msgctxt "summoner firstNightReminder"
+msgid "Show the 'These characters are not in play' card. Show 3 character tokens of good characters not in play."
+msgstr "Покажи карту \"Ці персонажі не в грі\". Покажи жетони трьох персонажів що не в грі."
+
+msgctxt "summoner otherNightReminder"
+msgid "If it is the 3rd night, wake the Summoner. They point to a player and a Demon on the character sheet - that player becomes that Demon."
+msgstr "Якщо це ніч 3 - розбуди Заклинача; він вказує на гравця і на Демона в списку персонажів - цей гравець стає обраним Демоном."
+
+msgctxt "summoner reminders"
+msgid "Night 1,Night 2,Night 3"
+msgstr "Ніч 1,Ніч 2,Ніч 3"
+
+msgctxt "sweetheart name"
+msgid "Sweetheart"
+msgstr "Серденько"
+
+msgctxt "sweetheart ability"
+msgid "When you die, 1 player is drunk from now on."
+msgstr "Як помреш - один з гравців п'ян."
+
+msgctxt "sweetheart flavor"
+msgid "I will never forget her. Never."
+msgstr "I will never forget her. Never."
+
+msgctxt "sweetheart otherNightReminder"
+msgid "Choose a player that is drunk."
+msgstr "Оберіть гравця, котрий стає п'ян."
+
+msgctxt "sweetheart reminders"
+msgid "Drunk"
+msgstr "П'ян"
+
+msgctxt "tealady name"
+msgid "Tea Lady"
+msgstr "Чай-Майстриня"
+
+msgctxt "tealady ability"
+msgid "If both your alive neighbours are good, they can't die."
+msgstr "Якщо обидва твої живі сусіди за добро, вони не можуть померти."
+
+msgctxt "tealady flavor"
+msgid "If you are cold, tea will warm you. If you are too heated, tea will cool you. If you are depressed, tea will cheer you. If you are excited, tea will calm you."
+msgstr "If you are cold, tea will warm you. If you are too heated, tea will cool you. If you are depressed, tea will cheer you. If you are excited, tea will calm you."
+
+msgctxt "tealady reminders"
+msgid "Can not die"
+msgstr "Не може померти"
+
+msgctxt "thief name"
+msgid "Thief"
+msgstr "Крадій"
+
+msgctxt "thief ability"
+msgid "Each night, choose a player (not yourself): their vote counts negatively tomorrow."
+msgstr "Щоночі обирай гравця (не себе): завтра їх голос рахується як від'ємний."
+
+msgctxt "thief flavor"
+msgid "I aint done nuffink. I weren't even in dat alley last night! It weren't me what stole Mayor Bruno's briefcase wiv all dem fancy dockoments innit. Besides, it was too 'eavy to carry far."
+msgstr "I aint done nuffink. I weren't even in dat alley last night! It weren't me what stole Mayor Bruno's briefcase wiv all dem fancy dockoments innit. Besides, it was too 'eavy to carry far."
+
+msgctxt "thief firstNightReminder"
+msgid "The Thief points to a player. Put the Thief's 'Negative vote' reminder by the chosen player's character token."
+msgstr "Крадій вказує на гравця. Познач гравця жетоном Крадія \"Від'ємний голос\"."
+
+msgctxt "thief otherNightReminder"
+msgid "The Thief points to a player. Put the Thief's 'Negative vote' reminder by the chosen player's character token."
+msgstr "Крадій вказує на гравця. Познач гравця жетоном Крадія \"Від'ємний голос\"."
+
+msgctxt "thief reminders"
+msgid "Negative vote"
+msgstr "Від'ємний голос"
+
+msgctxt "tinker name"
+msgid "Tinker"
+msgstr "Лудильник"
+
+msgctxt "tinker ability"
+msgid "You might die at any time."
+msgstr "В будь-який момент ти можеш померти."
+
+msgctxt "tinker flavor"
+msgid "I think I see the problem. Luckily, I have an idea! This catapult will shoot twice as far with just a minor adjustment..."
+msgstr "I think I see the problem. Luckily, I have an idea! This catapult will shoot twice as far with just a minor adjustment..."
+
+msgctxt "tinker otherNightReminder"
+msgid "The Tinker might die."
+msgstr "Лудильник може померти."
+
+msgctxt "tinker reminders"
+msgid "Dead"
+msgstr "Мертв"
+
+msgctxt "towncrier name"
+msgid "Town Crier"
+msgstr "Глашатай"
+
+msgctxt "towncrier ability"
+msgid "Each night*, you learn if a Minion nominated today."
+msgstr "Щоночі* дізнайся, чи номінував сьогодні хоч один Міньон."
+
+msgctxt "towncrier flavor"
+msgid "Hear ye! Hear ye! Witchcraft in the labyrinth! Genius savant reveals all! Town in danger! Hear Ye!"
+msgstr "Hear ye! Hear ye! Witchcraft in the labyrinth! Genius savant reveals all! Town in danger! Hear Ye!"
+
+msgctxt "towncrier otherNightReminder"
+msgid "Nod 'yes' or shake head 'no' for whether a Minion nominated today. Place the 'Minion not nominated' marker (remove 'Minion nominated', if any)."
+msgstr "Покажи сигналом (так або ні) чи номінував сьогодні Міньон. Познач жетоном \"Міньон не номінував\" (якщо є, прибери жетон \"Міньон номінував\")."
+
+msgctxt "towncrier reminders"
+msgid "Minions not nominated,Minion nominated"
+msgstr "Міньон не номінував,Міньон номінував"
+
+msgctxt "toymaker name"
+msgid "Toymaker"
+msgstr "Лялькар"
+
+msgctxt "toymaker ability"
+msgid "The Demon may choose not to attack & must do this at least once per game. Evil players get normal starting info."
+msgstr "Демон може вирішити (і має хоч раз за гру) пропустити атаку вночі. Злі гравці отримують свої початкові дані"
+
+msgctxt "toymaker flavor"
+msgid "It buzzes! It walks down stairs! It keeps you warm at night! It tastes like sugar! The kiddies love it! Introducing... the brand new... Warm'o-buzzy-wuzzy-walk'a'bot-thingy-contraption! Fun for all ages!"
+msgstr "It buzzes! It walks down stairs! It keeps you warm at night! It tastes like sugar! The kiddies love it! Introducing... the brand new... Warm'o-buzzy-wuzzy-walk'a'bot-thingy-contraption! Fun for all ages!"
+
+msgctxt "toymaker reminders"
+msgid "No Attack"
+msgstr "Не атакує"
+
+msgctxt "undertaker name"
+msgid "Undertaker"
+msgstr "Трунар"
+
+msgctxt "undertaker ability"
+msgid "Each night*, you learn which character died by execution today."
+msgstr "Щоночі* ти дізнаєшся який персонаж сьогодні помер від страти."
+
+msgctxt "undertaker flavor"
+msgid "Hmmm....what have we here? The left boot is worn down to the heel, with flint shavings under the tongue. This is the garb of a Military man."
+msgstr "Hmmm....what have we here? The left boot is worn down to the heel, with flint shavings under the tongue. This is the garb of a Military man."
+
+msgctxt "undertaker otherNightReminder"
+msgid "If a player was executed today: Show that player’s character token."
+msgstr "Якщо граця було страчено сьогодні: покажіть жетон персонажа цього гравця."
+
+msgctxt "undertaker reminders"
+msgid "Executed"
+msgstr "Страчено"
+
+msgctxt "vigormortis name"
+msgid "Vigormortis"
+msgstr "Вігормортіс"
+
+msgctxt "vigormortis ability"
+msgid "Each night*, choose a player: they die. Minions you kill keep their ability & poison 1 Townsfolk neighbour. [−1 Outsider]"
+msgstr "Щоночі* обирай гравця; він помирає. Вбиті тобою Міньони лишаються зі здібністю і отруюють одного з сусідів-Міщан. [-1 Приїжджий]"
+
+msgctxt "vigormortis flavor"
+msgid "All doors are one door. All keys are one key. All cups are one cup, but whosoever drinketh of the water that I give shall never thirst, but the water shall be in him a well springing up into everlasting life."
+msgstr "All doors are one door. All keys are one key. All cups are one cup, but whosoever drinketh of the water that I give shall never thirst, but the water shall be in him a well springing up into everlasting life."
+
+msgctxt "vigormortis otherNightReminder"
+msgid "The Vigormortis points to a player. That player dies. If a Minion, they keep their ability and one of their Townsfolk neighbours is poisoned."
+msgstr "Вігормортіс вказує на гравця. Цей гравець помирає. Якщо Міньон, вони залишаються зі здібністю і одного з їх сусідів-Міщан отруєно."
+
+msgctxt "vigormortis reminders"
+msgid "Dead,Has ability,Poisoned"
+msgstr "Мертв,Має здібність,Отруєно"
+
+msgctxt "villageidiot name"
+msgid "Village Idiot"
+msgstr "Сільський Дурник"
+
+msgctxt "villageidiot ability"
+msgid "Each night, choose a player: you learn their alignment. [+0 to +2 Village Idiots. 1 of the extras is drunk]"
+msgstr "Щоночі обирай гравця: ти дізнаєшся їх команду. [+0 до +2 Сільських Дурня. 1 з додаткових - п'ян]"
+
+msgctxt "villageidiot flavor"
+msgid "Roses are blue, and violets are red, Please reverse what I just said."
+msgstr "Roses are blue, and violets are red, Please reverse what I just said."
+
+msgctxt "villageidiot firstNightReminder"
+msgid "The Village Idiot points to a player; give a thumbs up if that player is good or a thumbs down if that player is evil."
+msgstr "Сільський Дурник вказує на гравця; якщо цей гравець за добро, покажи великий палець вгору, якщо за зло - великий палець вниз."
+
+msgctxt "villageidiot otherNightReminder"
+msgid "The Village Idiot points to a player; give a thumbs up if that player is good or a thumbs down if that player is evil."
+msgstr "Сільський Дурник вказує на гравця; якщо цей гравець за добро, покажи великий палець вгору, якщо за зло - великий палець вниз."
+
+msgctxt "villageidiot reminders"
+msgid "Drunk"
+msgstr "П'ян"
+
+msgctxt "virgin name"
+msgid "Virgin"
+msgstr "Діва"
+
+msgctxt "virgin ability"
+msgid "The 1st time you are nominated, if the nominator is a Townsfolk, they are executed immediately."
+msgstr "Перший раз як тебе номінував гравець, якщо це Міщанин - його одразу страчено."
+
+msgctxt "virgin flavor"
+msgid "I am pure. Let those who are without sin cast themselves down and suffer in my stead. My reputation shall not be stained with your venomous accusations."
+msgstr "I am pure. Let those who are without sin cast themselves down and suffer in my stead. My reputation shall not be stained with your venomous accusations."
+
+msgctxt "virgin reminders"
+msgid "No ability"
+msgstr "Без здібності"
+
+msgctxt "vizier name"
+msgid "Vizier"
+msgstr "Везир"
+
+msgctxt "vizier ability"
+msgid "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately."
+msgstr "Всі гравці знають, що ти - Везир. Ти не можеш померти днем. Якщо добрі гравці проголосували - ти можеш одразу стратити."
+
+msgctxt "vizier flavor"
+msgid "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me."
+msgstr "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me."
+
+msgctxt "vizier firstNightReminder"
+msgid "Announce 'The Vizier is in play' and state which player they are."
+msgstr "Оголосіть \"Везир в грі\" і хто з гравців Везир."
+
+msgctxt "vortox name"
+msgid "Vortox"
+msgstr "Вортох"
+
+msgctxt "vortox ability"
+msgid "Each night*, choose a player: they die. Townsfolk abilities yield false info. Each day, if no-one is executed, evil wins."
+msgstr "Щоночі* обирай гравця; він помирає. Здібності Міщан дають хибні дані. Якщо кожного дня когось не страчено - зло перемагає."
+
+msgctxt "vortox flavor"
+msgid "Black is White. Right is Wrong. Left is Right. Up is Long. Down is Sight. Short is Blind. Follow me. Answers find."
+msgstr "Black is White. Right is Wrong. Left is Right. Up is Long. Down is Sight. Short is Blind. Follow me. Answers find."
+
+msgctxt "vortox otherNightReminder"
+msgid "The Vortox points to a player. That player dies."
+msgstr "Вортох вказує на гравця. Цей гравець помирає."
+
+msgctxt "vortox reminders"
+msgid "Dead"
+msgstr "Мертв"
+
+msgctxt "voudon name"
+msgid "Voudon"
+msgstr "Водун"
+
+msgctxt "voudon ability"
+msgid "Only you and the dead can vote. They don't need a vote token to do so. A 50% majority is not required."
+msgstr "Голосувати можуть лиш ти й мертві гравці (не треба жетони голосу). Для страти не потрібно голосу половини гравців."
+
+msgctxt "voudon flavor"
+msgid "Bien venu. Sit down. Breathe deep. Enter the land of the dead. See with their eyes. Speak with their voice. Yon sel lang se janm ase."
+msgstr "Bien venu. Sit down. Breathe deep. Enter the land of the dead. See with their eyes. Speak with their voice. Yon sel lang se janm ase."
+
+msgctxt "washerwoman name"
+msgid "Washerwoman"
+msgstr "Прачка"
+
+msgctxt "washerwoman ability"
+msgid "You start knowing that 1 of 2 players is a particular Townsfolk."
+msgstr "Ти одразу знаєш що один з двох гравців - певний Міщанин."
+
+msgctxt "washerwoman flavor"
+msgid "Bloodstains on a dinner jacket? No, this is cooking sherry. How careless."
+msgstr "Bloodstains on a dinner jacket? No, this is cooking sherry. How careless."
+
+msgctxt "washerwoman firstNightReminder"
+msgid "Show the character token of a Townsfolk in play. Point to two players, one of which is that character."
+msgstr "Покажи жетон Міщана у грі. Вкажи на двох гравців, один з котрих цей персонаж."
+
+msgctxt "washerwoman reminders"
+msgid "Townsfolk,Wrong"
+msgstr "Міщан,Хиба"
+
+msgctxt "widow name"
+msgid "Widow"
+msgstr "Чорна Вдова"
+
+msgctxt "widow ability"
+msgid "On your 1st night, look at the Grimoire and choose a player: they are poisoned. 1 good player knows a Widow is in play."
+msgstr "Твоєї першої ночі загляни в Ґримуар і обери гравця: його отруєно. Один добрий гравець знає, що Чорна Вдова у грі."
+
+msgctxt "widow flavor"
+msgid "More wine? Château d’Ergot ’07 is a very special vintage. My yes, very special indeed."
+msgstr "More wine? Château d’Ergot ’07 is a very special vintage. My yes, very special indeed."
+
+msgctxt "widow firstNightReminder"
+msgid "Show the Grimoire to the Widow for as long as they need. The Widow points to a player. That player is poisoned. Wake a good player. Show the 'These characters are in play' card, then the Widow character token."
+msgstr "Показуйте Чорній Вдові Ґримуар скілки вона забажає. Чорна Вдова обирає гравця: цього гравця отруєно. Розбудіть доброго гравця. Покажіть картку 'Цей персонажі в грі' і жетон Чорної Вдови."
+
+msgctxt "widow remindersGlobal"
+msgid "Knows"
+msgstr "Знає"
+
+msgctxt "widow reminders"
+msgid "Poisoned"
+msgstr "Отруєно"
+
+msgctxt "witch name"
+msgid "Witch"
+msgstr "Відьма"
+
+msgctxt "witch ability"
+msgid "Each night, choose a player: if they nominate tomorrow, they die. If just 3 players live, you lose this ability."
+msgstr "Щоночі обирай гравця: якщо він завтра номінує, то помре. Якщо лиш 3 гравці живі, ти втрачаєш цю здібність."
+
+msgctxt "witch flavor"
+msgid "Three drops of goat's blood. A lock of hair, torn in anger. The name is spoken, the shadow cast. Walk left foot first down that brambled path, and don't look back."
+msgstr "Three drops of goat's blood. A lock of hair, torn in anger. The name is spoken, the shadow cast. Walk left foot first down that brambled path, and don't look back."
+
+msgctxt "witch firstNightReminder"
+msgid "The Witch points to a player. If that player nominates tomorrow they die immediately."
+msgstr "Відьма вказує на гравця. Якщо завтра цей гравець номінує, він миттєво помирає."
+
+msgctxt "witch otherNightReminder"
+msgid "If there are 4 or more players alive: The Witch points to a player. If that player nominates tomorrow they die immediately."
+msgstr "Якщо 4 або більше гравців живі: Відьма вказує на гравця. Якщо завтра цей гравець номінує, він миттєво помирає."
+
+msgctxt "witch reminders"
+msgid "Cursed"
+msgstr "Проклято"
+
+msgctxt "wizard name"
+msgid "Wizard"
+msgstr "Чаклун"
+
+msgctxt "wizard ability"
+msgid "Once per game, choose to make a wish.  If granted, it might have a price & leave a clue as to its nature."
+msgstr "Раз за гру загадай бажання. Якщо виконано, воно може мати ціну і лишити підказку."
+
+msgctxt "wizard flavor"
+msgid "Genies are overrated."
+msgstr "Genies are overrated."
+
+msgctxt "wizard firstNightReminder"
+msgid "Run the Wizard ability if applicable."
+msgstr "Якщо доречно, дій згідно здібності."
+
+msgctxt "wizard otherNightReminder"
+msgid "Run the Wizard ability if applicable."
+msgstr "Якщо доречно, дій згідно здібності."
+
+msgctxt "wizard reminders"
+msgid "?"
+msgstr "?"
+
+msgctxt "xaan name"
+msgid "Xaan"
+msgstr "Хаан"
+
+msgctxt "xaan ability"
+msgid "On night X, all Townsfolk are poisoned until dusk. [X Outsiders]"
+msgstr "В ніч X, до сутінок, всіх Міщан отруєно. [X Приїжджих]"
+
+msgctxt "xaan flavor"
+msgid "Down they fall. One by one. By two, by three, by five."
+msgstr "Down they fall. One by one. By two, by three, by five."
+
+msgctxt "xaan reminders"
+msgid "Night 1, Night 2, Night 3, X"
+msgstr "Ніч 1, Ніч 2, Ніч 3, X"
+
+msgctxt "yaggababble name"
+msgid "Yaggababble"
+msgstr "Балаягга"
+
+msgctxt "yaggababble ability"
+msgid "You start knowing a secret phrase. For each time you said it publicly today, a player might die."
+msgstr "Ти одразу знаєш таємну фразу. Щодня до світанку, за кожен раз що ти публічно її скажеш може померти гравець."
+
+msgctxt "yaggababble flavor"
+msgid "Murders inside the Rue Morgue? Фальшивые новости! Hounds on the Baskerville moor? Фальшивые новости! Death while sailing the Nile? Фальшивые новости!"
+msgstr "Murders inside the Rue Morgue? Фальшивые новости! Hounds on the Baskerville moor? Фальшивые новости! Death while sailing the Nile? Фальшивые новости!"
+
+msgctxt "yaggababble firstNightReminder"
+msgid "Show the Yaggababble their secret phrase."
+msgstr "Покажи Балаяггі її таємну фразу"
+
+msgctxt "yaggababble otherNightReminder"
+msgid "Choose a number of players up to the total number of times the Yaggababble said their secret phrase publicly, those players die."
+msgstr "Обери гравців до кількості раз Балаягга публічно сказала фразу - вони помирають"
+
+msgctxt "yaggababble reminders"
+msgid "Dead"
+msgstr "Мертв"
+
+msgctxt "zealot name"
+msgid "Zealot"
+msgstr "Фанатик"
+
+msgctxt "zealot ability"
+msgid "If there are 5 or more players alive, you must vote for every nomination."
+msgstr "Доки більше 4-х гравців живі ти маєш проголосувати за всі номінації."
+
+msgctxt "zealot flavor"
+msgid "I enjoy talking to you. Your mind appeals to me. It resembles my own mind except that you happen to be insane."
+msgstr "I enjoy talking to you. Your mind appeals to me. It resembles my own mind except that you happen to be insane."
+
+msgctxt "zombuul name"
+msgid "Zombuul"
+msgstr "Зомбуул"
+
+msgctxt "zombuul ability"
+msgid "Each night*, if no-one died today, choose a player: they die. The 1st time you die, you live but register as dead."
+msgstr "Щоночі*, якщо сьогодні ніхто не помер, обери гравця; він помирає. Перший раз ти не помираєш, але сприймаєшся як мертвий."
+
+msgctxt "zombuul flavor"
+msgid "I do not. Understand. Your ways. Fellow human. Show me. The dirt. Where the holy. Lay. Sleeping. I too. Must sleep. Soon."
+msgstr "I do not. Understand. Your ways. Fellow human. Show me. The dirt. Where the holy. Lay. Sleeping. I too. Must sleep. Soon."
+
+msgctxt "zombuul otherNightReminder"
+msgid "If no-one died during the day: The Zombuul points to a player. That player dies."
+msgstr "Якщо сьогодні ніхто не помер: Зомбуул вказує на гравця; обраний гравець помирає."
+
+msgctxt "zombuul reminders"
+msgid "Died today,Dead"
+msgstr "Сьогодні помер,Мертв"

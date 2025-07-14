@@ -1,0 +1,3194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+msgctxt "acrobat name"
+msgid "Acrobat"
+msgstr "雜技演員"
+
+msgctxt "acrobat ability"
+msgid "Each night*, choose a player: if they are or become drunk or poisoned tonight, you die."
+msgstr "每天晚上*，選擇一位玩家，如果他今晚將醉酒或中毒，則你死亡。"
+
+msgctxt "acrobat flavor"
+msgid "Welcome, one and all, to the greatest show on earth."
+msgstr "歡迎各位前來，觀看世上最盛大的表演！"
+
+msgctxt "acrobat otherNightReminder"
+msgid "The Acrobat chooses a player. If they are become drunk or poisoned tonight, the Acrobat player dies."
+msgstr "如果雜技演員的其中一位好人鄰居醉酒或中毒，雜技演員死亡。"
+
+msgctxt "acrobat reminders"
+msgid "Dead"
+msgstr "死亡"
+
+msgctxt "alchemist name"
+msgid "Alchemist"
+msgstr "煉金術士"
+
+msgctxt "alchemist ability"
+msgid "You have a Minion ability. When using this, the Storyteller may prompt you to choose differently."
+msgstr "你擁有一位不在遊戲中的僕從的能力，使用此能力時，說書人可能會提示你重新選擇目標。"
+
+msgctxt "alchemist flavor"
+msgid "Visit the interior of the Earth. By rectification thou shalt find the hidden stone. Above the gold, lieth the red. Kether in Malkuth."
+msgstr "Visit the interior of the Earth. By rectification thou shalt find the hidden stone. Above the gold, lieth the red. Kether in Malkuth."
+
+msgctxt "alchemist firstNightReminder"
+msgid "Show the Alchemist a not-in-play Minion token"
+msgstr "展示一個不在遊戲中的僕從角色代幣，將煉金術士的角色代幣換成那個角色的角色代幣，以「是煉金術士」標記他。"
+
+msgctxt "alchemist remindersGlobal"
+msgid "Is the Alchemist"
+msgstr "是煉金術士"
+
+msgctxt "alhadikhia name"
+msgid "Al-Hadikhia"
+msgstr "哈迪基亞"
+
+msgctxt "alhadikhia ability"
+msgid "Each night*, you may choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die."
+msgstr "每天晚上*，你可以選擇三位玩家(所有玩家都知道是誰)，他們各自私下選擇「活著」或 「死亡」，但是如果他們最後都活著，則他們都死亡。"
+
+msgctxt "alhadikhia flavor"
+msgid "Alsukut min dhahab."
+msgstr "Alsukut min dhahab."
+
+msgctxt "alhadikhia otherNightReminder"
+msgid "The Al-Hadikhia chooses 3 players. Announce the first player, wake them to nod yes to live or shake head no to die, kill or resurrect accordingly, then put to sleep and announce the next player. If all 3 are alive after this, all 3 die."
+msgstr "哈迪基亞選擇三位玩家，要求玩家們沉默並且根據選擇的順序，宣布「哈迪基亞選擇了 [第一位玩家]」，喚醒該玩家，讓他點頭表示活著，搖頭表示死亡，根據結果殺死或復活他，請該玩家閉上眼睛，然後宣布下一位玩家。完成之後如果三位玩家都活著，則三位都死亡。允許玩家們繼續交談。"
+
+msgctxt "alhadikhia reminders"
+msgid "1,2,3,Chose death,Chose life"
+msgstr "1,2,3,選擇「死亡」,選擇「活著」"
+
+msgctxt "alsaahir name"
+msgid "Alsaahir"
+msgstr "Alsaahir"
+
+msgctxt "alsaahir ability"
+msgid "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins."
+msgstr "每天白天一次，如果你公開猜出哪些玩家是僕從、哪些玩家是惡魔，則好人隊伍獲勝。"
+
+msgctxt "alsaahir flavor"
+msgid "I am here because of you, and you are here because of me."
+msgstr "I am here because of you, and you are here because of me."
+
+msgctxt "amnesiac name"
+msgid "Amnesiac"
+msgstr "失憶患者"
+
+msgctxt "amnesiac ability"
+msgid "You do not know what your ability is. Each day, privately guess what it is: you learn how accurate you are."
+msgstr "你不知道你擁有的能力。每天白天，私下猜測你的能力，你得知你的猜測有多準確。"
+
+msgctxt "amnesiac flavor"
+msgid "Wait. What. Who? Oh, ok. Wait. What?"
+msgstr "等等。什麼。誰？哦，明白。等等。什麼？"
+
+msgctxt "amnesiac firstNightReminder"
+msgid "Decide the Amnesiac's entire ability. If the Amnesiac's ability causes them to wake tonight: Wake the Amnesiac and run their ability."
+msgstr "決定失憶患者的真實能力，如果此能力使他在今晚醒來，喚醒失憶症玩家並且進行他的能力。"
+
+msgctxt "amnesiac otherNightReminder"
+msgid "If the Amnesiac's ability causes them to wake tonight: Wake the Amnesiac and run their ability."
+msgstr "如果失憶患者的能力使他在今晚醒來，喚醒他並且進行他的能力。"
+
+msgctxt "amnesiac reminders"
+msgid "?"
+msgstr "?"
+
+msgctxt "angel name"
+msgid "Angel"
+msgstr "天使"
+
+msgctxt "angel ability"
+msgid "Something bad might happen to whoever is most responsible for the death of a new player."
+msgstr "任何需要對新玩家的死亡負最大責任的玩家可能會受到懲罰。"
+
+msgctxt "angel flavor"
+msgid "Let those who are without sin dare to raise their hand to my chosen, for I shall strike such fools down with the fury and righteousness of a thousand storms."
+msgstr "Let those who are without sin dare to raise their hand to my chosen, for I shall strike such fools down with the fury and righteousness of a thousand storms."
+
+msgctxt "angel reminders"
+msgid "Protect,Something Bad"
+msgstr "保護,天罰"
+
+msgctxt "apprentice name"
+msgid "Apprentice"
+msgstr "學徒"
+
+msgctxt "apprentice ability"
+msgid "On your 1st night, you gain a Townsfolk ability (if good), or a Minion ability (if evil)."
+msgstr "在你的第一晚，你得到一個鎮民的能力(如果你是好人隊伍)，或一個僕從的能力(如果你是邪惡隊伍)。"
+
+msgctxt "apprentice flavor"
+msgid "For years have I traveled, studying the ways of The Craft. Which craft, you ask? Simply that of the simple folk. Nothing to worry about. Not yet."
+msgstr "For years have I traveled, studying the ways of The Craft. Which craft, you ask? Simply that of the simple folk. Nothing to worry about. Not yet."
+
+msgctxt "apprentice firstNightReminder"
+msgid "Show the Apprentice the 'You are' card, then a Townsfolk or Minion token. In the Grimoire, replace the Apprentice token with that character token, and put the Apprentice's 'Is the Apprentice' reminder by that character token."
+msgstr "展示「你是」 卡片 + 一個鎮民或僕從的角色代幣，將學徒的角色代幣換成那個角色的角色代幣，然後以「是學徒」標記他。"
+
+msgctxt "apprentice reminders"
+msgid "Is the Apprentice"
+msgstr "是學徒"
+
+msgctxt "artist name"
+msgid "Artist"
+msgstr "藝術家"
+
+msgctxt "artist ability"
+msgid "Once per game, during the day, privately ask the Storyteller any yes/no question."
+msgstr "每場遊戲一次，白天時，私下問說書人任何一個是非題。"
+
+msgctxt "artist flavor"
+msgid "Mon Dieu! C'est lumineux! My work, she is... how you say... Magnifique! Dieu est révélé! Oui."
+msgstr "Mon Dieu! C'est lumineux! My work, she is... how you say... Magnifique! Dieu est révélé! Oui."
+
+msgctxt "artist reminders"
+msgid "No ability"
+msgstr "無能力"
+
+msgctxt "assassin name"
+msgid "Assassin"
+msgstr "刺客"
+
+msgctxt "assassin ability"
+msgid "Once per game, at night*, choose a player: they die, even if for some reason they could not."
+msgstr "每場遊戲一次，晚上時*，選擇一位玩家，該玩家死亡，無論是否有原因導致他們不能死。"
+
+msgctxt "assassin otherNightReminder"
+msgid "If the Assassin has not yet used their ability: The Assassin either shows the 'no' head signal, or points to a player. That player dies."
+msgstr "刺客可以指向一位玩家，該玩家死亡。"
+
+msgctxt "assassin reminders"
+msgid "Dead,No ability"
+msgstr "死亡,無能力"
+
+msgctxt "atheist name"
+msgid "Atheist"
+msgstr "無神論者"
+
+msgctxt "atheist ability"
+msgid "The Storyteller can break the game rules & if executed, good wins, even if you are dead [No evil characters]"
+msgstr "說書人可以破壞遊戲規則，而如果他被處決，則好人隊伍獲勝(儘管你死亡)。[沒有邪惡的角色]"
+
+msgctxt "atheist flavor"
+msgid "Let us disperse with unnecessary conjecture and silly paranoia. There is a perfectly rational explanation for everything. Yes, a teacup may indeed be orbiting the planet, too small to see, but I shall drink my tea from the very real china in my very real hands."
+msgstr "Let us disperse with unnecessary conjecture and silly paranoia. There is a perfectly rational explanation for everything. Yes, a teacup may indeed be orbiting the planet, too small to see, but I shall drink my tea from the very real china in my very real hands."
+
+msgctxt "balloonist name"
+msgid "Balloonist"
+msgstr "氣球飛行員"
+
+msgctxt "balloonist ability"
+msgid "Each night, you learn a player of a different character type than last night. [+0 or +1 Outsider]"
+msgstr "每天晚上，你得知與昨晚不同角色類別的一位玩家。[+0 或 +1 城外人]"
+
+msgctxt "balloonist flavor"
+msgid "More heat! Higher! Higher! Più alto! Ahhh... it is so beautiful from up here, don't you agree? Can you see the children fishing by the river, under the willow? Can you see the  glint of the sun on the circus tent-poles? What's this? An old man, alone, passed out in the vineyard? Less heat! Lower! Lower! Vai più in basso!"
+msgstr "More heat! Higher! Higher! Più alto! Ahhh... it is so beautiful from up here, don't you agree? Can you see the children fishing by the river, under the willow? Can you see the  glint of the sun on the circus tent-poles? What's this? An old man, alone, passed out in the vineyard? Less heat! Lower! Lower! Vai più in basso!"
+
+msgctxt "balloonist firstNightReminder"
+msgid "Choose a character type. Point to a player whose character is of that type. Place the Balloonist's Seen reminder next to that character."
+msgstr "選擇一個角色類別，指向一個為該類別的玩家，以「已得知」標記該玩家。"
+
+msgctxt "balloonist otherNightReminder"
+msgid "Choose a character type different to the previous night. Point to a player whose character is of that type. Place the Balloonist's Seen reminder next to that character, remove the Seen reminder from the previous character."
+msgstr "選擇一個旁邊還沒放置「已得知」標記的角色類別，有選擇到的話，指向一個為該類別的玩家，以「已得知」標記該玩家。"
+
+msgctxt "balloonist reminders"
+msgid "Seen Townsfolk,Seen Outsider,Seen Minion,Seen Demon,Seen Traveller"
+msgstr "已得知(僕從),已得知(城外人),已得知(惡魔),已得知(旅行者),已得知(鎮民)"
+
+msgctxt "banshee name"
+msgid "Banshee"
+msgstr "女妖"
+
+msgctxt "banshee ability"
+msgid "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination."
+msgstr "如果惡魔殺死了你，所有玩家得知此事。從現在開始，你每天可以提名兩次，每次投票也可以投下兩票。"
+
+msgctxt "banshee flavor"
+msgid "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh."
+msgstr "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh."
+
+msgctxt "banshee otherNightReminder"
+msgid "Announce that the Banshee has died."
+msgstr "宣布女妖已死亡(如果有的話)。"
+
+msgctxt "banshee reminders"
+msgid "Has Ability"
+msgstr "具有能力"
+
+msgctxt "barber name"
+msgid "Barber"
+msgstr "理髮師"
+
+msgctxt "barber ability"
+msgid "If you died today or tonight, the Demon may choose 2 players (not another Demon) to swap characters."
+msgstr "如果你在今天或今晚死亡，惡魔可以選擇兩位玩家(非另一位惡魔)交換角色。"
+
+msgctxt "barber flavor"
+msgid "Did you know that barbery and surgery were once the same profession? No? Well, now you do."
+msgstr "你知道理髮和手術曾經是同一份職業嗎？沒聽說過？那現在你知道了。"
+
+msgctxt "barber otherNightReminder"
+msgid "If the Barber died today: Wake the Demon. Show the 'This character selected you' card, then Barber token. The Demon either shows a 'no' head signal, or points to 2 players. If they chose players: Swap the character tokens. Wake each player. Show 'You are', then their new character token."
+msgstr "如果理髮師在今天死亡，喚醒惡魔並展示「這個能力選擇你」提示卡 + 理髮師角色代幣，惡魔可以指向兩位玩家，如果惡魔有選擇，交換他們的角色代幣，分別喚醒他們並展示「你是」提示卡 + 他們的新角色代幣。"
+
+msgctxt "barber reminders"
+msgid "Haircuts tonight"
+msgstr "今晚剪頭髮"
+
+msgctxt "barista name"
+msgid "Barista"
+msgstr "咖啡師"
+
+msgctxt "barista ability"
+msgid "Each night, until dusk, 1) a player becomes sober, healthy and gets true info, or 2) their ability works twice. They learn which."
+msgstr "每天晚上，直到隔天黃昏，隨機發生 1) 一位玩家變得清醒及健康，得到正確的資訊，或者 2) 該玩家的能力觸發兩次。受到影響的玩家得知是哪種效果。"
+
+msgctxt "barista flavor"
+msgid "A cup of coffee with no cream, Monsieur? I’m terribly sorry, but we’re fresh out of cream — how about with no milk?"
+msgstr "要一杯不加奶油的咖啡嗎，先生？非常抱歉，我們奶油剛用完了—不如要不加牛奶的咖啡吧？"
+
+msgctxt "barista firstNightReminder"
+msgid "Choose a player, wake them and tell them which Barista power is affecting them. Treat them accordingly (sober/healthy/true info or activate their ability twice)."
+msgstr "選擇一位玩家，喚醒該玩家並告知他們哪一種咖啡師的效果作用於他們身上(清醒&健康/能力x2)。以對應的標記標記該玩家。"
+
+msgctxt "barista otherNightReminder"
+msgid "Choose a player, wake them and tell them which Barista power is affecting them. Treat them accordingly (sober/healthy/true info or activate their ability twice)."
+msgstr "選擇一位玩家，喚醒該玩家並告知他們哪一種咖啡師的效果作用於他們身上(清醒&健康/能力x2)。以對應的標記標記該玩家。"
+
+msgctxt "barista reminders"
+msgid "Sober & Healthy,Ability twice"
+msgstr "清醒&健康,能力x2"
+
+msgctxt "baron name"
+msgid "Baron"
+msgstr "男爵"
+
+msgctxt "baron ability"
+msgid "There are extra Outsiders in play. [+2 Outsiders]"
+msgstr "遊戲中會出現額外的城外人。[+2 城外人]"
+
+msgctxt "baron flavor"
+msgid "This town has gone to the dogs, what? Cheap foreign labor... that's the ticket. Stuff them in the mine, I say. A bit of hard work never hurt anyone, and a clip'o'the ears to any brigand who says otherwise. It's all about the bottom line, what?"
+msgstr "This town has gone to the dogs, what? Cheap foreign labor... that's the ticket. Stuff them in the mine, I say. A bit of hard work never hurt anyone, and a clip'o'the ears to any brigand who says otherwise. It's all about the bottom line, what?"
+
+msgctxt "beggar name"
+msgid "Beggar"
+msgstr "乞丐"
+
+msgctxt "beggar ability"
+msgid "You must use a vote token to vote. Dead players may choose to give you theirs. If so, you learn their alignment. You are sober & healthy."
+msgstr "你需要使用投票代幣投票，死去的玩家可以將自己的代幣給你，若如此，你得知該玩家的隊伍。"
+
+msgctxt "beggar flavor"
+msgid "Alms for the poor, good Sir? Spare a coin, Madam? Thank you. God bless! You're a right kind soul and no mistake! I'll have some swanky nosh tonight, I will!"
+msgstr "Alms for the poor, good Sir? Spare a coin, Madam? Thank you. God bless! You're a right kind soul and no mistake! I'll have some swanky nosh tonight, I will!"
+
+msgctxt "bishop name"
+msgid "Bishop"
+msgstr "主教"
+
+msgctxt "bishop ability"
+msgid "Only the Storyteller can nominate. At least 1 opposite player must be nominated each day."
+msgstr "只有說書人可以提名，每天必須至少提名一位與你不同隊伍的玩家。"
+
+msgctxt "bishop flavor"
+msgid "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis."
+msgstr "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis."
+
+msgctxt "bishop reminders"
+msgid "Nominate good,Nominate evil"
+msgstr "提名好人,提名邪惡"
+
+msgctxt "boffin name"
+msgid "Boffin"
+msgstr "瘋狂科學家"
+
+msgctxt "boffin ability"
+msgid "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which."
+msgstr "惡魔擁有一個不在遊戲中的好人能力(儘管他醉酒或中毒)，你們都知道是哪種能力。"
+
+msgctxt "boffin flavor"
+msgid "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle."
+msgstr "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle."
+
+msgctxt "boffin firstNightReminder"
+msgid "Wake the Boffin and show them the token of the ability the Demon has. Put the Boffin back to sleep. Wake the Demon, show the Boffin token, then show the token of the good ability the Demon has."
+msgstr "喚醒瘋狂科學家與惡魔並展示「這個能力選擇你」提示卡 + 瘋狂科學家的角色代幣 + 該好人能力的角色代幣。"
+
+msgctxt "bonecollector name"
+msgid "Bone Collector"
+msgstr "集骨家"
+
+msgctxt "bonecollector ability"
+msgid "Once per game, at night, choose a dead player: they regain their ability until dusk."
+msgstr "每場遊戲一次，晚上時，選擇一位死亡的玩家，該玩家恢復自己的能力直到隔天黃昏。"
+
+msgctxt "bonecollector flavor"
+msgid "I collect many things. Hair. Teeth. Clothes. Fragments of poems. The dreams of lost lovers. My secret arts are not for you to know but my fee is a mere pittance. Bring me the blood of a noblewoman who died of heartbreak under a full moon, and you shall have your answers."
+msgstr "I collect many things. Hair. Teeth. Clothes. Fragments of poems. The dreams of lost lovers. My secret arts are not for you to know but my fee is a mere pittance. Bring me the blood of a noblewoman who died of heartbreak under a full moon, and you shall have your answers."
+
+msgctxt "bonecollector otherNightReminder"
+msgid "The Bone Collector either shakes their head no or points at any dead player. If they pointed at any dead player, put the Bone Collector's 'Has Ability' reminder by the chosen player's character token. (They may need to be woken tonight to use it.)"
+msgstr "集骨家可以指向任意死亡的玩家，如果他有選擇，以「具有能力」標記該玩家。(該玩家今晚可能需要被喚醒以使用能力)"
+
+msgctxt "bonecollector reminders"
+msgid "No ability,Has ability"
+msgstr "具有能力,無能力"
+
+msgctxt "boomdandy name"
+msgid "Boomdandy"
+msgstr "炸彈客"
+
+msgctxt "boomdandy ability"
+msgid "If you are executed, all but 3 players die. After a 10 to 1 countdown, the player with the most players pointing at them, dies."
+msgstr "如果你被處決，除了三位玩家之外的所有玩家死亡。在說書人數到十後，被最多位玩家的手指向的玩家死亡。"
+
+msgctxt "boomdandy flavor"
+msgid "Tick... Tick... Tick... TOCK."
+msgstr "滴…滴…滴…答。"
+
+msgctxt "bootlegger name"
+msgid "Bootlegger"
+msgstr "走私販"
+
+msgctxt "bootlegger ability"
+msgid "This script has homebrew characters or rules."
+msgstr "這個劇本中有自定義角色或使用自定義規則。"
+
+msgctxt "bootlegger flavor"
+msgid "I've got the latest shipment from home, a brew I'd like to call 'Barrowfog'. Wanna try?"
+msgstr "我從家裡收到了最新一批貨物，這種釀法的成果我叫它“墳丘霧”。想試試嗎？"
+
+msgctxt "bootlegger firstNightReminder"
+msgid "Announce the Bootlegger is in play and inform the group of all homebrew characters and/or rules you are using in this game."
+msgstr "宣布走私販在遊戲中以及這場遊戲中使用的所有自定義角色和/或自定義規則。"
+
+msgctxt "bountyhunter name"
+msgid "Bounty Hunter"
+msgstr "寶藏獵人"
+
+msgctxt "bountyhunter ability"
+msgid "You start knowing 1 evil player. If the player you know dies, you learn another evil player tonight. [1 Townsfolk is evil]"
+msgstr "你開始遊戲時得知一位邪惡的玩家。如果該玩家死亡，你今晚再得知另一位邪惡的玩家。[一位鎮民是邪惡的]"
+
+msgctxt "bountyhunter flavor"
+msgid "Alone, I walk these streets, paved with the sick stench of corruption. Its thickness worms its way into my nostrils, unbidden, burning with revulsion. And anticipation. The illness of this wretched place grows each night. And I... I am the cure."
+msgstr "Alone, I walk these streets, paved with the sick stench of corruption. Its thickness worms its way into my nostrils, unbidden, burning with revulsion. And anticipation. The illness of this wretched place grows each night. And I... I am the cure."
+
+msgctxt "bountyhunter firstNightReminder"
+msgid "Point to 1 evil player. Wake the townsfolk who is evil and show them the 'You are' card and the thumbs down evil sign."
+msgstr "指向一位邪惡的玩家並以「已得知」標記該玩家，喚醒被標記為邪惡的鎮民並展示「你是」提示卡 + 倒讚表示邪惡。"
+
+msgctxt "bountyhunter otherNightReminder"
+msgid "If the known evil player has died, point to another evil player."
+msgstr "如果已得知的邪惡玩家已死亡，指向另一位邪惡的玩家並以「已得知」標記該玩家。"
+
+msgctxt "bountyhunter reminders"
+msgid "Known"
+msgstr "已得知"
+
+msgctxt "buddhist name"
+msgid "Buddhist"
+msgstr "佛教徒"
+
+msgctxt "buddhist ability"
+msgid "For the first 2 minutes of each day, veteran players may not talk."
+msgstr "每天白天開始的前兩分鐘，老手玩家不能交談。"
+
+msgctxt "buddhist flavor"
+msgid "You throw thorns. Falling in my silence, they become flowers."
+msgstr "You throw thorns. Falling in my silence, they become flowers."
+
+msgctxt "bureaucrat name"
+msgid "Bureaucrat"
+msgstr "官僚"
+
+msgctxt "bureaucrat ability"
+msgid "Each night, choose a player (not yourself): their vote counts as 3 votes tomorrow."
+msgstr "每天晚上，選擇一位其他玩家，明天該玩家投的票計為三票。"
+
+msgctxt "bureaucrat flavor"
+msgid "Sign here please. And here. And here. Aaaaaaaaand here. This should all be sorted and tallied by the end of the day, assuming everyone's signatures are legible. We haven't had a mix-up in the paperwork for ages. Yesterday noon, if memory serves..."
+msgstr "Sign here please. And here. And here. Aaaaaaaaand here. This should all be sorted and tallied by the end of the day, assuming everyone's signatures are legible. We haven't had a mix-up in the paperwork for ages. Yesterday noon, if memory serves..."
+
+msgctxt "bureaucrat firstNightReminder"
+msgid "The Bureaucrat points to a player. Put the Bureaucrat's '3 votes' reminder by the chosen player's character token."
+msgstr "官僚指向一位玩家，以「票數x3」標記該玩家。"
+
+msgctxt "bureaucrat otherNightReminder"
+msgid "The Bureaucrat points to a player. Put the Bureaucrat's '3 votes' reminder by the chosen player's character token."
+msgstr "官僚指向一位玩家，以「票數x3」標記該玩家。"
+
+msgctxt "bureaucrat reminders"
+msgid "3 votes"
+msgstr "票數x3"
+
+msgctxt "butcher name"
+msgid "Butcher"
+msgstr "屠夫"
+
+msgctxt "butcher ability"
+msgid "Each day, after the 1st execution, you may nominate again."
+msgstr "每天白天，第一次處刑過後，你可以再提名一位玩家。"
+
+msgctxt "butcher flavor"
+msgid "It tastes like chicken. More please."
+msgstr "這吃起來像雞肉。請再給我一些。"
+
+msgctxt "butler name"
+msgid "Butler"
+msgstr "管家"
+
+msgctxt "butler ability"
+msgid "Each night, choose a player (not yourself): tomorrow, you may only vote if they are voting too."
+msgstr "每天晚上，選擇一位玩家，明天，你只能在該玩家有投票時投票。"
+
+msgctxt "butler flavor"
+msgid ""
+"Yes, sir...\n"
+"No, sir...\n"
+"Certainly, sir."
+msgstr ""
+"Yes, sir...\n"
+"No, sir...\n"
+"Certainly, sir."
+
+msgctxt "butler firstNightReminder"
+msgid "The Butler points to a player. Mark that player as 'Master'."
+msgstr "管家指向一位玩家，以「主人」標記該玩家。"
+
+msgctxt "butler otherNightReminder"
+msgid "The Butler points to a player. Mark that player as 'Master'."
+msgstr "管家指向一位玩家，以「主人」標記該玩家。"
+
+msgctxt "butler reminders"
+msgid "Master"
+msgstr "主人"
+
+msgctxt "cannibal name"
+msgid "Cannibal"
+msgstr "食人族"
+
+msgctxt "cannibal ability"
+msgid "You have the ability of the recently killed executee. If they are evil, you are poisoned until a good player dies by execution."
+msgstr "你具有最後被處死的玩家的能力。如果該玩家是邪惡的，你中毒直到一個好人玩家被處死。"
+
+msgctxt "cannibal flavor"
+msgid "I don’t like clowns. They taste funny."
+msgstr "I don’t like clowns. They taste funny."
+
+msgctxt "cannibal reminders"
+msgid "Poisoned,Died today"
+msgstr "中毒,最後被處死"
+
+msgctxt "cerenovus name"
+msgid "Cerenovus"
+msgstr "洗腦師"
+
+msgctxt "cerenovus ability"
+msgid "Each night, choose a player & a good character: they are “mad” they are this character tomorrow, or might be executed."
+msgstr "每天晚上，選擇一位玩家及一個好人角色，明天該玩家扮演這個角色，如果他沒有執著地使其他玩家相信自己是該角色，他可能會被處決。"
+
+msgctxt "cerenovus flavor"
+msgid "Reality is merely an opinion. Specifically, my opinion."
+msgstr "現實，也不過是一種意見而已。準確來說，是我的意見。"
+
+msgctxt "cerenovus firstNightReminder"
+msgid "The Cerenovus points to a player, then to a character on their sheet. Wake that player. Show the 'This character selected you' card, then the Cerenovus token. Show the selected character token. If the player is not mad about being that character tomorrow, they can be executed."
+msgstr "洗腦師指向一位玩家 + 角色表上的一個角色，以「瘋狂」標記該玩家，喚醒該玩家並展示「這個能力選擇你」提示卡 + 洗腦師的角色代幣 + 洗腦師選擇的角色代幣。"
+
+msgctxt "cerenovus otherNightReminder"
+msgid "The Cerenovus points to a player, then to a character on their sheet. Wake that player. Show the 'This character selected you' card, then the Cerenovus token. Show the selected character token. If the player is not mad about being that character tomorrow, they can be executed."
+msgstr "洗腦師指向一位玩家 + 角色表上的一個角色，以「瘋狂」標記該玩家，喚醒該玩家並展示「這個能力選擇你」提示卡 + 洗腦師的角色代幣 + 洗腦師選擇的角色代幣。"
+
+msgctxt "cerenovus reminders"
+msgid "Mad"
+msgstr "瘋狂"
+
+msgctxt "chambermaid name"
+msgid "Chambermaid"
+msgstr "女僕"
+
+msgctxt "chambermaid ability"
+msgid "Each night, choose 2 alive players (not yourself): you learn how many woke tonight due to their ability."
+msgstr "每天晚上，選擇兩位活著的其他玩家，你得知其中有幾位因自己的能力而醒來(0/1/2)。"
+
+msgctxt "chambermaid flavor"
+msgid "I aint seen nothin' untoward, Milady. Begging your pardon, but if I did see somethin', it certainly weren't the master o' the house sneaking into the professor's laboratory 'round eleven o'clock and mixing up fancy potions, just like you said, Miss."
+msgstr "I aint seen nothin' untoward, Milady. Begging your pardon, but if I did see somethin', it certainly weren't the master o' the house sneaking into the professor's laboratory 'round eleven o'clock and mixing up fancy potions, just like you said, Miss."
+
+msgctxt "chambermaid firstNightReminder"
+msgid "The Chambermaid points to two players. Show the number signal (0, 1, 2, …) for how many of those players wake tonight for their ability."
+msgstr "女僕指向兩位玩家，展示他們之中因自己的能力而醒來的玩家數量。"
+
+msgctxt "chambermaid otherNightReminder"
+msgid "The Chambermaid points to two players. Show the number signal (0, 1, 2, …) for how many of those players wake tonight for their ability."
+msgstr "女僕指向兩位玩家，展示他們之中因自己的能力而醒來的玩家數量。"
+
+msgctxt "chef name"
+msgid "Chef"
+msgstr "廚師"
+
+msgctxt "chef ability"
+msgid "You start knowing how many pairs of evil players there are."
+msgstr "你開始遊戲時得知總共有幾對邪惡的玩家坐在一起。"
+
+msgctxt "chef flavor"
+msgid "This evening's reservations seem odd. Never before has Mrs Mayweather kept company with that scamp from Hudson Lane. Yet, tonight, they have a table for two. Strange."
+msgstr "今晚的訂位真不尋常。梅威瑟夫人以前根本不會和哈德遜巷的那個流氓為伍，今晚他們卻訂了一張兩人桌。奇怪。"
+
+msgctxt "chef firstNightReminder"
+msgid "Show the finger signal (0, 1, 2, …) for the number of pairs of neighbouring evil players."
+msgstr "展示比鄰而坐的邪惡玩家們的對數。"
+
+msgctxt "choirboy name"
+msgid "Choirboy"
+msgstr "詩童"
+
+msgctxt "choirboy ability"
+msgid "If the Demon kills the King, you learn which player is the Demon. [+ the King]"
+msgstr "如果惡魔殺死了國王，你得知惡魔是哪一位玩家。[+ 國王]"
+
+msgctxt "choirboy flavor"
+msgid "I saw it, I did. I was in the pews, tidying the hymn books, when a dreadful tune started from the pipe organ. The organist had a long cloak, and long fingers on the keys. And a hat that looked… just like… yours."
+msgstr "我看到了。那時候我在長凳那裡整理聖詩集，突然管風琴奏起了可怕的曲調。彈管風琴的那人穿著長斗篷，長長的手指在琴鍵上彈奏著。那人還帶戴著一頂帽子，看起來…就像…你的那頂。"
+
+msgctxt "choirboy otherNightReminder"
+msgid "If the King was killed by the Demon, wake the Choirboy and point to the Demon player."
+msgstr "如果國王被惡魔殺死，喚醒詩童並指向惡魔玩家。"
+
+msgctxt "clockmaker name"
+msgid "Clockmaker"
+msgstr "鐘匠"
+
+msgctxt "clockmaker ability"
+msgid "You start knowing how many steps from the Demon to its nearest Minion."
+msgstr "你開始遊戲時得知惡魔到最近的僕從的距離(相鄰時為1)。"
+
+msgctxt "clockmaker flavor"
+msgid "Do not disturb me. The tick must continue, for the circle is a symbol of life and contains all things - all answers - in its divine machinery. I must work."
+msgstr "不要打擾我。滴答聲必須繼續下去，因為圓圈是生命的象徵，而一切事物——所有答案——都被它那神聖的機械所包藏。我必須工作。"
+
+msgctxt "clockmaker firstNightReminder"
+msgid "Show the hand signal for the number (1, 2, 3, etc.) of places from Demon to closest Minion."
+msgstr "展示惡魔到最近的僕從的距離數(相鄰時為1)。"
+
+msgctxt "courtier name"
+msgid "Courtier"
+msgstr "朝臣"
+
+msgctxt "courtier ability"
+msgid "Once per game, at night, choose a character: they are drunk for 3 nights & 3 days."
+msgstr "每場遊戲一次，晚上時，選擇一位角色，該角色的玩家醉酒持續三天三夜。"
+
+msgctxt "courtier flavor"
+msgid "I am more afraid of an army of one hundred sheep led by a lion than an army of one hundred lions led by a sheep."
+msgstr "I am more afraid of an army of one hundred sheep led by a lion than an army of one hundred lions led by a sheep."
+
+msgctxt "courtier firstNightReminder"
+msgid "The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgstr "朝臣可以選擇角色表上的一個角色，如果朝臣使用了能力且該角色在遊戲中，以 「醉酒N」標記該角色的玩家。"
+
+msgctxt "courtier otherNightReminder"
+msgid "Reduce the remaining number of days the marked player is poisoned. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgstr "減少被標記玩家的醉酒天數。或者朝臣可以選擇角色表上的一個角色，如果他使用了能力且該角色在遊戲中，以 「醉酒N」標記該角色的玩家。"
+
+msgctxt "courtier reminders"
+msgid "Drunk 3,Drunk 2,Drunk 1,No ability"
+msgstr "無能力,醉酒 1,醉酒 2,醉酒 3"
+
+msgctxt "cultleader name"
+msgid "Cult Leader"
+msgstr "邪教領袖"
+
+msgctxt "cultleader ability"
+msgid "Each night, you become the alignment of an alive neighbour. If all good players choose to join your cult, your team wins."
+msgstr "每天晚上，你轉為其中一位活著的鄰居所在的隊伍。如果所有好人玩家都選擇加入你的教團，則你的隊伍獲勝。"
+
+msgctxt "cultleader flavor"
+msgid "Thinking themselves wise, they became fools."
+msgstr "自以為聰明的人，結果卻成了愚人。"
+
+msgctxt "cultleader firstNightReminder"
+msgid "If the cult leader changed alignment, show them the thumbs up good signal of the thumbs down evil signal accordingly."
+msgstr "如果邪教領袖改變了隊伍，喚醒他並告知他目前所在的隊伍。"
+
+msgctxt "cultleader otherNightReminder"
+msgid "If the cult leader changed alignment, show them the thumbs up good signal of the thumbs down evil signal accordingly."
+msgstr "如果邪教領袖改變了隊伍，喚醒他並告知他目前所在的隊伍。"
+
+msgctxt "damsel name"
+msgid "Damsel"
+msgstr "少女"
+
+msgctxt "damsel ability"
+msgid "All Minions know you are in play. If a Minion publicly guesses you (once), your team loses."
+msgstr "所有僕從都知道你在遊戲中。如果一位僕從公開的選擇了你(每場遊戲一次)，則你的隊伍落敗。"
+
+msgctxt "damsel flavor"
+msgid "Don't touch the hair, honey."
+msgstr "Don't touch the hair, honey."
+
+msgctxt "damsel firstNightReminder"
+msgid "Wake all the Minions, show them the 'This character selected you' card and the Damsel token."
+msgstr "喚醒所有僕從並展示「這個能力選擇你」提示卡 + 少女的角色代幣。"
+
+msgctxt "damsel otherNightReminder"
+msgid "If selected by the Huntsman, wake the Damsel, show 'You are' card and a not-in-play Townsfolk token."
+msgstr "如果少女已被獵人選中，喚醒他並展示「你是」提示卡 + 一個不在遊戲中的鎮民角色代幣。"
+
+msgctxt "damsel reminders"
+msgid "Guess used"
+msgstr "已猜測"
+
+msgctxt "deusexfiasco name"
+msgid "Deus ex Fiasco"
+msgstr "Deus ex Fiasco"
+
+msgctxt "deusexfiasco ability"
+msgid "At least once per game, the Storyteller will make a mistake, correct it and publicly admit to it."
+msgstr "每場遊戲一次，說書人會犯一個錯誤，向玩家們承認並修正它。"
+
+msgctxt "deusexfiasco reminders"
+msgid "Whoopsie"
+msgstr "哇喔"
+
+msgctxt "deviant name"
+msgid "Deviant"
+msgstr "怪人"
+
+msgctxt "deviant ability"
+msgid "If you were funny today, you cannot die by exile."
+msgstr "只要你今天很有趣，你就不會被放逐。"
+
+msgctxt "deviant flavor"
+msgid "Twas the lady's quip, forsooth."
+msgstr "Twas the lady's quip, forsooth."
+
+msgctxt "devilsadvocate name"
+msgid "Devil's Advocate"
+msgstr "惡魔擁護者"
+
+msgctxt "devilsadvocate ability"
+msgid "Each night, choose a living player (different to last night): if executed tomorrow, they don't die."
+msgstr "每天晚上，選擇且活著的玩家(不同於昨晚)，如果該玩家明天被處決，他不會死。"
+
+msgctxt "devilsadvocate flavor"
+msgid "My client, should the objection be overruled, pleads innocent by virtue of the prosecution's non-observance of statute 27.B - incorrect or misleading conjugation of a verb. The fact that nine of the jury died last night is simply prima facie, which is, as Wills vs Thule set precedent for, further reason to acquit."
+msgstr "My client, should the objection be overruled, pleads innocent by virtue of the prosecution's non-observance of statute 27.B - incorrect or misleading conjugation of a verb. The fact that nine of the jury died last night is simply prima facie, which is, as Wills vs Thule set precedent for, further reason to acquit."
+
+msgctxt "devilsadvocate firstNightReminder"
+msgid "The Devil’s Advocate points to a living player. That player survives execution tomorrow."
+msgstr "惡魔擁護者指向一位活著的玩家，以「處決保護」標記該玩家。"
+
+msgctxt "devilsadvocate otherNightReminder"
+msgid "The Devil’s Advocate points to a living player, different from the previous night. That player survives execution tomorrow."
+msgstr "惡魔擁護者指向一位活著的玩家，以「處決保護」標記該玩家。"
+
+msgctxt "devilsadvocate reminders"
+msgid "Survives execution"
+msgstr "處決保護"
+
+msgctxt "djinn name"
+msgid "Djinn"
+msgstr "神靈"
+
+msgctxt "djinn ability"
+msgid "Use the Djinn's special rule. All players know what it is."
+msgstr "使用神靈的特殊規則。所有玩家都得知這個規則。"
+
+msgctxt "djinn flavor"
+msgid ""
+"نحن لسنا هنا.\n"
+"                                انت لست حقيقي.\n"
+"                                كل شيء هو وهم.\n"
+"                                أسئلتك هي جبل نار في يوم صافٍ."
+msgstr ""
+"نحن لسنا هنا.\n"
+"                                انت لست حقيقي.\n"
+"                                كل شيء هو وهم.\n"
+"                                أسئلتك هي جبل نار في يوم صافٍ."
+
+msgctxt "doomsayer name"
+msgid "Doomsayer"
+msgstr "末日審判者"
+
+msgctxt "doomsayer ability"
+msgid "If 4 or more players live, each living player may publicly choose (once per game) that a player of their own alignment dies."
+msgstr "如果有四個或更多玩家活著，每個活著的玩家都可以公開選擇(每場遊戲一次)一位與自己同隊伍的玩家，該玩家死亡。"
+
+msgctxt "doomsayer flavor"
+msgid "And on the Seventh Day, there shall be a great flood and a pestilence upon the People of the Village of the Ravens! The dead shall rise and the living shall repent! O Woe! O Unholy day! Only by great sacrifice shall they prevail! So sayeth the Sages of Nostros and so sayeth I."
+msgstr "And on the Seventh Day, there shall be a great flood and a pestilence upon the People of the Village of the Ravens! The dead shall rise and the living shall repent! O Woe! O Unholy day! Only by great sacrifice shall they prevail! So sayeth the Sages of Nostros and so sayeth I."
+
+msgctxt "dreamer name"
+msgid "Dreamer"
+msgstr "夢想家"
+
+msgctxt "dreamer ability"
+msgid "Each night, choose a player (not yourself or Travellers): you learn 1 good and 1 evil character, 1 of which is correct."
+msgstr "每天晚上，選擇其他一位玩家(非旅行者)，你得知該玩家是一個好人角色或一個邪惡角色，其中一個正確。"
+
+msgctxt "dreamer flavor"
+msgid "I remember the Clockmaker. The sky was red and it was raining fractal triangles. There was a smell of violets and a bubbling sound. A woman with glowing eyes and a scraggly beard was hissing at the sky. Then, I awoke."
+msgstr "我記得鐘匠。天空是紅色的，分形三角形如下雨般落下。我嗅到了紫羅蘭的氣味，聽到了冒泡的聲音。一個眼睛發光、鬍鬚蓬亂的女人對著天空發出嘶嘶聲。然後，我醒了。"
+
+msgctxt "dreamer firstNightReminder"
+msgid "The Dreamer points to a player. Show 1 good and 1 evil character token; one of these is correct."
+msgstr "夢想家指向一位玩家，將一個好人的角色代幣和一個邪惡的角色代幣展示給他，其中一個是正確的。"
+
+msgctxt "dreamer otherNightReminder"
+msgid "The Dreamer points to a player. Show 1 good and 1 evil character token; one of these is correct."
+msgstr "夢想家指向一位玩家，將一個好人的角色代幣和一個邪惡的角色代幣展示給他，其中一個是正確的。"
+
+msgctxt "drunk name"
+msgid "Drunk"
+msgstr "醉漢"
+
+msgctxt "drunk ability"
+msgid "You do not know you are the Drunk. You think you are a Townsfolk character, but you are not."
+msgstr "你不知道自己是醉漢，你認為自己是某一位鎮民，但你不是。"
+
+msgctxt "drunk flavor"
+msgid "I’m only a *hic* social drinker, my dear. Admittedly, I am a heavy *burp* socializer."
+msgstr "I’m only a *hic* social drinker, my dear. Admittedly, I am a heavy *burp* socializer."
+
+msgctxt "drunk remindersGlobal"
+msgid "Drunk"
+msgstr "醉酒"
+
+msgctxt "duchess name"
+msgid "Duchess"
+msgstr "夫人"
+
+msgctxt "duchess ability"
+msgid "Each day, 3 players may choose to visit you. At night*, each visitor learns how many visitors are evil, but 1 gets false info."
+msgstr "每天白天，至多三位玩家可以拜訪說書人。當晚*，他們得知有多少拜訪者是邪惡的，但其中一位得到不正確的訊息。"
+
+msgctxt "duchess flavor"
+msgid "We shall entertain between the hours of 6 and 7 precisely. Tea at 6:15. Scones at 6:45. Do not be late. Formal wear applies, as always."
+msgstr "We shall entertain between the hours of 6 and 7 precisely. Tea at 6:15. Scones at 6:45. Do not be late. Formal wear applies, as always."
+
+msgctxt "duchess reminders"
+msgid "Visitor,False Info"
+msgstr "不正確,訪客"
+
+msgctxt "empath name"
+msgid "Empath"
+msgstr "靈媒"
+
+msgctxt "empath ability"
+msgid "Each night, you learn how many of your 2 alive neighbours are evil."
+msgstr "每天晚上，你得知你活著的鄰居中有幾位是邪惡的(0/1/2)。"
+
+msgctxt "empath flavor"
+msgid "My skin prickles. Something is not right here. I can feel it."
+msgstr "My skin prickles. Something is not right here. I can feel it."
+
+msgctxt "empath firstNightReminder"
+msgid "Show the finger signal (0, 1, 2) for the number of evil alive neighbours of the Empath."
+msgstr "展示靈媒的邪惡鄰居數量。"
+
+msgctxt "empath otherNightReminder"
+msgid "Show the finger signal (0, 1, 2) for the number of evil neighbours."
+msgstr "展示靈媒的邪惡鄰居數量。"
+
+msgctxt "engineer name"
+msgid "Engineer"
+msgstr "工程師"
+
+msgctxt "engineer ability"
+msgid "Once per game, at night, choose which Minions or which Demon is in play."
+msgstr "每場遊戲一次，晚上時，選擇哪些僕從或惡魔出現在遊戲中。"
+
+msgctxt "engineer flavor"
+msgid "If it bends, great. If it breaks, well, it probably needed fixing anyway."
+msgstr "If it bends, great. If it breaks, well, it probably needed fixing anyway."
+
+msgctxt "engineer firstNightReminder"
+msgid "The Engineer shows a 'no' head signal, or points to a Demon or points to the relevant number of Minions. If the Engineer chose characters, replace the Demon or Minions with the choices, then wake the relevant players and show them the You are card and the relevant character tokens."
+msgstr "工程師可以指向角色表上的一個惡魔或數個僕從，如果他有選擇，根據選擇置換角色代幣，喚醒相關玩家並展示「你是」提示卡 + 他們的新角色代幣。"
+
+msgctxt "engineer otherNightReminder"
+msgid "The Engineer shows a 'no' head signal, or points to a Demon or points to the relevant number of Minions. If the Engineer chose characters, replace the Demon or Minions with the choices, then wake the relevant players and show them the 'You are' card and the relevant character tokens."
+msgstr "工程師可以指向角色表上的一個惡魔或數個僕從，如果他有選擇，根據選擇置換角色代幣，喚醒相關玩家並展示「你是」提示卡 + 他們的新角色代幣。"
+
+msgctxt "engineer reminders"
+msgid "No ability"
+msgstr "無能力"
+
+msgctxt "eviltwin name"
+msgid "Evil Twin"
+msgstr "邪惡雙子"
+
+msgctxt "eviltwin ability"
+msgid "You & an opposing player know each other. If the good player is executed, evil wins. Good can't win if you both live."
+msgstr "你與一位對手具有相同的能力且認識彼此，如果你們當中的好人玩家被處決，邪惡隊伍獲勝，只要你們兩個人都活著，好人隊伍不能獲勝。"
+
+msgctxt "eviltwin flavor"
+msgid "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!"
+msgstr "我不是莎拉！我是克拉！她才是莎拉！莎拉是壞的那個！不是我！"
+
+msgctxt "eviltwin firstNightReminder"
+msgid "Wake the Evil Twin and their twin. Confirm that they have acknowledged each other. Point to the Evil Twin. Show their Evil Twin token to the twin player. Point to the twin. Show their character token to the Evil Twin player."
+msgstr "喚醒邪惡雙子和他的雙胞胎，確認他們看到對方是誰，指向邪惡雙子，將他的角色代幣展示給雙胞胎玩家；指向雙胞胎玩家，將他的角色代幣展示給邪惡雙子。"
+
+msgctxt "eviltwin reminders"
+msgid "Twin"
+msgstr "雙胞胎"
+
+msgctxt "exorcist name"
+msgid "Exorcist"
+msgstr "驅魔人"
+
+msgctxt "exorcist ability"
+msgid "Each night*, choose a player (different to last night): the Demon, if chosen, learns who you are then doesn't wake tonight."
+msgstr "每天晚上*，選擇一位玩家(不同於昨晚)，如果你選中了惡魔，則他得知你是誰並且今晚不會醒來。"
+
+msgctxt "exorcist flavor"
+msgid "We cast you out, every unclean spirit, every satanic power, every onslaught of the infernal adversary, every legion, every diabolical group and sect, in the name and by the power of Our Lord Jesus Christ. We command you, begone and fly far from the Church of God, from the souls made by God in His image and redeemed by the precious blood of the divine Lamb."
+msgstr "We cast you out, every unclean spirit, every satanic power, every onslaught of the infernal adversary, every legion, every diabolical group and sect, in the name and by the power of Our Lord Jesus Christ. We command you, begone and fly far from the Church of God, from the souls made by God in His image and redeemed by the precious blood of the divine Lamb."
+
+msgctxt "exorcist otherNightReminder"
+msgid "The Exorcist points to a player, different from the previous night. If that player is the Demon: Wake the Demon. Show the Exorcist token. Point to the Exorcist. The Demon does not act tonight."
+msgstr "驅魔人選擇一位不同於昨晚的玩家，如果該玩家是惡魔，喚醒惡魔並展示「這個能力選擇你」提示卡 + 驅魔人的角色代幣並指向驅魔人，惡魔今晚不會行動。"
+
+msgctxt "exorcist reminders"
+msgid "Chosen"
+msgstr "已選擇"
+
+msgctxt "fanggu name"
+msgid "Fang Gu"
+msgstr "惡鬼"
+
+msgctxt "fanggu ability"
+msgid "Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu & you die instead. [+1 Outsider]"
+msgstr "每天晚上*，選擇一位玩家，該玩家死亡。你選擇的第一位城外人變成邪惡的惡鬼，並改為你死亡。[+1 城外人]"
+
+msgctxt "fanggu flavor"
+msgid "Your walls and your weapons are but smoke in dreams."
+msgstr "汝之牆壁與武器，皆為幻夢之雲煙。"
+
+msgctxt "fanggu otherNightReminder"
+msgid "The Fang Gu points to a player. That player dies. Or, if that player was an Outsider and there are no other Fang Gu in play: The Fang Gu dies instead of the chosen player. The chosen player is now an evil Fang Gu. Wake the new Fang Gu. Show the 'You are' card, then the Fang Gu token. Show the 'You are' card, then the thumb-down 'evil' hand sign."
+msgstr "惡鬼指向一位玩家，該玩家死亡，或者如果該玩家是城外人且遊戲中沒有其他的惡鬼，則改為惡鬼死亡，被選擇的玩家變成邪惡的惡鬼，喚醒新的惡鬼並展示「你是」提示卡 + 惡鬼角色代幣，再展示「你是」提示卡 + 倒讚表示邪惡。"
+
+msgctxt "fanggu reminders"
+msgid "Dead,Once"
+msgstr "死亡,第一位城外人"
+
+msgctxt "farmer name"
+msgid "Farmer"
+msgstr "農夫"
+
+msgctxt "farmer ability"
+msgid "If you die at night, an alive good player becomes a Farmer."
+msgstr "如果你在晚上死亡，一個活著的好人玩家變成農夫。"
+
+msgctxt "farmer flavor"
+msgid "Even the high and mighty need food on the table. Without us, the city starves."
+msgstr "Even the high and mighty need food on the table. Without us, the city starves."
+
+msgctxt "farmer otherNightReminder"
+msgid "If a Farmer died tonight, choose another good player and make them the Farmer. Wake this player, show them the 'You are' card and the Farmer character token."
+msgstr "如果農夫在晚上死亡，選擇另一個好人玩家，該玩家變成農夫，喚醒該玩家並展示「你是」提示卡 + 農夫的角色代幣。"
+
+msgctxt "fearmonger name"
+msgid "Fearmonger"
+msgstr "恐懼販子"
+
+msgctxt "fearmonger ability"
+msgid "Each night, choose a player. If you nominate & execute them, their team loses. All players know if you choose a new player."
+msgstr "每天晚上，選擇一位玩家。如果你提名並且處死了他，他的隊伍落敗。所有玩家都知道你是否有選擇新玩家。"
+
+msgctxt "fearmonger flavor"
+msgid "Beware of gazing long into the Abyss, lest the Abyss also gaze into you."
+msgstr "Beware of gazing long into the Abyss, lest the Abyss also gaze into you."
+
+msgctxt "fearmonger firstNightReminder"
+msgid "The Fearmonger points to a player. Place the Fear token next to that player and announce that a new player has been selected with the Fearmonger ability."
+msgstr "恐懼販子指向一位玩家，以「恐懼」標記該玩家並宣布恐懼販子選擇了一位新玩家。"
+
+msgctxt "fearmonger otherNightReminder"
+msgid "The Fearmonger points to a player. If different from the previous night, place the Fear token next to that player and announce that a new player has been selected with the Fearmonger ability."
+msgstr "恐懼販子指向一位玩家，如果該玩家與前一晚的選擇不同，以「恐懼」標記該玩家並宣布恐懼販子選擇了一位新玩家。"
+
+msgctxt "fearmonger reminders"
+msgid "Fear"
+msgstr "恐懼"
+
+msgctxt "ferryman name"
+msgid "Ferryman"
+msgstr "擺渡人"
+
+msgctxt "ferryman ability"
+msgid "On the final day, all dead players regain their vote token."
+msgstr "在遊戲最後一天，所有死亡的玩家得到自己的投票代幣。"
+
+msgctxt "ferryman flavor"
+msgid "When righteous dreams come, they have the weight of truth."
+msgstr "When righteous dreams come, they have the weight of truth."
+
+msgctxt "fibbin name"
+msgid "Fibbin"
+msgstr "小仙子"
+
+msgctxt "fibbin ability"
+msgid "Once per game, 1 good player might get false information."
+msgstr "每場遊戲一次，一位好人玩家可能會得到不正確的資訊。"
+
+msgctxt "fibbin flavor"
+msgid ""
+"Tee-hee-hee.\n"
+"Tee. Hee. Hee."
+msgstr ""
+"Tee-hee-hee.\n"
+"Tee. Hee. Hee."
+
+msgctxt "fibbin reminders"
+msgid "Used"
+msgstr "已發生"
+
+msgctxt "fiddler name"
+msgid "Fiddler"
+msgstr "提琴手"
+
+msgctxt "fiddler ability"
+msgid "Once per game, the Demon secretly chooses an opposing player: all players choose which of these 2 players win."
+msgstr "每場遊戲一次，惡魔私下選擇一位對手，所有玩家選擇這兩位中哪一位獲勝。"
+
+msgctxt "fiddler flavor"
+msgid "I'll wager mi lyef ye cannae best me in a fiddle contest, ye boss-eyed snook! We'll go out on the lash, get the pub jammers an' have a right craic. I'll be layin' ma boots into ya come mornin' ye rumbly muppet."
+msgstr "I'll wager mi lyef ye cannae best me in a fiddle contest, ye boss-eyed snook! We'll go out on the lash, get the pub jammers an' have a right craic. I'll be layin' ma boots into ya come mornin' ye rumbly muppet."
+
+msgctxt "fisherman name"
+msgid "Fisherman"
+msgstr "漁夫"
+
+msgctxt "fisherman ability"
+msgid "Once per game, during the day, visit the Storyteller for some advice to help you win."
+msgstr "每場遊戲一次，白天時，拜訪說書人獲取一些幫助你獲勝的建議。"
+
+msgctxt "fisherman flavor"
+msgid "This was my favourite part of the river... see how the sunlight makes a rainbow from the monastery to the market? This was the best place for big fish. And the older I get, the bigger they were."
+msgstr "This was my favourite part of the river... see how the sunlight makes a rainbow from the monastery to the market? This was the best place for big fish. And the older I get, the bigger they were."
+
+msgctxt "fisherman reminders"
+msgid "No ability"
+msgstr "無能力"
+
+msgctxt "flowergirl name"
+msgid "Flowergirl"
+msgstr "花販"
+
+msgctxt "flowergirl ability"
+msgid "Each night*, you learn if a Demon voted today."
+msgstr "每天晚上*，你得知惡魔今天是否有投票。"
+
+msgctxt "flowergirl flavor"
+msgid "Yesterday's violets have withered and died, but today my poppies bloom."
+msgstr "Yesterday's violets have withered and died, but today my poppies bloom."
+
+msgctxt "flowergirl otherNightReminder"
+msgid "Nod 'yes' or shake head 'no' for whether the Demon voted today. Place the 'Demon not voted' marker (remove 'Demon voted', if any)."
+msgstr "以點頭或搖頭來告知惡魔今天是否有投票，以「惡魔未投票」標記花販。"
+
+msgctxt "flowergirl reminders"
+msgid "Demon voted,Demon not voted"
+msgstr "惡魔投票,惡魔未投票"
+
+msgctxt "fool name"
+msgid "Fool"
+msgstr "愚人"
+
+msgctxt "fool ability"
+msgid "The first time you die, you don't."
+msgstr "你第一次死亡時不會死。"
+
+msgctxt "fool flavor"
+msgid "...and the King said 'What?! I've never even owned a pair of rubber pantaloons, let alone a custard cannon!' Ho-ho! Jolly day!"
+msgstr "……國王說“什麼？我從來沒有擁有過一條橡膠褲，更不用說一個蛋奶大砲了！”嗬嗬！真是個好日子！"
+
+msgctxt "fool reminders"
+msgid "No ability"
+msgstr "無能力"
+
+msgctxt "fortuneteller name"
+msgid "Fortune Teller"
+msgstr "算命師"
+
+msgctxt "fortuneteller ability"
+msgid "Each night, choose 2 players: you learn if either is a Demon. There is a good player that registers as a Demon to you."
+msgstr "每天晚上，選擇兩位玩家，你得知他們其中是否有惡魔。場上有一位好人的身分會被你視為惡魔。"
+
+msgctxt "fortuneteller flavor"
+msgid "I sense great evil in your soul! But... that could just be your perfume. I am allergic to Elderberry."
+msgstr "我感覺到你的靈魂裡有強大的邪惡！但是...也可能只是你的香水。我對接骨木漿果過敏。"
+
+msgctxt "fortuneteller firstNightReminder"
+msgid "The Fortune Teller points to two players. Give the head signal (nod yes, shake no) for whether one of those players is the Demon."
+msgstr "算命師選擇兩位玩家，以點頭或搖頭來告知他們之中是否有惡魔。"
+
+msgctxt "fortuneteller otherNightReminder"
+msgid "The Fortune Teller points to two players. Show the head signal (nod 'yes', shake 'no') for whether one of those players is the Demon."
+msgstr "算命師選擇兩位玩家，以點頭或搖頭來告知他們之中是否有惡魔。"
+
+msgctxt "fortuneteller reminders"
+msgid "Red herring"
+msgstr "視為惡魔"
+
+msgctxt "gambler name"
+msgid "Gambler"
+msgstr "賭徒"
+
+msgctxt "gambler ability"
+msgid "Each night*, choose a player & guess their character: if you guess wrong, you die."
+msgstr "每天晚上*，選擇一位玩家並猜測他的角色，如果你猜錯則你會死亡。"
+
+msgctxt "gambler flavor"
+msgid "Heads, I win. Tails, you lose."
+msgstr "擲到公，算我嬴，擲到字，算你輸。"
+
+msgctxt "gambler otherNightReminder"
+msgid "The Gambler points to a player, and a character on their sheet. If incorrect, the Gambler dies."
+msgstr "賭徒指向一位玩家 + 角色表上的一個角色，如果它們不符合，賭徒死亡。"
+
+msgctxt "gambler reminders"
+msgid "Dead"
+msgstr "死亡"
+
+msgctxt "gangster name"
+msgid "Gangster"
+msgstr "流氓"
+
+msgctxt "gangster ability"
+msgid "Once per day, you may choose to kill an alive neighbour, if your other alive neighbour agrees."
+msgstr "每天白天一次，如果你活著的鄰居同意，你可以殺死另一位活著的鄰居。"
+
+msgctxt "gangster flavor"
+msgid "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
+msgstr "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
+
+msgctxt "gardener name"
+msgid "Gardener"
+msgstr "園丁"
+
+msgctxt "gardener ability"
+msgid "The Storyteller assigns 1 or more players' characters."
+msgstr "一個或更多的角色由說書人分配給玩家。"
+
+msgctxt "gardener flavor"
+msgid "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
+msgstr "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
+
+msgctxt "general name"
+msgid "General"
+msgstr "將軍"
+
+msgctxt "general ability"
+msgid "Each night, you learn which alignment the Storyteller believes is winning: good, evil, or neither."
+msgstr "每天晚上，你得知說書人認為較佔優勢的隊伍，好人，邪惡，或著都不是。"
+
+msgctxt "general flavor"
+msgid "I don’t have time for quotes."
+msgstr "I don’t have time for quotes."
+
+msgctxt "general firstNightReminder"
+msgid "Show the General thumbs up for good winning, thumbs down for evil winning or thumb to the side for neither."
+msgstr "以比讚表示好人正在獲勝；倒讚表示邪惡正在獲勝，或向旁邊比讚表示兩者皆不。"
+
+msgctxt "general otherNightReminder"
+msgid "Show the General thumbs up for good winning, thumbs down for evil winning or thumb to the side for neither."
+msgstr "以比讚表示好人正在獲勝；倒讚表示邪惡正在獲勝，或向旁邊比讚表示兩者皆不。"
+
+msgctxt "gnome name"
+msgid "Gnome"
+msgstr "地精"
+
+msgctxt "gnome ability"
+msgid "All players start knowing a player of your alignment. You may choose to kill anyone who nominates them."
+msgstr "每個玩家都得知一位與你同陣營的玩家，當該玩家被提名時，你可以將提名者殺死。"
+
+msgctxt "gnome flavor"
+msgid "Four the score or seven beers, no shows are goes for me and my. A prank to crack the cranks and planks o' the floor foundation length, so incontravertabubbilly mini. The large essays down streams of joyce, no greater than is scene, not inherdt, Ha-urrumph.o."
+msgstr "Four the score or seven beers, no shows are goes for me and my. A prank to crack the cranks and planks o' the floor foundation length, so incontravertabubbilly mini. The large essays down streams of joyce, no greater than is scene, not inherdt, Ha-urrumph.o."
+
+msgctxt "gnome reminders"
+msgid "Amigo"
+msgstr "摯友"
+
+msgctxt "goblin name"
+msgid "Goblin"
+msgstr "哥布林"
+
+msgctxt "goblin ability"
+msgid "If you publicly claim to be the Goblin when nominated & are executed that day, your team wins."
+msgstr "如果你被提名時公開聲明自己是哥布林並且在該天被處決，你的隊伍獲勝。"
+
+msgctxt "goblin flavor"
+msgid "You don’t want to insult the goblins. You really, really don’t. On a completely different note… can I have another piece of cake?"
+msgstr "You don’t want to insult the goblins. You really, really don’t. On a completely different note… can I have another piece of cake?"
+
+msgctxt "goblin reminders"
+msgid "Claimed"
+msgstr "已聲明"
+
+msgctxt "godfather name"
+msgid "Godfather"
+msgstr "教父"
+
+msgctxt "godfather ability"
+msgid "You start knowing which Outsiders are in play. If 1 died today, choose a player tonight: they die. [−1 or +1 Outsider]"
+msgstr "你開始遊戲時得知哪些城外人在遊戲中。如果今天白天有城外人死亡，在當晚選擇一位玩家，該玩家死亡。[−1 或 +1 城外人]"
+
+msgctxt "godfather flavor"
+msgid "Normally, it's just business. But when you insult my daughter, you insult me. And when you insult me, you insult my family. You really should be more careful - it would be a shame if you had an unfortunate accident."
+msgstr "通常，這只是做生意。但你侮辱我女兒的話，就是在侮辱我，而你侮辱我，就是侮辱我的幫派。我勸你小心一點——你有甚麼三長兩短的話就可惜了。"
+
+msgctxt "godfather firstNightReminder"
+msgid "Show each of the Outsider tokens in play."
+msgstr "展示「這些角色在遊戲中」提示卡 + 每個在遊戲中的城外人角色代幣。"
+
+msgctxt "godfather otherNightReminder"
+msgid "If an Outsider died today: The Godfather points to a player. That player dies."
+msgstr "如果今天有城外人死亡，教父指向一位玩家，該玩家死亡。"
+
+msgctxt "godfather reminders"
+msgid "Died today,Dead"
+msgstr "城外人死亡,死亡"
+
+msgctxt "golem name"
+msgid "Golem"
+msgstr "魔像"
+
+msgctxt "golem ability"
+msgid "You may only nominate once per game. When you do, if the nominee is not the Demon, they die."
+msgstr "你每場遊戲只能提名一次。當你如此做時，如果被提名者不是惡魔，則該玩家死亡。"
+
+msgctxt "golem flavor"
+msgid "Golem help? Golem smash! Golem help."
+msgstr "Golem help? Golem smash! Golem help."
+
+msgctxt "golem reminders"
+msgid "Can not nominate"
+msgstr "不能提名"
+
+msgctxt "goon name"
+msgid "Goon"
+msgstr "傻瓜"
+
+msgctxt "goon ability"
+msgid "Each night, the 1st player to choose you with their ability is drunk until dusk. You become their alignment."
+msgstr "每天晚上，第一個使用能力選擇你的玩家會醉到明天黃昏，你變成該玩家的隊伍。"
+
+msgctxt "goon flavor"
+msgid "Yes boss. I explained fings real good to dat geezer. He don't want me explain it again. Nah boss, I don't need no doctor - it's only a knife wound. Be right come mornin'"
+msgstr "Yes boss. I explained fings real good to dat geezer. He don't want me explain it again. Nah boss, I don't need no doctor - it's only a knife wound. Be right come mornin'"
+
+msgctxt "goon reminders"
+msgid "Drunk"
+msgstr "醉酒"
+
+msgctxt "gossip name"
+msgid "Gossip"
+msgstr "長舌婦"
+
+msgctxt "gossip ability"
+msgid "Each day, you may make a public statement. Tonight, if it was true, a player dies."
+msgstr "每天白天，你可以發表一次公開聲明，當晚，如果該聲明正確，則會有一位玩家死亡"
+
+msgctxt "gossip flavor"
+msgid "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah."
+msgstr "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah."
+
+msgctxt "gossip otherNightReminder"
+msgid "If the Gossip’s public statement was true: Choose a player not protected from dying tonight. That player dies."
+msgstr "如果長舌婦的公開聲明正確，選擇一位今晚沒有被保護的玩家，該玩家死亡。"
+
+msgctxt "gossip reminders"
+msgid "Dead"
+msgstr "死亡"
+
+msgctxt "grandmother name"
+msgid "Grandmother"
+msgstr "祖母"
+
+msgctxt "grandmother ability"
+msgid "You start knowing a good player & their character. If the Demon kills them, you die too."
+msgstr "你遊戲開始時得知一位好人玩家以及他的角色，如果該玩家被惡魔殺死，則你也會死。"
+
+msgctxt "grandmother flavor"
+msgid "Take a jacket if you go outside, dearie. And your thermos. And your scarf. I have a weak heart, you know. Whatever would I do if you caught cold...or worse?"
+msgstr "Take a jacket if you go outside, dearie. And your thermos. And your scarf. I have a weak heart, you know. Whatever would I do if you caught cold...or worse?"
+
+msgctxt "grandmother firstNightReminder"
+msgid "Show the marked character token. Point to the marked player."
+msgstr "以「孫子」標記一位好人玩家，展示該玩家的角色代幣並指向該玩家。"
+
+msgctxt "grandmother otherNightReminder"
+msgid "If the Grandmother’s grandchild was killed by the Demon tonight: The Grandmother dies."
+msgstr "如果祖母的孫子被惡魔殺死，祖母死亡。"
+
+msgctxt "grandmother reminders"
+msgid "Grandchild"
+msgstr "孫子"
+
+msgctxt "gunslinger name"
+msgid "Gunslinger"
+msgstr "槍手"
+
+msgctxt "gunslinger ability"
+msgid "Each day, after the 1st vote has been tallied, you may choose a player that voted: they die."
+msgstr "每天的第一次提名中，第一票投下後，你可以選擇其中一位投票的玩家，該玩家死亡。"
+
+msgctxt "gunslinger flavor"
+msgid "It's time someone took matters into their own hands. That someone... is me."
+msgstr "是時候有人出來親手解決問題了。而那個人…就是我。"
+
+msgctxt "harlot name"
+msgid "Harlot"
+msgstr "性愛工作者"
+
+msgctxt "harlot ability"
+msgid "Each night*, choose a living player: if they agree, you learn their character, but you both might die."
+msgstr "每天晚上*，選擇一位活著的玩家，如果該玩家同意，你得知他的角色，但是你們兩個有可能會死亡。"
+
+msgctxt "harlot flavor"
+msgid "Enchanté, Sailor. You look like you need someone to really listen to your troubles. I'm a good listener. Very, very good."
+msgstr "Enchanté, Sailor. You look like you need someone to really listen to your troubles. I'm a good listener. Very, very good."
+
+msgctxt "harlot otherNightReminder"
+msgid "The Harlot points at any player. Then, put the Harlot to sleep. Wake the chosen player, show them the 'This character selected you' token, then the Harlot token. That player either nods their head yes or shakes their head no. If they nodded their head yes, wake the Harlot and show them the chosen player's character token. Then, you may decide that both players die."
+msgstr "性愛工作者指向一位玩家，喚醒該玩家並展示「這個能力選擇你」提示卡 + 性愛工作者的角色代幣，讓他以點頭或搖頭來表達意願，如果該玩家點頭，喚醒性愛工作者並展示該玩家的角色代幣，然後，你可以讓兩位玩家都死亡。"
+
+msgctxt "harlot reminders"
+msgid "Dead"
+msgstr "死亡"
+
+msgctxt "harpy name"
+msgid "Harpy"
+msgstr "鷹妖"
+
+msgctxt "harpy ability"
+msgid "Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or one or both might die."
+msgstr "每天晚上，選擇兩位玩家，明天第一位玩家需要執著地使其他玩家相信另一位是邪惡的，否則他們之中可能會有人死亡。"
+
+msgctxt "harpy flavor"
+msgid "So fair a day I never did see, nor so fowl a presence hanging over me."
+msgstr "So fair a day I never did see, nor so fowl a presence hanging over me."
+
+msgctxt "harpy firstNightReminder"
+msgid "Wake the Harpy; they point at one player, then another. Wake the 1st player the Harpy pointed to, show them the 'This character has selected you' card, show them the Harpy token, then point at the 2nd player the Harpy pointed to."
+msgstr "鷹妖輪流指向兩位玩家，喚醒第一位玩家並展示「這個能力選擇你」提示卡 + 鷹妖的角色代幣，然後指向第二位玩家。"
+
+msgctxt "harpy otherNightReminder"
+msgid "Wake the Harpy; they point at one player, then another. Wake the 1st player the Harpy pointed to, show them the 'This character has selected you' card, show them the Harpy token, then point at the 2nd player the Harpy pointed to."
+msgstr "鷹妖輪流指向兩位玩家，喚醒第一位玩家並展示「這個能力選擇你」提示卡 + 鷹妖的角色代幣，然後指向第二位玩家。"
+
+msgctxt "harpy reminders"
+msgid "Mad, 2nd"
+msgstr "瘋狂, 目標"
+
+msgctxt "hatter name"
+msgid "Hatter"
+msgstr "帽匠"
+
+msgctxt "hatter ability"
+msgid "If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be."
+msgstr "如果你在今天或今晚死亡，惡魔和僕從們都可以選擇自己的新角色。"
+
+msgctxt "hatter flavor"
+msgid "One Hat. Too Hat. Three Hat. Tea Hat. Fore Hat. Thrive Hat. Six Hat. Sticks Hat."
+msgstr "One Hat. Too Hat. Three Hat. Tea Hat. Fore Hat. Thrive Hat. Six Hat. Sticks Hat."
+
+msgctxt "hatter otherNightReminder"
+msgid "If the Hatter died today: Wake the Minions and Demon. Show them the 'This Character Selected You' info token, then the Hatter token. Each player either shakes their head no or points to another character of the same type as their current character.  If a second player would end up with the same character as another player, shake your head no and gesture for them to choose again. Put them to sleep. Change each player to the character they chose."
+msgstr "如果帽匠在今天死亡，喚醒惡魔和僕從們並展示「這個能力選擇你」提示卡 + 帽匠角色代幣，他們可以選擇一個自己類型的角色，如果有多位玩家的角色相同，則示意他們重新選擇，將他們的角色代幣替換成他們選擇的角色。"
+
+msgctxt "hatter reminders"
+msgid "Tea Party Tonight"
+msgstr "今晚開茶會"
+
+msgctxt "hellslibrarian name"
+msgid "Hell's Librarian"
+msgstr "地獄圖書管理員"
+
+msgctxt "hellslibrarian ability"
+msgid "Something bad might happen to whoever talks when the Storyteller has asked for silence."
+msgstr "在說書人要求安靜時說話的玩家可能會受到懲罰。"
+
+msgctxt "hellslibrarian flavor"
+msgid "Shhhhhh. Please be quiet. It is best not to disturb the Librarian. I've heard it has a temper."
+msgstr "Shhhhhh. Please be quiet. It is best not to disturb the Librarian. I've heard it has a temper."
+
+msgctxt "hellslibrarian reminders"
+msgid "Something Bad"
+msgstr "懲罰"
+
+msgctxt "heretic name"
+msgid "Heretic"
+msgstr "異教徒"
+
+msgctxt "heretic ability"
+msgid "Whoever wins, loses & whoever loses, wins, even if you are dead."
+msgstr "獲勝的玩家改為落敗且落敗的玩家改為獲勝(儘管你死亡)。"
+
+msgctxt "heretic flavor"
+msgid "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
+msgstr "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
+
+msgctxt "highpriestess name"
+msgid "High Priestess"
+msgstr "大祭司"
+
+msgctxt "highpriestess ability"
+msgid "Each night, learn which player the Storyteller believes you should talk to most."
+msgstr "每天晚上，你得知說書人認為你最應該與之交談的一位玩家。"
+
+msgctxt "highpriestess flavor"
+msgid "There is life behind the personality that uses personalities as masks. There are times when life puts off the mask and deep answers to deep."
+msgstr "There is life behind the personality that uses personalities as masks. There are times when life puts off the mask and deep answers to deep."
+
+msgctxt "highpriestess firstNightReminder"
+msgid "Point to a player."
+msgstr "指向一位玩家。"
+
+msgctxt "highpriestess otherNightReminder"
+msgid "Point to a player."
+msgstr "指向一位玩家。"
+
+msgctxt "huntsman name"
+msgid "Huntsman"
+msgstr "獵人"
+
+msgctxt "huntsman ability"
+msgid "Once per game, at night, choose a living player: the Damsel, if chosen, becomes a not-in-play Townsfolk. [+the Damsel]"
+msgstr "每場遊戲一次，晚上時，選擇一位活著的玩家，如果你選中了少女，他變成一位不在遊戲中的鎮民角色。[+ 少女]"
+
+msgctxt "huntsman flavor"
+msgid "My cabin is warm and sturdy. My axe by the door, my boots drying by the fire, and elk stew a-simmering… Hark! A scream echoes through the valley! The rain and the mud and the cold, cold wind mask the scent of the wolves, but I know the path and my pace is steady. I am coming."
+msgstr "My cabin is warm and sturdy. My axe by the door, my boots drying by the fire, and elk stew a-simmering… Hark! A scream echoes through the valley! The rain and the mud and the cold, cold wind mask the scent of the wolves, but I know the path and my pace is steady. I am coming."
+
+msgctxt "huntsman firstNightReminder"
+msgid "The Huntsman shakes their head 'no' or points to a player. If they point to the Damsel, wake that player, show the 'You are' card and a not-in-play character token."
+msgstr "獵人可以選擇一位玩家，如果他選中了少女，喚醒該玩家並展示「你是」提示卡 + 一個不在遊戲中的鎮民角色代幣。"
+
+msgctxt "huntsman otherNightReminder"
+msgid "The Huntsman shakes their head 'no' or points to a player. If they point to the Damsel, wake that player, show the 'You are' card and a not-in-play character token."
+msgstr "獵人可以選擇一位玩家，如果他選中了少女，喚醒該玩家並展示「你是」提示卡 + 一個不在遊戲中的鎮民角色代幣。"
+
+msgctxt "huntsman reminders"
+msgid "No ability"
+msgstr "無能力"
+
+msgctxt "imp name"
+msgid "Imp"
+msgstr "小惡魔"
+
+msgctxt "imp ability"
+msgid "Each night*, choose a player: they die. If you kill yourself this way, a Minion becomes the Imp."
+msgstr "每天晚上*，選擇一位玩家，該玩家死亡。如果你以此法殺死自己，一位僕從變成小惡魔。"
+
+msgctxt "imp flavor"
+msgid "We must keep our wits sharp and our sword sharper. Evil walks among us, and will stop at nothing to destroy us good, simple folk, bringing our fine town to ruin. Trust no-one. But, if you must trust someone, trust me."
+msgstr "We must keep our wits sharp and our sword sharper. Evil walks among us, and will stop at nothing to destroy us good, simple folk, bringing our fine town to ruin. Trust no-one. But, if you must trust someone, trust me."
+
+msgctxt "imp otherNightReminder"
+msgid "The Imp points to a player. That player dies. If the Imp chose themselves: Replace the character of 1 alive minion with a spare Imp token. Show the 'You are' card, then the Imp token."
+msgstr "小惡魔指向一位玩家，該玩家死亡，如果他選擇自己，將一個活著的僕從角色代幣換成小惡魔的角色代幣，喚醒該玩家並展示「你是」提示卡 + 小惡魔的角色代幣。"
+
+msgctxt "imp reminders"
+msgid "Dead"
+msgstr "死亡"
+
+msgctxt "innkeeper name"
+msgid "Innkeeper"
+msgstr "旅店主人"
+
+msgctxt "innkeeper ability"
+msgid "Each night*, choose 2 players: they can't die tonight, but 1 is drunk until dusk."
+msgstr "每天晚上*，選擇兩位玩家，他們今晚不會死，但其中一位醉到明天黃昏。"
+
+msgctxt "innkeeper flavor"
+msgid "Come inside, fair traveller, and rest your weary bones. Drink and be merry, for the legions of the Dark One shall not harass thee tonight."
+msgstr "Come inside, fair traveller, and rest your weary bones. Drink and be merry, for the legions of the Dark One shall not harass thee tonight."
+
+msgctxt "innkeeper otherNightReminder"
+msgid "The previously protected and drunk players lose those markers. The Innkeeper points to two players. Those players are protected. One is drunk."
+msgstr "移除先前被保護或醉酒玩家的標記，旅店主人指向兩位玩家，以「保護」標記他們，其中一位醉酒。"
+
+msgctxt "innkeeper reminders"
+msgid "Protected,Drunk"
+msgstr "保護,醉酒"
+
+msgctxt "investigator name"
+msgid "Investigator"
+msgstr "調查員"
+
+msgctxt "investigator ability"
+msgid "You start knowing that 1 of 2 players is a particular Minion."
+msgstr "你遊戲開始時得知在某兩位玩家中有一位特定的僕從角色。"
+
+msgctxt "investigator flavor"
+msgid "It is a fine night for a stroll, wouldn't you say, Mister Morozov? Or should I say... BARON Morozov?"
+msgstr "今天夜晚真適合散步啊，你認同吧，莫羅佐夫先生？還是該說…莫羅佐夫男爵？"
+
+msgctxt "investigator firstNightReminder"
+msgid "Show the character token of a Minion in play. Point to two players, one of which is that character."
+msgstr "將一個在遊戲中的僕從角色代幣展示給調查員並指向兩位玩家，他們其中一位是該角色。"
+
+msgctxt "investigator reminders"
+msgid "Minion,Wrong"
+msgstr "僕從,非僕從"
+
+msgctxt "judge name"
+msgid "Judge"
+msgstr "法官"
+
+msgctxt "judge ability"
+msgid "Once per game, if another player nominated, you may choose to force the current execution to pass or fail."
+msgstr "每場遊戲一次，如果另一位玩家提名，你可以強制使處決成功或失敗。"
+
+msgctxt "judge flavor"
+msgid "I find the defendant guilty of the crimes of murder, fraud, arson, larceny, impersonating an officer of the law, practicing medicine without a license, slander, regicide, and littering."
+msgstr "I find the defendant guilty of the crimes of murder, fraud, arson, larceny, impersonating an officer of the law, practicing medicine without a license, slander, regicide, and littering."
+
+msgctxt "judge reminders"
+msgid "No ability"
+msgstr "無能力"
+
+msgctxt "juggler name"
+msgid "Juggler"
+msgstr "雜耍人"
+
+msgctxt "juggler ability"
+msgid "On your 1st day, publicly guess up to 5 players' characters. That night, you learn how many you got correct."
+msgstr "在你的第一天，公開猜測至多五次某位玩家的角色，當晚你得知你猜對了多少。"
+
+msgctxt "juggler flavor"
+msgid "For my next trick, as per request, I will need a flower, a bag of beans, a toy snake, a paintbrush, and a motorized gasoline-powered hedge trimming device. I warn you, this trick may be my last. Oh dear."
+msgstr "For my next trick, as per request, I will need a flower, a bag of beans, a toy snake, a paintbrush, and a motorized gasoline-powered hedge trimming device. I warn you, this trick may be my last. Oh dear."
+
+msgctxt "juggler otherNightReminder"
+msgid "If today was the Juggler’s first day: Show the hand signal for the number (0, 1, 2, etc.) of 'Correct' markers. Remove markers."
+msgstr "如果今天是雜耍者的第一天，展示「正確」標記的總數(0/1/2/依此類推)，移除所有標記。"
+
+msgctxt "juggler reminders"
+msgid "Correct"
+msgstr "正確"
+
+msgctxt "kazali name"
+msgid "Kazali"
+msgstr "卡札力"
+
+msgctxt "kazali ability"
+msgid "Each night*, choose a player: they die. [You choose which players are Minions. -? to +? Outsiders]"
+msgstr "每天晚上*，選擇一位玩家，該玩家死亡。[你選擇哪些玩家是哪些僕從，且出現任意數量城外人]"
+
+msgctxt "kazali flavor"
+msgid "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig."
+msgstr "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig."
+
+msgctxt "kazali firstNightReminder"
+msgid "The Kazali points at a player and a Minion on the character sheet. Replace their old character token with the Minion token, show them the “You Are” info token then the Minion character token, and give a thumbs down. Repeat until the normal number of Minions exist. Put the Kazali to sleep."
+msgstr "卡札力指向一位玩家及一個僕從角色，將他的角色代幣替換成該僕從的角色代幣，喚醒他並展示「你是」提示卡 + 他的角色代幣，並倒讚表示邪惡，重複等同正常僕從數量的次數。"
+
+msgctxt "kazali otherNightReminder"
+msgid "The Kazali points to a player. That player dies."
+msgstr "卡札力指向一位玩家，該玩家死亡。"
+
+msgctxt "kazali reminders"
+msgid "Dead"
+msgstr "死亡"
+
+msgctxt "king name"
+msgid "King"
+msgstr "國王"
+
+msgctxt "king ability"
+msgid "Each night, if the dead equal or outnumber the living, you learn 1 alive character. The Demon knows who you are."
+msgstr "每天晚上，如果死亡的玩家數等於或超過活著的玩家，你得知一個活著的角色。惡魔知道你是誰。"
+
+msgctxt "king flavor"
+msgid ""
+"↑Betwixt the unknown strains of mortal strife→\n"
+"And morbid night, sweet↓ with mystery and woe\n"
+"←Lies unfettered joys of fate’s long and colored life\n"
+"Who’s garden blooms with each painted Face to Show."
+msgstr ""
+"↑Betwixt the unknown strains of mortal strife→\n"
+"And morbid night, sweet↓ with mystery and woe\n"
+"←Lies unfettered joys of fate’s long and colored life\n"
+"Who’s garden blooms with each painted Face to Show."
+
+msgctxt "king firstNightReminder"
+msgid "Wake the Demon, show them the 'This Player is' card, show the King token and point to the King player."
+msgstr "喚醒惡魔並展示「這個能力選擇你」提示卡 + 國王的角色代幣並指向國王。"
+
+msgctxt "king otherNightReminder"
+msgid "If there are more dead than living, show the King a character token of a living player."
+msgstr "如果死亡的玩家數超過活著的玩家，展示一位存活玩家的角色代幣。"
+
+msgctxt "klutz name"
+msgid "Klutz"
+msgstr "冒失鬼"
+
+msgctxt "klutz ability"
+msgid "When you learn that you died, publicly choose 1 alive player: if they are evil, your team loses."
+msgstr "當你得知你死亡時，公開選擇一位活著的玩家，如果該玩家是邪惡的，你的隊伍落敗。"
+
+msgctxt "klutz flavor"
+msgid "Oops."
+msgstr "哎呀。"
+
+msgctxt "knight name"
+msgid "Knight"
+msgstr "騎士"
+
+msgctxt "knight ability"
+msgid "You start knowing 2 players that are not the Demon."
+msgstr "你遊戲開始時得知兩位非惡魔玩家。"
+
+msgctxt "knight flavor"
+msgid "When a man lies, he murders some part of the world."
+msgstr "一個人說謊，就等於殺害了世界的一部分。"
+
+msgctxt "knight firstNightReminder"
+msgid "Point to 2 non-Demon players."
+msgstr "指向兩位非惡魔的玩家。"
+
+msgctxt "knight reminders"
+msgid "Know, Know"
+msgstr "已得知, 已得知"
+
+msgctxt "legion name"
+msgid "Legion"
+msgstr "軍團"
+
+msgctxt "legion ability"
+msgid "Each night*, a player might die. Executions fail if only evil voted. You register as a Minion too. [Most players are Legion]"
+msgstr "每天晚上*，可能會有一位玩家死亡。處刑時如果只有邪惡玩家投票則投票失敗。你也被視為僕從。[大多數玩家都是軍團]"
+
+msgctxt "legion flavor"
+msgid "We are the chill wind on a winter’s day. We are the shadow in the moonless night. We are the poison in your tea and the whisper in your ear. We are everywhere."
+msgstr "We are the chill wind on a winter’s day. We are the shadow in the moonless night. We are the poison in your tea and the whisper in your ear. We are everywhere."
+
+msgctxt "legion otherNightReminder"
+msgid "Choose a player, that player dies."
+msgstr "選擇一位玩家，該玩家死亡。"
+
+msgctxt "legion reminders"
+msgid "Dead,About to die"
+msgstr "即將處決,死亡"
+
+msgctxt "leviathan name"
+msgid "Leviathan"
+msgstr "利維坦"
+
+msgctxt "leviathan ability"
+msgid "If more than 1 good player is executed, you win. All players know you are in play. After day 5, evil wins."
+msgstr "如果超過一位好人玩家被處決，則你獲勝。所有玩家都知道你在遊戲中。第五天過後，邪惡隊伍獲勝。"
+
+msgctxt "leviathan flavor"
+msgid "To the last, I grapple with thee. From Hell’s heart, I stab at thee. For hate’s sake, I spit my last breath at thee."
+msgstr "To the last, I grapple with thee. From Hell’s heart, I stab at thee. For hate’s sake, I spit my last breath at thee."
+
+msgctxt "leviathan firstNightReminder"
+msgid "Place the Leviathan 'Day 1' marker. Announce 'The Leviathan is in play; this is Day 1.'"
+msgstr "以「第一天」標記利維坦。宣布「利維坦在遊戲中，今天是第一天。」"
+
+msgctxt "leviathan otherNightReminder"
+msgid "Change the Leviathan Day reminder for the next day."
+msgstr "增加利維坦標記的天數。"
+
+msgctxt "leviathan reminders"
+msgid "Day 1,Day 2,Day 3,Day 4,Day 5,Good player executed"
+msgstr "第一天,第二天,第三天,第四天,第五天,好人被處決"
+
+msgctxt "librarian name"
+msgid "Librarian"
+msgstr "圖書管理員"
+
+msgctxt "librarian ability"
+msgid "You start knowing that 1 of 2 players is a particular Outsider. (Or that zero are in play.)"
+msgstr "你遊戲開始時得知在某兩位玩家中有一位特定的城外人角色(或者沒有城外人角色)。"
+
+msgctxt "librarian flavor"
+msgid "Certainly madam, under normal circumstances, you may borrow the Codex Malificarium from the library vaults. However, you do not seem to be a member."
+msgstr "Certainly madam, under normal circumstances, you may borrow the Codex Malificarium from the library vaults. However, you do not seem to be a member."
+
+msgctxt "librarian firstNightReminder"
+msgid "Show the character token of an Outsider in play. Point to two players, one of which is that character."
+msgstr "將一個在遊戲中的城外人角色代幣展示給圖書管理員並指向兩位玩家，他們其中一位是該角色(或者沒有城外人角色)。"
+
+msgctxt "librarian reminders"
+msgid "Outsider,Wrong"
+msgstr "城外人,非城外人"
+
+msgctxt "lilmonsta name"
+msgid "Lil' Monsta"
+msgstr "莉萌絲塔"
+
+msgctxt "lilmonsta ability"
+msgid "Each night, Minions choose who babysits Lil' Monsta's token & \"is the Demon\". Each night*, a player might die. [+1 Minion]"
+msgstr "每天晚上，僕從們選擇一位玩家看顧莉萌絲塔並且「是惡魔」。每天晚上*，可能會有一位玩家死亡。[+1 僕從]"
+
+msgctxt "lilmonsta flavor"
+msgid ""
+"Step 1: Be cute.\n"
+"Step 2: World domination.\n"
+"Step 3: Bweakfast."
+msgstr ""
+"Step 1: Be cute.\n"
+"Step 2: World domination.\n"
+"Step 3: Bweakfast."
+
+msgctxt "lilmonsta firstNightReminder"
+msgid "Wake all Minions together, allow them to vote by pointing at who they want to babysit Lil' Monsta."
+msgstr "喚醒所有僕從並讓他們投票選出看顧莉萌絲塔的人選。"
+
+msgctxt "lilmonsta otherNightReminder"
+msgid "Wake all Minions together, allow them to vote by pointing at who they want to babysit Lil' Monsta. Choose a player, that player dies."
+msgstr "喚醒所有僕從並讓他們投票選出看顧莉萌絲塔的人選，你可以選擇一位玩家，該玩家死亡。"
+
+msgctxt "lilmonsta remindersGlobal"
+msgid "Is the Demon,Dead"
+msgstr "是惡魔,死亡"
+
+msgctxt "lleech name"
+msgid "Lleech"
+msgstr "水蛭怪"
+
+msgctxt "lleech ability"
+msgid "Each night*, choose a player: they die. You start by choosing a player: they are poisoned. You die if & only if they are dead."
+msgstr "每天晚上*，選擇一位玩家，該玩家死亡。你開始遊戲時選擇一位活著的玩家，該玩家中毒，你(只)會在該玩家死亡時死亡。"
+
+msgctxt "lleech flavor"
+msgid "Tasty, tasty, tasty, tasty, tasty, tasty, tasty, tasty brai- I mean pie! Yes. Tasty pie. That’s what I meant to say."
+msgstr "Tasty, tasty, tasty, tasty, tasty, tasty, tasty, tasty brai- I mean pie! Yes. Tasty pie. That’s what I meant to say."
+
+msgctxt "lleech firstNightReminder"
+msgid "The Lleech points to a player. Place the Poisoned reminder token."
+msgstr "水蛭怪指向一位玩家，該玩家中毒。"
+
+msgctxt "lleech otherNightReminder"
+msgid "The Lleech points to a player. That player dies."
+msgstr "水蛭怪指向一位玩家，該玩家死亡。"
+
+msgctxt "lleech reminders"
+msgid "Dead,Poisoned"
+msgstr "中毒,死亡"
+
+msgctxt "lordoftyphon name"
+msgid "Lord of Typhon"
+msgstr "風暴領主"
+
+msgctxt "lordoftyphon ability"
+msgid "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? To +? Outsiders]"
+msgstr "每天晚上*，選擇一位玩家，該玩家死亡。[邪惡玩家坐在一起，你坐在他們之間。+1僕從。+？～-？城外人]"
+
+msgctxt "lordoftyphon flavor"
+msgid "In the shadowed and forgotten corners of the cosmos, where the stars whisper secrets to the void, lies a truth so profound that the merest glimpse of it unravels the sanity of mortal minds."
+msgstr "In the shadowed and forgotten corners of the cosmos, where the stars whisper secrets to the void, lies a truth so profound that the merest glimpse of it unravels the sanity of mortal minds."
+
+msgctxt "lordoftyphon firstNightReminder"
+msgid "Wake the players on either side of the Demon. Show them the 'You Are' card, the token of the Minion they now are, and a thumbs down to indicate they are evil."
+msgstr "喚醒惡魔身旁的僕從們，分別展示「你是」提示卡 + 他們的角色代幣，並倒讚表示邪惡。"
+
+msgctxt "lordoftyphon otherNightReminder"
+msgid "The Lord of Typhon points to a player. That player dies."
+msgstr "風暴領主指向一位玩家，該玩家死亡。"
+
+msgctxt "lordoftyphon reminders"
+msgid "Dead"
+msgstr "死亡"
+
+msgctxt "lunatic name"
+msgid "Lunatic"
+msgstr "瘋子"
+
+msgctxt "lunatic ability"
+msgid "You think you are a Demon, but you are not. The Demon knows who you are & who you choose at night."
+msgstr "你認為自己是惡魔，但你不是，惡魔知道你是誰以及你每天晚上選了誰。"
+
+msgctxt "lunatic flavor"
+msgid "I am the night... I think."
+msgstr "我是黑夜…應該吧。"
+
+msgctxt "lunatic firstNightReminder"
+msgid "If 7 or more players: Show the Lunatic a number of arbitrary 'Minions', players equal to the number of Minions in play. Show 3 character tokens of arbitrary good characters. If the token received by the Lunatic is a Demon that would wake tonight: Allow the Lunatic to do the Demon actions. Place their 'attack' markers. Wake the Demon. Show the Demon’s real character token. Show them the Lunatic player. If the Lunatic attacked players: Show the real demon each marked player. Remove any Lunatic 'attack' markers."
+msgstr "如果有7位或更多玩家，將若干個僕從展示給瘋子，其數量等同於遊戲中僕從們的數量(這些玩家不一定要是真的僕從)，將三個任意的好人角色代幣展示給瘋子，如果瘋子的惡魔角色會在第一晚行動，讓他進行惡魔的動作，以「攻擊」標記他的目標。喚醒惡魔並告知他真正的角色以及瘋子是誰，如果瘋子有攻擊玩家，指向每個被標記的目標，移除所有「攻擊」標記。"
+
+msgctxt "lunatic otherNightReminder"
+msgid "Allow the Lunatic to do the actions of the Demon. Place their 'attack' markers. If the Lunatic selected players: Wake the Demon. Show the 'attack' marker, then point to each marked player. Remove any Lunatic 'attack' markers."
+msgstr "讓瘋子進行惡魔的動作，以「攻擊」標記他的目標，如果瘋子有攻擊玩家，喚醒惡魔並指向每個被標記的目標，移除所有「攻擊」標記。"
+
+msgctxt "lunatic reminders"
+msgid "Attack 1,Attack 2,Attack 3"
+msgstr "攻擊1,攻擊2,攻擊3"
+
+msgctxt "lycanthrope name"
+msgid "Lycanthrope"
+msgstr "狼人"
+
+msgctxt "lycanthrope ability"
+msgid "Each night*, choose an alive player. If good, they die & the Demon doesn’t kill tonight. One good player registers as evil."
+msgstr "每天晚上*，選擇一位活著的玩家，如果該玩家是好人，該玩家死亡，但他是當晚唯一可以死亡的玩家。"
+
+msgctxt "lycanthrope flavor"
+msgid "Beneath the thin veneer of civilisation lies a howling madness."
+msgstr "Beneath the thin veneer of civilisation lies a howling madness."
+
+msgctxt "lycanthrope otherNightReminder"
+msgid "The Lycanthrope points to a living player: if good, they die and the Demon doesn't kill tonight"
+msgstr "狼人選擇一位活著的玩家，如果該玩家是好人則他死亡且今晚其他人不會死。"
+
+msgctxt "lycanthrope reminders"
+msgid "Dead,Faux Paw"
+msgstr "死亡"
+
+msgctxt "magician name"
+msgid "Magician"
+msgstr "魔術師"
+
+msgctxt "magician ability"
+msgid "The Demon thinks you are a Minion. Minions think you are a Demon."
+msgstr "惡魔認為你是僕從。僕從們認為你也是惡魔。"
+
+msgctxt "magician flavor"
+msgid ""
+"1... 2... Abra... 3... 4... Cadabra... *poof!*\n"
+"And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!"
+msgstr ""
+"1... 2... Abra... 3... 4... Cadabra... *poof!*\n"
+"And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!"
+
+msgctxt "marionette name"
+msgid "Marionette"
+msgstr "傀儡"
+
+msgctxt "marionette ability"
+msgid "You think you are a good character but you are not. The Demon knows who you are. [You neighbour the Demon]"
+msgstr "你認為自己是某一位好人角色，但你不是。惡魔知道你是誰。[你坐在惡魔旁邊]"
+
+msgctxt "marionette flavor"
+msgid "Words, words. They're all we have to go on."
+msgstr "Words, words. They're all we have to go on."
+
+msgctxt "marionette firstNightReminder"
+msgid "Select one of the good players next to the Demon and place the Is the Marionette reminder token. Wake the Demon and show them the Marionette."
+msgstr "選擇一位坐在惡魔旁邊的好人玩家並以「是傀儡」標記他，喚醒惡魔並告知傀儡是誰。"
+
+msgctxt "marionette remindersGlobal"
+msgid "Is the Marionette"
+msgstr "是傀儡"
+
+msgctxt "mastermind name"
+msgid "Mastermind"
+msgstr "策劃者"
+
+msgctxt "mastermind ability"
+msgid "If the Demon dies by execution (ending the game), play for 1 more day. If a player is then executed, their team loses."
+msgstr "如果惡魔被處決(結束遊戲)，則遊戲繼續進行一天，如果有玩家被處決，該玩家的隊伍落敗。"
+
+msgctxt "mastermind flavor"
+msgid "The tentacles of that monster are nailed to the doors of the church. Mothers and children are dancing in the street. Excellent. Everything is proceeding exactly as I have planned."
+msgstr "The tentacles of that monster are nailed to the doors of the church. Mothers and children are dancing in the street. Excellent. Everything is proceeding exactly as I have planned."
+
+msgctxt "mathematician name"
+msgid "Mathematician"
+msgstr "數學家"
+
+msgctxt "mathematician ability"
+msgid "Each night, you learn how many players’ abilities worked abnormally (since dawn) due to another character's ability."
+msgstr "每天晚上，你得知今天(從清晨開始)有多少玩家的能力因為其他角色的能力而異常作用。"
+
+msgctxt "mathematician flavor"
+msgid "Any consistent formal system x, within which a certain amount of elementary arithmetic can be carried out is incomplete; that is, there are statements of the language of x which can neither be proved nor disproved in x. Ergo, you are drunk."
+msgstr "Any consistent formal system x, within which a certain amount of elementary arithmetic can be carried out is incomplete; that is, there are statements of the language of x which can neither be proved nor disproved in x. Ergo, you are drunk."
+
+msgctxt "mathematician firstNightReminder"
+msgid "Show the hand signal for the number (0, 1, 2, etc.) of players whose ability malfunctioned due to other abilities."
+msgstr "展示自己的能力因為其他角色的能力而異常作用的玩家數量(0/1/2/依此類推)。"
+
+msgctxt "mathematician otherNightReminder"
+msgid "Show the hand signal for the number (0, 1, 2, etc.) of players whose ability malfunctioned due to other abilities."
+msgstr "展示自己的能力因為其他角色的能力而異常作用的玩家數量(0/1/2/依此類推)。"
+
+msgctxt "mathematician reminders"
+msgid "Abnormal"
+msgstr "異常"
+
+msgctxt "matron name"
+msgid "Matron"
+msgstr "護士長"
+
+msgctxt "matron ability"
+msgid "Each day, you may choose up to 3 sets of 2 players to swap seats. Players may not leave their seats to talk in private."
+msgstr "每天白天，你可以選擇至多三對玩家互換座位，玩家們不能離開座位講悄悄話。"
+
+msgctxt "matron flavor"
+msgid "Miss Featherbottom, be quiet. Master Rutherford, a teacup needs just the four fingers, please. I know you are a father of nine, but age, or lack there-of as the case may be, is never an excuse for poor manners."
+msgstr "Miss Featherbottom, be quiet. Master Rutherford, a teacup needs just the four fingers, please. I know you are a father of nine, but age, or lack there-of as the case may be, is never an excuse for poor manners."
+
+msgctxt "mayor name"
+msgid "Mayor"
+msgstr "市長"
+
+msgctxt "mayor ability"
+msgid "If only 3 players live & no execution occurs, your team wins. If you die at night, another player might die instead."
+msgstr "如果只有三名玩家存活且今天沒有人被處死，則你的隊伍獲勝。如果你在晚上死亡，則可能改為另一位玩家死亡。"
+
+msgctxt "mayor flavor"
+msgid "We must put our differences aside, and cease this senseless killing. We are all taxpayers after all. Well, most of us."
+msgstr "We must put our differences aside, and cease this senseless killing. We are all taxpayers after all. Well, most of us."
+
+msgctxt "mezepheles name"
+msgid "Mezepheles"
+msgstr "梅澤菲勒斯"
+
+msgctxt "mezepheles ability"
+msgid "You start knowing a secret word. The 1st good player to say this word becomes evil that night."
+msgstr "你開始遊戲時得知一個暗號，第一位說出這個暗號的好人玩家在當晚轉為邪惡隊伍。"
+
+msgctxt "mezepheles flavor"
+msgid "That which issues from the heart alone, will bend the hearts of others to your own."
+msgstr "That which issues from the heart alone, will bend the hearts of others to your own."
+
+msgctxt "mezepheles firstNightReminder"
+msgid "Show the Mezepheles their secret word."
+msgstr "展示祕密的暗號。"
+
+msgctxt "mezepheles otherNightReminder"
+msgid "Wake the 1st good player that said the Mezepheles' secret word and show them the 'You are' card and the thumbs down evil signal."
+msgstr "喚醒第一位說出梅澤菲勒斯的暗號的好人玩家並展示「你是」提示卡 + 倒讚表示邪惡。"
+
+msgctxt "mezepheles reminders"
+msgid "Turns evil,No ability"
+msgstr "無能力,轉為邪惡"
+
+msgctxt "minstrel name"
+msgid "Minstrel"
+msgstr "吟遊詩人"
+
+msgctxt "minstrel ability"
+msgid "When a Minion dies by execution, all other players (except Travellers) are drunk until dusk tomorrow."
+msgstr "每當一個僕從被處死，除了你以外且非旅行者的玩家都醉酒到明天黃昏。"
+
+msgctxt "minstrel flavor"
+msgid "And I shall hear, tho' soft you tread above me... And all my dreams will warm and sweeter be... If you'll not fail to tell me that you love me... I simply sleep in peace until you come to me."
+msgstr "And I shall hear, tho' soft you tread above me... And all my dreams will warm and sweeter be... If you'll not fail to tell me that you love me... I simply sleep in peace until you come to me."
+
+msgctxt "minstrel reminders"
+msgid "Everyone drunk"
+msgstr "所有人醉酒"
+
+msgctxt "monk name"
+msgid "Monk"
+msgstr "僧侶"
+
+msgctxt "monk ability"
+msgid "Each night*, choose a player (not yourself): they are safe from the Demon tonight."
+msgstr "每天晚上*，選擇一位其他的玩家，該玩家今晚免受惡魔攻擊。"
+
+msgctxt "monk flavor"
+msgid "Tis an ill and deathly wind that blows tonight. Come, my brother, take shelter in the abbey while the storm rages. By my word, or by my life, you will be safe."
+msgstr "Tis an ill and deathly wind that blows tonight. Come, my brother, take shelter in the abbey while the storm rages. By my word, or by my life, you will be safe."
+
+msgctxt "monk otherNightReminder"
+msgid "The previously protected player is no longer protected. The Monk points to a player not themself. Mark that player 'Protected'."
+msgstr "先前被保護的玩家不再被保護。僧侶選擇一位其他的玩家，以「保護」標記該玩家。"
+
+msgctxt "monk reminders"
+msgid "Protected"
+msgstr "保護"
+
+msgctxt "moonchild name"
+msgid "Moonchild"
+msgstr "月之子"
+
+msgctxt "moonchild ability"
+msgid "When you learn that you died, publicly choose 1 alive player. Tonight, if it was a good player, they die."
+msgstr "當你得知你死亡時，公開選擇一位活著的玩家，如果該玩家是好人，他今晚會死亡。"
+
+msgctxt "moonchild flavor"
+msgid "Scorpio looks sideways at the lovers, and you have a choice to make. With silver cross my palm, and your fate shall be revealed. With steel cross my throat, and by the stars you shall regret it."
+msgstr "Scorpio looks sideways at the lovers, and you have a choice to make. With silver cross my palm, and your fate shall be revealed. With steel cross my throat, and by the stars you shall regret it."
+
+msgctxt "moonchild otherNightReminder"
+msgid "If the Moonchild used their ability to target a player today: If that player is good, they die."
+msgstr "如果月之子今天對一位好人玩家使用能力，則該玩家死亡。"
+
+msgctxt "moonchild reminders"
+msgid "Dead"
+msgstr "死亡"
+
+msgctxt "mutant name"
+msgid "Mutant"
+msgstr "變種人"
+
+msgctxt "mutant ability"
+msgid "If you are “mad” about being an Outsider, you might be executed."
+msgstr "如果你執著地使其他玩家相信自己是城外人，你可能會被處決。"
+
+msgctxt "mutant flavor"
+msgid "I am not a freak! I am a human being! Have mercy!"
+msgstr "我不是怪胎！我是人類！放過我吧！"
+
+msgctxt "nightwatchman name"
+msgid "Nightwatchman"
+msgstr "守夜人"
+
+msgctxt "nightwatchman ability"
+msgid "Once per game, at night, choose a player: they learn who you are."
+msgstr "每場遊戲一次，晚上時，選擇一位玩家，他們得知你是誰。"
+
+msgctxt "nightwatchman flavor"
+msgid "The night is cold and lonely, but I have the moon, the stars, the crisp wind and the soft thud of leather boots on cobbled stone for company. Yonder, candlelight flickers behind a murky window..."
+msgstr "The night is cold and lonely, but I have the moon, the stars, the crisp wind and the soft thud of leather boots on cobbled stone for company. Yonder, candlelight flickers behind a murky window..."
+
+msgctxt "nightwatchman firstNightReminder"
+msgid "The Nightwatchman may point to a player. Wake that player, show the 'This character selected you' card and the Nightwatchman token, then point to the Nightwatchman player."
+msgstr "守夜人玩家可以指向一位玩家。喚醒該玩家，並展示 「這個角色選擇你」卡片 + 守夜人角色代幣，然後指向守夜人。"
+
+msgctxt "nightwatchman otherNightReminder"
+msgid "The Nightwatchman may point to a player. Wake that player, show the 'This character selected you' card and the Nightwatchman token, then point to the Nightwatchman player."
+msgstr "守夜人玩家可以指向一位玩家。喚醒該玩家，並展示 「這個角色選擇你」卡片 + 守夜人角色代幣，然後指向守夜人。"
+
+msgctxt "nightwatchman reminders"
+msgid "No ability"
+msgstr "無能力"
+
+msgctxt "noble name"
+msgid "Noble"
+msgstr "貴族"
+
+msgctxt "noble ability"
+msgid "You start knowing 3 players, 1 and only 1 of which is evil."
+msgstr "你開始遊戲時得知三位玩家，其中(只有)一位是邪惡的。"
+
+msgctxt "noble flavor"
+msgid "Sarcasm is indeed the lowest form of wit. But speaking in response to your criticism, Sir, it is, nevertheless, a form of wit."
+msgstr "Sarcasm is indeed the lowest form of wit. But speaking in response to your criticism, Sir, it is, nevertheless, a form of wit."
+
+msgctxt "noble firstNightReminder"
+msgid "Point to 3 players including one evil player, in no particular order."
+msgstr "以任意順序指向三位玩家，其中一位是邪惡的。"
+
+msgctxt "noble reminders"
+msgid "Seen"
+msgstr "已得知"
+
+msgctxt "nodashii name"
+msgid "No Dashii"
+msgstr "諾達西"
+
+msgctxt "nodashii ability"
+msgid "Each night*, choose a player: they die. Your 2 Townsfolk neighbours are poisoned."
+msgstr "每天晚上*，選擇一位玩家，該玩家死亡。在你兩側離你最近且活著的鎮民中毒。"
+
+msgctxt "nodashii flavor"
+msgid "By the sins of Arnoch, I feel thy laden stench. By the curs-ed sun and her foul legion of tiny grinning gods, I corrupt thee. By the blessed night and the hidden depths of the horrid and unholy sea, I end thy squalid life upon this plane."
+msgstr "By the sins of Arnoch, I feel thy laden stench. By the curs-ed sun and her foul legion of tiny grinning gods, I corrupt thee. By the blessed night and the hidden depths of the horrid and unholy sea, I end thy squalid life upon this plane."
+
+msgctxt "nodashii otherNightReminder"
+msgid "The No Dashii points to a player. That player dies."
+msgstr "諾達西指向一位玩家，該玩家死亡。"
+
+msgctxt "nodashii reminders"
+msgid "Dead,Poisoned"
+msgstr "中毒,死亡"
+
+msgctxt "ogre name"
+msgid "Ogre"
+msgstr "食人魔"
+
+msgctxt "ogre ability"
+msgid "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned."
+msgstr "在你的第一晚，選擇另一位玩家，你變成該玩家的陣營(你不會得知它)(即使你醉酒或中毒)。"
+
+msgctxt "ogre flavor"
+msgid "<grunt><grin></grunt>"
+msgstr "<grunt><grin></grunt>"
+
+msgctxt "ogre firstNightReminder"
+msgid "The Ogre points to a player (not themselves) and becomes their alignment."
+msgstr "食人魔指向另一位玩家並成為該玩家的隊伍。"
+
+msgctxt "ogre reminders"
+msgid "Friend"
+msgstr "朋友"
+
+msgctxt "ojo name"
+msgid "Ojo"
+msgstr "眼魔"
+
+msgctxt "ojo ability"
+msgid "Each night*, choose a character: they die. If they are not in play, the Storyteller chooses who dies."
+msgstr "每天晚上*，選擇一個角色，該角色的玩家死亡，如果該角色不在遊戲中，則由說書人決定哪位玩家死亡。"
+
+msgctxt "ojo flavor"
+msgid "Like a bonfire on a moonless night… I see you, mortal."
+msgstr "就像沒有月光的夜晚中，耀眼的營火…我看到你了，凡人。"
+
+msgctxt "ojo otherNightReminder"
+msgid "The Ojo points to a character on the sheet; if in play, that player dies. If it is not in play, the Storyteller chooses who dies instead."
+msgstr "眼魔選擇角色表上的一個角色，如果該角色在遊戲中，該角色的玩家死亡，否則由說書人決定死亡。"
+
+msgctxt "ojo reminders"
+msgid "Dead"
+msgstr "死亡"
+
+msgctxt "oracle name"
+msgid "Oracle"
+msgstr "預言家"
+
+msgctxt "oracle ability"
+msgid "Each night*, you learn how many dead players are evil."
+msgstr "每天晚上*，你得知有多少死去的玩家是邪惡的。"
+
+msgctxt "oracle flavor"
+msgid "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
+msgstr "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
+
+msgctxt "oracle otherNightReminder"
+msgid "Show the hand signal for the number (0, 1, 2, etc.) of dead evil players."
+msgstr "展示死亡的邪惡玩家數量(0/1/2/依此類推)。"
+
+msgctxt "organgrinder name"
+msgid "Organ Grinder"
+msgstr "風琴手"
+
+msgctxt "organgrinder ability"
+msgid "All players keep their eyes closed when voting and the vote tally is secret. Each night, choose if you are drunk or not."
+msgstr "所有玩家在投票時閉眼且票數不公開。對你的投票只在你有投票時通過。"
+
+msgctxt "organgrinder flavor"
+msgid "Round and round the handles go. The more you dance the less you know."
+msgstr "Round and round the handles go. The more you dance the less you know."
+
+msgctxt "organgrinder reminders"
+msgid "Drunk,About to die"
+msgstr "將被處決"
+
+msgctxt "pacifist name"
+msgid "Pacifist"
+msgstr "和平主義者"
+
+msgctxt "pacifist ability"
+msgid "Executed good players might not die."
+msgstr "當有好人玩家被處決時，他可能不會死亡。"
+
+msgctxt "pacifist flavor"
+msgid "Distrust all in whom the impulse to punish is powerful."
+msgstr "Distrust all in whom the impulse to punish is powerful."
+
+msgctxt "philosopher name"
+msgid "Philosopher"
+msgstr "哲學家"
+
+msgctxt "philosopher ability"
+msgid "Once per game, at night, choose a good character: gain that ability. If this character is in play, they are drunk."
+msgstr "每場遊戲一次，晚上時，選擇一個好人角色，你獲得該角色能力，如果該角色在遊戲中，他會醉酒。"
+
+msgctxt "philosopher flavor"
+msgid "If anything is real, beer is real. Drink, for tomorrow we may die."
+msgstr "If anything is real, beer is real. Drink, for tomorrow we may die."
+
+msgctxt "philosopher firstNightReminder"
+msgid "The Philosopher either shows a 'no' head signal, or points to a good character on their sheet. If they chose a character: Swap the out-of-play character token with the Philosopher token and add the 'Is the Philosopher' reminder. If the character is in play, place the drunk marker by that player."
+msgstr "哲學家可以選擇角色表上的一個好人角色，如果他有選擇且該角色不在遊戲中，將哲學家的角色代幣置換成該角色；如果該角色在遊戲中，該角色的玩家醉酒，哲學家得到該角色能力，以「是哲學家」標記哲學家。"
+
+msgctxt "philosopher otherNightReminder"
+msgid "If the Philosopher has not used their ability: the Philosopher either shows a 'no' head signal, or points to a good character on their sheet. If they chose a character: Swap the out-of-play character token with the Philosopher token and add the 'Is the Philosopher' reminder. If the character is in play, place the drunk marker by that player."
+msgstr "哲學家可以選擇角色表上的一個好人角色，如果他有選擇且該角色不在遊戲中，將哲學家的角色代幣置換成該角色；如果該角色在遊戲中，該角色的玩家醉酒，哲學家得到該角色能力，以「是哲學家」標記哲學家。"
+
+msgctxt "philosopher remindersGlobal"
+msgid "Is the Philosopher,Drunk"
+msgstr "是哲學家,醉酒"
+
+msgctxt "pithag name"
+msgid "Pit-Hag"
+msgstr "魔女"
+
+msgctxt "pithag ability"
+msgid "Each night*, choose a player & a character they become (if not-in-play). If a Demon is made, deaths tonight are arbitrary."
+msgstr "每天晚上*，選擇一位玩家以及一個角色，如果該角色不在遊戲中，該玩家變成該角色，如果產生一個新惡魔，則今晚的死亡由說書人決定。"
+
+msgctxt "pithag flavor"
+msgid "Round about the cauldron go; In the poison'd entrails throw; Toad, that under cold stone; Days and nights has thirty-one; Sweated venom sleeping got; Boil thou first in the charmed pot."
+msgstr "Round about the cauldron go; In the poison'd entrails throw; Toad, that under cold stone; Days and nights has thirty-one; Sweated venom sleeping got; Boil thou first in the charmed pot."
+
+msgctxt "pithag otherNightReminder"
+msgid "The Pit-Hag points to a player and a character on the sheet. If this character is not in play, wake that player and show them the 'You are' card and the relevant character token. If the character is in play, nothing happens."
+msgstr "魔女指向一位玩家 + 角色表上的一位角色，如果選擇的角色不在遊戲中，喚醒該玩家並展示「你是」提示卡 + 魔女選擇的角色代幣。"
+
+msgctxt "pixie name"
+msgid "Pixie"
+msgstr "小精靈"
+
+msgctxt "pixie ability"
+msgid "You start knowing 1 in-play Townsfolk. If you were mad that you were this character, you gain their ability when they die."
+msgstr "你開始遊戲時得知一位在遊戲中的鎮民角色。如果你執著地使其他玩家相信自己是該角色，則在該角色的玩家死亡後你獲得他的能力。"
+
+msgctxt "pixie flavor"
+msgid ""
+"Round and round the garden, go.\n"
+"Little girls run to and fro.\n"
+"Little boys climb up the tree.\n"
+"Which of these should Pixie be?\n"
+"Ladies smile and go to town. \n"
+"Lords with axe chop forest down.\n"
+"What’s yours is mine. What’s mine, divine.\n"
+"Silly little Pixie, me."
+msgstr ""
+"Round and round the garden, go.\n"
+"Little girls run to and fro.\n"
+"Little boys climb up the tree.\n"
+"Which of these should Pixie be?\n"
+"Ladies smile and go to town. \n"
+"Lords with axe chop forest down.\n"
+"What’s yours is mine. What’s mine, divine.\n"
+"Silly little Pixie, me."
+
+msgctxt "pixie firstNightReminder"
+msgid "Show the Pixie 1 in-play Townsfolk character token."
+msgstr "展示一個在遊戲中的一個鎮民角色代幣。"
+
+msgctxt "pixie reminders"
+msgid "Mad,Has ability"
+msgstr "具有能力,瘋狂"
+
+msgctxt "plaguedoctor name"
+msgid "Plague Doctor"
+msgstr "瘟疫醫師"
+
+msgctxt "plaguedoctor ability"
+msgid "If you die, the Storyteller gains a Minion ability."
+msgstr "如果你死亡，則說書人得到一個僕從的能力。"
+
+msgctxt "plaguedoctor flavor"
+msgid "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh."
+msgstr "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh."
+
+msgctxt "plaguedoctor reminders"
+msgid "Storyteller Ability"
+msgstr "(說書人能力)"
+
+msgctxt "po name"
+msgid "Po"
+msgstr "阿寶"
+
+msgctxt "po ability"
+msgid "Each night*, you may choose a player: they die. If your last choice was no-one, choose 3 players tonight."
+msgstr "每天晚上*，你可以選擇一位玩家，該玩家死亡。如果你上次選擇不行動，則你今晚選擇三位玩家。"
+
+msgctxt "po flavor"
+msgid "Would you like a flower? I'm so lonely."
+msgstr "你想要一朵花嗎？我好孤獨呀。"
+
+msgctxt "po otherNightReminder"
+msgid "If the Po chose no-one the previous night: The Po points to three players. Otherwise: The Po either shows the 'no' head signal , or points to a player. Chosen players die"
+msgstr "阿寶可以選擇一位玩家，或是如果阿寶在上一次沒有選擇玩家，則選擇三位玩家。被選擇的玩家死亡。"
+
+msgctxt "po reminders"
+msgid "Dead,3 attacks"
+msgstr "攻擊x3,死亡"
+
+msgctxt "poisoner name"
+msgid "Poisoner"
+msgstr "投毒人"
+
+msgctxt "poisoner ability"
+msgid "Each night, choose a player: they are poisoned tonight and tomorrow day."
+msgstr "每天晚上，選擇一位玩家，該玩家今晚與明天早上中毒。"
+
+msgctxt "poisoner flavor"
+msgid "Add compound Alpha to compound Beta... NOT TOO MUCH!"
+msgstr "Add compound Alpha to compound Beta... NOT TOO MUCH!"
+
+msgctxt "poisoner firstNightReminder"
+msgid "The Poisoner points to a player. That player is poisoned."
+msgstr "投毒人指向一位玩家，該玩家中毒。"
+
+msgctxt "poisoner otherNightReminder"
+msgid "The previously poisoned player is no longer poisoned. The Poisoner points to a player. That player is poisoned."
+msgstr "先前中毒的玩家不再中毒，投毒人指向一位玩家，該玩家中毒。"
+
+msgctxt "poisoner reminders"
+msgid "Poisoned"
+msgstr "中毒"
+
+msgctxt "politician name"
+msgid "Politician"
+msgstr "政治家"
+
+msgctxt "politician ability"
+msgid "If you were the player most responsible for your team losing, you change alignment & win, even if dead."
+msgstr "如果你需要對你隊伍的落敗負最大的責任，則你改變隊伍並獲勝(儘管你死亡)。"
+
+msgctxt "politician flavor"
+msgid "I'm glad you asked that question. Truly, I am. But I think the REAL question here is..."
+msgstr "I'm glad you asked that question. Truly, I am. But I think the REAL question here is..."
+
+msgctxt "poppygrower name"
+msgid "Poppy Grower"
+msgstr "罌粟農"
+
+msgctxt "poppygrower ability"
+msgid "Minions & Demons do not know each other. If you die, they learn who each other are that night."
+msgstr "僕從們與惡魔不會彼此相認。如果你死亡，則他們在當晚相認。"
+
+msgctxt "poppygrower flavor"
+msgid "In the hidden groves of the deep forest, the black poppy dwells. To see its revelry is to be enchanted. To smell its thick aroma is to be lost forever, a slave to the gods of light and dark."
+msgstr "In the hidden groves of the deep forest, the black poppy dwells. To see its revelry is to be enchanted. To smell its thick aroma is to be lost forever, a slave to the gods of light and dark."
+
+msgctxt "poppygrower firstNightReminder"
+msgid "Do not inform the Demon/Minions who each other are"
+msgstr "不要告知惡魔和僕從彼此是誰。"
+
+msgctxt "poppygrower otherNightReminder"
+msgid "If the Poppy Grower has died, show the Minions/Demon who each other are."
+msgstr "如果罌粟農死亡，告知惡魔和僕從彼此是誰。"
+
+msgctxt "poppygrower reminders"
+msgid "Evil wakes"
+msgstr "邪惡相認"
+
+msgctxt "preacher name"
+msgid "Preacher"
+msgstr "傳教士"
+
+msgctxt "preacher ability"
+msgid "Each night, choose a player: a Minion, if chosen, learns this. All chosen Minions have no ability."
+msgstr "每天晚上，選擇一位玩家，如果你選中了一位僕從，則他得知此事。所有被選中的僕從都失去能力。"
+
+msgctxt "preacher flavor"
+msgid "It is better to be rich and healthy than poor and sick."
+msgstr "It is better to be rich and healthy than poor and sick."
+
+msgctxt "preacher firstNightReminder"
+msgid "The Preacher chooses a player. If a Minion is chosen, wake the Minion and show the 'This character selected you' card and then the Preacher token."
+msgstr "傳教士選擇一位玩家，如果該玩家是僕從，以「傳教中」標記該玩家，喚醒該玩家並展示「這個能力選擇你」提示卡 + 傳教士的角色代幣。"
+
+msgctxt "preacher otherNightReminder"
+msgid "The Preacher chooses a player. If a Minion is chosen, wake the Minion and show the 'This character selected you' card and then the Preacher token."
+msgstr "傳教士選擇一位玩家，如果該玩家是僕從，以「傳教中」標記該玩家，喚醒該玩家並展示「這個能力選擇你」提示卡 + 傳教士的角色代幣。"
+
+msgctxt "preacher reminders"
+msgid "At a sermon"
+msgstr "傳教中"
+
+msgctxt "princess name"
+msgid "Princess"
+msgstr "Princess"
+
+msgctxt "princess ability"
+msgid "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
+msgstr "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
+
+msgctxt "princess flavor"
+msgid "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
+msgstr "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
+
+msgctxt "princess otherNightReminder"
+msgid "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
+msgstr "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
+
+msgctxt "princess reminders"
+msgid "Doesn't Kill"
+msgstr "Doesn't Kill"
+
+msgctxt "professor name"
+msgid "Professor"
+msgstr "教授"
+
+msgctxt "professor ability"
+msgid "Once per game, at night*, choose a dead player: if they are a Townsfolk, they are resurrected."
+msgstr "每場遊戲一次，晚上時*，選擇一位死亡的玩家，如果該玩家是鎮民，則他復活。"
+
+msgctxt "professor flavor"
+msgid "The process is simple. Attach the hydraulic confabulator to the modified chi matrix amplifier, add 20 CCs of pseudodorafine, keep his Z levels above 20%, and your husband will be fine. Now, all we need is a lightning strike."
+msgstr "The process is simple. Attach the hydraulic confabulator to the modified chi matrix amplifier, add 20 CCs of pseudodorafine, keep his Z levels above 20%, and your husband will be fine. Now, all we need is a lightning strike."
+
+msgctxt "professor otherNightReminder"
+msgid "If the Professor has not used their ability: The Professor either shakes their head no, or points to a player. If that player is a Townsfolk, they are now alive."
+msgstr "教授可以指向一位玩家，如果該玩家是鎮民，該玩家復活。"
+
+msgctxt "professor reminders"
+msgid "Alive,No ability"
+msgstr "復活,無能力"
+
+msgctxt "psychopath name"
+msgid "Psychopath"
+msgstr "精神病患"
+
+msgctxt "psychopath ability"
+msgid "Each day, before nominations, you may publicly choose a player: they die. If executed, you only die if you lose roshambo."
+msgstr "每天白天，在提名開始前，你可以公開選擇一位玩家，該玩家死亡。如果你被處決，你只有在輸掉猜拳時才會死亡。"
+
+msgctxt "psychopath flavor"
+msgid "Surprise!"
+msgstr "驚喜！"
+
+msgctxt "pukka name"
+msgid "Pukka"
+msgstr "普卡"
+
+msgctxt "pukka ability"
+msgid "Each night, choose a player: they are poisoned. The previously poisoned player dies then becomes healthy."
+msgstr "每天晚上，選擇一位玩家，該玩家中毒。先前因你而中毒的玩家死亡，並且變得健康。"
+
+msgctxt "pukka flavor"
+msgid "You truly have been kind welcoming me into your beautiful home. I am so sorry I accidentally scratched you. A little thing. No matter. But please, take this golden toothpick as a humble token of my regret."
+msgstr "You truly have been kind welcoming me into your beautiful home. I am so sorry I accidentally scratched you. A little thing. No matter. But please, take this golden toothpick as a humble token of my regret."
+
+msgctxt "pukka firstNightReminder"
+msgid "The Pukka points to a player. That player is poisoned."
+msgstr "普卡指向一位玩家，該玩家中毒。"
+
+msgctxt "pukka otherNightReminder"
+msgid "The Pukka points to a player. That player is poisoned. The previously poisoned player dies."
+msgstr "普卡指向一位玩家，該玩家中毒，先前中毒的玩家死亡並不再中毒。"
+
+msgctxt "pukka reminders"
+msgid "Poisoned,Dead"
+msgstr "中毒,死亡"
+
+msgctxt "puzzlemaster name"
+msgid "Puzzlemaster"
+msgstr "猜謎大師"
+
+msgctxt "puzzlemaster ability"
+msgid "1 player is drunk, even if you die. If you guess (once) who it is, learn the Demon player, but guess wrong & get false info."
+msgstr "一位玩家醉酒(即使你死亡)。如果你猜中是哪位玩家(每場遊戲一次)，則你得知誰是惡魔，但如果你猜錯，你會得到不正確的資訊。"
+
+msgctxt "puzzlemaster flavor"
+msgid "When one begins to think that some thing is merely some other thing, one is usually on the brink of an error. Patience, patience. Don’t confuse just and should with is and isn’t."
+msgstr "When one begins to think that some thing is merely some other thing, one is usually on the brink of an error. Patience, patience. Don’t confuse just and should with is and isn’t."
+
+msgctxt "puzzlemaster reminders"
+msgid "Drunk,Guess used"
+msgstr "已猜測,醉酒"
+
+msgctxt "ravenkeeper name"
+msgid "Ravenkeeper"
+msgstr "養鴉人"
+
+msgctxt "ravenkeeper ability"
+msgid "If you die at night, you are woken to choose a player: you learn their character."
+msgstr "如果你在晚上死亡，你醒來並選擇一位玩家，你得知他的角色。"
+
+msgctxt "ravenkeeper flavor"
+msgid "My birds will avenge me! Fly! Fly, my sweet and dutiful pets! To the manor and to the river! To the alleys and to the salons! Fly!"
+msgstr "My birds will avenge me! Fly! Fly, my sweet and dutiful pets! To the manor and to the river! To the alleys and to the salons! Fly!"
+
+msgctxt "ravenkeeper otherNightReminder"
+msgid "If the Ravenkeeper died tonight: The Ravenkeeper points to a player. Show that player’s character token."
+msgstr "如果養鴉人在今晚死亡，養鴉人指向一位玩家，展示該玩家的角色代幣。"
+
+msgctxt "recluse name"
+msgid "Recluse"
+msgstr "隱居者"
+
+msgctxt "recluse ability"
+msgid "You might register as evil & as a Minion or Demon, even if dead."
+msgstr "你的身分可能會被視為邪惡的僕從或惡魔(即使你死亡)。"
+
+msgctxt "recluse flavor"
+msgid "Garn git ya darn grub ya mitts ofma lorn yasee. Grr. Natsy pikkins yonder southwise ye begittin afta ya! Git! Me harvy no so widda licks and demmons no be fightin' hadsup ne'er ma kin. Git, assay!"
+msgstr "Garn git ya darn grub ya mitts ofma lorn yasee. Grr. Natsy pikkins yonder southwise ye begittin afta ya! Git! Me harvy no so widda licks and demmons no be fightin' hadsup ne'er ma kin. Git, assay!"
+
+msgctxt "revolutionary name"
+msgid "Revolutionary"
+msgstr "革命家"
+
+msgctxt "revolutionary ability"
+msgid "2 neighboring players are known to be the same alignment. Once per game, one of them registers falsely"
+msgstr "兩位相鄰的玩家會被設定為相同隊伍。每場遊戲一次，其中一位玩家的身分會被視為不正確的隊伍或角色。"
+
+msgctxt "revolutionary flavor"
+msgid ""
+"United we feigned.\n"
+"Divided, we stalled."
+msgstr ""
+"United we feigned.\n"
+"Divided, we stalled."
+
+msgctxt "revolutionary reminders"
+msgid "Register Falsely?"
+msgstr "不正確"
+
+msgctxt "riot name"
+msgid "Riot"
+msgstr "暴徒"
+
+msgctxt "riot ability"
+msgid "On day 3, Minions become Riot & nominees die but nominate an alive player immediately. This must happen."
+msgstr "被提名者會死亡，但該玩家可以立即再提名一次(在第三天時必須如此)。第三天過後，邪惡隊伍獲勝。[所有僕從都是暴徒]"
+
+msgctxt "riot flavor"
+msgid "Larga vida a la revolución! Mi revolucion!"
+msgstr "Larga vida a la revolución! Mi revolucion!"
+
+msgctxt "sage name"
+msgid "Sage"
+msgstr "賢者"
+
+msgctxt "sage ability"
+msgid "If the Demon kills you, you learn that it is 1 of 2 players."
+msgstr "如果惡魔殺死了你，你得知惡魔是某兩位玩家中的其中一位。"
+
+msgctxt "sage flavor"
+msgid "These mountainous tomes guard the secret, I am sure of it! Twixt word and word, it lies in wait. More candles, boy! More ink! These notes may look arcane, but the infernal puzzle is revealing itself."
+msgstr "These mountainous tomes guard the secret, I am sure of it! Twixt word and word, it lies in wait. More candles, boy! More ink! These notes may look arcane, but the infernal puzzle is revealing itself."
+
+msgctxt "sage otherNightReminder"
+msgid "If the Sage was killed by a Demon: Point to two players, one of which is that Demon."
+msgstr "如果賢者被惡魔殺死，指向兩位玩家，其中一位是惡魔。"
+
+msgctxt "sailor name"
+msgid "Sailor"
+msgstr "水手"
+
+msgctxt "sailor ability"
+msgid "Each night, choose an alive player: either you or they are drunk until dusk. You can't die."
+msgstr "每天晚上，選擇一位活著的玩家，你或該玩家醉酒到明天黃昏，你不會死亡。"
+
+msgctxt "sailor flavor"
+msgid "I'll drink any one of yer under the table! You! The chatterbox! Reckon you can take me? No? Howza 'bout you, Grandma? You ever tried Old McKillys Extra Spiced Rum before? Guaranteed to put hairs on yer chest! Step aboard, aye!"
+msgstr "I'll drink any one of yer under the table! You! The chatterbox! Reckon you can take me? No? Howza 'bout you, Grandma? You ever tried Old McKillys Extra Spiced Rum before? Guaranteed to put hairs on yer chest! Step aboard, aye!"
+
+msgctxt "sailor firstNightReminder"
+msgid "The Sailor points to a living player. Either the Sailor, or the chosen player, is drunk."
+msgstr "水手指向一位活著的玩家，水手或該玩家醉酒。"
+
+msgctxt "sailor otherNightReminder"
+msgid "The previously drunk player is no longer drunk. The Sailor points to a living player. Either the Sailor, or the chosen player, is drunk."
+msgstr "先前醉酒的玩家不再醉酒，水手指向一位活著的玩家，水手或該玩家醉酒。"
+
+msgctxt "sailor reminders"
+msgid "Drunk"
+msgstr "醉酒"
+
+msgctxt "saint name"
+msgid "Saint"
+msgstr "聖人"
+
+msgctxt "saint ability"
+msgid "If you die by execution, your team loses."
+msgstr "如果你被處死，你的隊伍落敗。"
+
+msgctxt "saint flavor"
+msgid "Wisdom begets peace. Patience begets wisdom. Fear not, for the time shall come when fear too shall pass. Let us pray, and may the unity of our vision make saints of us all."
+msgstr "Wisdom begets peace. Patience begets wisdom. Fear not, for the time shall come when fear too shall pass. Let us pray, and may the unity of our vision make saints of us all."
+
+msgctxt "savant name"
+msgid "Savant"
+msgstr "學者"
+
+msgctxt "savant ability"
+msgid "Each day, you may visit the Storyteller to learn 2 things in private: 1 is true & 1 is false."
+msgstr "每天白天，你可以拜訪說書人來得知兩件事，其中一件是正確的。"
+
+msgctxt "savant flavor"
+msgid "Seventy-two matchsticks on the floor... the sun sets early but the moon is unchanged... a torn piece of cloth... evil in the manor house... three by three... the one we trusted is not what he seems... green light means magnesium... residue, but the pattern is wrong... Seventy-two matchsticks on the floor..."
+msgstr "Seventy-two matchsticks on the floor... the sun sets early but the moon is unchanged... a torn piece of cloth... evil in the manor house... three by three... the one we trusted is not what he seems... green light means magnesium... residue, but the pattern is wrong... Seventy-two matchsticks on the floor..."
+
+msgctxt "scapegoat name"
+msgid "Scapegoat"
+msgstr "替罪羊"
+
+msgctxt "scapegoat ability"
+msgid "If a player of your alignment is executed, you might be executed instead."
+msgstr "如果你的隊伍的玩家被處死，則可能改為你被處死。"
+
+msgctxt "scapegoat flavor"
+msgid "Good evening! Thank you for inviting me to the ball. I'm not from around here, but you sure seem like a friendly bunch, by golly. I'm sure we'll get along just dandy. What's all that rope for?"
+msgstr "Good evening! Thank you for inviting me to the ball. I'm not from around here, but you sure seem like a friendly bunch, by golly. I'm sure we'll get along just dandy. What's all that rope for?"
+
+msgctxt "scarletwoman name"
+msgid "Scarlet Woman"
+msgstr "淫魔"
+
+msgctxt "scarletwoman ability"
+msgid "If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don’t count)"
+msgstr "如果有五個或更多非旅行者的玩家存活時惡魔死亡，則你會變成惡魔。"
+
+msgctxt "scarletwoman flavor"
+msgid "You have shown me the secrets of the Council of the Purple Flame. We have lain together in fire and in lust and in beastly commune, and I am forever your servant. But tonight, my dear, I am your master."
+msgstr "You have shown me the secrets of the Council of the Purple Flame. We have lain together in fire and in lust and in beastly commune, and I am forever your servant. But tonight, my dear, I am your master."
+
+msgctxt "scarletwoman otherNightReminder"
+msgid "If the Scarlet Woman became the Demon today: Show the 'You are' card, then the demon token."
+msgstr "如果淫魔今天成為了惡魔，將「你是」提示卡 + 惡魔的角色代幣展示給他。"
+
+msgctxt "scarletwoman reminders"
+msgid "Demon"
+msgstr "是惡魔"
+
+msgctxt "seamstress name"
+msgid "Seamstress"
+msgstr "裁縫師"
+
+msgctxt "seamstress ability"
+msgid "Once per game, at night, choose 2 players (not yourself): you learn if they are the same alignment."
+msgstr "每場遊戲一次，晚上時，選擇兩位其他的玩家，你得知他們是否為同一隊伍。"
+
+msgctxt "seamstress flavor"
+msgid "Did you hear that stranger in the cashmere coat put the word on our young Belle? And she said yes? Well, that's nothing compared to what Harry and that juggler got up to at the fair! The things I could say if I was a tattletale... my, yes."
+msgstr "Did you hear that stranger in the cashmere coat put the word on our young Belle? And she said yes? Well, that's nothing compared to what Harry and that juggler got up to at the fair! The things I could say if I was a tattletale... my, yes."
+
+msgctxt "seamstress firstNightReminder"
+msgid "The Seamstress either shows a 'no' head signal, or points to two other players. If the Seamstress chose players , nod 'yes' or shake 'no' for whether they are of same alignment."
+msgstr "裁縫師可以選擇兩位其他的玩家，如果他有選擇，以點頭或搖頭來告知他們是否屬於同一隊伍。"
+
+msgctxt "seamstress otherNightReminder"
+msgid "If the Seamstress has not yet used their ability: the Seamstress either shows a 'no' head signal, or points to two other players. If the Seamstress chose players , nod 'yes' or shake 'no' for whether they are of same alignment."
+msgstr "裁縫師可以選擇兩位其他的玩家，如果他有選擇，以點頭或搖頭來告知他們是否屬於同一隊伍。"
+
+msgctxt "seamstress reminders"
+msgid "No ability"
+msgstr "無能力"
+
+msgctxt "sentinel name"
+msgid "Sentinel"
+msgstr "哨兵"
+
+msgctxt "sentinel ability"
+msgid "There might be 1 extra or 1 fewer Outsider in-play."
+msgstr "城外人數量可能會加一或減一。"
+
+msgctxt "sentinel flavor"
+msgid ""
+"Name, please.\n"
+"Papers, please.\n"
+"Weapons, please."
+msgstr ""
+"Name, please.\n"
+"Papers, please.\n"
+"Weapons, please."
+
+msgctxt "shabaloth name"
+msgid "Shabaloth"
+msgstr "沙巴洛斯"
+
+msgctxt "shabaloth ability"
+msgid "Each night*, choose 2 players: they die. A dead player you chose last night might be regurgitated."
+msgstr "每天晚上*，選擇兩位玩家，這些玩家死亡。昨晚你選擇的其中一位玩家可能會復活。"
+
+msgctxt "shabaloth flavor"
+msgid "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
+msgstr "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
+
+msgctxt "shabaloth otherNightReminder"
+msgid "One player that the Shabaloth chose the previous night might be resurrected. The Shabaloth points to two players. Those players die."
+msgstr "沙巴洛斯前一晚選擇的其中一位玩家可能會復活，沙巴洛斯選擇兩位玩家，這些玩家死亡。"
+
+msgctxt "shabaloth reminders"
+msgid "Dead,Alive"
+msgstr "復活,死亡"
+
+msgctxt "shugenja name"
+msgid "Shugenja"
+msgstr "修道家"
+
+msgctxt "shugenja ability"
+msgid "You start knowing if your closest evil player is clockwise or anti-clockwise. If equidistant, this info is arbitrary."
+msgstr "你遊戲開始時得知離你最近的邪惡玩家是順時針或是逆時針方向，如果兩者皆是，則你得到隨機的資訊。"
+
+msgctxt "shugenja flavor"
+msgid "これは夢。それも夢。すべて夢です。"
+msgstr "これは夢。それも夢。すべて夢です。"
+
+msgctxt "shugenja firstNightReminder"
+msgid "Wake the Shugenja; point horizontally in the direction of the closest evil player. If the two closest evil players are equidistant, point your finger horizontally in either direction."
+msgstr "喚醒修道家，指向最近的邪惡玩家方向，如果兩方向相同，指向任意一邊。"
+
+msgctxt "slayer name"
+msgid "Slayer"
+msgstr "獵魔人"
+
+msgctxt "slayer ability"
+msgid "Once per game, during the day, publicly choose a player: if they are the Demon, they die."
+msgstr "每場遊戲一次，白天時，公開選擇一位玩家，如果該玩家是惡魔，他會死亡。"
+
+msgctxt "slayer flavor"
+msgid "Die."
+msgstr "死吧。"
+
+msgctxt "slayer reminders"
+msgid "No ability"
+msgstr "無能力"
+
+msgctxt "snakecharmer name"
+msgid "Snake Charmer"
+msgstr "弄蛇人"
+
+msgctxt "snakecharmer ability"
+msgid "Each night, choose an alive player: a chosen Demon swaps characters & alignments with you & is then poisoned."
+msgstr "每天晚上，選擇一位活著的玩家，如果該玩家是惡魔，你與他交換隊伍與角色，然後他中毒。"
+
+msgctxt "snakecharmer flavor"
+msgid "Effendi... I am but a humble man, but my pipe is golden and a single tune will tame the wildest djinn, Inshallah. They say that greed hangs more men than rope. But not I, Effendi... not I."
+msgstr "Effendi... I am but a humble man, but my pipe is golden and a single tune will tame the wildest djinn, Inshallah. They say that greed hangs more men than rope. But not I, Effendi... not I."
+
+msgctxt "snakecharmer firstNightReminder"
+msgid "The Snake Charmer points to a player. If that player is the Demon: swap the Demon and Snake Charmer character and alignments. Wake each player to inform them of their new role and alignment. The new Snake Charmer is poisoned."
+msgstr "弄蛇人指向一位玩家，如果該玩家是惡魔，交換他們的角色及隊伍，分別喚醒他們並展示「你是」提示卡 + 他們的新角色代幣，新的弄蛇人中毒。"
+
+msgctxt "snakecharmer otherNightReminder"
+msgid "The Snake Charmer points to a player. If that player is the Demon: swap the Demon and Snake Charmer character and alignments. Wake each player to inform them of their new role and alignment. The new Snake Charmer is poisoned."
+msgstr "弄蛇人指向一位玩家，如果該玩家是惡魔，交換他們的角色及隊伍，分別喚醒他們並展示「你是」提示卡 + 他們的新角色代幣，新的弄蛇人中毒。"
+
+msgctxt "snakecharmer reminders"
+msgid "Poisoned"
+msgstr "中毒"
+
+msgctxt "snitch name"
+msgid "Snitch"
+msgstr "告密者"
+
+msgctxt "snitch ability"
+msgid "Minions start knowing 3 not-in-play characters."
+msgstr "僕從們開始遊戲時得知三個不在遊戲中的角色。"
+
+msgctxt "snitch flavor"
+msgid "It was John."
+msgstr "是約翰做的。"
+
+msgctxt "snitch firstNightReminder"
+msgid "After Minion info wake each Minion and show them three not-in-play character tokens. These may be the same or different to each other and the ones shown to the Demon."
+msgstr "在提供僕從資訊後分別喚醒每個僕從並展示三個不在遊戲中的角色代幣(可與展示給其他僕從或惡魔的代幣相同或不同)。"
+
+msgctxt "soldier name"
+msgid "Soldier"
+msgstr "士兵"
+
+msgctxt "soldier ability"
+msgid "You are safe from the Demon."
+msgstr "你免受惡魔攻擊。"
+
+msgctxt "soldier flavor"
+msgid "As David said to Goliath, as Theseus said to the Minotaur, as Arjuna said to Bhagadatta... No."
+msgstr "As David said to Goliath, as Theseus said to the Minotaur, as Arjuna said to Bhagadatta... No."
+
+msgctxt "spiritofivory name"
+msgid "Spirit Of Ivory"
+msgstr "象牙精"
+
+msgctxt "spiritofivory ability"
+msgid "There can't be more than 1 extra evil player."
+msgstr "不能存在超過一個的額外邪惡玩家。"
+
+msgctxt "spiritofivory flavor"
+msgid "The Wasteland calls. Bones rise to flesh, then fall to dust. The great spirit grows. The great spirit watches. The great spirit guides. The human listens, or the human is no more."
+msgstr "The Wasteland calls. Bones rise to flesh, then fall to dust. The great spirit grows. The great spirit watches. The great spirit guides. The human listens, or the human is no more."
+
+msgctxt "spiritofivory reminders"
+msgid "No extra evil"
+msgstr "不再出現邪惡"
+
+msgctxt "spy name"
+msgid "Spy"
+msgstr "間諜"
+
+msgctxt "spy ability"
+msgid "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead."
+msgstr "每天晚上，你都可以查看魔典。你的身分可能會被視為好人的鎮民或城外人(即使你死亡)。"
+
+msgctxt "spy flavor"
+msgid "Any brewmaster worth their liquor, knows no concoction pours trouble quicker, than one where spies seem double."
+msgstr "Any brewmaster worth their liquor, knows no concoction pours trouble quicker, than one where spies seem double."
+
+msgctxt "spy firstNightReminder"
+msgid "Show the Grimoire to the Spy for as long as they need."
+msgstr "將魔典展示給間諜。"
+
+msgctxt "spy otherNightReminder"
+msgid "Show the Grimoire to the Spy for as long as they need."
+msgstr "將魔典展示給間諜。"
+
+msgctxt "steward name"
+msgid "Steward"
+msgstr "侍臣"
+
+msgctxt "steward ability"
+msgid "You start knowing 1 good player."
+msgstr "你遊戲開始時得知一位好人玩家。"
+
+msgctxt "steward flavor"
+msgid "How DARE you accuse Her Ladyship of wrongdoing? I’ve known her my entire life! All nine years!"
+msgstr "How DARE you accuse Her Ladyship of wrongdoing? I’ve known her my entire life! All nine years!"
+
+msgctxt "steward firstNightReminder"
+msgid "Point to 1 good player."
+msgstr "指向一位好人玩家。"
+
+msgctxt "steward reminders"
+msgid "Know"
+msgstr "已得知"
+
+msgctxt "stormcatcher name"
+msgid "Storm Catcher"
+msgstr "捕風手"
+
+msgctxt "stormcatcher ability"
+msgid "Name a good character. If in play, they can only die by execution, but evil players learn which player it is."
+msgstr "選擇一個角色名稱。如果該角色在遊戲中，該角色的玩家只能死於處刑，但邪惡玩家知道他是哪位玩家。"
+
+msgctxt "stormcatcher flavor"
+msgid "At dawn, the temple’s long shadow creeps to the fountain. At dusk, the obelisk blocks the red glare, cooling warm water under the archway. All lines converge here. A storm is coming, and this, this pebbled and lush and holy place between the apple trees, is the eye."
+msgstr "At dawn, the temple’s long shadow creeps to the fountain. At dusk, the obelisk blocks the red glare, cooling warm water under the archway. All lines converge here. A storm is coming, and this, this pebbled and lush and holy place between the apple trees, is the eye."
+
+msgctxt "stormcatcher reminders"
+msgid "Safe"
+msgstr "安全"
+
+msgctxt "summoner name"
+msgid "Summoner"
+msgstr "召喚師"
+
+msgctxt "summoner ability"
+msgid "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]"
+msgstr "你得到三個偽裝。在第三晚，選擇一位玩家，該玩家變成你選擇的惡魔角色。[沒有惡魔]"
+
+msgctxt "summoner flavor"
+msgid "Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness"
+msgstr "Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness"
+
+msgctxt "summoner firstNightReminder"
+msgid "Show the 'These characters are not in play' card. Show 3 character tokens of good characters not in play."
+msgstr "展示「這些角色不在遊戲中」提示卡 + 三個不在遊戲中的角色代幣"
+
+msgctxt "summoner otherNightReminder"
+msgid "If it is the 3rd night, wake the Summoner. They point to a player and a Demon on the character sheet - that player becomes that Demon."
+msgstr "如果今晚是第三晚，召喚師選擇一位玩家 + 角色表上的一個惡魔角色，他成為該惡魔。"
+
+msgctxt "summoner reminders"
+msgid "Night 1,Night 2,Night 3"
+msgstr "第一晚,第二晚,第三晚"
+
+msgctxt "sweetheart name"
+msgid "Sweetheart"
+msgstr "甜心"
+
+msgctxt "sweetheart ability"
+msgid "When you die, 1 player is drunk from now on."
+msgstr "當你死亡時，一位玩家開始醉酒。"
+
+msgctxt "sweetheart flavor"
+msgid "I will never forget her. Never."
+msgstr "I will never forget her. Never."
+
+msgctxt "sweetheart otherNightReminder"
+msgid "Choose a player that is drunk."
+msgstr "選擇一位玩家，該玩家醉酒。"
+
+msgctxt "sweetheart reminders"
+msgid "Drunk"
+msgstr "醉酒"
+
+msgctxt "tealady name"
+msgid "Tea Lady"
+msgstr "侍女"
+
+msgctxt "tealady ability"
+msgid "If both your alive neighbours are good, they can't die."
+msgstr "如果你活著的鄰居都是好人，則他們都不會死亡。"
+
+msgctxt "tealady flavor"
+msgid "If you are cold, tea will warm you. If you are too heated, tea will cool you. If you are depressed, tea will cheer you. If you are excited, tea will calm you."
+msgstr "If you are cold, tea will warm you. If you are too heated, tea will cool you. If you are depressed, tea will cheer you. If you are excited, tea will calm you."
+
+msgctxt "tealady reminders"
+msgid "Can not die"
+msgstr "不會死"
+
+msgctxt "thief name"
+msgid "Thief"
+msgstr "小偷"
+
+msgctxt "thief ability"
+msgid "Each night, choose a player (not yourself): their vote counts negatively tomorrow."
+msgstr "每天晚上，選擇一位其他的玩家，明天該玩家投下的票都計為負票。"
+
+msgctxt "thief flavor"
+msgid "I aint done nuffink. I weren't even in dat alley last night! It weren't me what stole Mayor Bruno's briefcase wiv all dem fancy dockoments innit. Besides, it was too 'eavy to carry far."
+msgstr "I aint done nuffink. I weren't even in dat alley last night! It weren't me what stole Mayor Bruno's briefcase wiv all dem fancy dockoments innit. Besides, it was too 'eavy to carry far."
+
+msgctxt "thief firstNightReminder"
+msgid "The Thief points to a player. Put the Thief's 'Negative vote' reminder by the chosen player's character token."
+msgstr "小偷指向一位玩家，以「負數票」標記該玩家。"
+
+msgctxt "thief otherNightReminder"
+msgid "The Thief points to a player. Put the Thief's 'Negative vote' reminder by the chosen player's character token."
+msgstr "小偷指向一位玩家，以「負數票」標記該玩家。"
+
+msgctxt "thief reminders"
+msgid "Negative vote"
+msgstr "負數票"
+
+msgctxt "tinker name"
+msgid "Tinker"
+msgstr "修補匠"
+
+msgctxt "tinker ability"
+msgid "You might die at any time."
+msgstr "你隨時可能死亡。"
+
+msgctxt "tinker flavor"
+msgid "I think I see the problem. Luckily, I have an idea! This catapult will shoot twice as far with just a minor adjustment..."
+msgstr "I think I see the problem. Luckily, I have an idea! This catapult will shoot twice as far with just a minor adjustment..."
+
+msgctxt "tinker otherNightReminder"
+msgid "The Tinker might die."
+msgstr "修補匠可能會死亡。"
+
+msgctxt "tinker reminders"
+msgid "Dead"
+msgstr "死亡"
+
+msgctxt "towncrier name"
+msgid "Town Crier"
+msgstr "送報員"
+
+msgctxt "towncrier ability"
+msgid "Each night*, you learn if a Minion nominated today."
+msgstr "每天晚上*，你得知僕從們今天是否有提名。"
+
+msgctxt "towncrier flavor"
+msgid "Hear ye! Hear ye! Witchcraft in the labyrinth! Genius savant reveals all! Town in danger! Hear Ye!"
+msgstr "號外！號外！迷宮中有巫術！天才學者將揭示一切！小鎮陷入危險了！號外！"
+
+msgctxt "towncrier otherNightReminder"
+msgid "Nod 'yes' or shake head 'no' for whether a Minion nominated today. Place the 'Minion not nominated' marker (remove 'Minion nominated', if any)."
+msgstr "以點頭或搖頭來告知僕從們今天是否有提名，以「僕從未提名」標記送報員。"
+
+msgctxt "towncrier reminders"
+msgid "Minions not nominated,Minion nominated"
+msgstr "僕從提名,僕從未提名"
+
+msgctxt "toymaker name"
+msgid "Toymaker"
+msgstr "玩具製造商"
+
+msgctxt "toymaker ability"
+msgid "The Demon may choose not to attack & must do this at least once per game. Evil players get normal starting info."
+msgstr "惡魔晚上時可以選擇不攻擊(且一局遊戲中至少要做一次)。邪惡玩家正常地獲得起始資訊。"
+
+msgctxt "toymaker flavor"
+msgid "It buzzes! It walks down stairs! It keeps you warm at night! It tastes like sugar! The kiddies love it! Introducing... the brand new... Warm'o-buzzy-wuzzy-walk'a'bot-thingy-contraption! Fun for all ages!"
+msgstr "It buzzes! It walks down stairs! It keeps you warm at night! It tastes like sugar! The kiddies love it! Introducing... the brand new... Warm'o-buzzy-wuzzy-walk'a'bot-thingy-contraption! Fun for all ages!"
+
+msgctxt "toymaker reminders"
+msgid "No Attack"
+msgstr "已選擇不攻擊"
+
+msgctxt "undertaker name"
+msgid "Undertaker"
+msgstr "掘墓人"
+
+msgctxt "undertaker ability"
+msgid "Each night*, you learn which character died by execution today."
+msgstr "每天晚上*，你得知今天被處死的玩家的角色。"
+
+msgctxt "undertaker flavor"
+msgid "Hmmm....what have we here? The left boot is worn down to the heel, with flint shavings under the tongue. This is the garb of a Military man."
+msgstr "Hmmm....what have we here? The left boot is worn down to the heel, with flint shavings under the tongue. This is the garb of a Military man."
+
+msgctxt "undertaker otherNightReminder"
+msgid "If a player was executed today: Show that player’s character token."
+msgstr "如果今天有玩家被處決，將該玩家的角色代幣展示給掘墓人。"
+
+msgctxt "undertaker reminders"
+msgid "Executed"
+msgstr "處決"
+
+msgctxt "vigormortis name"
+msgid "Vigormortis"
+msgstr "亡靈之主"
+
+msgctxt "vigormortis ability"
+msgid "Each night*, choose a player: they die. Minions you kill keep their ability & poison 1 Townsfolk neighbour. [−1 Outsider]"
+msgstr "每天晚上*，選擇一位玩家，該玩家死亡。你殺死的僕從們會保留他們的能力，並且使其兩側最近的其中一位鎮民中毒。[−1 城外人]"
+
+msgctxt "vigormortis flavor"
+msgid "All doors are one door. All keys are one key. All cups are one cup, but whosoever drinketh of the water that I give shall never thirst, but the water shall be in him a well springing up into everlasting life."
+msgstr "百門皆為一門。百匙皆為一匙。百杯皆為一杯，但誰若喝我所賜的水，將永遠不渴；我所賜的水要在他裡頭成為泉源，直湧到永生。"
+
+msgctxt "vigormortis otherNightReminder"
+msgid "The Vigormortis points to a player. That player dies. If a Minion, they keep their ability and one of their Townsfolk neighbours is poisoned."
+msgstr "亡靈之主指向一位玩家，該玩家死亡。如果該玩家是僕從，以「具有能力」標記該玩家並讓他的一位鎮民鄰居中毒。"
+
+msgctxt "vigormortis reminders"
+msgid "Dead,Has ability,Poisoned"
+msgstr "中毒,具有能力,死亡"
+
+msgctxt "villageidiot name"
+msgid "Village Idiot"
+msgstr "愚民"
+
+msgctxt "villageidiot ability"
+msgid "Each night, choose a player: you learn their alignment. [+0 to +2 Village Idiots. 1 of the extras is drunk]"
+msgstr "每天晚上，選擇一位玩家，你得知他的隊伍。[+0 到 +2 愚民，其中一位醉酒]"
+
+msgctxt "villageidiot flavor"
+msgid "Roses are blue, and violets are red, Please reverse what I just said."
+msgstr "Roses are blue, and violets are red, Please reverse what I just said."
+
+msgctxt "villageidiot firstNightReminder"
+msgid "The Village Idiot points to a player; give a thumbs up if that player is good or a thumbs down if that player is evil."
+msgstr "愚民指向一位玩家，展示該玩家的隊伍。"
+
+msgctxt "villageidiot otherNightReminder"
+msgid "The Village Idiot points to a player; give a thumbs up if that player is good or a thumbs down if that player is evil."
+msgstr "愚民指向一位玩家，展示該玩家的隊伍。"
+
+msgctxt "villageidiot reminders"
+msgid "Drunk"
+msgstr "醉酒"
+
+msgctxt "virgin name"
+msgid "Virgin"
+msgstr "處女"
+
+msgctxt "virgin ability"
+msgid "The 1st time you are nominated, if the nominator is a Townsfolk, they are executed immediately."
+msgstr "如果第一次提名你的人是鎮民，該玩家會被立即處死。"
+
+msgctxt "virgin flavor"
+msgid "I am pure. Let those who are without sin cast themselves down and suffer in my stead. My reputation shall not be stained with your venomous accusations."
+msgstr "I am pure. Let those who are without sin cast themselves down and suffer in my stead. My reputation shall not be stained with your venomous accusations."
+
+msgctxt "virgin reminders"
+msgid "No ability"
+msgstr "無能力"
+
+msgctxt "vizier name"
+msgid "Vizier"
+msgstr "宰相"
+
+msgctxt "vizier ability"
+msgid "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately."
+msgstr "所有玩家都知道你是誰。你無法在白天死亡。投票時，若有好人玩家投票，則你可以強制使處決成功。"
+
+msgctxt "vizier flavor"
+msgid "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me."
+msgstr "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me."
+
+msgctxt "vizier firstNightReminder"
+msgid "Announce 'The Vizier is in play' and state which player they are."
+msgstr "宣布「宰相在遊戲中」並指向該玩家。"
+
+msgctxt "vortox name"
+msgid "Vortox"
+msgstr "迷魂"
+
+msgctxt "vortox ability"
+msgid "Each night*, choose a player: they die. Townsfolk abilities yield false info. Each day, if no-one is executed, evil wins."
+msgstr "每天晚上*，選擇一位玩家，該玩家死亡。鎮民們的能力會得到錯誤的訊息。每天白天，如果沒有人被處死，則邪惡隊伍獲勝。"
+
+msgctxt "vortox flavor"
+msgid "Black is White. Right is Wrong. Left is Right. Up is Long. Down is Sight. Short is Blind. Follow me. Answers find."
+msgstr "Black is White. Right is Wrong. Left is Right. Up is Long. Down is Sight. Short is Blind. Follow me. Answers find."
+
+msgctxt "vortox otherNightReminder"
+msgid "The Vortox points to a player. That player dies."
+msgstr "迷魂指向一位玩家，該玩家死亡。"
+
+msgctxt "vortox reminders"
+msgid "Dead"
+msgstr "死亡"
+
+msgctxt "voudon name"
+msgid "Voudon"
+msgstr "巫毒教徒"
+
+msgctxt "voudon ability"
+msgid "Only you and the dead can vote. They don't need a vote token to do so. A 50% majority is not required."
+msgstr "只有你和死亡玩家可以投票，死亡玩家投票不需使用投票代幣，也不需要50%的票數門檻。"
+
+msgctxt "voudon flavor"
+msgid "Bien venu. Sit down. Breathe deep. Enter the land of the dead. See with their eyes. Speak with their voice. Yon sel lang se janm ase."
+msgstr "Bien venu. Sit down. Breathe deep. Enter the land of the dead. See with their eyes. Speak with their voice. Yon sel lang se janm ase."
+
+msgctxt "washerwoman name"
+msgid "Washerwoman"
+msgstr "洗衣婦"
+
+msgctxt "washerwoman ability"
+msgid "You start knowing that 1 of 2 players is a particular Townsfolk."
+msgstr "你遊戲開始時得知在某兩位玩家中有一位特定的鎮民角色。"
+
+msgctxt "washerwoman flavor"
+msgid "Bloodstains on a dinner jacket? No, this is cooking sherry. How careless."
+msgstr "Bloodstains on a dinner jacket? No, this is cooking sherry. How careless."
+
+msgctxt "washerwoman firstNightReminder"
+msgid "Show the character token of a Townsfolk in play. Point to two players, one of which is that character."
+msgstr "將一個在遊戲中的鎮民角色代幣展示給洗衣婦並指向兩位玩家，他們其中一位是該角色。"
+
+msgctxt "washerwoman reminders"
+msgid "Townsfolk,Wrong"
+msgstr "鎮民,非鎮民"
+
+msgctxt "widow name"
+msgid "Widow"
+msgstr "寡婦"
+
+msgctxt "widow ability"
+msgid "On your 1st night, look at the Grimoire and choose a player: they are poisoned. 1 good player knows a Widow is in play."
+msgstr "在你的第一晚，查看魔典並且選擇一位玩家，該玩家中毒。一位好人玩家知道寡婦在遊戲中。"
+
+msgctxt "widow flavor"
+msgid "More wine? Château d’Ergot ’07 is a very special vintage. My yes, very special indeed."
+msgstr "More wine? Château d’Ergot ’07 is a very special vintage. My yes, very special indeed."
+
+msgctxt "widow firstNightReminder"
+msgid "Show the Grimoire to the Widow for as long as they need. The Widow points to a player. That player is poisoned. Wake a good player. Show the 'These characters are in play' card, then the Widow character token."
+msgstr "將魔典展示給寡婦，寡婦選擇一位玩家，以「中毒」標記該玩家。喚醒一位好人玩家並展示「這些角色在遊戲中」提示卡 + 寡婦的角色代幣，以「得知寡婦」標記該玩家。"
+
+msgctxt "widow remindersGlobal"
+msgid "Knows"
+msgstr "得知寡婦"
+
+msgctxt "widow reminders"
+msgid "Poisoned"
+msgstr "中毒"
+
+msgctxt "witch name"
+msgid "Witch"
+msgstr "女巫"
+
+msgctxt "witch ability"
+msgid "Each night, choose a player: if they nominate tomorrow, they die. If just 3 players live, you lose this ability."
+msgstr "每天晚上，選擇一位玩家，如果該玩家於明天提名，則他會死亡，如果只剩下三位玩家存活，你失去這個能力。"
+
+msgctxt "witch flavor"
+msgid "Three drops of goat's blood. A lock of hair, torn in anger. The name is spoken, the shadow cast. Walk left foot first down that brambled path, and don't look back."
+msgstr "Three drops of goat's blood. A lock of hair, torn in anger. The name is spoken, the shadow cast. Walk left foot first down that brambled path, and don't look back."
+
+msgctxt "witch firstNightReminder"
+msgid "The Witch points to a player. If that player nominates tomorrow they die immediately."
+msgstr "女巫指向一位玩家，以「詛咒」標記該玩家。"
+
+msgctxt "witch otherNightReminder"
+msgid "If there are 4 or more players alive: The Witch points to a player. If that player nominates tomorrow they die immediately."
+msgstr "如果有四位或以上玩家活著，女巫指向一位玩家，以「詛咒」標記該玩家。"
+
+msgctxt "witch reminders"
+msgid "Cursed"
+msgstr "詛咒"
+
+msgctxt "wizard name"
+msgid "Wizard"
+msgstr "巫師"
+
+msgctxt "wizard ability"
+msgid "Once per game, choose to make a wish.  If granted, it might have a price & leave a clue as to its nature."
+msgstr "每場遊戲一次，許一個願。如果願望成真，可能會有代價和留下有關其性質的線索。"
+
+msgctxt "wizard flavor"
+msgid "Genies are overrated."
+msgstr "Genies are overrated."
+
+msgctxt "wizard firstNightReminder"
+msgid "Run the Wizard ability if applicable."
+msgstr "運行巫師的能力（如果適用）。"
+
+msgctxt "wizard otherNightReminder"
+msgid "Run the Wizard ability if applicable."
+msgstr "運行巫師的能力（如果適用）。"
+
+msgctxt "wizard reminders"
+msgid "?"
+msgstr "?"
+
+msgctxt "xaan name"
+msgid "Xaan"
+msgstr "Xaan"
+
+msgctxt "xaan ability"
+msgid "On night X, all Townsfolk are poisoned until dusk. [X Outsiders]"
+msgstr "在第X晚，所有鎮民中毒直到下個黃昏。[城外人數量為X]"
+
+msgctxt "xaan flavor"
+msgid "Down they fall. One by one. By two, by three, by five."
+msgstr "他們墮落了。一個一個。兩個，三個，五個。"
+
+msgctxt "xaan reminders"
+msgid "Night 1, Night 2, Night 3, X"
+msgstr "第一晚, 第二晚, 第三晚, X"
+
+msgctxt "yaggababble name"
+msgid "Yaggababble"
+msgstr "牙加巴布"
+
+msgctxt "yaggababble ability"
+msgid "You start knowing a secret phrase. For each time you said it publicly today, a player might die."
+msgstr "你開始遊戲時得知一個暗號，每當你公開說出它，今天都有一位玩家可能死亡。"
+
+msgctxt "yaggababble flavor"
+msgid "Murders inside the Rue Morgue? Фальшивые новости! Hounds on the Baskerville moor? Фальшивые новости! Death while sailing the Nile? Фальшивые новости!"
+msgstr "Murders inside the Rue Morgue? Фальшивые новости! Hounds on the Baskerville moor? Фальшивые новости! Death while sailing the Nile? Фальшивые новости!"
+
+msgctxt "yaggababble firstNightReminder"
+msgid "Show the Yaggababble their secret phrase."
+msgstr "展示祕密的暗號。"
+
+msgctxt "yaggababble otherNightReminder"
+msgid "Choose a number of players up to the total number of times the Yaggababble said their secret phrase publicly, those players die."
+msgstr "選擇一些玩家，數量至多為牙加巴布今天公開說出暗號的次數，這些玩家死亡。"
+
+msgctxt "yaggababble reminders"
+msgid "Dead"
+msgstr "死亡"
+
+msgctxt "zealot name"
+msgid "Zealot"
+msgstr "狂熱者"
+
+msgctxt "zealot ability"
+msgid "If there are 5 or more players alive, you must vote for every nomination."
+msgstr "如果有五個或更多玩家存活，你在每次提名都需要投票。"
+
+msgctxt "zealot flavor"
+msgid "I enjoy talking to you. Your mind appeals to me. It resembles my own mind except that you happen to be insane."
+msgstr "I enjoy talking to you. Your mind appeals to me. It resembles my own mind except that you happen to be insane."
+
+msgctxt "zombuul name"
+msgid "Zombuul"
+msgstr "殭屍"
+
+msgctxt "zombuul ability"
+msgid "Each night*, if no-one died today, choose a player: they die. The 1st time you die, you live but register as dead."
+msgstr "每天晚上*，如果今天沒有死亡，選擇一位玩家，該玩家死亡。你第一次死亡時不會死，但會被視為已死亡。"
+
+msgctxt "zombuul flavor"
+msgid "I do not. Understand. Your ways. Fellow human. Show me. The dirt. Where the holy. Lay. Sleeping. I too. Must sleep. Soon."
+msgstr "I do not. Understand. Your ways. Fellow human. Show me. The dirt. Where the holy. Lay. Sleeping. I too. Must sleep. Soon."
+
+msgctxt "zombuul otherNightReminder"
+msgid "If no-one died during the day: The Zombuul points to a player. That player dies."
+msgstr "如果今天沒有人死亡，殭屍指向一位玩家，該玩家死亡。"
+
+msgctxt "zombuul reminders"
+msgid "Died today,Dead"
+msgstr "今天死亡,死亡"

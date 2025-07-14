@@ -1,0 +1,3212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+msgctxt "acrobat name"
+msgid "Acrobat"
+msgstr "Acrobat"
+
+msgctxt "acrobat ability"
+msgid "Each night*, choose a player: if they are or become drunk or poisoned tonight, you die."
+msgstr "Setiap malam*, pilih seorang pemain: jika mereka mabuk atau diracuni malam ini, kamu akan mati."
+
+msgctxt "acrobat flavor"
+msgid "Welcome, one and all, to the greatest show on earth."
+msgstr "Selamat datang, semua, di pertunjukan terbesar di dunia."
+
+msgctxt "acrobat otherNightReminder"
+msgid "The Acrobat chooses a player. If they are become drunk or poisoned tonight, the Acrobat player dies."
+msgstr "Akrobat memilih seorang pemain. Jika mereka menjadi mabuk atau diracuni malam ini, pemain Acrobat akan mati."
+
+msgctxt "acrobat reminders"
+msgid "Dead"
+msgstr "Dead"
+
+msgctxt "alchemist name"
+msgid "Alchemist"
+msgstr "Alchemist"
+
+msgctxt "alchemist ability"
+msgid "You have a Minion ability. When using this, the Storyteller may prompt you to choose differently."
+msgstr "Kamu memiliki kemampuan Minion. Saat menggunakan ini, Storyteller mungkin meminta kamu untuk memilih dengan cara yang berbeda."
+
+msgctxt "alchemist flavor"
+msgid "Visit the interior of the Earth. By rectification thou shalt find the hidden stone. Above the gold, lieth the red. Kether in Malkuth."
+msgstr "Kunjungi bagian dalam Bumi. Dengan perbaikan, engkau akan menemukan batu tersembunyi. Di atas emas, terletak merah. Kether di Malkuth."
+
+msgctxt "alchemist firstNightReminder"
+msgid "Show the Alchemist a not-in-play Minion token"
+msgstr "Tunjukkan kepada Alchemist token Minion yang tidak sedang dimainkan."
+
+msgctxt "alchemist remindersGlobal"
+msgid "Is the Alchemist"
+msgstr "Is the Alchemist"
+
+msgctxt "alhadikhia name"
+msgid "Al-Hadikhia"
+msgstr "Al-Hadikhia"
+
+msgctxt "alhadikhia ability"
+msgid "Each night*, you may choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die."
+msgstr "Setiap malam*, Kamu dapat memilih 3 pemain (semua pemain mengetahui siapa): masing-masing dari mereka memilih secara diam-diam untuk hidup atau mati, tetapi jika semua memilih hidup, semua dari mereka mati."
+
+msgctxt "alhadikhia flavor"
+msgid "Alsukut min dhahab."
+msgstr "Alsukut min dhahab."
+
+msgctxt "alhadikhia otherNightReminder"
+msgid "The Al-Hadikhia chooses 3 players. Announce the first player, wake them to nod yes to live or shake head no to die, kill or resurrect accordingly, then put to sleep and announce the next player. If all 3 are alive after this, all 3 die."
+msgstr "Al-Hadikhia memilih 3 pemain. Umumkan pemain pertama, bangunkan mereka untuk mengangguk ya untuk hidup atau menggelengkan kepala tidak untuk mati, bunuh atau bangkitkan sesuai dengan itu, lalu tidurkan dan umumkan pemain berikutnya. Jika ketiga-tiganya masih hidup setelah ini, ketiga-tiganya mati."
+
+msgctxt "alhadikhia reminders"
+msgid "1,2,3,Chose death,Chose life"
+msgstr "1,2,3,Chose death,Chose life"
+
+msgctxt "alsaahir name"
+msgid "Alsaahir"
+msgstr "Alsaahir"
+
+msgctxt "alsaahir ability"
+msgid "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins."
+msgstr "Satu kali per hari, jika kamu menebak secara publik pemain mana yang merupakan Minion dan mana yang merupakan Demon, Tim baik menang."
+
+msgctxt "alsaahir flavor"
+msgid "I am here because of you, and you are here because of me."
+msgstr "Saya di sini karena kamu, dan kamu di sini karena saya."
+
+msgctxt "amnesiac name"
+msgid "Amnesiac"
+msgstr "Amnesiac"
+
+msgctxt "amnesiac ability"
+msgid "You do not know what your ability is. Each day, privately guess what it is: you learn how accurate you are."
+msgstr "Kamu tidak mengetahui apa kemampuanmu. Setiap hari, tebaklah secara pribadi apa itu: kamu akan mengetahui seberapa akurat kamu."
+
+msgctxt "amnesiac flavor"
+msgid "Wait. What. Who? Oh, ok. Wait. What?"
+msgstr "Tunggu. Apa. Siapa? Oh, baiklah. Tunggu. Apa?"
+
+msgctxt "amnesiac firstNightReminder"
+msgid "Decide the Amnesiac's entire ability. If the Amnesiac's ability causes them to wake tonight: Wake the Amnesiac and run their ability."
+msgstr "Tentukan seluruh kemampuan Amnesiac. Jika kemampuan Amnesiac menyebabkan mereka terbangun malam ini: Bangunkan Amnesiac dan jalankan kemampuannya."
+
+msgctxt "amnesiac otherNightReminder"
+msgid "If the Amnesiac's ability causes them to wake tonight: Wake the Amnesiac and run their ability."
+msgstr "Jika kemampuan Amnesiac menyebabkan mereka terbangun malam ini: Bangunkan Amnesiac dan jalankan kemampuannya."
+
+msgctxt "amnesiac reminders"
+msgid "?"
+msgstr "?"
+
+msgctxt "angel name"
+msgid "Angel"
+msgstr "Angel"
+
+msgctxt "angel ability"
+msgid "Something bad might happen to whoever is most responsible for the death of a new player."
+msgstr "Sesuatu yang buruk mungkin akan terjadi pada siapa pun yang paling bertanggung jawab atas kematian pemain baru."
+
+msgctxt "angel flavor"
+msgid "Let those who are without sin dare to raise their hand to my chosen, for I shall strike such fools down with the fury and righteousness of a thousand storms."
+msgstr "Biarkan mereka yang tanpa dosa berani mengangkat tangan kepada yang terpilihku, karena aku akan menghancurkan orang-orang bodoh itu dengan kemarahan dan kebenaran seribu badai."
+
+msgctxt "angel reminders"
+msgid "Protect,Something Bad"
+msgstr "Protect,Something Bad"
+
+msgctxt "apprentice name"
+msgid "Apprentice"
+msgstr "Apprentice"
+
+msgctxt "apprentice ability"
+msgid "On your 1st night, you gain a Townsfolk ability (if good), or a Minion ability (if evil)."
+msgstr "Pada malam pertamamu, kamu mendapatkan kemampuan Townsfolk (jika baik), atau kemampuan Minion (jika jahat)."
+
+msgctxt "apprentice flavor"
+msgid "For years have I traveled, studying the ways of The Craft. Which craft, you ask? Simply that of the simple folk. Nothing to worry about. Not yet."
+msgstr "Selama bertahun-tahun aku telah berkelana, mempelajari cara-cara The Craft. Kerajinan apa, tanya Anda? Sederhana saja, milik orang-orang biasa. Tidak ada yang perlu dikhawatirkan. Belum."
+
+msgctxt "apprentice firstNightReminder"
+msgid "Show the Apprentice the 'You are' card, then a Townsfolk or Minion token. In the Grimoire, replace the Apprentice token with that character token, and put the Apprentice's 'Is the Apprentice' reminder by that character token."
+msgstr "Tunjukkan kartu 'Kamu adalah' kepada Apprentice, lalu token Townsfolk atau Minion. Dalam Grimoire, ganti token Apprentice dengan token karakter tersebut, dan letakkan pengingat 'Is the Apprentice' milik Apprentice di samping token karakter tersebut."
+
+msgctxt "apprentice reminders"
+msgid "Is the Apprentice"
+msgstr "Is the Apprentice"
+
+msgctxt "artist name"
+msgid "Artist"
+msgstr "Artist"
+
+msgctxt "artist ability"
+msgid "Once per game, during the day, privately ask the Storyteller any yes/no question."
+msgstr "Sekali per permainan, di siang hari, tanyakan secara pribadi kepada Storyteller pertanyaan ya/tidak."
+
+msgctxt "artist flavor"
+msgid "Mon Dieu! C'est lumineux! My work, she is... how you say... Magnifique! Dieu est révélé! Oui."
+msgstr "Ya Tuhan! Ini bercahaya! Karya saya, dia adalah... bagaimana Anda bilang... Magnifique! Tuhan telah dinyatakan! Ya."
+
+msgctxt "artist reminders"
+msgid "No ability"
+msgstr "No ability"
+
+msgctxt "assassin name"
+msgid "Assassin"
+msgstr "Assassin"
+
+msgctxt "assassin ability"
+msgid "Once per game, at night*, choose a player: they die, even if for some reason they could not."
+msgstr "Sekali per permainan, pada malam hari*, pilih seorang pemain: mereka mati, meskipun entah bagaimana alasan mereka harusnya tidak bisa mati."
+
+msgctxt "assassin flavor"
+msgid "..."
+msgstr "..."
+
+msgctxt "assassin otherNightReminder"
+msgid "If the Assassin has not yet used their ability: The Assassin either shows the 'no' head signal, or points to a player. That player dies."
+msgstr "Jika Pembunuh belum menggunakan kemampuannya: Pembunuh antara menunjukkan sinyal kepala 'tidak', atau menunjuk ke seorang pemain. Pemain itu mati."
+
+msgctxt "assassin reminders"
+msgid "Dead,No ability"
+msgstr "Dead,No ability"
+
+msgctxt "atheist name"
+msgid "Atheist"
+msgstr "Atheist"
+
+msgctxt "atheist ability"
+msgid "The Storyteller can break the game rules & if executed, good wins, even if you are dead [No evil characters]"
+msgstr "Storyteller dapat melanggar aturan permainan & jika storyteller dieksekusi, Tim baik menang, walaupun kamu sudah mati. (jika karakter ini tidak dimainkan dan 50% lebih pemain memilih mengeksekusi Storyteller, maka Tim Jahat menang) [Tidak ada karakter jahat]"
+
+msgctxt "atheist flavor"
+msgid "Let us disperse with unnecessary conjecture and silly paranoia. There is a perfectly rational explanation for everything. Yes, a teacup may indeed be orbiting the planet, too small to see, but I shall drink my tea from the very real china in my very real hands."
+msgstr "Mari kita singkirkan dugaan yang tidak perlu dan paranoia yang konyol. Ada penjelasan yang sepenuhnya rasional untuk segalanya. Ya, sebuah cangkir teh mungkin memang mengorbit planet ini, terlalu kecil untuk dilihat, tetapi saya akan minum teh saya dari porselen yang sangat nyata di tangan saya yang sangat nyata."
+
+msgctxt "balloonist name"
+msgid "Balloonist"
+msgstr "Balloonist"
+
+msgctxt "balloonist ability"
+msgid "Each night, you learn a player of a different character type than last night. [+0 or +1 Outsider]"
+msgstr "Setiap malam, kamu mengetahui tentang pemain dengan tipe karakter yang berbeda dari malam sebelumnya. [+0 atau +1 Outsider]"
+
+msgctxt "balloonist flavor"
+msgid "More heat! Higher! Higher! Più alto! Ahhh... it is so beautiful from up here, don't you agree? Can you see the children fishing by the river, under the willow? Can you see the  glint of the sun on the circus tent-poles? What's this? An old man, alone, passed out in the vineyard? Less heat! Lower! Lower! Vai più in basso!"
+msgstr "Lebih panas! Lebih tinggi! Lebih tinggi! Lebih tinggi! Ahhh... sangat indah dari sini, setuju? Bisakah kamu melihat anak-anak yang sedang memancing di tepi sungai, di bawah pohon willow? Bisakah kamu melihat kilau matahari di tiang-tiang tenda sirkus? Apa ini? Seorang pria tua, sendirian, pingsan di kebun anggur? Kurangi panasnya! Lebih rendah! Lebih rendah! Turun lebih rendah!"
+
+msgctxt "balloonist firstNightReminder"
+msgid "Choose a character type. Point to a player whose character is of that type. Place the Balloonist's Seen reminder next to that character."
+msgstr "Pilih jenis karakter. Tunjuk pada pemain yang karakternya sesuai dengan tipe itu. Tempatkan pengingat Dilihat oleh Balloonist di sebelah karakter itu."
+
+msgctxt "balloonist otherNightReminder"
+msgid "Choose a character type different to the previous night. Point to a player whose character is of that type. Place the Balloonist's Seen reminder next to that character, remove the Seen reminder from the previous character."
+msgstr "Pilih tipe karakter yang berbeda dari malam sebelumnya. Tunjuk ke seorang pemain yang karakternya sesuai dengan tipe itu. Tempatkan pengingat Dilihat oleh Balloonist di samping karakter itu, hapus pengingat Dilihat dari karakter sebelumnya."
+
+msgctxt "balloonist reminders"
+msgid "Seen Townsfolk,Seen Outsider,Seen Minion,Seen Demon,Seen Traveller"
+msgstr "Seen Townsfolk,Seen Outsider,Seen Minion,Seen Demon,Seen Traveller"
+
+msgctxt "banshee name"
+msgid "Banshee"
+msgstr "Banshee"
+
+msgctxt "banshee ability"
+msgid "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination."
+msgstr "Jika Demon membunuhmu, semua pemain akan mengetahui hal ini. Mulai sekarang, Kamu dapat menominasikan dua kali per hari dan memberikan suara dua kali per nominasi."
+
+msgctxt "banshee flavor"
+msgid "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh."
+msgstr "Biru matamu, merah rambutmu, tidak akan lama, dan kamu akan berada di kubur."
+
+msgctxt "banshee otherNightReminder"
+msgid "Announce that the Banshee has died."
+msgstr "Umumkan bahwa Banshee telah mati"
+
+msgctxt "banshee reminders"
+msgid "Has Ability"
+msgstr "Has Ability"
+
+msgctxt "barber name"
+msgid "Barber"
+msgstr "Barber"
+
+msgctxt "barber ability"
+msgid "If you died today or tonight, the Demon may choose 2 players (not another Demon) to swap characters."
+msgstr "Jika kamu mati hari ini atau malam ini, Demon dapat memilih 2 pemain (bukan Demon lain) untuk menukar karakter."
+
+msgctxt "barber flavor"
+msgid "Did you know that barbery and surgery were once the same profession? No? Well, now you do."
+msgstr "Tahukah kamu bahwa barber dan bedah dulunya adalah profesi yang sama? Tidak? Nah, sekarang kamu tahu."
+
+msgctxt "barber otherNightReminder"
+msgid "If the Barber died today: Wake the Demon. Show the 'This character selected you' card, then Barber token. The Demon either shows a 'no' head signal, or points to 2 players. If they chose players: Swap the character tokens. Wake each player. Show 'You are', then their new character token."
+msgstr "Jika Barber mati hari ini: Bangunkan Demon. Tunjukkan kartu 'Karakter ini memilih Anda', lalu token Barber. Demon tersebut antara menunjukkan sinyal kepala 'tidak', atau menunjuk ke 2 pemain. Jika mereka memilih pemain: Tukar token karakter. Bangunkan setiap pemain. Tunjukkan 'Kamu adalah', lalu token karakter baru mereka."
+
+msgctxt "barber reminders"
+msgid "Haircuts tonight"
+msgstr "Haircuts tonight"
+
+msgctxt "barista name"
+msgid "Barista"
+msgstr "Barista"
+
+msgctxt "barista ability"
+msgid "Each night, until dusk, 1) a player becomes sober, healthy and gets true info, or 2) their ability works twice. They learn which."
+msgstr "Setiap malam, hingga senja, 1) seorang pemain menjadi sadar, sehat, dan mendapatkan informasi yang benar, atau 2) kemampuan mereka bekerja dua kali lipat. Mereka mengetahui mana yang terjadi."
+
+msgctxt "barista flavor"
+msgid "A cup of coffee with no cream, Monsieur? I’m terribly sorry, but we’re fresh out of cream — how about with no milk?"
+msgstr "Secangkir kopi tanpa krim, Tuan? Saya sangat menyesal, tetapi kami kehabisan krim — bagaimana kalau tanpa susu?"
+
+msgctxt "barista firstNightReminder"
+msgid "Choose a player, wake them and tell them which Barista power is affecting them. Treat them accordingly (sober/healthy/true info or activate their ability twice)."
+msgstr "Pilih seorang pemain, bangunkan mereka dan beri tahu kekuatan Barista yang mana yang mempengaruhi mereka. Perlakukan mereka sesuai (sadar/sehat/informasi yang benar atau aktifkan kemampuan mereka dua kali)."
+
+msgctxt "barista otherNightReminder"
+msgid "Choose a player, wake them and tell them which Barista power is affecting them. Treat them accordingly (sober/healthy/true info or activate their ability twice)."
+msgstr "Pilih seorang pemain, bangunkan mereka dan beri tahu kekuatan Barista yang mana yang mempengaruhi mereka. Perlakukan mereka sesuai (sadar/sehat/informasi yang benar atau aktifkan kemampuan mereka dua kali)."
+
+msgctxt "barista reminders"
+msgid "Sober & Healthy,Ability twice"
+msgstr "Sober & Healthy,Ability twice"
+
+msgctxt "baron name"
+msgid "Baron"
+msgstr "Baron"
+
+msgctxt "baron ability"
+msgid "There are extra Outsiders in play. [+2 Outsiders]"
+msgstr "Ada Outsider tambahan yang terlibat. [+2 Outsiders]"
+
+msgctxt "baron flavor"
+msgid "This town has gone to the dogs, what? Cheap foreign labor... that's the ticket. Stuff them in the mine, I say. A bit of hard work never hurt anyone, and a clip'o'the ears to any brigand who says otherwise. It's all about the bottom line, what?"
+msgstr "Kota ini sudah hancur, ya? Tenaga kerja asing murah... itulah solusinya. Masukkan mereka ke dalam tambang, kataku. Sedikit kerja keras tidak pernah menyakiti siapa pun, dan sebuah tamparan di telinga bagi siapa pun yang berkata sebaliknya. Semua tentang hasil akhirnya, kan?"
+
+msgctxt "beggar name"
+msgid "Beggar"
+msgstr "Beggar"
+
+msgctxt "beggar ability"
+msgid "You must use a vote token to vote. Dead players may choose to give you theirs. If so, you learn their alignment. You are sober & healthy."
+msgstr "Kamu harus menggunakan token suara untuk memberikan suara. Pemain yang sudah mati dapat memilih untuk memberimu token suara mereka. Jika demikian, Kamu akan mengetahui pihak apa mereka. Kamu dalam kondisi sadar dan sehat."
+
+msgctxt "beggar flavor"
+msgid "Alms for the poor, good Sir? Spare a coin, Madam? Thank you. God bless! You're a right kind soul and no mistake! I'll have some swanky nosh tonight, I will!"
+msgstr "Sedekah untuk orang miskin, Tuan yang baik? Berikanlah koin, Nyonya? Terima kasih. Tuhan memberkati! Kamu benar-benar orang yang baik dan tidak salah lagi! Saya akan makan makanan mewah malam ini, saya akan!"
+
+msgctxt "bishop name"
+msgid "Bishop"
+msgstr "Bishop"
+
+msgctxt "bishop ability"
+msgid "Only the Storyteller can nominate. At least 1 opposite player must be nominated each day."
+msgstr "Hanya Sang Storyteller yang bisa menominasikan. Setidaknya 1 pemain lawan harus dinominasikan setiap hari."
+
+msgctxt "bishop flavor"
+msgid "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis."
+msgstr "Dalam nama Bapa, dan Putra, dan Roh Kudus… Kami adalah hukum Tuhan. Deus vult de nobis."
+
+msgctxt "bishop reminders"
+msgid "Nominate good,Nominate evil"
+msgstr "Nominate good,Nominate evil"
+
+msgctxt "boffin name"
+msgid "Boffin"
+msgstr "Boffin"
+
+msgctxt "boffin ability"
+msgid "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which."
+msgstr "Demon (meskipun mabuk atau diracuni) memiliki kemampuan karakter baik yang tidak dimainkan. Kalian berdua tahu yang mana."
+
+msgctxt "boffin flavor"
+msgid "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle."
+msgstr "Hidrogen bintang, luas, inert; karbon, oksigen, gas neon, semua hancur. Kekacauan molekuler, entropi, menghasilkan fenomena kosmik baru, kelahiran kembali dari kekacauan atomik, materi padat runtuh. Semua dalam sebuah botol kecil."
+
+msgctxt "boffin firstNightReminder"
+msgid "Wake the Boffin and show them the token of the ability the Demon has. Put the Boffin back to sleep. Wake the Demon, show the Boffin token, then show the token of the good ability the Demon has."
+msgstr "Bangunkan Boffin dan tunjukkan kepada mereka tanda kemampuan yang dimiliki oleh Demon. Tidurkan kembali Boffin. Bangunkan Demon, tunjukkan token Boffin, lalu tunjukkan token kemampuan karakter baik yang dimiliki Demon."
+
+msgctxt "bonecollector name"
+msgid "Bone Collector"
+msgstr "Bone Collector"
+
+msgctxt "bonecollector ability"
+msgid "Once per game, at night, choose a dead player: they regain their ability until dusk."
+msgstr "Sekali per permainan, di malam hari, pilih pemain yang sudah mati: mereka mendapatkan kembali kemampuannya hingga senja."
+
+msgctxt "bonecollector flavor"
+msgid "I collect many things. Hair. Teeth. Clothes. Fragments of poems. The dreams of lost lovers. My secret arts are not for you to know but my fee is a mere pittance. Bring me the blood of a noblewoman who died of heartbreak under a full moon, and you shall have your answers."
+msgstr "Saya mengumpulkan banyak hal. Rambut. Gigi. Pakaian. Fragmen puisi. Mimpi para kekasih yang hilang. Seni rahasiaku bukan untuk kau ketahui, tetapi biayaku hanyalah sepele. Bawakan aku darah seorang wanita bangsawan yang mati karena patah hati di bawah bulan purnama, dan kau akan mendapatkan jawabanmu."
+
+msgctxt "bonecollector otherNightReminder"
+msgid "The Bone Collector either shakes their head no or points at any dead player. If they pointed at any dead player, put the Bone Collector's 'Has Ability' reminder by the chosen player's character token. (They may need to be woken tonight to use it.)"
+msgstr "The Bone Collector antara menggelengkan kepala 'tidak' atau menunjuk ke pemain yang sudah mati. Jika mereka menunjuk pemain yang sudah mati, letakkan pengingat 'Has Ablity' Bone Collector di samping token karakter pemain yang dipilih. (Mereka mungkin perlu dibangunkan malam ini untuk menggunakannya.)"
+
+msgctxt "bonecollector reminders"
+msgid "No ability,Has ability"
+msgstr "No ability,Has ability"
+
+msgctxt "boomdandy name"
+msgid "Boomdandy"
+msgstr "Boomdandy"
+
+msgctxt "boomdandy ability"
+msgid "If you are executed, all but 3 players die. After a 10 to 1 countdown, the player with the most players pointing at them, dies."
+msgstr "Jika kamu dieksekusi, semua kecuali 3 pemain mati. Setelah hitungan mundur 10 hingga 1, pemain dengan pemain terbanyak yang menunjuk ke arah mereka, akan mati."
+
+msgctxt "boomdandy flavor"
+msgid "Tick... Tick... Tick... TOCK."
+msgstr "Tick... Tick... Tick... TOCK."
+
+msgctxt "bootlegger name"
+msgid "Bootlegger"
+msgstr "Bootlegger"
+
+msgctxt "bootlegger ability"
+msgid "This script has homebrew characters or rules."
+msgstr "Skrip ini memiliki karakter atau aturan buatan sendiri.(Homebrew)"
+
+msgctxt "bootlegger flavor"
+msgid "I've got the latest shipment from home, a brew I'd like to call 'Barrowfog'. Wanna try?"
+msgstr "Saya baru saja menerima kiriman terbaru dari rumah, sebuah ramuan yang ingin saya sebut 'Barrowfog'. Mau coba?"
+
+msgctxt "bootlegger firstNightReminder"
+msgid "Announce the Bootlegger is in play and inform the group of all homebrew characters and/or rules you are using in this game."
+msgstr "Umumkan bahwa Bootlegger sedang dimainkan dan beri tahu grup tentang semua karakter dan/atau aturan homebrew yang Anda gunakan dalam permainan ini."
+
+msgctxt "bountyhunter name"
+msgid "Bounty Hunter"
+msgstr "Bounty Hunter"
+
+msgctxt "bountyhunter ability"
+msgid "You start knowing 1 evil player. If the player you know dies, you learn another evil player tonight. [1 Townsfolk is evil]"
+msgstr "Kamu mulai dengan mengetahui 1 pemain jahat. Jika pemain yang kamu tahu mati, kamu akan mengetahui pemain jahat lainnya malam ini. [1 Townsfolk adalah jahat]"
+
+msgctxt "bountyhunter flavor"
+msgid "Alone, I walk these streets, paved with the sick stench of corruption. Its thickness worms its way into my nostrils, unbidden, burning with revulsion. And anticipation. The illness of this wretched place grows each night. And I... I am the cure."
+msgstr "Sendirian, aku berjalan di jalan-jalan ini, yang dipenuhi dengan bau busuk korupsi. Kekentalannya merayap masuk ke dalam lubang hidungku, tanpa diminta, membakar dengan rasa jijik. Dan antisipasi. Penyakit tempat malang ini semakin parah setiap malam. Dan aku... aku adalah obatnya."
+
+msgctxt "bountyhunter firstNightReminder"
+msgid "Point to 1 evil player. Wake the townsfolk who is evil and show them the 'You are' card and the thumbs down evil sign."
+msgstr "Tunjuk satu pemain jahat. Bangunkan Townsfolk yang jahat dan tunjukkan kartu 'Kamu adalah' serta tanda jempol ke bawah sebagai sinyal yang jahat."
+
+msgctxt "bountyhunter otherNightReminder"
+msgid "If the known evil player has died, point to another evil player."
+msgstr "Jika pemain jahat yang diketahui telah mati, tunjuk pemain jahat lainnya."
+
+msgctxt "bountyhunter reminders"
+msgid "Known"
+msgstr "Known"
+
+msgctxt "buddhist name"
+msgid "Buddhist"
+msgstr "Buddhist"
+
+msgctxt "buddhist ability"
+msgid "For the first 2 minutes of each day, veteran players may not talk."
+msgstr "Selama 2 menit pertama setiap hari, pemain veteran tidak boleh berbicara."
+
+msgctxt "buddhist flavor"
+msgid "You throw thorns. Falling in my silence, they become flowers."
+msgstr "Kau melempar duri. Jatuh dalam keheninganku, mereka menjadi bunga."
+
+msgctxt "bureaucrat name"
+msgid "Bureaucrat"
+msgstr "Bureaucrat"
+
+msgctxt "bureaucrat ability"
+msgid "Each night, choose a player (not yourself): their vote counts as 3 votes tomorrow."
+msgstr "Setiap malam, pilih seorang pemain (bukan dirimu sendiri): suara mereka dihitung sebagai 3 suara besok."
+
+msgctxt "bureaucrat flavor"
+msgid "Sign here please. And here. And here. Aaaaaaaaand here. This should all be sorted and tallied by the end of the day, assuming everyone's signatures are legible. We haven't had a mix-up in the paperwork for ages. Yesterday noon, if memory serves..."
+msgstr "Tandatangani di sini, silakan. Dan di sini. Dan di sini. Daaaaaaaan di sini. Ini semua harus sudah diurutkan dan dihitung pada akhir hari, dengan asumsi tanda tangan semua orang terbaca. Kami belum pernah mengalami kesalahan dalam dokumen selama berabad-abad. Kemarin siang, jika ingatan saya tidak salah..."
+
+msgctxt "bureaucrat firstNightReminder"
+msgid "The Bureaucrat points to a player. Put the Bureaucrat's '3 votes' reminder by the chosen player's character token."
+msgstr "Bureaucrat menunjuk ke seorang pemain. Letakkan pengingat '3 votes' dari Bureaucrat di samping token karakter pemain yang dipilih."
+
+msgctxt "bureaucrat otherNightReminder"
+msgid "The Bureaucrat points to a player. Put the Bureaucrat's '3 votes' reminder by the chosen player's character token."
+msgstr "Bureaucrat menunjuk ke seorang pemain. Letakkan pengingat '3 votes' dari Bureaucrat di samping token karakter pemain yang dipilih."
+
+msgctxt "bureaucrat reminders"
+msgid "3 votes"
+msgstr "3 votes"
+
+msgctxt "butcher name"
+msgid "Butcher"
+msgstr "Butcher"
+
+msgctxt "butcher ability"
+msgid "Each day, after the 1st execution, you may nominate again."
+msgstr "Setiap hari, setelah eksekusi pertama, Kamu dapat menominasikan lagi."
+
+msgctxt "butcher flavor"
+msgid "It tastes like chicken. More please."
+msgstr "Rasanya seperti ayam. Lebih banyak lagi, dong."
+
+msgctxt "butler name"
+msgid "Butler"
+msgstr "Butler"
+
+msgctxt "butler ability"
+msgid "Each night, choose a player (not yourself): tomorrow, you may only vote if they are voting too."
+msgstr "Setiap malam, pilih seorang pemain (bukan dirimu sendiri): besok, kamu hanya boleh memberikan suara jika mereka juga memberikan suara."
+
+msgctxt "butler flavor"
+msgid ""
+"Yes, sir...\n"
+"No, sir...\n"
+"Certainly, sir."
+msgstr ""
+"Ya, Tuan...\n"
+"Tidak, Tuan...\n"
+"Tentu, sir."
+
+msgctxt "butler firstNightReminder"
+msgid "The Butler points to a player. Mark that player as 'Master'."
+msgstr "Butler menunjuk ke seorang pemain. Tandai pemain itu sebagai 'Master'."
+
+msgctxt "butler otherNightReminder"
+msgid "The Butler points to a player. Mark that player as 'Master'."
+msgstr "Butler menunjuk ke seorang pemain. Tandai pemain itu sebagai 'Master'."
+
+msgctxt "butler reminders"
+msgid "Master"
+msgstr "Master"
+
+msgctxt "cannibal name"
+msgid "Cannibal"
+msgstr "Cannibal"
+
+msgctxt "cannibal ability"
+msgid "You have the ability of the recently killed executee. If they are evil, you are poisoned until a good player dies by execution."
+msgstr "Kamu memiliki kemampuan dari orang yang baru saja dieksekusi. Jika mereka jahat, kamu akan diracuni sampai pemain baik mati karena eksekusi."
+
+msgctxt "cannibal flavor"
+msgid "I don’t like clowns. They taste funny."
+msgstr "Saya tidak suka badut. Mereka rasanya aneh."
+
+msgctxt "cannibal reminders"
+msgid "Poisoned,Died today"
+msgstr "Poisoned,Died today"
+
+msgctxt "cerenovus name"
+msgid "Cerenovus"
+msgstr "Cerenovus"
+
+msgctxt "cerenovus ability"
+msgid "Each night, choose a player & a good character: they are “mad” they are this character tomorrow, or might be executed."
+msgstr "Setiap malam, pilih seorang pemain & karakter baik yang ada dalam lembar karakter (Townsfolk atau Outsider): mereka harus berusaha (\"Mad/Menggila\") sebisa mungkin meyakinkan semua orang bahwa mereka adalah karakter itu besok, jika tidak ia mungkin dieksekusi (oleh Storyteller)."
+
+msgctxt "cerenovus flavor"
+msgid "Reality is merely an opinion. Specifically, my opinion."
+msgstr "Realitas hanyalah sebuah opini. Secara khusus, pendapat saya."
+
+msgctxt "cerenovus firstNightReminder"
+msgid "The Cerenovus points to a player, then to a character on their sheet. Wake that player. Show the 'This character selected you' card, then the Cerenovus token. Show the selected character token. If the player is not mad about being that character tomorrow, they can be executed."
+msgstr "Cerenovus menunjuk ke seorang pemain, lalu ke karakter di lembar mereka. Bangunkan pemain itu. Tunjukkan kartu 'Karakter ini memilih Anda', lalu token Cerenovus. Tunjukkan token karakter yang dipilih. Jika pemain tidak \"Menggila\" menjadi karakter itu besok, mereka bisa dieksekusi."
+
+msgctxt "cerenovus otherNightReminder"
+msgid "The Cerenovus points to a player, then to a character on their sheet. Wake that player. Show the 'This character selected you' card, then the Cerenovus token. Show the selected character token. If the player is not mad about being that character tomorrow, they can be executed."
+msgstr "Cerenovus menunjuk ke seorang pemain, lalu ke karakter di lembar mereka. Bangunkan pemain itu. Tunjukkan kartu 'Karakter ini memilih Anda', lalu token Cerenovus. Tunjukkan token karakter yang dipilih. Jika pemain tidak \"Menggila\" menjadi karakter itu besok, mereka bisa dieksekusi."
+
+msgctxt "cerenovus reminders"
+msgid "Mad"
+msgstr "Mad"
+
+msgctxt "chambermaid name"
+msgid "Chambermaid"
+msgstr "Chambermaid"
+
+msgctxt "chambermaid ability"
+msgid "Each night, choose 2 alive players (not yourself): you learn how many woke tonight due to their ability."
+msgstr "Setiap malam, pilih 2 pemain yang masih hidup (bukan dirimu sendiri): kamu akan mengetahui berapa banyak yang terbangun malam ini karena kemampuan mereka."
+
+msgctxt "chambermaid flavor"
+msgid "I aint seen nothin' untoward, Milady. Begging your pardon, but if I did see somethin', it certainly weren't the master o' the house sneaking into the professor's laboratory 'round eleven o'clock and mixing up fancy potions, just like you said, Miss."
+msgstr "Saya tidak melihat apa-apa yang tidak pantas, Nona. Permisi, tetapi jika saya melihat sesuatu, itu pasti bukan tuan rumah yang menyelinap ke laboratorium profesor sekitar pukul sebelas dan mencampur ramuan-ramuan mewah, seperti yang Anda katakan, Nona."
+
+msgctxt "chambermaid firstNightReminder"
+msgid "The Chambermaid points to two players. Show the number signal (0, 1, 2, …) for how many of those players wake tonight for their ability."
+msgstr "Chambermaid menunjuk ke dua pemain. Tunjukkan sinyal angka (0, 1, 2, …) untuk berapa banyak dari pemain tersebut yang bangun malam ini untuk kemampuan mereka."
+
+msgctxt "chambermaid otherNightReminder"
+msgid "The Chambermaid points to two players. Show the number signal (0, 1, 2, …) for how many of those players wake tonight for their ability."
+msgstr "Chambermaid menunjuk ke dua pemain. Tunjukkan sinyal angka (0, 1, 2, …) untuk berapa banyak dari pemain tersebut yang bangun malam ini untuk kemampuan mereka."
+
+msgctxt "chef name"
+msgid "Chef"
+msgstr "Chef"
+
+msgctxt "chef ability"
+msgid "You start knowing how many pairs of evil players there are."
+msgstr "Kamu mulai dengan mengetahui berapa banyak pasangan pemain jahat yang ada.(Pemain Jahat yang bersebelahan dihitung 1 pasang)"
+
+msgctxt "chef flavor"
+msgid "This evening's reservations seem odd. Never before has Mrs Mayweather kept company with that scamp from Hudson Lane. Yet, tonight, they have a table for two. Strange."
+msgstr "Reservasi malam ini terasa aneh. Belum pernah sebelumnya Nyonya Mayweather bergaul dengan penipu dari Hudson Lane itu. Namun, malam ini, mereka memiliki meja untuk dua orang. Aneh."
+
+msgctxt "chef firstNightReminder"
+msgid "Show the finger signal (0, 1, 2, …) for the number of pairs of neighbouring evil players."
+msgstr "Tunjukkan sinyal jari (0, 1, 2, …) untuk jumlah pasangan pemain jahat yang berdekatan."
+
+msgctxt "choirboy name"
+msgid "Choirboy"
+msgstr "Choirboy"
+
+msgctxt "choirboy ability"
+msgid "If the Demon kills the King, you learn which player is the Demon. [+ the King]"
+msgstr "Jika Demon membunuh King, kamu akan tahu pemain mana yang merupakan Demon. [+ King]"
+
+msgctxt "choirboy flavor"
+msgid "I saw it, I did. I was in the pews, tidying the hymn books, when a dreadful tune started from the pipe organ. The organist had a long cloak, and long fingers on the keys. And a hat that looked… just like… yours."
+msgstr "Saya melihatnya, saya benar-benar melihatnya. Saya berada di bangku gereja, merapikan buku-buku nyanyian, ketika sebuah lagu mengerikan mulai terdengar dari organ pipa. Organisnya mengenakan jubah panjang, dan jari-jarinya yang panjang di atas tuts. Dan sebuah topi yang terlihat... persis seperti... milikmu."
+
+msgctxt "choirboy otherNightReminder"
+msgid "If the King was killed by the Demon, wake the Choirboy and point to the Demon player."
+msgstr "Jika King telah dibunuh oleh Demon, bangunkan Choirboy dan tunjuk kearah pemain Demon."
+
+msgctxt "clockmaker name"
+msgid "Clockmaker"
+msgstr "Clockmaker"
+
+msgctxt "clockmaker ability"
+msgid "You start knowing how many steps from the Demon to its nearest Minion."
+msgstr "Kamu mulai dengan mengetahui berapa jarak dari Demon ke Minion terdekatnya."
+
+msgctxt "clockmaker flavor"
+msgid "Do not disturb me. The tick must continue, for the circle is a symbol of life and contains all things - all answers - in its divine machinery. I must work."
+msgstr "Jangan ganggu saya. Detakan harus berlanjut, karena lingkaran adalah simbol kehidupan dan mengandung segala sesuatu - semua jawaban - dalam mesin ilahinya. Saya harus bekerja."
+
+msgctxt "clockmaker firstNightReminder"
+msgid "Show the hand signal for the number (1, 2, 3, etc.) of places from Demon to closest Minion."
+msgstr "Tunjukkan isyarat tangan untuk jumlah (1, 2, 3, dll.) tempat dari Demon ke Minion terdekat."
+
+msgctxt "courtier name"
+msgid "Courtier"
+msgstr "Courtier"
+
+msgctxt "courtier ability"
+msgid "Once per game, at night, choose a character: they are drunk for 3 nights & 3 days."
+msgstr "Sekali per permainan, di malam hari, pilih karakter: mereka mabuk selama 3 malam & 3 hari."
+
+msgctxt "courtier flavor"
+msgid "I am more afraid of an army of one hundred sheep led by a lion than an army of one hundred lions led by a sheep."
+msgstr "Saya lebih takut pada pasukan seratus domba yang dipimpin oleh seekor singa daripada pasukan seratus singa yang dipimpin oleh seekor domba."
+
+msgctxt "courtier firstNightReminder"
+msgid "The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgstr "Courtier antara menunjukkan sinyal kepala 'tidak', atau menunjuk ke karakter di lembar list karakter. Jika Courtiers menggunakan kemampuannya: Jika karakter tersebut ada dalam permainan, pemain tersebut mabuk."
+
+msgctxt "courtier otherNightReminder"
+msgid "Reduce the remaining number of days the marked player is poisoned. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgstr "Kurangi jumlah hari tersisa pemain yang ditandai diracuni. Jika Courtier belum menggunakan kemampuannya: Courtier antara menunjukkan sinyal kepala 'tidak', atau menunjuk ke karakter di lembar list karakter. Jika Courtiers menggunakan kemampuannya: Jika karakter tersebut ada dalam permainan, pemain tersebut mabuk."
+
+msgctxt "courtier reminders"
+msgid "Drunk 3,Drunk 2,Drunk 1,No ability"
+msgstr "Drunk 3,Drunk 2,Drunk 1,No ability"
+
+msgctxt "cultleader name"
+msgid "Cult Leader"
+msgstr "Cult Leader"
+
+msgctxt "cultleader ability"
+msgid "Each night, you become the alignment of an alive neighbour. If all good players choose to join your cult, your team wins."
+msgstr "Setiap malam, kamu menjadi pihak dari tetangga yang masih hidup. Jika semua pemain baik memilih untuk bergabung dengan Sekte-mu, timmu menang."
+
+msgctxt "cultleader flavor"
+msgid "Thinking themselves wise, they became fools."
+msgstr "Mengira diri mereka bijaksana, mereka menjadi bodoh."
+
+msgctxt "cultleader firstNightReminder"
+msgid "If the cult leader changed alignment, show them the thumbs up good signal of the thumbs down evil signal accordingly."
+msgstr "Jika Cult Leader berganti pihak, tunjukkan sinyal jempol ke atas sebagai Tim Baik dan sinyal jempol ke bawah sebagai Tim Jahat sesuai dengan perubahan tersebut."
+
+msgctxt "cultleader otherNightReminder"
+msgid "If the cult leader changed alignment, show them the thumbs up good signal of the thumbs down evil signal accordingly."
+msgstr "Jika Cult Leader berganti pihak, tunjukkan sinyal jempol ke atas sebagai Tim Baik dan sinyal jempol ke bawah sebagai Tim Jahat sesuai dengan perubahan tersebut."
+
+msgctxt "damsel name"
+msgid "Damsel"
+msgstr "Damsel"
+
+msgctxt "damsel ability"
+msgid "All Minions know you are in play. If a Minion publicly guesses you (once), your team loses."
+msgstr "Semua Minion tahu kamu ada dalam permainan. Jika seorang Minion menebakmu secara publik (sekali), tim Kamu kalah."
+
+msgctxt "damsel flavor"
+msgid "Don't touch the hair, honey."
+msgstr "Jangan sentuh rambutnya, sayang."
+
+msgctxt "damsel firstNightReminder"
+msgid "Wake all the Minions, show them the 'This character selected you' card and the Damsel token."
+msgstr "Bangunkan semua Minion, tunjukkan kartu 'Karakter ini memilihmu' dan token Damsel kepada mereka."
+
+msgctxt "damsel otherNightReminder"
+msgid "If selected by the Huntsman, wake the Damsel, show 'You are' card and a not-in-play Townsfolk token."
+msgstr "Jika dipilih oleh Huntsman, bangunkan Damsel, tunjukkan kartu 'Kamu Adalah' dan token Townsfolk yang tidak sedang dimainkan."
+
+msgctxt "damsel reminders"
+msgid "Guess used"
+msgstr "Guess used"
+
+msgctxt "deusexfiasco name"
+msgid "Deus ex Fiasco"
+msgstr "Deus ex Fiasco"
+
+msgctxt "deusexfiasco ability"
+msgid "At least once per game, the Storyteller will make a mistake, correct it and publicly admit to it."
+msgstr "Sekali per permainan, Sang Storyteller akan membuat \"kesalahan\", memperbaikinya, dan mengakuinya secara publik."
+
+msgctxt "deusexfiasco reminders"
+msgid "Whoopsie"
+msgstr "Whoops"
+
+msgctxt "deviant name"
+msgid "Deviant"
+msgstr "Deviant"
+
+msgctxt "deviant ability"
+msgid "If you were funny today, you cannot die by exile."
+msgstr "Jika kamu lucu hari ini, kamu tidak akan mati karena pengasingan."
+
+msgctxt "deviant flavor"
+msgid "Twas the lady's quip, forsooth."
+msgstr "Itulah sindiran sang lady, sungguh."
+
+msgctxt "devilsadvocate name"
+msgid "Devil's Advocate"
+msgstr "Devil's Advocate"
+
+msgctxt "devilsadvocate ability"
+msgid "Each night, choose a living player (different to last night): if executed tomorrow, they don't die."
+msgstr "Setiap malam, pilih pemain yang masih hidup (berbeda dari malam sebelumnya): jika dieksekusi besok, mereka tidak akan mati."
+
+msgctxt "devilsadvocate flavor"
+msgid "My client, should the objection be overruled, pleads innocent by virtue of the prosecution's non-observance of statute 27.B - incorrect or misleading conjugation of a verb. The fact that nine of the jury died last night is simply prima facie, which is, as Wills vs Thule set precedent for, further reason to acquit."
+msgstr "Klien saya, jika keberatan ditolak, menyatakan tidak bersalah berdasarkan ketidakpatuhan penuntut umum terhadap undang-undang 27.B - konjugasi kata kerja yang salah atau menyesatkan. Fakta bahwa sembilan juri meninggal malam tadi hanyalah prima facie, yang mana, seperti yang ditetapkan dalam kasus Wills vs Thule, merupakan alasan lebih lanjut untuk membebaskan."
+
+msgctxt "devilsadvocate firstNightReminder"
+msgid "The Devil’s Advocate points to a living player. That player survives execution tomorrow."
+msgstr "Devil’s Advocate menunjuk ke pemain yang masih hidup. Pemain itu selamat dari eksekusi besok."
+
+msgctxt "devilsadvocate otherNightReminder"
+msgid "The Devil’s Advocate points to a living player, different from the previous night. That player survives execution tomorrow."
+msgstr "Devil’s Advocate menunjuk ke pemain yang masih hidup. Pemain itu selamat dari eksekusi besok."
+
+msgctxt "devilsadvocate reminders"
+msgid "Survives execution"
+msgstr "Survives execution"
+
+msgctxt "djinn name"
+msgid "Djinn"
+msgstr "Djinn"
+
+msgctxt "djinn ability"
+msgid "Use the Djinn's special rule. All players know what it is."
+msgstr "Gunakan aturan khusus Djinn. Semua pemain tahu apa itu."
+
+msgctxt "djinn flavor"
+msgid ""
+"نحن لسنا هنا.\n"
+"                                انت لست حقيقي.\n"
+"                                كل شيء هو وهم.\n"
+"                                أسئلتك هي جبل نار في يوم صافٍ."
+msgstr ""
+"نحن لسنا هنا.\n"
+"                                انت لست حقيقي.\n"
+"                                كل شيء هو وهم.\n"
+"                                أسئلتك هي جبل نار في يوم صافٍ."
+
+msgctxt "doomsayer name"
+msgid "Doomsayer"
+msgstr "Doomsayer"
+
+msgctxt "doomsayer ability"
+msgid "If 4 or more players live, each living player may publicly choose (once per game) that a player of their own alignment dies."
+msgstr "Jika 4 atau lebih pemain masih hidup, setiap pemain yang masih hidup dapat secara publik memilih (sekali per permainan) agar seorang pemain dengan pihak mereka sendiri mati."
+
+msgctxt "doomsayer flavor"
+msgid "And on the Seventh Day, there shall be a great flood and a pestilence upon the People of the Village of the Ravens! The dead shall rise and the living shall repent! O Woe! O Unholy day! Only by great sacrifice shall they prevail! So sayeth the Sages of Nostros and so sayeth I."
+msgstr "Dan pada Hari Ketujuh, akan ada banjir besar dan wabah di atas Penduduk Desa Burung Gagak! Yang mati akan bangkit dan yang hidup akan bertobat! O Celaka! Oh Hari yang Tidak Suci! Hanya dengan pengorbanan besar mereka akan menang! Begitulah kata Para Bijak Nostros dan begitulah kata saya."
+
+msgctxt "dreamer name"
+msgid "Dreamer"
+msgstr "Dreamer"
+
+msgctxt "dreamer ability"
+msgid "Each night, choose a player (not yourself or Travellers): you learn 1 good and 1 evil character, 1 of which is correct."
+msgstr "Setiap malam, pilih seorang pemain (bukan dirimu sendiri atau Travellers): kamu akan mengetahui 1 karakter baik dan 1 karakter jahat, 1 di antaranya benar."
+
+msgctxt "dreamer flavor"
+msgid "I remember the Clockmaker. The sky was red and it was raining fractal triangles. There was a smell of violets and a bubbling sound. A woman with glowing eyes and a scraggly beard was hissing at the sky. Then, I awoke."
+msgstr "Saya ingat tentang Pembuat Jam. Langit berwarna merah dan hujan turun dalam bentuk segitiga fraktal. Ada bau violet dan suara mendidih. Seorang wanita dengan mata bercahaya dan janggut acak-acakan sedang mendesis ke langit. Kemudian, aku terbangun."
+
+msgctxt "dreamer firstNightReminder"
+msgid "The Dreamer points to a player. Show 1 good and 1 evil character token; one of these is correct."
+msgstr "Dreamer menunjuk ke seorang pemain. Tunjukkan 1 token karakter baik dan 1 token karakter jahat; salah satunya benar."
+
+msgctxt "dreamer otherNightReminder"
+msgid "The Dreamer points to a player. Show 1 good and 1 evil character token; one of these is correct."
+msgstr "Dreamer menunjuk ke seorang pemain. Tunjukkan 1 token karakter baik dan 1 token karakter jahat; salah satunya benar."
+
+msgctxt "drunk name"
+msgid "Drunk"
+msgstr "Drunk"
+
+msgctxt "drunk ability"
+msgid "You do not know you are the Drunk. You think you are a Townsfolk character, but you are not."
+msgstr "Kamu tidak tahu bahwa kamu adalah Karakter Drunk. Kamu pikir kamu adalah karakter Townsfolk lainnya, tetapi sebenarnya tidak."
+
+msgctxt "drunk flavor"
+msgid "I’m only a *hic* social drinker, my dear. Admittedly, I am a heavy *burp* socializer."
+msgstr "Saya hanya seorang *cekik* peminum sosial, sayang. Diakui, saya adalah seorang *sendawa* sosial yang berat."
+
+msgctxt "drunk remindersGlobal"
+msgid "Drunk"
+msgstr "Drunk"
+
+msgctxt "duchess name"
+msgid "Duchess"
+msgstr "Duchess"
+
+msgctxt "duchess ability"
+msgid "Each day, 3 players may choose to visit you. At night*, each visitor learns how many visitors are evil, but 1 gets false info."
+msgstr "Setiap siang hari, 3 pemain dapat memilih untuk mengunjungimu. Pada malam hari*, setiap pengunjung mengetahui berapa banyak pengunjung yang jahat, tetapi 1 mendapatkan informasi palsu."
+
+msgctxt "duchess flavor"
+msgid "We shall entertain between the hours of 6 and 7 precisely. Tea at 6:15. Scones at 6:45. Do not be late. Formal wear applies, as always."
+msgstr "Kami akan menghibur antara pukul 6 dan 7 tepat. Teh pada pukul 6:15. Scone pada pukul 6:45. Jangan terlambat. Pakaian formal berlaku, seperti biasa."
+
+msgctxt "duchess reminders"
+msgid "Visitor,False Info"
+msgstr "Visitor,False Info"
+
+msgctxt "empath name"
+msgid "Empath"
+msgstr "Empath"
+
+msgctxt "empath ability"
+msgid "Each night, you learn how many of your 2 alive neighbours are evil."
+msgstr "Setiap malam, kamu mengetahui berapa banyak dari 2 tetangga terdekatmu yang hidup dan termasuk tim jahat."
+
+msgctxt "empath flavor"
+msgid "My skin prickles. Something is not right here. I can feel it."
+msgstr "Kulitku merinding. Ada yang tidak beres di sini. Saya bisa merasakannya."
+
+msgctxt "empath firstNightReminder"
+msgid "Show the finger signal (0, 1, 2) for the number of evil alive neighbours of the Empath."
+msgstr "Tunjukkan sinyal jari (0, 1, 2) untuk jumlah tetangga jahat yang masih hidup dari Empath."
+
+msgctxt "empath otherNightReminder"
+msgid "Show the finger signal (0, 1, 2) for the number of evil neighbours."
+msgstr "Tunjukkan sinyal jari (0, 1, 2) untuk jumlah tetangga jahat yang masih hidup dari Empath."
+
+msgctxt "engineer name"
+msgid "Engineer"
+msgstr "Engineer"
+
+msgctxt "engineer ability"
+msgid "Once per game, at night, choose which Minions or which Demon is in play."
+msgstr "Sekali per permainan, pada malam hari, pilih Minion mana atau Demon mana yang sedang dimainkan."
+
+msgctxt "engineer flavor"
+msgid "If it bends, great. If it breaks, well, it probably needed fixing anyway."
+msgstr "Jika itu melengkung, bagus. Jika itu rusak, yah, mungkin memang perlu diperbaiki."
+
+msgctxt "engineer firstNightReminder"
+msgid "The Engineer shows a 'no' head signal, or points to a Demon or points to the relevant number of Minions. If the Engineer chose characters, replace the Demon or Minions with the choices, then wake the relevant players and show them the You are card and the relevant character tokens."
+msgstr "Engineer menunjukkan sinyal kepala 'tidak', atau menunjuk ke Demon atau menunjuk ke jumlah Minion yang relevan. Jika Engineer memilih karakter, ganti Demon atau Minion dengan pilihan tersebut, lalu bangunkan pemain yang relevan dan tunjukkan kartu \"Kamu Adalah\" dan token karakter yang relevan."
+
+msgctxt "engineer otherNightReminder"
+msgid "The Engineer shows a 'no' head signal, or points to a Demon or points to the relevant number of Minions. If the Engineer chose characters, replace the Demon or Minions with the choices, then wake the relevant players and show them the 'You are' card and the relevant character tokens."
+msgstr "Engineer menunjukkan sinyal kepala 'tidak', atau menunjuk ke Demon atau menunjuk ke jumlah Minion yang relevan. Jika Engineer memilih karakter, ganti Demon atau Minion dengan pilihan tersebut, lalu bangunkan pemain yang relevan dan tunjukkan kartu \"Kamu Adalah\" dan token karakter yang relevan."
+
+msgctxt "engineer reminders"
+msgid "No ability"
+msgstr "No ability"
+
+msgctxt "eviltwin name"
+msgid "Evil Twin"
+msgstr "Evil Twin"
+
+msgctxt "eviltwin ability"
+msgid "You & an opposing player know each other. If the good player is executed, evil wins. Good can't win if you both live."
+msgstr "Kamu & Pemain lawan saling mengenal. Jika pemain baik itu dieksekusi, Tim jahat menang. Tim baik tidak bisa menang jika kalian berdua hidup."
+
+msgctxt "eviltwin flavor"
+msgid "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!"
+msgstr "Saya bukan Sara! Saya Clara! DIA adalah Sara! Sara adalah yang jahat! Bukan aku!"
+
+msgctxt "eviltwin firstNightReminder"
+msgid "Wake the Evil Twin and their twin. Confirm that they have acknowledged each other. Point to the Evil Twin. Show their Evil Twin token to the twin player. Point to the twin. Show their character token to the Evil Twin player."
+msgstr "Bangunkan Evil Twin beserta pemain yang akan menjadi kembarannya. Konfirmasi bahwa mereka telah saling mengakui satu sama lain. Tunjuk ke arah pemain Evil Twin, lalu Tunjukkan token Evil Twin kepada pemain yang akan menjadi kembarannya. Tunjuk ke kembarannya lalu Tunjukkan token karakternya kepada pemain Evil Twin."
+
+msgctxt "eviltwin reminders"
+msgid "Twin"
+msgstr "Twin"
+
+msgctxt "exorcist name"
+msgid "Exorcist"
+msgstr "Exorcist"
+
+msgctxt "exorcist ability"
+msgid "Each night*, choose a player (different to last night): the Demon, if chosen, learns who you are then doesn't wake tonight."
+msgstr "Setiap malam*, pilih seorang pemain (berbeda dari malam sebelumnya): Demon, jika dipilih, akan mengetahui siapa kamu lalu tidak bangun malam ini."
+
+msgctxt "exorcist flavor"
+msgid "We cast you out, every unclean spirit, every satanic power, every onslaught of the infernal adversary, every legion, every diabolical group and sect, in the name and by the power of Our Lord Jesus Christ. We command you, begone and fly far from the Church of God, from the souls made by God in His image and redeemed by the precious blood of the divine Lamb."
+msgstr "Kami mengusirmu, setiap roh jahat, setiap kekuatan satanis, setiap serangan musuh neraka, setiap legiun, setiap kelompok dan sekte iblis, dalam nama dan dengan kuasa Tuhan kita Yesus Kristus. Kami memerintahkanmu, pergi dan terbang jauh dari Gereja Allah, dari jiwa-jiwa yang diciptakan oleh Allah menurut gambar-Nya dan ditebus oleh darah berharga dari Anak Domba ilahi."
+
+msgctxt "exorcist otherNightReminder"
+msgid "The Exorcist points to a player, different from the previous night. If that player is the Demon: Wake the Demon. Show the Exorcist token. Point to the Exorcist. The Demon does not act tonight."
+msgstr "Exorcist menunjuk ke seorang pemain, berbeda dari malam sebelumnya. Jika pemain itu adalah Demon: Bangunkan Demon. Tunjukkan token Exorcist, lalu Tunjuk ke pemain Exorcist. Demon tidak bertindak malam ini."
+
+msgctxt "exorcist reminders"
+msgid "Chosen"
+msgstr "Chosen"
+
+msgctxt "fanggu name"
+msgid "Fang Gu"
+msgstr "Fang Gu"
+
+msgctxt "fanggu ability"
+msgid "Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu & you die instead. [+1 Outsider]"
+msgstr "Setiap malam*, pilih seorang pemain: mereka mati. Outsider pertama yang dibunuh dengan cara ini akan menjadi Fang Gu jahat dan kamu mati sebagai gantinya. [+1 Outsider]"
+
+msgctxt "fanggu flavor"
+msgid "Your walls and your weapons are but smoke in dreams."
+msgstr "Dindingmu dan senjatamu hanyalah asap dalam mimpi."
+
+msgctxt "fanggu otherNightReminder"
+msgid "The Fang Gu points to a player. That player dies. Or, if that player was an Outsider and there are no other Fang Gu in play: The Fang Gu dies instead of the chosen player. The chosen player is now an evil Fang Gu. Wake the new Fang Gu. Show the 'You are' card, then the Fang Gu token. Show the 'You are' card, then the thumb-down 'evil' hand sign."
+msgstr "Fang Gu menunjuk ke seorang pemain. Pemain itu mati. Atau, jika pemain tersebut adalah seorang Outsider dan tidak ada Fang Gu lain yang sedang bermain: Fang Gu tersebut mati sebagai pengganti pemain yang dipilih. Pemain yang dipilih sekarang adalah Fang Gu jahat. Bangunkan pemain Fang Gu yang baru. Tunjukkan kartu 'Kamu adalah', lalu tunjukkan token Fang Gu. Tunjukkan kartu 'Kamu adalah', lalu tunjukan sinyal tangan 'jahat' dengan jempol ke bawah."
+
+msgctxt "fanggu reminders"
+msgid "Dead,Once"
+msgstr "Dead,Once"
+
+msgctxt "farmer name"
+msgid "Farmer"
+msgstr "Farmer"
+
+msgctxt "farmer ability"
+msgid "If you die at night, an alive good player becomes a Farmer."
+msgstr "Jika kamu mati di malam hari, pemain baik yang masih hidup menjadi Farmer"
+
+msgctxt "farmer flavor"
+msgid "Even the high and mighty need food on the table. Without us, the city starves."
+msgstr "Bahkan yang tinggi dan perkasa pun butuh makanan di meja. Tanpa kami, kota ini akan kelaparan."
+
+msgctxt "farmer otherNightReminder"
+msgid "If a Farmer died tonight, choose another good player and make them the Farmer. Wake this player, show them the 'You are' card and the Farmer character token."
+msgstr "Jika pemain Farmer mati malam ini, pilih pemain baik lainnya dan jadikan mereka Farmer yang baru. Bangunkan pemain ini, tunjukkan kartu 'Kamu adalah' dan token karakter Farmer."
+
+msgctxt "fearmonger name"
+msgid "Fearmonger"
+msgstr "Fearmonger"
+
+msgctxt "fearmonger ability"
+msgid "Each night, choose a player. If you nominate & execute them, their team loses. All players know if you choose a new player."
+msgstr "Setiap malam, pilih seorang pemain. Jika Kamu menominasikan & mengeksekusi mereka, tim mereka kalah. Semua pemain tahu jika Kamu memilih pemain baru."
+
+msgctxt "fearmonger flavor"
+msgid "Beware of gazing long into the Abyss, lest the Abyss also gaze into you."
+msgstr "Hati-hati menatap dalam ke Jurang, agar Jurang tidak menatapmu juga."
+
+msgctxt "fearmonger firstNightReminder"
+msgid "The Fearmonger points to a player. Place the Fear token next to that player and announce that a new player has been selected with the Fearmonger ability."
+msgstr "Fearmonger menunjuk ke seorang pemain. Tempatkan token Ketakutan di samping pemain tersebut dan umumkan bahwa pemain baru telah dipilih dengan kemampuan Fearmonger."
+
+msgctxt "fearmonger otherNightReminder"
+msgid "The Fearmonger points to a player. If different from the previous night, place the Fear token next to that player and announce that a new player has been selected with the Fearmonger ability."
+msgstr "Fearmonger menunjuk ke seorang pemain. Jika berbeda dari malam sebelumnya, letakkan token Ketakutan di sebelah pemain tersebut dan umumkan bahwa pemain baru telah dipilih dengan kemampuan Fearmonger."
+
+msgctxt "fearmonger reminders"
+msgid "Fear"
+msgstr "Fear"
+
+msgctxt "ferryman name"
+msgid "Ferryman"
+msgstr "Ferryman"
+
+msgctxt "ferryman ability"
+msgid "On the final day, all dead players regain their vote token."
+msgstr "Pada hari terakhir, semua pemain yang sudah mati mendapatkan kembali token suara mereka."
+
+msgctxt "ferryman flavor"
+msgid "When righteous dreams come, they have the weight of truth."
+msgstr "When righteous dreams come, they have the weight of truth."
+
+msgctxt "fibbin name"
+msgid "Fibbin"
+msgstr "Fibbin"
+
+msgctxt "fibbin ability"
+msgid "Once per game, 1 good player might get false information."
+msgstr "Sekali per permainan, 1 pemain yang baik mungkin mendapatkan informasi palsu."
+
+msgctxt "fibbin flavor"
+msgid ""
+"Tee-hee-hee.\n"
+"Tee. Hee. Hee."
+msgstr ""
+"Tee-hee-hee.\n"
+"Tee. Hee. Hee."
+
+msgctxt "fibbin reminders"
+msgid "Used"
+msgstr "Used"
+
+msgctxt "fiddler name"
+msgid "Fiddler"
+msgstr "Fiddler"
+
+msgctxt "fiddler ability"
+msgid "Once per game, the Demon secretly chooses an opposing player: all players choose which of these 2 players win."
+msgstr "Sekali per permainan, Demon secara diam-diam memilih pemain lawan: semua pemain memilih siapa dari kedua pemain ini yang menang."
+
+msgctxt "fiddler flavor"
+msgid "I'll wager mi lyef ye cannae best me in a fiddle contest, ye boss-eyed snook! We'll go out on the lash, get the pub jammers an' have a right craic. I'll be layin' ma boots into ya come mornin' ye rumbly muppet."
+msgstr "Aku berani bertaruh nyawaku kau tidak bisa mengalahkanku dalam kontes biola, kau penggila mabuk! Kita akan keluar minum, dapatkan para pemusik pub dan bersenang-senang. Aku akan menendangmu habis-habisan besok pagi, kau boneka berisik."
+
+msgctxt "fisherman name"
+msgid "Fisherman"
+msgstr "Fisherman"
+
+msgctxt "fisherman ability"
+msgid "Once per game, during the day, visit the Storyteller for some advice to help you win."
+msgstr "Sekali per permainan, di siang hari, kunjungi Storyteller untuk mendapatkan beberapa nasihat yang akan membantumu menang."
+
+msgctxt "fisherman flavor"
+msgid "This was my favourite part of the river... see how the sunlight makes a rainbow from the monastery to the market? This was the best place for big fish. And the older I get, the bigger they were."
+msgstr "Ini adalah bagian favorit saya dari sungai... lihat bagaimana sinar matahari membuat pelangi dari biara ke pasar? Ini adalah tempat terbaik untuk ikan besar. Dan semakin tua aku, semakin besar mereka."
+
+msgctxt "fisherman reminders"
+msgid "No ability"
+msgstr "No ability"
+
+msgctxt "flowergirl name"
+msgid "Flowergirl"
+msgstr "Flowergirl"
+
+msgctxt "flowergirl ability"
+msgid "Each night*, you learn if a Demon voted today."
+msgstr "Setiap malam*, kamu akan tahu jika seorang Demon memberikan suara hari ini."
+
+msgctxt "flowergirl flavor"
+msgid "Yesterday's violets have withered and died, but today my poppies bloom."
+msgstr "Violet kemarin telah layu dan mati, tetapi hari ini bunga poppy saya bermekaran."
+
+msgctxt "flowergirl otherNightReminder"
+msgid "Nod 'yes' or shake head 'no' for whether the Demon voted today. Place the 'Demon not voted' marker (remove 'Demon voted', if any)."
+msgstr "Anggukkan kepala 'ya' atau gelengkan kepala 'tidak' untuk apakah Demon memilih hari ini. Tempatkan penanda 'Demon not voted' (hapus 'Demon voted', jika ada)."
+
+msgctxt "flowergirl reminders"
+msgid "Demon voted,Demon not voted"
+msgstr "Demon voted,Demon not voted"
+
+msgctxt "fool name"
+msgid "Fool"
+msgstr "Fool"
+
+msgctxt "fool ability"
+msgid "The first time you die, you don't."
+msgstr "Saat pertama kali kamu mati, kamu tidak akan mati."
+
+msgctxt "fool flavor"
+msgid "...and the King said 'What?! I've never even owned a pair of rubber pantaloons, let alone a custard cannon!' Ho-ho! Jolly day!"
+msgstr "...dan Sang Raja berkata, 'Apa?! Saya bahkan belum pernah memiliki sepasang celana karet, apalagi sebuah meriam custard!' Ho-ho! Hari yang ceria!"
+
+msgctxt "fool reminders"
+msgid "No ability"
+msgstr "No ability"
+
+msgctxt "fortuneteller name"
+msgid "Fortune Teller"
+msgstr "Fortune Teller"
+
+msgctxt "fortuneteller ability"
+msgid "Each night, choose 2 players: you learn if either is a Demon. There is a good player that registers as a Demon to you."
+msgstr "Setiap malam, pilih 2 pemain: kamu akan tahu jika salah satunya adalah Demon. Ada pemain yang sebenarnya adalah baik namun ia terdaftar sebagai Demon untukmu."
+
+msgctxt "fortuneteller flavor"
+msgid "I sense great evil in your soul! But... that could just be your perfume. I am allergic to Elderberry."
+msgstr "Aku merasakan kejahatan besar dalam jiwamu! Tapi... itu mungkin hanya parfummu. Saya alergi terhadap Elderberry."
+
+msgctxt "fortuneteller firstNightReminder"
+msgid "The Fortune Teller points to two players. Give the head signal (nod yes, shake no) for whether one of those players is the Demon."
+msgstr "Fortune Teller menunjuk ke dua orang pemain. Beri sinyal kepala (angguk untuk ya, geleng untuk tidak) apakah salah satu dari pemain tersebut adalah Demon."
+
+msgctxt "fortuneteller otherNightReminder"
+msgid "The Fortune Teller points to two players. Show the head signal (nod 'yes', shake 'no') for whether one of those players is the Demon."
+msgstr "Fortune Teller menunjuk ke dua orang pemain. Beri sinyal kepala (angguk untuk ya, geleng untuk tidak) apakah salah satu dari pemain tersebut adalah Demon."
+
+msgctxt "fortuneteller reminders"
+msgid "Red herring"
+msgstr "Red herring"
+
+msgctxt "gambler name"
+msgid "Gambler"
+msgstr "Gambler"
+
+msgctxt "gambler ability"
+msgid "Each night*, choose a player & guess their character: if you guess wrong, you die."
+msgstr "Setiap malam*, pilih seorang pemain & tebak karakternya: jika tebakanmu salah, kamu mati."
+
+msgctxt "gambler flavor"
+msgid "Heads, I win. Tails, you lose."
+msgstr "Kepala, saya menang. Ekor, kamu kalah."
+
+msgctxt "gambler otherNightReminder"
+msgid "The Gambler points to a player, and a character on their sheet. If incorrect, the Gambler dies."
+msgstr "Gambler menunjuk ke seorang pemain, dan karakter di list lembar karakter mereka. Jika salah, Gambler mati."
+
+msgctxt "gangster name"
+msgid "Gangster"
+msgstr "Gangster"
+
+msgctxt "gangster ability"
+msgid "Once per day, you may choose to kill an alive neighbour, if your other alive neighbour agrees."
+msgstr "Satu kali per hari pada siang hari, Kamu dapat memilih untuk membunuh tetangga yang masih hidup, jika tetangga lain-mu yang masih hidup setuju."
+
+msgctxt "gangster flavor"
+msgid "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
+msgstr "Saya suka sepatu Anda. Akan sangat disayangkan jika kamu mengalami sedikit kecelakaan, dan sepatu itu rusak. Sekarang kamu menyebutnya, aku juga suka manset bajumu."
+
+msgctxt "gardener name"
+msgid "Gardener"
+msgstr "Gardener"
+
+msgctxt "gardener ability"
+msgid "The Storyteller assigns 1 or more players' characters."
+msgstr "Storyteller menetapkan 1 atau lebih karakter pemain.."
+
+msgctxt "gardener flavor"
+msgid "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
+msgstr "Oh sekarang, ini tidak akan berhasil. Kita punya monkshood tercampur dengan wolfsbane dan hemlock menutupi hellebore! Oh tidak, sebaiknya kita mulai dari awal. Ambil guntingku."
+
+msgctxt "general name"
+msgid "General"
+msgstr "General"
+
+msgctxt "general ability"
+msgid "Each night, you learn which alignment the Storyteller believes is winning: good, evil, or neither."
+msgstr "Setiap malam, kamu akan mengetahui pihak mana yang diyakini oleh Storyteller sedang menang: baik, jahat, atau tidak keduanya."
+
+msgctxt "general flavor"
+msgid "I don’t have time for quotes."
+msgstr "Saya tidak punya waktu untuk kutipan."
+
+msgctxt "general firstNightReminder"
+msgid "Show the General thumbs up for good winning, thumbs down for evil winning or thumb to the side for neither."
+msgstr "Tunjukkan jempol ke atas untuk kemenangan Tim Baik, jempol ke bawah untuk kemenangan Tim Jahat, atau jempol ke samping untuk keduanya tidak menang."
+
+msgctxt "general otherNightReminder"
+msgid "Show the General thumbs up for good winning, thumbs down for evil winning or thumb to the side for neither."
+msgstr "Tunjukkan jempol ke atas untuk kemenangan Tim Baik, jempol ke bawah untuk kemenangan Tim Jahat, atau jempol ke samping untuk keduanya tidak menang."
+
+msgctxt "gnome name"
+msgid "Gnome"
+msgstr "Gnome"
+
+msgctxt "gnome ability"
+msgid "All players start knowing a player of your alignment. You may choose to kill anyone who nominates them."
+msgstr "Semua pemain mulai dengan mengetahui satu pemain dari pihakmu. Kamu boleh memilih untuk membunuh siapa saja yang menominasikan mereka."
+
+msgctxt "gnome flavor"
+msgid "Four the score or seven beers, no shows are goes for me and my. A prank to crack the cranks and planks o' the floor foundation length, so incontravertabubbilly mini. The large essays down streams of joyce, no greater than is scene, not inherdt, Ha-urrumph.o."
+msgstr "Empat skor atau tujuh bir, tidak ada pertunjukan untukku dan temanku. Sebuah lelucon untuk memecahkan engkol dan papan fondasi lantai, jadi sangat tidak terbantahkan mini. Esai besar mengalir di aliran kegembiraan, tidak lebih besar dari yang terlihat, tidak diwarisi, Ha-urrumph.o."
+
+msgctxt "gnome reminders"
+msgid "Amigo"
+msgstr "Amigo"
+
+msgctxt "goblin name"
+msgid "Goblin"
+msgstr "Goblin"
+
+msgctxt "goblin ability"
+msgid "If you publicly claim to be the Goblin when nominated & are executed that day, your team wins."
+msgstr "Jika kamu secara publik mengklaim sebagai Goblin saat di-Nominasikan dan dieksekusi pada hari itu, tim kamu menang."
+
+msgctxt "goblin flavor"
+msgid "You don’t want to insult the goblins. You really, really don’t. On a completely different note… can I have another piece of cake?"
+msgstr "Kamu tidak ingin menghina para goblin. Kamu benar-benar, benar-benar tidak boleh. Dalam catatan yang sama sekali berbeda… bolehkah saya minta sepotong kue lagi?"
+
+msgctxt "goblin reminders"
+msgid "Claimed"
+msgstr "Claimed"
+
+msgctxt "godfather name"
+msgid "Godfather"
+msgstr "Godfather"
+
+msgctxt "godfather ability"
+msgid "You start knowing which Outsiders are in play. If 1 died today, choose a player tonight: they die. [−1 or +1 Outsider]"
+msgstr "Kamu mulai dengan mengetahui Outsiders mana yang sedang bermain. Jika 1 Outsider mati pada siang hari, pilih seorang pemain malam ini: mereka mati. [−1 atau +1 Outsider]"
+
+msgctxt "godfather flavor"
+msgid "Normally, it's just business. But when you insult my daughter, you insult me. And when you insult me, you insult my family. You really should be more careful - it would be a shame if you had an unfortunate accident."
+msgstr "Biasanya, ini hanya bisnis. Tapi ketika kamu menghina putriku, kamu menghina aku. Dan ketika kamu menghina saya, kamu menghina keluarga saya. Anda benar-benar harus lebih berhati-hati - akan sangat disayangkan jika Anda mengalami kecelakaan yang tidak diinginkan."
+
+msgctxt "godfather firstNightReminder"
+msgid "Show each of the Outsider tokens in play."
+msgstr "Tunjukkan masing-masing token Outsider yang sedang dimainkan."
+
+msgctxt "godfather otherNightReminder"
+msgid "If an Outsider died today: The Godfather points to a player. That player dies."
+msgstr "Jika seorang Outsider mati hari ini: Godfather menunjuk seorang pemain. Pemain itu mati."
+
+msgctxt "godfather reminders"
+msgid "Died today,Dead"
+msgstr "Died today,Dead"
+
+msgctxt "golem name"
+msgid "Golem"
+msgstr "Golem"
+
+msgctxt "golem ability"
+msgid "You may only nominate once per game. When you do, if the nominee is not the Demon, they die."
+msgstr "Kamu hanya boleh menominasikan sekali per permainan. Ketika kamu melakukannya, jika yang di-nominasikan bukan Iblis, mereka akan mati."
+
+msgctxt "golem flavor"
+msgid "Golem help? Golem smash! Golem help."
+msgstr "Golem butuh bantuan? Golem hancurkan! Golem bantu."
+
+msgctxt "golem reminders"
+msgid "Can not nominate"
+msgstr "Can not nominate"
+
+msgctxt "goon name"
+msgid "Goon"
+msgstr "Goon"
+
+msgctxt "goon ability"
+msgid "Each night, the 1st player to choose you with their ability is drunk until dusk. You become their alignment."
+msgstr "Setiap malam, pemain pertama yang memilihmu dengan kemampuan mereka akan mabuk hingga senja. Kamu menjadi pihak mereka."
+
+msgctxt "goon flavor"
+msgid "Yes boss. I explained fings real good to dat geezer. He don't want me explain it again. Nah boss, I don't need no doctor - it's only a knife wound. Be right come mornin'"
+msgstr "Ya bos. Saya menjelaskan hal-hal dengan sangat baik kepada orang itu. Dia tidak mau aku menjelaskannya lagi. Tidak, bos, saya tidak butuh dokter - ini hanya luka pisau. Akan baik-baik saja besok pagi."
+
+msgctxt "goon reminders"
+msgid "Drunk"
+msgstr "Drunk"
+
+msgctxt "gossip name"
+msgid "Gossip"
+msgstr "Gossip"
+
+msgctxt "gossip ability"
+msgid "Each day, you may make a public statement. Tonight, if it was true, a player dies."
+msgstr "Setiap hari pada siang hari, Kamu dapat membuat pernyataan publik. Malam ini, jika itu benar, seorang pemain akan mati."
+
+msgctxt "gossip flavor"
+msgid "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah."
+msgstr "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah."
+
+msgctxt "gossip otherNightReminder"
+msgid "If the Gossip’s public statement was true: Choose a player not protected from dying tonight. That player dies."
+msgstr "Jika pernyataan publik Gossip itu benar: Pilih seorang pemain yang tidak dilindungi dari kematian malam ini. Pemain itu mati."
+
+msgctxt "gossip reminders"
+msgid "Dead"
+msgstr "Dead"
+
+msgctxt "grandmother name"
+msgid "Grandmother"
+msgstr "Grandmother"
+
+msgctxt "grandmother ability"
+msgid "You start knowing a good player & their character. If the Demon kills them, you die too."
+msgstr "Kamu mulai dengan mengetahui pemain yang baik beserta karakternya. Jika Demon membunuh mereka, kamu juga akan mati."
+
+msgctxt "grandmother flavor"
+msgid "Take a jacket if you go outside, dearie. And your thermos. And your scarf. I have a weak heart, you know. Whatever would I do if you caught cold...or worse?"
+msgstr "Ambil jaket jika kamu pergi keluar, sayang. Dan termos kamu. Dan syalmu. Aku punya jantung yang lemah, kau tahu. Apa yang akan aku lakukan jika kamu terkena flu...atau lebih buruk lagi?"
+
+msgctxt "grandmother firstNightReminder"
+msgid "Show the marked character token. Point to the marked player."
+msgstr "Tunjukkan token karakter yang ditandai. Tunjukkan pemain yang ditandai."
+
+msgctxt "grandmother otherNightReminder"
+msgid "If the Grandmother’s grandchild was killed by the Demon tonight: The Grandmother dies."
+msgstr "Jika Cucu Grandmother dibunuh oleh Demon malam ini: Grandmother mati."
+
+msgctxt "grandmother reminders"
+msgid "Grandchild"
+msgstr "Grandchild"
+
+msgctxt "gunslinger name"
+msgid "Gunslinger"
+msgstr "Gunslinger"
+
+msgctxt "gunslinger ability"
+msgid "Each day, after the 1st vote has been tallied, you may choose a player that voted: they die."
+msgstr "Setiap hari, setelah suara pertama dihitung, Anda dapat memilih seorang pemain yang memberikan suara: mereka mati."
+
+msgctxt "gunslinger flavor"
+msgid "It's time someone took matters into their own hands. That someone... is me."
+msgstr "Sudah saatnya seseorang mengambil tindakan sendiri. Orang itu... adalah saya."
+
+msgctxt "harlot name"
+msgid "Harlot"
+msgstr "Harlot"
+
+msgctxt "harlot ability"
+msgid "Each night*, choose a living player: if they agree, you learn their character, but you both might die."
+msgstr "Setiap malam*, pilih pemain yang masih hidup: jika mereka setuju, kamu akan mengetahui karakternya, tetapi kalian berdua mungkin akan mati."
+
+msgctxt "harlot flavor"
+msgid "Enchanté, Sailor. You look like you need someone to really listen to your troubles. I'm a good listener. Very, very good."
+msgstr "Senang bertemu denganmu, Sailor. Kamu terlihat seperti butuh seseorang yang benar-benar mendengarkan masalahmu. Saya pendengar yang baik. Sangat, sangat baik."
+
+msgctxt "harlot otherNightReminder"
+msgid "The Harlot points at any player. Then, put the Harlot to sleep. Wake the chosen player, show them the 'This character selected you' token, then the Harlot token. That player either nods their head yes or shakes their head no. If they nodded their head yes, wake the Harlot and show them the chosen player's character token. Then, you may decide that both players die."
+msgstr "Harlot menunjuk ke pemain mana saja. Kemudian, tidurkan Harlot. Bangunkan pemain yang dipilih, tunjukkan token 'Karakter ini memilihmu', lalu token Harlot. Pemain tersebut antara mengangguk sebagai tanda setuju atau menggelengkan kepala sebagai tanda tidak setuju. Jika mereka mengangguk, bangunkan Harlot dan tunjukkan token karakter pemain yang dipilih. Kemudian, Anda dapat memutuskan bahwa kedua pemain mati."
+
+msgctxt "harlot reminders"
+msgid "Dead"
+msgstr "Dead"
+
+msgctxt "harpy name"
+msgid "Harpy"
+msgstr "Harpy"
+
+msgctxt "harpy ability"
+msgid "Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or one or both might die."
+msgstr "Setiap malam, pilih 2 pemain: besok, pemain pertama (\"Mad/Menggila\") harus menunjukan peran untuk menuduh karena pemain kedua adalah tim jahat. Jika tidak salah satu atau keduanya mungkin mati. (ditentukan oleh Storyteller)"
+
+msgctxt "harpy flavor"
+msgid "So fair a day I never did see, nor so fowl a presence hanging over me."
+msgstr "Sehari seindah ini belum pernah aku lihat, dan kehadiran yang begitu buruk menggantung di atasku."
+
+msgctxt "harpy firstNightReminder"
+msgid "Wake the Harpy; they point at one player, then another. Wake the 1st player the Harpy pointed to, show them the 'This character has selected you' card, show them the Harpy token, then point at the 2nd player the Harpy pointed to."
+msgstr "Bangunkan Harpy; mereka menunjuk satu pemain, lalu yang lain. Bangunkan pemain pertama yang ditunjuk Harpy, tunjukkan kartu 'Karakter ini telah memilih Anda' kepada mereka, tunjukkan token Harpy kepada mereka, lalu tunjukkan pemain kedua yang ditunjuk Harpy."
+
+msgctxt "harpy otherNightReminder"
+msgid "Wake the Harpy; they point at one player, then another. Wake the 1st player the Harpy pointed to, show them the 'This character has selected you' card, show them the Harpy token, then point at the 2nd player the Harpy pointed to."
+msgstr "Bangunkan Harpy; mereka menunjuk satu pemain, lalu yang lain. Bangunkan pemain pertama yang ditunjuk Harpy, tunjukkan kartu 'Karakter ini telah memilih Anda' kepada mereka, tunjukkan token Harpy kepada mereka, lalu tunjukkan pemain kedua yang ditunjuk Harpy."
+
+msgctxt "harpy reminders"
+msgid "Mad, 2nd"
+msgstr "Mad, 2nd"
+
+msgctxt "hatter name"
+msgid "Hatter"
+msgstr "Hatter"
+
+msgctxt "hatter ability"
+msgid "If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be."
+msgstr "Jika kamu mati siang ini atau malam ini, para pemain Minion & Demon dapat memilih karakter Minion & Demon baru untuk dimainkan."
+
+msgctxt "hatter flavor"
+msgid "One Hat. Too Hat. Three Hat. Tea Hat. Fore Hat. Thrive Hat. Six Hat. Sticks Hat."
+msgstr "Satu Topi. Dua Topi. Tiga Topi. Topi Teh. Topi Depan. Topi Thrive. Topi Enam. Topi Tongkat."
+
+msgctxt "hatter otherNightReminder"
+msgid "If the Hatter died today: Wake the Minions and Demon. Show them the 'This Character Selected You' info token, then the Hatter token. Each player either shakes their head no or points to another character of the same type as their current character.  If a second player would end up with the same character as another player, shake your head no and gesture for them to choose again. Put them to sleep. Change each player to the character they chose."
+msgstr "Jika Hatter mati hari ini: Bangunkan Minion dan Demon. Tunjukkan kepada mereka token info 'Karakter Ini Memilih Anda', lalu token Hatter. Setiap pemain antara menggelengkan kepala 'tidak' atau menunjuk karakter lain dari jenis yang sama dengan karakter mereka saat ini. Jika pemain kedua akan mendapatkan karakter yang sama dengan pemain lain, goyangkan kepala Anda 'tidak' dan isyaratkan agar mereka memilih lagi. Tidurkan mereka. Ganti setiap pemain ke karakter yang mereka pilih."
+
+msgctxt "hatter reminders"
+msgid "Tea Party Tonight"
+msgstr "Tea Party Tonight"
+
+msgctxt "hellslibrarian name"
+msgid "Hell's Librarian"
+msgstr "Hell's Librarian"
+
+msgctxt "hellslibrarian ability"
+msgid "Something bad might happen to whoever talks when the Storyteller has asked for silence."
+msgstr "Sesuatu yang buruk mungkin akan terjadi pada siapa pun yang berbicara ketika Storyteller telah meminta keheningan."
+
+msgctxt "hellslibrarian flavor"
+msgid "Shhhhhh. Please be quiet. It is best not to disturb the Librarian. I've heard it has a temper."
+msgstr "Ssshhhh. Tolong diam. Sebaiknya jangan mengganggu Pustakawan. Saya dengar dia punya temperamental."
+
+msgctxt "hellslibrarian reminders"
+msgid "Something Bad"
+msgstr "Something Bad"
+
+msgctxt "heretic name"
+msgid "Heretic"
+msgstr "Heretic"
+
+msgctxt "heretic ability"
+msgid "Whoever wins, loses & whoever loses, wins, even if you are dead."
+msgstr "Siapapun yang menang, menjadi kalah & Siapapun yang kalah, menjadi menang, meskipun kamu sudah mati."
+
+msgctxt "heretic flavor"
+msgid "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
+msgstr "Setelah hujan es menghancurkan atap dan memecahkan kaca jendela Katedral, ia mencair kembali ke tanah, seperti anak domba yang sekarat di bawah terik matahari gurun. Begitulah perumpamaan tentang si orang gila."
+
+msgctxt "hermit name"
+msgid "Hermit"
+msgstr "Hermit"
+
+msgctxt "hermit ability"
+msgid "You have all Outsider abilities. [-0 or -1 Outsider]"
+msgstr "Kamu memiliki semua kemampuan Outsider. [-0 or -1 Outsider]"
+
+msgctxt "hermit flavor"
+msgid "In the lost and forgotten places of the earth, the soul’s light beckons."
+msgstr "Di tempat-tempat yang terlupakan dan tersembunyi di bumi, cahaya jiwa memanggil."
+
+msgctxt "hermit reminders"
+msgid "1, 2, 3"
+msgstr "1, 2, 3"
+
+msgctxt "highpriestess name"
+msgid "High Priestess"
+msgstr "High Priestess"
+
+msgctxt "highpriestess ability"
+msgid "Each night, learn which player the Storyteller believes you should talk to most."
+msgstr "Setiap malam, ketahui pemain mana yang menurut Storyteller harus kamu ajak bicara paling banyak."
+
+msgctxt "highpriestess flavor"
+msgid "There is life behind the personality that uses personalities as masks. There are times when life puts off the mask and deep answers to deep."
+msgstr "Ada kehidupan di balik kepribadian yang menggunakan kepribadian sebagai topeng. Ada kalanya kehidupan melepas topeng dan jawaban mendalam untuk yang mendalam."
+
+msgctxt "highpriestess firstNightReminder"
+msgid "Point to a player."
+msgstr "Tunjuk ke seorang pemain."
+
+msgctxt "highpriestess otherNightReminder"
+msgid "Point to a player."
+msgstr "Tunjuk ke seorang pemain."
+
+msgctxt "huntsman name"
+msgid "Huntsman"
+msgstr "Huntsman"
+
+msgctxt "huntsman ability"
+msgid "Once per game, at night, choose a living player: the Damsel, if chosen, becomes a not-in-play Townsfolk. [+the Damsel]"
+msgstr "Sekali per permainan, di malam hari, pilih seorang pemain yang masih hidup: Damsel, jika dipilih, ia akan menjadi karakter Townsfolk yang tidak sedang dimainkan. [+Damsel]"
+
+msgctxt "huntsman flavor"
+msgid "My cabin is warm and sturdy. My axe by the door, my boots drying by the fire, and elk stew a-simmering… Hark! A scream echoes through the valley! The rain and the mud and the cold, cold wind mask the scent of the wolves, but I know the path and my pace is steady. I am coming."
+msgstr "Kabinku hangat dan kokoh. Kapak saya di dekat pintu, sepatu bot saya mengering di dekat api, dan rebusan rusa sedang mendidih... Dengar! Sebuah teriakan menggema melalui lembah! Hujan dan lumpur serta angin dingin yang sangat dingin menutupi bau serigala, tetapi aku tahu jalannya dan langkahku mantap. Saya datang."
+
+msgctxt "huntsman firstNightReminder"
+msgid "The Huntsman shakes their head 'no' or points to a player. If they point to the Damsel, wake that player, show the 'You are' card and a not-in-play character token."
+msgstr "Huntsman menggelengkan kepala 'tidak' atau menunjuk ke seorang pemain. Jika mereka menunjuk ke Damsel, bangunkan pemain tersebut, tunjukkan kartu 'Kamu Adalah' dan token karakter yang tidak sedang dimainkan."
+
+msgctxt "huntsman otherNightReminder"
+msgid "The Huntsman shakes their head 'no' or points to a player. If they point to the Damsel, wake that player, show the 'You are' card and a not-in-play character token."
+msgstr "Huntsman menggelengkan kepala 'tidak' atau menunjuk ke seorang pemain. Jika mereka menunjuk ke Damsel, bangunkan pemain tersebut, tunjukkan kartu 'Kamu Adalah' dan token karakter yang tidak sedang dimainkan."
+
+msgctxt "huntsman reminders"
+msgid "No ability"
+msgstr "No ability"
+
+msgctxt "imp name"
+msgid "Imp"
+msgstr "Imp"
+
+msgctxt "imp ability"
+msgid "Each night*, choose a player: they die. If you kill yourself this way, a Minion becomes the Imp."
+msgstr "Setiap malam*, pilih seorang pemain: mereka mati. Jika kamu membunuh dirimu dengan cara ini, seorang Minion akan menjadi Imp."
+
+msgctxt "imp flavor"
+msgid "We must keep our wits sharp and our sword sharper. Evil walks among us, and will stop at nothing to destroy us good, simple folk, bringing our fine town to ruin. Trust no-one. But, if you must trust someone, trust me."
+msgstr "Kita harus tetap waspada dan menjaga ketajaman pedang kita. Kejahatan berjalan di antara kita, dan tidak akan berhenti untuk menghancurkan kita yang baik dan sederhana, membawa kota kita yang indah ke dalam kehancuran. Jangan percayai siapa pun. Tapi, jika kamu harus mempercayai seseorang, percayalah padaku."
+
+msgctxt "imp otherNightReminder"
+msgid "The Imp points to a player. That player dies. If the Imp chose themselves: Replace the character of 1 alive minion with a spare Imp token. Show the 'You are' card, then the Imp token."
+msgstr "Imp menunjuk ke seorang pemain. Pemain itu mati. Jika Imp memilih dirinya sendiri: Ganti karakter dari 1 minion yang masih hidup dengan token Imp cadangan. Tunjukkan kartu 'Kamu adalah', lalu token Imp."
+
+msgctxt "imp reminders"
+msgid "Dead"
+msgstr "Dead"
+
+msgctxt "innkeeper name"
+msgid "Innkeeper"
+msgstr "Innkeeper"
+
+msgctxt "innkeeper ability"
+msgid "Each night*, choose 2 players: they can't die tonight, but 1 is drunk until dusk."
+msgstr "Setiap malam*, pilih 2 pemain: mereka tidak bisa mati malam ini, tetapi 1 mabuk sampai senja."
+
+msgctxt "innkeeper flavor"
+msgid "Come inside, fair traveller, and rest your weary bones. Drink and be merry, for the legions of the Dark One shall not harass thee tonight."
+msgstr "Masuklah, pengembara yang budiman, dan istirahatkan tulang-tulangmu yang letih. Minumlah dan bersenang-senanglah, karena legiun Kegelapan tidak akan mengganggumu malam ini."
+
+msgctxt "innkeeper otherNightReminder"
+msgid "The previously protected and drunk players lose those markers. The Innkeeper points to two players. Those players are protected. One is drunk."
+msgstr "Pemain yang sebelumnya dilindungi dan mabuk kehilangan penanda tersebut. Innkeeper menunjuk dua pemain. Pemain-pemain itu dilindungi. Salah satunya mabuk."
+
+msgctxt "innkeeper reminders"
+msgid "Protected,Drunk"
+msgstr "Protected,Drunk"
+
+msgctxt "investigator name"
+msgid "Investigator"
+msgstr "Investigator"
+
+msgctxt "investigator ability"
+msgid "You start knowing that 1 of 2 players is a particular Minion."
+msgstr "Kamu mulai dengan mengetahui bahwa 1 dari 2 pemain adalah Minion tertentu."
+
+msgctxt "investigator flavor"
+msgid "It is a fine night for a stroll, wouldn't you say, Mister Morozov? Or should I say... BARON Morozov?"
+msgstr "Ini adalah malam yang indah untuk berjalan-jalan, bukan begitu, Tuan Morozov? Atau seharusnya saya katakan... BARON Morozov?"
+
+msgctxt "investigator firstNightReminder"
+msgid "Show the character token of a Minion in play. Point to two players, one of which is that character."
+msgstr "Tunjukkan token karakter Minion yang sedang dimainkan. Tunjukkan dua pemain, salah satunya adalah karakter tersebut."
+
+msgctxt "investigator reminders"
+msgid "Minion,Wrong"
+msgstr "Minion,Wrong"
+
+msgctxt "judge name"
+msgid "Judge"
+msgstr "Judge"
+
+msgctxt "judge ability"
+msgid "Once per game, if another player nominated, you may choose to force the current execution to pass or fail."
+msgstr "Sekali per permainan, jika pemain lain di-nominasikan, Kamu dapat memilih untuk memaksa eksekusi saat ini berhasil atau gagal."
+
+msgctxt "judge flavor"
+msgid "I find the defendant guilty of the crimes of murder, fraud, arson, larceny, impersonating an officer of the law, practicing medicine without a license, slander, regicide, and littering."
+msgstr "Saya menemukan terdakwa bersalah atas kejahatan pembunuhan, penipuan, pembakaran, pencurian, menyamar sebagai petugas hukum, praktik kedokteran tanpa lisensi, fitnah, pembunuhan raja, dan membuang sampah sembarangan."
+
+msgctxt "judge reminders"
+msgid "No ability"
+msgstr "No ability"
+
+msgctxt "juggler name"
+msgid "Juggler"
+msgstr "Juggler"
+
+msgctxt "juggler ability"
+msgid "On your 1st day, publicly guess up to 5 players' characters. That night, you learn how many you got correct."
+msgstr "Pada hari pertamamu, tebak secara publik karakter hingga 5 pemain. Malam itu, kamu akan tahu berapa banyak yang benar."
+
+msgctxt "juggler flavor"
+msgid "For my next trick, as per request, I will need a flower, a bag of beans, a toy snake, a paintbrush, and a motorized gasoline-powered hedge trimming device. I warn you, this trick may be my last. Oh dear."
+msgstr "Untuk trik saya berikutnya, sesuai permintaan, saya akan membutuhkan sebuah bunga, sekantong biji-bijian, ular mainan, kuas cat, dan alat pemangkas pagar bertenaga bensin. Saya peringatkan, trik ini mungkin yang terakhir bagi saya. Oh tidak."
+
+msgctxt "juggler otherNightReminder"
+msgid "If today was the Juggler’s first day: Show the hand signal for the number (0, 1, 2, etc.) of 'Correct' markers. Remove markers."
+msgstr "Jika hari ini adalah hari pertama Juggler: Tunjukkan sinyal tangan untuk jumlah (0, 1, 2, dll.) penanda 'Correct'. Hapus penanda."
+
+msgctxt "juggler reminders"
+msgid "Correct"
+msgstr "Correct"
+
+msgctxt "kazali name"
+msgid "Kazali"
+msgstr "Kazali"
+
+msgctxt "kazali ability"
+msgid "Each night*, choose a player: they die. [You choose which players are Minions. -? to +? Outsiders]"
+msgstr "Setiap malam*, pilih seorang pemain: mereka mati. [Kamu memilih pemain mana yang menjadi Minion.] -? hingga +? Outsiders]"
+
+msgctxt "kazali flavor"
+msgid "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig."
+msgstr "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig."
+
+msgctxt "kazali firstNightReminder"
+msgid "The Kazali points at a player and a Minion on the character sheet. Replace their old character token with the Minion token, show them the “You Are” info token then the Minion character token, and give a thumbs down. Repeat until the normal number of Minions exist. Put the Kazali to sleep."
+msgstr "Kazali menunjuk ke seorang pemain dan Minion di lembar list karakter. Ganti token karakter lama mereka dengan token Minion, tunjukkan token info \"Kamu Adalah\" kepada mereka kemudian tunjukkan token karakter Minion, dan beri jempol ke bawah sebagai tanda 'jahat'. Ulangi sampai jumlah Minion yang normal ada. Tidurkan Kazali."
+
+msgctxt "kazali otherNightReminder"
+msgid "The Kazali points to a player. That player dies."
+msgstr "Kazali menunjuk ke seorang pemain. Pemain itu mati."
+
+msgctxt "kazali reminders"
+msgid "Dead"
+msgstr "Dead"
+
+msgctxt "king name"
+msgid "King"
+msgstr "King"
+
+msgctxt "king ability"
+msgid "Each night, if the dead equal or outnumber the living, you learn 1 alive character. The Demon knows who you are."
+msgstr "Setiap malam, jika jumlah orang mati sama atau lebih banyak dari yang hidup, kamu akan mengetahui 1 karakter yang masih hidup. Demon tahu siapa kamu."
+
+msgctxt "king flavor"
+msgid ""
+"↑Betwixt the unknown strains of mortal strife→\n"
+"And morbid night, sweet↓ with mystery and woe\n"
+"←Lies unfettered joys of fate’s long and colored life\n"
+"Who’s garden blooms with each painted Face to Show."
+msgstr ""
+"↑Di antara ketegangan yang tidak diketahui dari perjuangan manusiawi→\n"
+"Dan malam yang kelam, manis↓ dengan misteri dan kesedihan\n"
+"←Terletak kebahagiaan tak terbatas dari kehidupan panjang dan berwarna takdir\n"
+"Siapa yang tamannya mekar dengan setiap wajah yang dilukis untuk ditunjukkan."
+
+msgctxt "king firstNightReminder"
+msgid "Wake the Demon, show them the 'This Player is' card, show the King token and point to the King player."
+msgstr "Bangunkan Demon, tunjukkan kartu 'Pemain Ini adalah', tunjukkan token King dan tunjuk kearah pemain King."
+
+msgctxt "king otherNightReminder"
+msgid "If there are more dead than living, show the King a character token of a living player."
+msgstr "Jika ada lebih banyak yang mati daripada yang hidup, tunjukan pada King Token Karakter dari pemain yang masih hidup."
+
+msgctxt "klutz name"
+msgid "Klutz"
+msgstr "Klutz"
+
+msgctxt "klutz ability"
+msgid "When you learn that you died, publicly choose 1 alive player: if they are evil, your team loses."
+msgstr "Ketika kamu mengetahui bahwa kamu sudah mati, pilihlah secara publik 1 pemain yang masih hidup: jika mereka jahat, timmu kalah."
+
+msgctxt "klutz flavor"
+msgid "Oops."
+msgstr "Oops."
+
+msgctxt "knight name"
+msgid "Knight"
+msgstr "Knight"
+
+msgctxt "knight ability"
+msgid "You start knowing 2 players that are not the Demon."
+msgstr "Kamu mulai dengan mengetahui 2 pemain yang bukan Demon."
+
+msgctxt "knight flavor"
+msgid "When a man lies, he murders some part of the world."
+msgstr "Ketika seorang pria berbohong, dia membunuh sebagian dari dunia."
+
+msgctxt "knight firstNightReminder"
+msgid "Point to 2 non-Demon players."
+msgstr "Tunjuk 2 pemain non-Demon."
+
+msgctxt "knight reminders"
+msgid "Know, Know"
+msgstr "Know, Know"
+
+msgctxt "legion name"
+msgid "Legion"
+msgstr "Legion"
+
+msgctxt "legion ability"
+msgid "Each night*, a player might die. Executions fail if only evil voted. You register as a Minion too. [Most players are Legion]"
+msgstr "Setiap malam*, seorang pemain mungkin mati. Eksekusi gagal jika hanya tim jahat yang memberikan suara. Kamu juga terdaftar sebagai Minion. [Kebanyakan pemain adalah Legion]"
+
+msgctxt "legion flavor"
+msgid "We are the chill wind on a winter’s day. We are the shadow in the moonless night. We are the poison in your tea and the whisper in your ear. We are everywhere."
+msgstr "Kami adalah angin dingin di hari musim dingin. Kami adalah bayangan di malam tanpa bulan. Kami adalah racun dalam teh Anda dan bisikan di telinga Anda. Kami ada di mana-mana."
+
+msgctxt "legion otherNightReminder"
+msgid "Choose a player, that player dies."
+msgstr "Pilih seorang pemain, pemain itu mati."
+
+msgctxt "legion reminders"
+msgid "Dead,About to die"
+msgstr "Dead,About to die"
+
+msgctxt "leviathan name"
+msgid "Leviathan"
+msgstr "Leviathan"
+
+msgctxt "leviathan ability"
+msgid "If more than 1 good player is executed, you win. All players know you are in play. After day 5, evil wins."
+msgstr "Jika lebih dari 1 pemain baik dieksekusi, kamu menang. Semua pemain tahu bahwa kamu ada dalam permainan. Setelah hari ke-5, Tim Jahat menang."
+
+msgctxt "leviathan flavor"
+msgid "To the last, I grapple with thee. From Hell’s heart, I stab at thee. For hate’s sake, I spit my last breath at thee."
+msgstr "Sampai akhir, aku bergulat denganmu. Dari hati Neraka, aku menusukmu. Demi kebencian, aku meludahi napas terakhirku padamu."
+
+msgctxt "leviathan firstNightReminder"
+msgid "Place the Leviathan 'Day 1' marker. Announce 'The Leviathan is in play; this is Day 1.'"
+msgstr "Tempatkan penanda 'Day 1' Leviathan. Umumkan 'Leviathan sedang dimainkan; ini adalah Hari 1.'"
+
+msgctxt "leviathan otherNightReminder"
+msgid "Change the Leviathan Day reminder for the next day."
+msgstr "Ubah pengingat Hari Leviathan untuk hari berikutnya."
+
+msgctxt "leviathan reminders"
+msgid "Day 1,Day 2,Day 3,Day 4,Day 5,Good player executed"
+msgstr "Day 1,Day 2,Day 3,Day 4,Day 5,Good player executed"
+
+msgctxt "librarian name"
+msgid "Librarian"
+msgstr "Librarian"
+
+msgctxt "librarian ability"
+msgid "You start knowing that 1 of 2 players is a particular Outsider. (Or that zero are in play.)"
+msgstr "Kamu mulai dengan mengetahui bahwa 1 dari 2 pemain adalah Outsider tertentu. (Atau bahwa tidak ada yang sedang bermain.)"
+
+msgctxt "librarian flavor"
+msgid "Certainly madam, under normal circumstances, you may borrow the Codex Malificarium from the library vaults. However, you do not seem to be a member."
+msgstr "Tentu saja, Nyonya, dalam keadaan normal, Anda dapat meminjam Codex Malificarium dari brankas perpustakaan. Namun, Anda tampaknya bukan anggota."
+
+msgctxt "librarian firstNightReminder"
+msgid "Show the character token of an Outsider in play. Point to two players, one of which is that character."
+msgstr "Tunjukkan token karakter seorang Outsider yang sedang dimainkan. Tunjukkan dua pemain, salah satunya adalah karakter tersebut. Atau gelengkan sinyal kepala 'tidak' jika tidak ada."
+
+msgctxt "librarian reminders"
+msgid "Outsider,Wrong"
+msgstr "Outsider,Wrong"
+
+msgctxt "lilmonsta name"
+msgid "Lil' Monsta"
+msgstr "Lil' Monsta"
+
+msgctxt "lilmonsta ability"
+msgid "Each night, Minions choose who babysits Lil' Monsta's token & \"is the Demon\". Each night*, a player might die. [+1 Minion]"
+msgstr "Setiap malam, Minions memilih siapa yang menjaga token Lil' Monsta & \"adalah Demon\". Setiap malam*, seorang pemain mungkin mati. [+1 Minion]"
+
+msgctxt "lilmonsta flavor"
+msgid ""
+"Step 1: Be cute.\n"
+"Step 2: World domination.\n"
+"Step 3: Bweakfast."
+msgstr ""
+"Langkah 1: Jadilah imut.\n"
+"Langkah 2: Dominasi dunia.\n"
+"Langkah 3: Sarapan."
+
+msgctxt "lilmonsta firstNightReminder"
+msgid "Wake all Minions together, allow them to vote by pointing at who they want to babysit Lil' Monsta."
+msgstr "Bangunkan semua Minion bersama-sama, biarkan mereka memilih dengan menunjuk siapa yang mereka inginkan untuk menjaga Lil' Monsta."
+
+msgctxt "lilmonsta otherNightReminder"
+msgid "Wake all Minions together, allow them to vote by pointing at who they want to babysit Lil' Monsta. Choose a player, that player dies."
+msgstr "Bangunkan semua Minion bersama-sama, biarkan mereka memilih dengan menunjuk siapa yang ingin mereka tugaskan untuk menjaga Lil' Monsta. Pilih seorang pemain, pemain itu mati."
+
+msgctxt "lilmonsta remindersGlobal"
+msgid "Is the Demon,Dead"
+msgstr "Is the Demon,Dead"
+
+msgctxt "lleech name"
+msgid "Lleech"
+msgstr "Lleech"
+
+msgctxt "lleech ability"
+msgid "Each night*, choose a player: they die. You start by choosing a player: they are poisoned. You die if & only if they are dead."
+msgstr "Setiap malam*, pilih seorang pemain: mereka mati. Kamu mulai dengan memilih seorang pemain: mereka diracuni. Kamu mati jika dan hanya jika mereka mati."
+
+msgctxt "lleech flavor"
+msgid "Tasty, tasty, tasty, tasty, tasty, tasty, tasty, tasty brai- I mean pie! Yes. Tasty pie. That’s what I meant to say."
+msgstr "Lezat, lezat, lezat, lezat, lezat, lezat, lezat, lezat brai- maksud saya pai! Ya. Pai yang lezat. Itulah yang ingin saya katakan."
+
+msgctxt "lleech firstNightReminder"
+msgid "The Lleech points to a player. Place the Poisoned reminder token."
+msgstr "Lleech menunjuk ke seorang pemain. Tempatkan token pengingat Diracuni."
+
+msgctxt "lleech otherNightReminder"
+msgid "The Lleech points to a player. That player dies."
+msgstr "Lleech menunjuk ke seorang pemain. Pemain itu mati."
+
+msgctxt "lleech reminders"
+msgid "Dead,Poisoned"
+msgstr "Dead,Poisoned"
+
+msgctxt "lordoftyphon name"
+msgid "Lord of Typhon"
+msgstr "Lord of Typhon"
+
+msgctxt "lordoftyphon ability"
+msgid "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? To +? Outsiders]"
+msgstr "Setiap malam*, pilih seorang pemain: mereka mati. [Tim jahat berada dalam satu baris. Kamu berada di tengah. +1 Minion. -? Ke +? Outsiders]"
+
+msgctxt "lordoftyphon flavor"
+msgid "In the shadowed and forgotten corners of the cosmos, where the stars whisper secrets to the void, lies a truth so profound that the merest glimpse of it unravels the sanity of mortal minds."
+msgstr "Di sudut-sudut kosmos yang terlupakan dan terabaikan, di mana bintang-bintang membisikkan rahasia kepada kehampaan, terletak sebuah kebenaran yang begitu mendalam sehingga sekilas pandangannya dapat meruntuhkan kewarasan pikiran manusia."
+
+msgctxt "lordoftyphon firstNightReminder"
+msgid "Wake the players on either side of the Demon. Show them the 'You Are' card, the token of the Minion they now are, and a thumbs down to indicate they are evil."
+msgstr "Bangunkan para pemain di kedua sisi Demon. Tunjukkan kepada mereka kartu 'Kamu Adalah', token dari Minion yang sekarang akan mereka perankan, dan jari jempol ke bawah untuk menunjukkan bahwa mereka tim jahat."
+
+msgctxt "lordoftyphon otherNightReminder"
+msgid "The Lord of Typhon points to a player. That player dies."
+msgstr "Lord of Typhon menunjuk ke seorang pemain. Pemain itu mati."
+
+msgctxt "lordoftyphon reminders"
+msgid "Dead"
+msgstr "Dead"
+
+msgctxt "lunatic name"
+msgid "Lunatic"
+msgstr "Lunatic"
+
+msgctxt "lunatic ability"
+msgid "You think you are a Demon, but you are not. The Demon knows who you are & who you choose at night."
+msgstr "Kamu pikir kamu adalah Demon, tapi sebenarnya bukan. Demon tahu siapa dirimu dan siapa yang kau pilih di malam hari."
+
+msgctxt "lunatic flavor"
+msgid "I am the night... I think."
+msgstr "Aku adalah malam... Aku rasa."
+
+msgctxt "lunatic firstNightReminder"
+msgid "If 7 or more players: Show the Lunatic a number of arbitrary 'Minions', players equal to the number of Minions in play. Show 3 character tokens of arbitrary good characters. If the token received by the Lunatic is a Demon that would wake tonight: Allow the Lunatic to do the Demon actions. Place their 'attack' markers. Wake the Demon. Show the Demon’s real character token. Show them the Lunatic player. If the Lunatic attacked players: Show the real demon each marked player. Remove any Lunatic 'attack' markers."
+msgstr "Jika ada 7 atau lebih pemain: Tunjukkan kepada Lunatic sejumlah 'Minion' apa saja (sebagai pengecoh), yang  sama dengan jumlah Minion yang ada di permainan lalu tunjukkan 3 token karakter dari karakter baik apa saja seolah ia adalah demon asli. Jika token yang diterima oleh Lunatic di awal setup adalah Demon yang akan bangun malam ini: Izinkan Lunatic melakukan tindakan Demon. Tempatkan penanda 'Attack' mereka. Bangunkan Demon yang sesungguhnya. Tunjukkan token karakter asli Demon. Tunjukkan kepadanya pemain Lunatic. Jika Lunatic menyerang pemain: Tunjukkan Demon asli kepada setiap pemain yang ditandai oleh serangan tersebut. Hapus semua penanda 'Attack' Lunatic."
+
+msgctxt "lunatic otherNightReminder"
+msgid "Allow the Lunatic to do the actions of the Demon. Place their 'attack' markers. If the Lunatic selected players: Wake the Demon. Show the 'attack' marker, then point to each marked player. Remove any Lunatic 'attack' markers."
+msgstr "Izinkan Lunatic untuk melakukan aksi Demon. Tempatkan marker 'attack' mereka. Jika Lunatic memilih pemain: Bangunkan Demon. Tunjukkan marker 'attack', kemudian tunjukkan setiap pemain yang diberi tanda. Hapus semua marker 'attack' Lunatic."
+
+msgctxt "lunatic reminders"
+msgid "Attack 1,Attack 2,Attack 3"
+msgstr "Attack 1,Attack 2,Attack 3"
+
+msgctxt "lycanthrope name"
+msgid "Lycanthrope"
+msgstr "Lycanthrope"
+
+msgctxt "lycanthrope ability"
+msgid "Each night*, choose an alive player. If good, they die & the Demon doesn’t kill tonight. One good player registers as evil."
+msgstr "Setiap malam*, pilih satu pemain yang masih hidup. Jika baik, mereka mati & Demon tidak membunuh malam ini. Satu pemain baik akan terdaftar sebagai tim jahat."
+
+msgctxt "lycanthrope flavor"
+msgid "Beneath the thin veneer of civilisation lies a howling madness."
+msgstr "Di balik lapisan tipis peradaban, tersembunyi kegilaan yang mengerikan."
+
+msgctxt "lycanthrope otherNightReminder"
+msgid "The Lycanthrope points to a living player: if good, they die and the Demon doesn't kill tonight"
+msgstr "The Lycanthrope menunjuk seorang pemain yang masih hidup: jika pemain itu baik, mereka akan mati, dan Demon tidak akan membunuh malam ini."
+
+msgctxt "lycanthrope reminders"
+msgid "Dead,Faux Paw"
+msgstr "Dead,Faux Paw"
+
+msgctxt "magician name"
+msgid "Magician"
+msgstr "Magician"
+
+msgctxt "magician ability"
+msgid "The Demon thinks you are a Minion. Minions think you are a Demon."
+msgstr "Demon mengira kamu adalah Minion. Minion berpikir kamu adalah Demon."
+
+msgctxt "magician flavor"
+msgid ""
+"1... 2... Abra... 3... 4... Cadabra... *poof!*\n"
+"And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!"
+msgstr ""
+"1... 2... Abra... 3... 4... Cadabra... *poof!*\n"
+"Dan, seperti yang Anda lihat, ladies and gentlemen, tas emas Kapten Farnsworth telah menghilang! Hilang! Tanpa jejak! Terima kasih, dan selamat malam!"
+
+msgctxt "magician firstNightReminder"
+msgid "Point to the Magician when showing the Demon their Minions. Point to the Demon and the Magician when showing the Minions their Demon."
+msgstr "Tunjuklah Magician saat menunjukkan Minion info kepada Demon . Tunjuklah pada Demon dan Magician saat menunjukkan Demon info kepada Para Minion."
+
+msgctxt "marionette name"
+msgid "Marionette"
+msgstr "Marionette"
+
+msgctxt "marionette ability"
+msgid "You think you are a good character but you are not. The Demon knows who you are. [You neighbour the Demon]"
+msgstr "Kamu pikir kamu adalah karakter yang baik, tapi sebenarnya tidak. Demon tahu siapa kamu. [Kamu bertetangga dengan Demon]"
+
+msgctxt "marionette flavor"
+msgid "Words, words. They're all we have to go on."
+msgstr "Kata-kata, kata-kata. Mereka adalah satu-satunya yang kita miliki untuk dijadikan pegangan."
+
+msgctxt "marionette firstNightReminder"
+msgid "Select one of the good players next to the Demon and place the Is the Marionette reminder token. Wake the Demon and show them the Marionette."
+msgstr "Pilih salah satu pemain baik di samping Demon dan letakkan token pengingat \"Is The Marionette\". Bangunkan Demon dan tunjukkan Marionette kepada mereka."
+
+msgctxt "marionette remindersGlobal"
+msgid "Is the Marionette"
+msgstr "Is the Marionette"
+
+msgctxt "mastermind name"
+msgid "Mastermind"
+msgstr "Mastermind"
+
+msgctxt "mastermind ability"
+msgid "If the Demon dies by execution (ending the game), play for 1 more day. If a player is then executed, their team loses."
+msgstr "Jika Demon mati karena eksekusi (mengakhiri permainan), mainkan selama 1 hari lagi. Jika seorang pemain kemudian dieksekusi, tim mereka kalah."
+
+msgctxt "mastermind flavor"
+msgid "The tentacles of that monster are nailed to the doors of the church. Mothers and children are dancing in the street. Excellent. Everything is proceeding exactly as I have planned."
+msgstr "Tentakel monster itu dipaku ke pintu gereja. Ibu-ibu dan anak-anak menari di jalan. Luar biasa. Semuanya berjalan persis seperti yang telah saya rencanakan."
+
+msgctxt "mathematician name"
+msgid "Mathematician"
+msgstr "Mathematician"
+
+msgctxt "mathematician ability"
+msgid "Each night, you learn how many players’ abilities worked abnormally (since dawn) due to another character's ability."
+msgstr "Setiap malam, kamu mengetahui berapa banyak kemampuan pemain yang bekerja secara abnormal (sejak fajar) karena kemampuan karakter lain."
+
+msgctxt "mathematician flavor"
+msgid "Any consistent formal system x, within which a certain amount of elementary arithmetic can be carried out is incomplete; that is, there are statements of the language of x which can neither be proved nor disproved in x. Ergo, you are drunk."
+msgstr "Setiap sistem formal konsisten x, di mana sejumlah aritmetika dasar dapat dilakukan, adalah tidak lengkap; yaitu, ada pernyataan dalam bahasa x yang tidak dapat dibuktikan maupun dibantah dalam x. Oleh karena itu, Anda sedang mabuk."
+
+msgctxt "mathematician firstNightReminder"
+msgid "Show the hand signal for the number (0, 1, 2, etc.) of players whose ability malfunctioned due to other abilities."
+msgstr "Tunjukkan isyarat tangan untuk jumlah (0, 1, 2, dll.) pemain yang kemampuannya terganggu karena kemampuan lain."
+
+msgctxt "mathematician otherNightReminder"
+msgid "Show the hand signal for the number (0, 1, 2, etc.) of players whose ability malfunctioned due to other abilities."
+msgstr "Tunjukkan isyarat tangan untuk jumlah (0, 1, 2, dll.) pemain yang kemampuannya terganggu karena kemampuan lain."
+
+msgctxt "mathematician reminders"
+msgid "Abnormal"
+msgstr "Abnormal"
+
+msgctxt "matron name"
+msgid "Matron"
+msgstr "Matron"
+
+msgctxt "matron ability"
+msgid "Each day, you may choose up to 3 sets of 2 players to swap seats. Players may not leave their seats to talk in private."
+msgstr "Setiap hari, Kamu dapat memilih hingga 3 pasang dari 2 pemain untuk bertukar tempat duduk. Pemain tidak boleh meninggalkan kursi mereka untuk berbicara secara pribadi."
+
+msgctxt "matron flavor"
+msgid "Miss Featherbottom, be quiet. Master Rutherford, a teacup needs just the four fingers, please. I know you are a father of nine, but age, or lack there-of as the case may be, is never an excuse for poor manners."
+msgstr "Nona Featherbottom, diamlah. Tuan Rutherford, cangkir teh hanya perlu empat jari, tolong. Saya tahu Anda adalah seorang ayah dari sembilan anak, tetapi usia, atau kurangnya usia dalam hal ini, tidak pernah menjadi alasan untuk perilaku buruk."
+
+msgctxt "mayor name"
+msgid "Mayor"
+msgstr "Mayor"
+
+msgctxt "mayor ability"
+msgid "If only 3 players live & no execution occurs, your team wins. If you die at night, another player might die instead."
+msgstr "Jika hanya 3 pemain yang hidup dan tidak ada eksekusi yang terjadi, tim Anda menang. Jika kamu mati di malam hari, pemain lain mungkin akan mati sebagai gantinya."
+
+msgctxt "mayor flavor"
+msgid "We must put our differences aside, and cease this senseless killing. We are all taxpayers after all. Well, most of us."
+msgstr "Kita harus mengesampingkan perbedaan kita, dan menghentikan pembunuhan yang tidak masuk akal ini. Kita semua adalah pembayar pajak setelah semua. Yah, kebanyakan dari kita."
+
+msgctxt "mezepheles name"
+msgid "Mezepheles"
+msgstr "Mezepheles"
+
+msgctxt "mezepheles ability"
+msgid "You start knowing a secret word. The 1st good player to say this word becomes evil that night."
+msgstr "Kamu mulai dengan mengetahui sebuah kata rahasia. Pemain baik pertama yang mengucapkan kata ini menjadi tim jahat malam itu."
+
+msgctxt "mezepheles flavor"
+msgid "That which issues from the heart alone, will bend the hearts of others to your own."
+msgstr "Apa yang keluar dari hati saja, akan membengkokkan hati orang lain ke arahmu."
+
+msgctxt "mezepheles firstNightReminder"
+msgid "Show the Mezepheles their secret word."
+msgstr "Tunjukkan kata rahasia mereka kepada Mezepheles."
+
+msgctxt "mezepheles otherNightReminder"
+msgid "Wake the 1st good player that said the Mezepheles' secret word and show them the 'You are' card and the thumbs down evil signal."
+msgstr "Bangunkan pemain baik pertama yang mengatakan kata rahasia Mezepheles dan tunjukkan kartu 'Kamu adalah' serta isyarat jempol ke bawah yang jahat."
+
+msgctxt "mezepheles reminders"
+msgid "Turns evil,No ability"
+msgstr "Turns evil,No ability"
+
+msgctxt "minstrel name"
+msgid "Minstrel"
+msgstr "Minstrel"
+
+msgctxt "minstrel ability"
+msgid "When a Minion dies by execution, all other players (except Travellers) are drunk until dusk tomorrow."
+msgstr "Ketika seorang Minion mati karena eksekusi, semua pemain lainnya (kecuali Travellers) mabuk sampai senja besok."
+
+msgctxt "minstrel flavor"
+msgid "And I shall hear, tho' soft you tread above me... And all my dreams will warm and sweeter be... If you'll not fail to tell me that you love me... I simply sleep in peace until you come to me."
+msgstr "Dan aku akan mendengar, meski lembut kau melangkah di atasku... Dan semua mimpiku akan hangat dan lebih manis... Jika kau tidak akan gagal memberitahuku bahwa kau mencintaiku... Saya hanya tidur nyenyak sampai kamu datang padaku."
+
+msgctxt "minstrel reminders"
+msgid "Everyone drunk"
+msgstr "Everyone drunk"
+
+msgctxt "monk name"
+msgid "Monk"
+msgstr "Monk"
+
+msgctxt "monk ability"
+msgid "Each night*, choose a player (not yourself): they are safe from the Demon tonight."
+msgstr "Setiap malam*, pilih seorang pemain (bukan dirimu sendiri): mereka aman dari Demon malam ini."
+
+msgctxt "monk flavor"
+msgid "Tis an ill and deathly wind that blows tonight. Come, my brother, take shelter in the abbey while the storm rages. By my word, or by my life, you will be safe."
+msgstr "Ini adalah angin yang buruk dan mematikan yang bertiup malam ini. Ayo, saudaraku, berlindunglah di biara sementara badai melanda. Dengan kata-kataku, atau dengan hidupku, kau akan aman."
+
+msgctxt "monk otherNightReminder"
+msgid "The previously protected player is no longer protected. The Monk points to a player not themself. Mark that player 'Protected'."
+msgstr "Pemain yang sebelumnya dilindungi tidak lagi dilindungi. Monk menunjuk ke seorang pemain, bukan dirinya sendiri. Tandai pemain itu sebagai 'Dilindungi'."
+
+msgctxt "monk reminders"
+msgid "Protected"
+msgstr "Protected"
+
+msgctxt "moonchild name"
+msgid "Moonchild"
+msgstr "Moonchild"
+
+msgctxt "moonchild ability"
+msgid "When you learn that you died, publicly choose 1 alive player. Tonight, if it was a good player, they die."
+msgstr "Ketika kamu mengetahui bahwa kamu sudah mati, pilihlah secara publik 1 pemain yang masih hidup. Malam ini, jika itu adalah pemain yang baik, mereka akan mati."
+
+msgctxt "moonchild flavor"
+msgid "Scorpio looks sideways at the lovers, and you have a choice to make. With silver cross my palm, and your fate shall be revealed. With steel cross my throat, and by the stars you shall regret it."
+msgstr "Scorpio melihat ke samping pada para kekasih, dan kamu harus membuat pilihan. Dengan perak melintasi telapak tanganku, dan nasibmu akan terungkap. Dengan besi melintang tenggorokanku, dan oleh bintang-bintang kau akan menyesalinya."
+
+msgctxt "moonchild otherNightReminder"
+msgid "If the Moonchild used their ability to target a player today: If that player is good, they die."
+msgstr "Jika Moonchild menggunakan kemampuannya untuk menargetkan seorang pemain hari ini: Jika pemain tersebut baik, mereka mati."
+
+msgctxt "moonchild reminders"
+msgid "Dead"
+msgstr "Dead"
+
+msgctxt "mutant name"
+msgid "Mutant"
+msgstr "Mutant"
+
+msgctxt "mutant ability"
+msgid "If you are “mad” about being an Outsider, you might be executed."
+msgstr "Jika Kamu (\"Mad/Menggila\") karena meyakinkan orang-orang bahwa kamu menjadi Outsider, Kamu mungkin akan dieksekusi. (Oleh Storyteller)"
+
+msgctxt "mutant flavor"
+msgid "I am not a freak! I am a human being! Have mercy!"
+msgstr "Saya bukan orang aneh! Saya adalah manusia! Kasihanilah!"
+
+msgctxt "nightwatchman name"
+msgid "Nightwatchman"
+msgstr "Nightwatchman"
+
+msgctxt "nightwatchman ability"
+msgid "Once per game, at night, choose a player: they learn who you are."
+msgstr "Sekali per permainan, di malam hari, pilih seorang pemain: mereka akan mengetahui siapa kamu."
+
+msgctxt "nightwatchman flavor"
+msgid "The night is cold and lonely, but I have the moon, the stars, the crisp wind and the soft thud of leather boots on cobbled stone for company. Yonder, candlelight flickers behind a murky window..."
+msgstr "Malam ini dingin dan sepi, tetapi aku memiliki bulan, bintang-bintang, angin segar, dan suara lembut sepatu kulit di atas batu bata untuk menemani. Di sana, cahaya lilin bergetar di balik jendela keruh..."
+
+msgctxt "nightwatchman firstNightReminder"
+msgid "The Nightwatchman may point to a player. Wake that player, show the 'This character selected you' card and the Nightwatchman token, then point to the Nightwatchman player."
+msgstr "Nightwatchman dapat menunjuk seorang pemain. Bangunkan pemain itu, tunjukkan kartu 'Karakter ini memilihmu' dan token Nightwatchman, lalu tunjukkan kepada pemain Nightwatchman."
+
+msgctxt "nightwatchman otherNightReminder"
+msgid "The Nightwatchman may point to a player. Wake that player, show the 'This character selected you' card and the Nightwatchman token, then point to the Nightwatchman player."
+msgstr "Nightwatchman dapat menunjuk seorang pemain. Bangunkan pemain itu, tunjukkan kartu 'Karakter ini memilihmu' dan token Nightwatchman, lalu tunjukkan kepada pemain Nightwatchman."
+
+msgctxt "nightwatchman reminders"
+msgid "No ability"
+msgstr "No ability"
+
+msgctxt "noble name"
+msgid "Noble"
+msgstr "Noble"
+
+msgctxt "noble ability"
+msgid "You start knowing 3 players, 1 and only 1 of which is evil."
+msgstr "Kamu mulai dengan mengetahui 3 pemain, 1 dan hanya 1 yang jahat."
+
+msgctxt "noble flavor"
+msgid "Sarcasm is indeed the lowest form of wit. But speaking in response to your criticism, Sir, it is, nevertheless, a form of wit."
+msgstr "Sarkasme memang merupakan bentuk kecerdasan yang paling rendah. Tetapi berbicara sebagai tanggapan atas kritik Anda, Tuan, itu adalah, bagaimanapun juga, sebuah bentuk kecerdasan."
+
+msgctxt "noble firstNightReminder"
+msgid "Point to 3 players including one evil player, in no particular order."
+msgstr "Tunjuk 3 pemain termasuk satu pemain jahat, tanpa urutan tertentu."
+
+msgctxt "noble reminders"
+msgid "Seen"
+msgstr "Seen"
+
+msgctxt "nodashii name"
+msgid "No Dashii"
+msgstr "No Dashii"
+
+msgctxt "nodashii ability"
+msgid "Each night*, choose a player: they die. Your 2 Townsfolk neighbours are poisoned."
+msgstr "Setiap malam*, pilih seorang pemain: mereka mati. 2 tetangga Townsfolk-mu diracuni."
+
+msgctxt "nodashii flavor"
+msgid "By the sins of Arnoch, I feel thy laden stench. By the curs-ed sun and her foul legion of tiny grinning gods, I corrupt thee. By the blessed night and the hidden depths of the horrid and unholy sea, I end thy squalid life upon this plane."
+msgstr "Dengan dosa-dosa Arnoch, aku merasakan bau busukmu yang berat. Demi matahari terkutuk dan legiun dewa-dewa kecil yang tersenyum jahat, aku mencemarmu. Dengan malam yang diberkati dan kedalaman tersembunyi dari laut yang mengerikan dan tidak suci, aku mengakhiri kehidupan kotormu di dunia ini."
+
+msgctxt "nodashii otherNightReminder"
+msgid "The No Dashii points to a player. That player dies."
+msgstr "No Dashii menunjuk ke seorang pemain. Pemain itu mati."
+
+msgctxt "nodashii reminders"
+msgid "Dead,Poisoned"
+msgstr "Dead,Poisoned"
+
+msgctxt "ogre name"
+msgid "Ogre"
+msgstr "Ogre"
+
+msgctxt "ogre ability"
+msgid "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned."
+msgstr "Pada malam pertamamu, pilih seorang pemain (bukan dirimu sendiri): kamu menjadi pihak mereka (kamu tidak tahu yang mana) meskipun mabuk atau diracuni."
+
+msgctxt "ogre flavor"
+msgid "<grunt><grin></grunt>"
+msgstr "<grunt><grin></grunt>"
+
+msgctxt "ogre firstNightReminder"
+msgid "The Ogre points to a player (not themselves) and becomes their alignment."
+msgstr "Ogre menunjuk ke seorang pemain (bukan dirinya sendiri) dan menjadi pihak mereka."
+
+msgctxt "ogre reminders"
+msgid "Friend"
+msgstr "Friend"
+
+msgctxt "ojo name"
+msgid "Ojo"
+msgstr "Ojo"
+
+msgctxt "ojo ability"
+msgid "Each night*, choose a character: they die. If they are not in play, the Storyteller chooses who dies."
+msgstr "Setiap malam*, pilih satu karakter dari lembar list karakter: mereka mati. Jika mereka tidak ada dalam permainan, Storyteller memilih siapa yang mati."
+
+msgctxt "ojo flavor"
+msgid "Like a bonfire on a moonless night… I see you, mortal."
+msgstr "Seperti api unggun di malam tanpa bulan… Aku melihatmu, manusia fana."
+
+msgctxt "ojo otherNightReminder"
+msgid "The Ojo points to a character on the sheet; if in play, that player dies. If it is not in play, the Storyteller chooses who dies instead."
+msgstr "Ojo menunjuk ke karakter di lembar list karakter; jika karakter itu ada dalam permainan, pemain tersebut mati. Jika tidak dalam permainan, Storyteller memilih siapa yang mati sebagai gantinya."
+
+msgctxt "ojo reminders"
+msgid "Dead"
+msgstr "Dead"
+
+msgctxt "oracle name"
+msgid "Oracle"
+msgstr "Oracle"
+
+msgctxt "oracle ability"
+msgid "Each night*, you learn how many dead players are evil."
+msgstr "Setiap malam*, kamu akan mengetahui berapa banyak pemain yang sudah mati yang jahat."
+
+msgctxt "oracle flavor"
+msgid "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
+msgstr "Hanya yang terpilih yang dapat menatap di balik tirai. Orang mati gelisah, dan mereka menunjuk dalam diam ke arah utara yang dingin."
+
+msgctxt "oracle otherNightReminder"
+msgid "Show the hand signal for the number (0, 1, 2, etc.) of dead evil players."
+msgstr "Tunjukkan isyarat tangan untuk jumlah (0, 1, 2, dll.) pemain jahat yang sudah mati."
+
+msgctxt "organgrinder name"
+msgid "Organ Grinder"
+msgstr "Organ Grinder"
+
+msgctxt "organgrinder ability"
+msgid "All players keep their eyes closed when voting and the vote tally is secret. Each night, choose if you are drunk or not."
+msgstr "Semua pemain menutup mata saat memberikan suara dan hasil pemungutan suara dirahasiakan. Setiap malam, pilih apakah kamu mabuk atau tidak."
+
+msgctxt "organgrinder flavor"
+msgid "Round and round the handles go. The more you dance the less you know."
+msgstr "Berputar-putar pegangan itu. Semakin banyak kamu menari, semakin sedikit yang kamu ketahui."
+
+msgctxt "organgrinder reminders"
+msgid "Drunk,About to die"
+msgstr "Drunk,About to die"
+
+msgctxt "pacifist name"
+msgid "Pacifist"
+msgstr "Pacifist"
+
+msgctxt "pacifist ability"
+msgid "Executed good players might not die."
+msgstr "Pemain baik yang dieksekusi mungkin tidak mati."
+
+msgctxt "pacifist flavor"
+msgid "Distrust all in whom the impulse to punish is powerful."
+msgstr "Jangan percayai semua orang yang memiliki dorongan kuat untuk menghukum."
+
+msgctxt "philosopher name"
+msgid "Philosopher"
+msgstr "Philosopher"
+
+msgctxt "philosopher ability"
+msgid "Once per game, at night, choose a good character: gain that ability. If this character is in play, they are drunk."
+msgstr "Sekali per permainan, di malam hari, pilih karakter baik: dapatkan kemampuan itu. Jika karakter ini sedang dimainkan, mereka sedang mabuk."
+
+msgctxt "philosopher flavor"
+msgid "If anything is real, beer is real. Drink, for tomorrow we may die."
+msgstr "Jika ada yang nyata, bir itu nyata. Minumlah, karena besok kita mungkin mati."
+
+msgctxt "philosopher firstNightReminder"
+msgid "The Philosopher either shows a 'no' head signal, or points to a good character on their sheet. If they chose a character: Swap the out-of-play character token with the Philosopher token and add the 'Is the Philosopher' reminder. If the character is in play, place the drunk marker by that player."
+msgstr "Philosopher antara menunjukkan sinyal kepala 'tidak', atau menunjuk ke karakter baik di lembar list karakter mereka. Jika mereka memilih karakter: Tukar token karakter yang tidak dimainkan dengan token Philosopher dan tambahkan pengingat 'Is The Philosopher'. Jika karakter tersebut sedang dimainkan, letakkan penanda mabuk di samping token pemain yang memiliki karakter tersebut."
+
+msgctxt "philosopher otherNightReminder"
+msgid "If the Philosopher has not used their ability: the Philosopher either shows a 'no' head signal, or points to a good character on their sheet. If they chose a character: Swap the out-of-play character token with the Philosopher token and add the 'Is the Philosopher' reminder. If the character is in play, place the drunk marker by that player."
+msgstr "Jika Philosopher belum menggunakan kemampuannya : Philosopher antara menunjukkan sinyal kepala 'tidak', atau menunjuk ke karakter baik di lembar list karakter mereka. Jika mereka memilih karakter: Tukar token karakter yang tidak dimainkan dengan token Philosopher dan tambahkan pengingat 'Is The Philosopher'. Jika karakter tersebut sedang dimainkan, letakkan penanda mabuk di samping token pemain yang memiliki karakter tersebut."
+
+msgctxt "philosopher remindersGlobal"
+msgid "Is the Philosopher,Drunk"
+msgstr "Is the Philosopher,Drunk"
+
+msgctxt "pithag name"
+msgid "Pit-Hag"
+msgstr "Pit-Hag"
+
+msgctxt "pithag ability"
+msgid "Each night*, choose a player & a character they become (if not-in-play). If a Demon is made, deaths tonight are arbitrary."
+msgstr "Setiap malam*, pilih seorang pemain beserta karakter yang yang ada dalam lembar list karakter : Pemain yang di pilih akan menjadi karakter tersebut (jika tidak ada dalam permainan). Jika yang dipilih di jadikan Demon dengan cara ini, kematian malam ini bersifat sewenang-wenang."
+
+msgctxt "pithag flavor"
+msgid "Round about the cauldron go; In the poison'd entrails throw; Toad, that under cold stone; Days and nights has thirty-one; Sweated venom sleeping got; Boil thou first in the charmed pot."
+msgstr "Berputar di sekitar kuali; Dalam usus beracun lemparkan; Katak, yang di bawah batu dingin; Hari dan malam ada tiga puluh satu; Racun yang berkeringat tidur; Didihkan kau dulu di dalam panci terpesona."
+
+msgctxt "pithag otherNightReminder"
+msgid "The Pit-Hag points to a player and a character on the sheet. If this character is not in play, wake that player and show them the 'You are' card and the relevant character token. If the character is in play, nothing happens."
+msgstr "Pit-Hag menunjuk ke seorang pemain dan karakter di lembaran list karakter. Jika karakter ini tidak ada dalam permainan, bangunkan pemain tersebut dan tunjukkan kartu 'Anda adalah' dan token karakter yang relevan. Jika karakter tersebut sedang dimainkan, tidak ada yang terjadi."
+
+msgctxt "pixie name"
+msgid "Pixie"
+msgstr "Pixie"
+
+msgctxt "pixie ability"
+msgid "You start knowing 1 in-play Townsfolk. If you were mad that you were this character, you gain their ability when they die."
+msgstr "Kamu mulai dengan mengetahui 1 Townsfolk yang sedang ada dalam permainan. Jika kamu (\"Mad/Menggila\") sebisa mungkin berusaha meyakinkan orang-orang bahwa kamu adalah karakter tersebut, kamu akan mendapatkan kemampuannya ketika dia mati. (Storyteller yang menentukan)"
+
+msgctxt "pixie flavor"
+msgid ""
+"Round and round the garden, go.\n"
+"Little girls run to and fro.\n"
+"Little boys climb up the tree.\n"
+"Which of these should Pixie be?\n"
+"Ladies smile and go to town. \n"
+"Lords with axe chop forest down.\n"
+"What’s yours is mine. What’s mine, divine.\n"
+"Silly little Pixie, me."
+msgstr ""
+"Putar-putar di taman, pergi.\n"
+"Gadis-gadis kecil berlari ke sana kemari.\n"
+"Anak-anak kecil memanjat pohon.\n"
+"Yang mana dari ini yang seharusnya menjadi Pixie?\n"
+"Para wanita tersenyum dan pergi ke kota. \n"
+"Para tuan dengan kapak menebang hutan.\n"
+"Apa yang kau miliki adalah milikku. Apa yang aku miliki, ilahi.\n"
+"Pixie kecil yang konyol, aku."
+
+msgctxt "pixie firstNightReminder"
+msgid "Show the Pixie 1 in-play Townsfolk character token."
+msgstr "Tunjukkan pada Pixie 1 token karakter Townsfolk yang sedang dimainkan."
+
+msgctxt "pixie reminders"
+msgid "Mad,Has ability"
+msgstr "Mad,Has ability"
+
+msgctxt "plaguedoctor name"
+msgid "Plague Doctor"
+msgstr "Plague Doctor"
+
+msgctxt "plaguedoctor ability"
+msgid "If you die, the Storyteller gains a Minion ability."
+msgstr "Jika kamu mati, Storyteller mendapatkan kemampuan Minion."
+
+msgctxt "plaguedoctor flavor"
+msgid "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh."
+msgstr "Tolong tetap diam. Pikir tidak ada waktu untuk bersantai. Myrhh-myrhh."
+
+msgctxt "plaguedoctor reminders"
+msgid "Storyteller Ability"
+msgstr "Storyteller Ability"
+
+msgctxt "po name"
+msgid "Po"
+msgstr "Po"
+
+msgctxt "po ability"
+msgid "Each night*, you may choose a player: they die. If your last choice was no-one, choose 3 players tonight."
+msgstr "Setiap malam*, Kamu dapat memilih seorang pemain: mereka mati. Jika pilihan terakhirmu adalah tidak ada (tidak memilih pada malam sebelumnya), pilih 3 pemain malam ini."
+
+msgctxt "po flavor"
+msgid "Would you like a flower? I'm so lonely."
+msgstr "Apakah kamu mau bunga? Saya sangat kesepian."
+
+msgctxt "po otherNightReminder"
+msgid "If the Po chose no-one the previous night: The Po points to three players. Otherwise: The Po either shows the 'no' head signal , or points to a player. Chosen players die"
+msgstr "Jika Po tidak memilih siapa pun malam sebelumnya: Po menunjuk ke tiga pemain. Jika tidak: Po antara menunjukkan sinyal kepala 'tidak', atau menunjuk ke seorang pemain. Pemain yang terpilih mati."
+
+msgctxt "po reminders"
+msgid "Dead,3 attacks"
+msgstr "Dead,3 attacks"
+
+msgctxt "poisoner name"
+msgid "Poisoner"
+msgstr "Poisoner"
+
+msgctxt "poisoner ability"
+msgid "Each night, choose a player: they are poisoned tonight and tomorrow day."
+msgstr "Setiap malam, pilih seorang pemain: mereka diracuni malam ini dan besok siang."
+
+msgctxt "poisoner flavor"
+msgid "Add compound Alpha to compound Beta... NOT TOO MUCH!"
+msgstr "Tambahkan senyawa Alpha ke senyawa Beta... JANGAN TERLALU BANYAK!"
+
+msgctxt "poisoner firstNightReminder"
+msgid "The Poisoner points to a player. That player is poisoned."
+msgstr "Poisoner menunjuk ke seorang pemain. Pemain itu diracuni."
+
+msgctxt "poisoner otherNightReminder"
+msgid "The previously poisoned player is no longer poisoned. The Poisoner points to a player. That player is poisoned."
+msgstr "Pemain yang sebelumnya diracun tidak lagi diracun. Poisoner menunjuk ke seorang pemain. Pemain itu diracuni."
+
+msgctxt "poisoner reminders"
+msgid "Poisoned"
+msgstr "Poisoned"
+
+msgctxt "politician name"
+msgid "Politician"
+msgstr "Politician"
+
+msgctxt "politician ability"
+msgid "If you were the player most responsible for your team losing, you change alignment & win, even if dead."
+msgstr "Jika kamu adalah pemain yang paling bertanggung jawab atas kekalahan timmu, kamu akan berpindah pihak dan menang, bahkan jika kamu sudah mati"
+
+msgctxt "politician flavor"
+msgid "I'm glad you asked that question. Truly, I am. But I think the REAL question here is..."
+msgstr "Saya senang Anda bertanya tentang hal itu. Sungguh, saya memang begitu. Tapi saya rasa pertanyaan SEBENARNYA di sini adalah..."
+
+msgctxt "poppygrower name"
+msgid "Poppy Grower"
+msgstr "Poppy Grower"
+
+msgctxt "poppygrower ability"
+msgid "Minions & Demons do not know each other. If you die, they learn who each other are that night."
+msgstr "Minion & Demon tidak saling mengetahui satu sama lain. Jika kamu mati, mereka akan mengetahui satu sama lain malam itu."
+
+msgctxt "poppygrower flavor"
+msgid "In the hidden groves of the deep forest, the black poppy dwells. To see its revelry is to be enchanted. To smell its thick aroma is to be lost forever, a slave to the gods of light and dark."
+msgstr "Di kebun-kebun tersembunyi hutan dalam, bunga poppy hitam tinggal. Melihat perayaannya adalah terpesona. Mencium aroma tebalnya adalah terjebak selamanya, menjadi budak para dewa terang dan gelap."
+
+msgctxt "poppygrower firstNightReminder"
+msgid "Do not inform the Demon/Minions who each other are"
+msgstr "Jangan beri tahu Demon/Minion siapa satu sama lain."
+
+msgctxt "poppygrower otherNightReminder"
+msgid "If the Poppy Grower has died, show the Minions/Demon who each other are."
+msgstr "Jika Poppy Grower telah mati, tunjukkan kepada Minion/Demon info satu sama lain."
+
+msgctxt "poppygrower reminders"
+msgid "Evil wakes"
+msgstr "Evil wakes"
+
+msgctxt "preacher name"
+msgid "Preacher"
+msgstr "Preacher"
+
+msgctxt "preacher ability"
+msgid "Each night, choose a player: a Minion, if chosen, learns this. All chosen Minions have no ability."
+msgstr "Setiap malam, pilih seorang pemain: seorang Minion, jika dipilih, akan mengetahui ini. Semua Minion yang dipilih tidak memiliki kemampuan."
+
+msgctxt "preacher flavor"
+msgid "It is better to be rich and healthy than poor and sick."
+msgstr "Lebih baik kaya dan sehat daripada miskin dan sakit."
+
+msgctxt "preacher firstNightReminder"
+msgid "The Preacher chooses a player. If a Minion is chosen, wake the Minion and show the 'This character selected you' card and then the Preacher token."
+msgstr "Preacher memilih seorang pemain. Jika seorang Minion dipilih, bangunkan Minion tersebut dan tunjukkan kartu 'Karakter ini memilihmu' dan kemudian token Preacher."
+
+msgctxt "preacher otherNightReminder"
+msgid "The Preacher chooses a player. If a Minion is chosen, wake the Minion and show the 'This character selected you' card and then the Preacher token."
+msgstr "Preacher memilih seorang pemain. Jika seorang Minion dipilih, bangunkan Minion tersebut dan tunjukkan kartu 'Karakter ini memilihmu' dan kemudian token Preacher."
+
+msgctxt "preacher reminders"
+msgid "At a sermon"
+msgstr "At a sermon"
+
+msgctxt "princess name"
+msgid "Princess"
+msgstr "Princess"
+
+msgctxt "princess ability"
+msgid "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
+msgstr "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
+
+msgctxt "princess flavor"
+msgid "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
+msgstr "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
+
+msgctxt "princess otherNightReminder"
+msgid "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
+msgstr "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
+
+msgctxt "princess reminders"
+msgid "Doesn't Kill"
+msgstr "Doesn't Kill"
+
+msgctxt "professor name"
+msgid "Professor"
+msgstr "Professor"
+
+msgctxt "professor ability"
+msgid "Once per game, at night*, choose a dead player: if they are a Townsfolk, they are resurrected."
+msgstr "Sekali per permainan, pada malam hari*, pilih pemain yang sudah mati: jika mereka adalah Townsfolk, mereka akan dihidupkan kembali."
+
+msgctxt "professor flavor"
+msgid "The process is simple. Attach the hydraulic confabulator to the modified chi matrix amplifier, add 20 CCs of pseudodorafine, keep his Z levels above 20%, and your husband will be fine. Now, all we need is a lightning strike."
+msgstr "Prosesnya sederhana. Pasang konfabulatur hidrolik ke penguat matriks chi yang dimodifikasi, tambahkan 20 CC pseudodorafine, jaga tingkat Z-nya di atas 20%, dan suami Anda akan baik-baik saja. Sekarang, yang kita butuhkan hanyalah sambaran petir."
+
+msgctxt "professor otherNightReminder"
+msgid "If the Professor has not used their ability: The Professor either shakes their head no, or points to a player. If that player is a Townsfolk, they are now alive."
+msgstr "Jika Professor belum menggunakan kemampuannya: Professor antara menggelengkan kepala 'tidak', atau menunjuk ke seorang pemain yang sudah mati. Jika pemain tersebut adalah Townsfolk, mereka sekarang hidup."
+
+msgctxt "professor reminders"
+msgid "Alive,No ability"
+msgstr "Alive,No ability"
+
+msgctxt "psychopath name"
+msgid "Psychopath"
+msgstr "Psychopath"
+
+msgctxt "psychopath ability"
+msgid "Each day, before nominations, you may publicly choose a player: they die. If executed, you only die if you lose roshambo."
+msgstr "Setiap hari, sebelum nominasi, Anda dapat memilih pemain secara publik: mereka mati. Jika dieksekusi, kamu hanya mati jika kalah main roshambo (Batu, Gunting, Kertas)."
+
+msgctxt "psychopath flavor"
+msgid "Surprise!"
+msgstr "Surprise!"
+
+msgctxt "pukka name"
+msgid "Pukka"
+msgstr "Pukka"
+
+msgctxt "pukka ability"
+msgid "Each night, choose a player: they are poisoned. The previously poisoned player dies then becomes healthy."
+msgstr "Setiap malam, pilih seorang pemain: mereka diracuni. Pemain yang sebelumnya diracuni mati dalam keadaan sehat."
+
+msgctxt "pukka flavor"
+msgid "You truly have been kind welcoming me into your beautiful home. I am so sorry I accidentally scratched you. A little thing. No matter. But please, take this golden toothpick as a humble token of my regret."
+msgstr "Anda benar-benar baik telah menyambut saya ke rumah indah Anda. Saya sangat minta maaf saya tidak sengaja menggaruk Anda. Sebuah hal kecil. Tidak masalah. Tapi tolong, terimalah tusuk gigi emas ini sebagai tanda penyesalan saya yang tulus."
+
+msgctxt "pukka firstNightReminder"
+msgid "The Pukka points to a player. That player is poisoned."
+msgstr "Pukka menunjuk ke seorang pemain. Pemain itu diracuni."
+
+msgctxt "pukka otherNightReminder"
+msgid "The Pukka points to a player. That player is poisoned. The previously poisoned player dies."
+msgstr "Pukka menunjuk ke seorang pemain. Pemain itu diracuni. Pemain yang sebelumnya teracuni mati."
+
+msgctxt "pukka reminders"
+msgid "Poisoned,Dead"
+msgstr "Poisoned,Dead"
+
+msgctxt "puzzlemaster name"
+msgid "Puzzlemaster"
+msgstr "Puzzlemaster"
+
+msgctxt "puzzlemaster ability"
+msgid "1 player is drunk, even if you die. If you guess (once) who it is, learn the Demon player, but guess wrong & get false info."
+msgstr "1 pemain sedang mabuk, bahkan jika kamu mati. Jika kamu menebak (sekali) siapa dia, kamu akan mengetahui siapa pemain Demon, tetapi jika tebakanmu salah, kamu akan mendapatkan informasi palsu."
+
+msgctxt "puzzlemaster flavor"
+msgid "When one begins to think that some thing is merely some other thing, one is usually on the brink of an error. Patience, patience. Don’t confuse just and should with is and isn’t."
+msgstr "Ketika seseorang mulai berpikir bahwa sesuatu hanyalah sesuatu yang lain, biasanya mereka berada di ambang kesalahan. Kesabaran, kesabaran. Jangan bingungkan hanya dan seharusnya dengan ada dan tidak ada."
+
+msgctxt "puzzlemaster reminders"
+msgid "Drunk,Guess used"
+msgstr "Drunk,Guess used"
+
+msgctxt "ravenkeeper name"
+msgid "Ravenkeeper"
+msgstr "Ravenkeeper"
+
+msgctxt "ravenkeeper ability"
+msgid "If you die at night, you are woken to choose a player: you learn their character."
+msgstr "Jika kamu mati di malam hari, kamu akan dibangunkan untuk memilih seorang pemain: kamu akan mengetahui karakternya."
+
+msgctxt "ravenkeeper flavor"
+msgid "My birds will avenge me! Fly! Fly, my sweet and dutiful pets! To the manor and to the river! To the alleys and to the salons! Fly!"
+msgstr "Burung-burungku akan membalas dendam untukku! Terbang! Terbanglah, hewan peliharaanku yang manis dan patuh! Ke manor dan ke sungai! Ke gang-gang dan ke salon-salon! Terbang!"
+
+msgctxt "ravenkeeper otherNightReminder"
+msgid "If the Ravenkeeper died tonight: The Ravenkeeper points to a player. Show that player’s character token."
+msgstr "Jika Ravenkeeper mati malam ini: Ravenkeeper menunjuk seorang pemain. Tunjukkan token karakter pemain tersebut."
+
+msgctxt "recluse name"
+msgid "Recluse"
+msgstr "Recluse"
+
+msgctxt "recluse ability"
+msgid "You might register as evil & as a Minion or Demon, even if dead."
+msgstr "Kamu mungkin terdaftar sebagai Tim jahat dan sebagai Minion atau Demon, bahkan jika sudah mati."
+
+msgctxt "recluse flavor"
+msgid "Garn git ya darn grub ya mitts ofma lorn yasee. Grr. Natsy pikkins yonder southwise ye begittin afta ya! Git! Me harvy no so widda licks and demmons no be fightin' hadsup ne'er ma kin. Git, assay!"
+msgstr "Garn git ya darn grub ya mitts ofma lorn yasee. Grr. Natsy pikkins di sana ke selatan, kau mulai mengejar mereka! Pergi! Aku tidak suka dengan pemukulan dan iblis tidak berkelahi dengan keluargaku. Pergi, cepat!"
+
+msgctxt "revolutionary name"
+msgid "Revolutionary"
+msgstr "Revolutionary"
+
+msgctxt "revolutionary ability"
+msgid "2 neighboring players are known to be the same alignment. Once per game, one of them registers falsely"
+msgstr "2 pemain tetangga diketahui memiliki pihak yang sama. Sekali per permainan, salah satu dari mereka mendaftar secara palsu."
+
+msgctxt "revolutionary flavor"
+msgid ""
+"United we feigned.\n"
+"Divided, we stalled."
+msgstr "Bersatu kita berpura-pura. Terpecah, kami terhenti."
+
+msgctxt "revolutionary reminders"
+msgid "Register Falsely?"
+msgstr "Register Falsely?"
+
+msgctxt "riot name"
+msgid "Riot"
+msgstr "Riot"
+
+msgctxt "riot ability"
+msgid "On day 3, Minions become Riot & nominees die but nominate an alive player immediately. This must happen."
+msgstr "Pada hari ke-3, Minions menjadi Riot & nominator mati tetapi segera menominasikan pemain yang masih hidup. Ini harus terjadi."
+
+msgctxt "riot flavor"
+msgid "Larga vida a la revolución! Mi revolucion!"
+msgstr "Hidup panjang untuk revolusi! Revolusiku!"
+
+msgctxt "sage name"
+msgid "Sage"
+msgstr "Sage"
+
+msgctxt "sage ability"
+msgid "If the Demon kills you, you learn that it is 1 of 2 players."
+msgstr "Jika Demon membunuhmu, kamu akan tahu bahwa itu adalah salah satu dari dua pemain."
+
+msgctxt "sage flavor"
+msgid "These mountainous tomes guard the secret, I am sure of it! Twixt word and word, it lies in wait. More candles, boy! More ink! These notes may look arcane, but the infernal puzzle is revealing itself."
+msgstr "Tome-tome pegunungan ini menyimpan rahasia, saya yakin akan hal itu! Di antara kata dan kata, ia menunggu. Lebih banyak lilin, nak! Lebih banyak tinta! Catatan-catatan ini mungkin terlihat kuno, tetapi teka-teki neraka ini mulai terungkap."
+
+msgctxt "sage otherNightReminder"
+msgid "If the Sage was killed by a Demon: Point to two players, one of which is that Demon."
+msgstr "Jika Sage dibunuh oleh Demon: Tunjuk dua pemain, salah satunya adalah Demon tersebut."
+
+msgctxt "sailor name"
+msgid "Sailor"
+msgstr "Sailor"
+
+msgctxt "sailor ability"
+msgid "Each night, choose an alive player: either you or they are drunk until dusk. You can't die."
+msgstr "Setiap malam, pilih satu pemain yang masih hidup: entah kamu atau mereka yang mabuk sampai senja. Kamu tidak bisa mati."
+
+msgctxt "sailor flavor"
+msgid "I'll drink any one of yer under the table! You! The chatterbox! Reckon you can take me? No? Howza 'bout you, Grandma? You ever tried Old McKillys Extra Spiced Rum before? Guaranteed to put hairs on yer chest! Step aboard, aye!"
+msgstr "Aku akan mengalahkan kalian semua dalam minum! Kamu! Si mulut besar! Kira-kira kamu bisa mengalahkanku? Tidak? Bagaimana denganmu, Nenek? Pernah coba Old McKillys Extra Spiced Rum sebelumnya? Dijamin bikin rambut tumbuh di dadamu! Naiklah ke kapal, aye!"
+
+msgctxt "sailor firstNightReminder"
+msgid "The Sailor points to a living player. Either the Sailor, or the chosen player, is drunk."
+msgstr "Sailor menunjuk ke pemain yang masih hidup. Entah Sailor, atau pemain yang dipilih, sedang mabuk."
+
+msgctxt "sailor otherNightReminder"
+msgid "The previously drunk player is no longer drunk. The Sailor points to a living player. Either the Sailor, or the chosen player, is drunk."
+msgstr "Pemain yang mabuk sebelumnya tidak lagi mabuk. Sailor menunjuk ke pemain yang masih hidup. Entah Sailor, atau pemain yang dipilih, sedang mabuk."
+
+msgctxt "sailor reminders"
+msgid "Drunk"
+msgstr "Drunk"
+
+msgctxt "saint name"
+msgid "Saint"
+msgstr "Saint"
+
+msgctxt "saint ability"
+msgid "If you die by execution, your team loses."
+msgstr "Jika kamu mati karena eksekusi, timmu kalah."
+
+msgctxt "saint flavor"
+msgid "Wisdom begets peace. Patience begets wisdom. Fear not, for the time shall come when fear too shall pass. Let us pray, and may the unity of our vision make saints of us all."
+msgstr "Kebijaksanaan melahirkan kedamaian. Kesabaran melahirkan kebijaksanaan. Jangan takut, karena saatnya akan tiba ketika ketakutan pun akan berlalu. Marilah kita berdoa, semoga kesatuan visi kita menjadikan kita semua suci."
+
+msgctxt "savant name"
+msgid "Savant"
+msgstr "Savant"
+
+msgctxt "savant ability"
+msgid "Each day, you may visit the Storyteller to learn 2 things in private: 1 is true & 1 is false."
+msgstr "Setiap hari, kamu bisa mengunjungi Storyteller untuk mengetahui 2 hal secara pribadi: 1 benar & 1 salah."
+
+msgctxt "savant flavor"
+msgid "Seventy-two matchsticks on the floor... the sun sets early but the moon is unchanged... a torn piece of cloth... evil in the manor house... three by three... the one we trusted is not what he seems... green light means magnesium... residue, but the pattern is wrong... Seventy-two matchsticks on the floor..."
+msgstr "Tujuh puluh dua batang korek api di lantai... matahari terbenam lebih awal tetapi bulan tetap tidak berubah... sepotong kain robek... kejahatan di rumah manor... tiga kali tiga... orang yang kita percayai tidak seperti yang terlihat... cahaya hijau berarti magnesium... residu, tetapi pola salah... Tujuh puluh dua korek api di lantai..."
+
+msgctxt "scapegoat name"
+msgid "Scapegoat"
+msgstr "Scapegoat"
+
+msgctxt "scapegoat ability"
+msgid "If a player of your alignment is executed, you might be executed instead."
+msgstr "Jika seorang pemain dari pihakmu dieksekusi, kamu mungkin akan dieksekusi sebagai gantinya."
+
+msgctxt "scapegoat flavor"
+msgid "Good evening! Thank you for inviting me to the ball. I'm not from around here, but you sure seem like a friendly bunch, by golly. I'm sure we'll get along just dandy. What's all that rope for?"
+msgstr "Selamat malam! Terima kasih telah mengundang saya ke pesta dansa. Saya bukan dari sini, tapi kalian semua tampaknya sekelompok orang yang ramah, sungguh. Saya yakin kita akan akur dengan baik. Untuk apa semua tali itu?"
+
+msgctxt "scarletwoman name"
+msgid "Scarlet Woman"
+msgstr "Scarlet Woman"
+
+msgctxt "scarletwoman ability"
+msgid "If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don’t count)"
+msgstr "Jika ada 5 atau lebih pemain yang masih hidup dan Demon mati, kamu menjadi Demon. (Traveller tidak dihitung)."
+
+msgctxt "scarletwoman flavor"
+msgid "You have shown me the secrets of the Council of the Purple Flame. We have lain together in fire and in lust and in beastly commune, and I am forever your servant. But tonight, my dear, I am your master."
+msgstr "Kamu telah menunjukkan padaku rahasia dari Dewan Api Ungu. Kita telah berbaring bersama dalam api, nafsu, dan persekutuan binatang, dan aku akan selamanya menjadi pelayanmu. Namun malam ini, sayang, aku adalah tuanmu."
+
+msgctxt "scarletwoman otherNightReminder"
+msgid "If the Scarlet Woman became the Demon today: Show the 'You are' card, then the demon token."
+msgstr "Jika Scarlet Woman menjadi Demon hari ini: Tunjukkan kartu 'Kamu adalah', lalu token Demon."
+
+msgctxt "scarletwoman reminders"
+msgid "Demon"
+msgstr "Demon"
+
+msgctxt "seamstress name"
+msgid "Seamstress"
+msgstr "Seamstress"
+
+msgctxt "seamstress ability"
+msgid "Once per game, at night, choose 2 players (not yourself): you learn if they are the same alignment."
+msgstr "Sekali per permainan, di malam hari, pilih 2 pemain (bukan dirimu): kamu akan mengetahui apakah mereka memiliki pihak yang sama."
+
+msgctxt "seamstress flavor"
+msgid "Did you hear that stranger in the cashmere coat put the word on our young Belle? And she said yes? Well, that's nothing compared to what Harry and that juggler got up to at the fair! The things I could say if I was a tattletale... my, yes."
+msgstr "Apakah kamu dengar bahwa orang asing dengan mantel kasmir itu memberi tahu Belle muda kita? Dan dia berkata iya? Nah, itu tidak ada apa-apanya dibandingkan dengan apa yang Harry dan pesulap itu lakukan di pasar malam! Hal-hal yang bisa kukatakan jika aku seorang pembocor rahasia... oh, tentu."
+
+msgctxt "seamstress firstNightReminder"
+msgid "The Seamstress either shows a 'no' head signal, or points to two other players. If the Seamstress chose players , nod 'yes' or shake 'no' for whether they are of same alignment."
+msgstr "Seamstress akan memberi sinyal kepala 'tidak', atau menunjuk ke dua pemain lain. Jika Seamstress memilih pemain, anggukkan kepala 'ya' atau gelengkan kepala 'tidak' untuk mengetahui apakah mereka memiliki pihak yang sama."
+
+msgctxt "seamstress otherNightReminder"
+msgid "If the Seamstress has not yet used their ability: the Seamstress either shows a 'no' head signal, or points to two other players. If the Seamstress chose players , nod 'yes' or shake 'no' for whether they are of same alignment."
+msgstr "Jika Seamstress belum menggunakan kemampuannya: Seamstress akan memberi sinyal kepala 'tidak', atau menunjuk ke dua pemain lain. Jika Seamstress memilih pemain, anggukkan kepala 'ya' atau gelengkan kepala 'tidak' untuk mengetahui apakah mereka memiliki pihak yang sama."
+
+msgctxt "seamstress reminders"
+msgid "No ability"
+msgstr "No ability"
+
+msgctxt "sentinel name"
+msgid "Sentinel"
+msgstr "Sentinel"
+
+msgctxt "sentinel ability"
+msgid "There might be 1 extra or 1 fewer Outsider in-play."
+msgstr "Mungkin ada 1 Outsider tambahan atau kurang 1 Outsider dalam permainan."
+
+msgctxt "sentinel flavor"
+msgid ""
+"Name, please.\n"
+"Papers, please.\n"
+"Weapons, please."
+msgstr ""
+"Nama, silakan.\n"
+"Surat-surat, silakan.\n"
+"Senjata, silakan."
+
+msgctxt "shabaloth name"
+msgid "Shabaloth"
+msgstr "Shabaloth"
+
+msgctxt "shabaloth ability"
+msgid "Each night*, choose 2 players: they die. A dead player you chose last night might be regurgitated."
+msgstr "Setiap malam*, pilih 2 pemain: mereka mati. Pemain yang kamu pilih malam kemarin mungkin akan dimuntahkan kembali. (Hidup kembali)"
+
+msgctxt "shabaloth flavor"
+msgid "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
+msgstr "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
+
+msgctxt "shabaloth otherNightReminder"
+msgid "One player that the Shabaloth chose the previous night might be resurrected. The Shabaloth points to two players. Those players die."
+msgstr "Satu pemain yang dipilih Shabaloth malam sebelumnya mungkin dibangkitkan. Shabaloth menunjuk ke dua pemain. Pemain-pemain tersebut mati."
+
+msgctxt "shabaloth reminders"
+msgid "Dead,Alive"
+msgstr "Dead,Alive"
+
+msgctxt "shugenja name"
+msgid "Shugenja"
+msgstr "Shugenja"
+
+msgctxt "shugenja ability"
+msgid "You start knowing if your closest evil player is clockwise or anti-clockwise. If equidistant, this info is arbitrary."
+msgstr "Kamu mulai dengan mengetahui apakah pemain jahat terdekatmu berada di arah jarum jam atau berlawanan arah jarum jam. Jika jaraknya sama, informasi ini tidak penting."
+
+msgctxt "shugenja flavor"
+msgid "これは夢。それも夢。すべて夢です。"
+msgstr "Ini adalah mimpi. Bahkan mimpi itu. Semua mimpi."
+
+msgctxt "shugenja firstNightReminder"
+msgid "Wake the Shugenja; point horizontally in the direction of the closest evil player. If the two closest evil players are equidistant, point your finger horizontally in either direction."
+msgstr "Bangunkan Shugenja; arahkan jari secara horizontal ke arah pemain jahat terdekat. Jika dua pemain jahat terdekat berada pada jarak yang sama, arahkan jari Anda secara horizontal ke salah satu arah."
+
+msgctxt "slayer name"
+msgid "Slayer"
+msgstr "Slayer"
+
+msgctxt "slayer ability"
+msgid "Once per game, during the day, publicly choose a player: if they are the Demon, they die."
+msgstr "Sekali per permainan, di siang hari, pilih secara terbuka seorang pemain: jika mereka adalah Demon, mereka mati."
+
+msgctxt "slayer flavor"
+msgid "Die."
+msgstr "Matilah."
+
+msgctxt "slayer reminders"
+msgid "No ability"
+msgstr "No ability"
+
+msgctxt "snakecharmer name"
+msgid "Snake Charmer"
+msgstr "Snake Charmer"
+
+msgctxt "snakecharmer ability"
+msgid "Each night, choose an alive player: a chosen Demon swaps characters & alignments with you & is then poisoned."
+msgstr "Setiap malam, pilih seorang pemain yang masih hidup: Demon yang dipilih menukar karakter & pihak denganmu dan kemudian diracuni."
+
+msgctxt "snakecharmer flavor"
+msgid "Effendi... I am but a humble man, but my pipe is golden and a single tune will tame the wildest djinn, Inshallah. They say that greed hangs more men than rope. But not I, Effendi... not I."
+msgstr "Effendi... Aku hanyalah seorang pria biasa, tapi pipa ku emas dan satu nada akan menenangkan jin liar, Inshallah. Mereka bilang keserakahan menggantung lebih banyak pria daripada tali. Tapi bukan aku, Effendi... bukan aku."
+
+msgctxt "snakecharmer firstNightReminder"
+msgid "The Snake Charmer points to a player. If that player is the Demon: swap the Demon and Snake Charmer character and alignments. Wake each player to inform them of their new role and alignment. The new Snake Charmer is poisoned."
+msgstr "Snake Charmer menunjuk ke seorang pemain. Jika pemain tersebut adalah Demon: tukar karakter dan afiliasi Demon dan Snake Charmer. Bangunkan setiap pemain untuk memberitahukan peran dan afiliasi baru mereka. Snake Charmer yang baru menjadi teracuni."
+
+msgctxt "snakecharmer otherNightReminder"
+msgid "The Snake Charmer points to a player. If that player is the Demon: swap the Demon and Snake Charmer character and alignments. Wake each player to inform them of their new role and alignment. The new Snake Charmer is poisoned."
+msgstr "Snake Charmer menunjuk ke seorang pemain. Jika pemain tersebut adalah Demon: tukar karakter dan pihak Demon dan Snake Charmer. Bangunkan setiap pemain untuk memberitahukan peran dan pihak baru mereka. Snake Charmer yang baru menjadi teracuni."
+
+msgctxt "snakecharmer reminders"
+msgid "Poisoned"
+msgstr "Poisoned"
+
+msgctxt "snitch name"
+msgid "Snitch"
+msgstr "Snitch"
+
+msgctxt "snitch ability"
+msgid "Minions start knowing 3 not-in-play characters."
+msgstr "Minion mulai dengan mengetahui 3 karakter yang tidak ada dalam permainan."
+
+msgctxt "snitch flavor"
+msgid "It was John."
+msgstr "Itu adalah John."
+
+msgctxt "snitch firstNightReminder"
+msgid "After Minion info wake each Minion and show them three not-in-play character tokens. These may be the same or different to each other and the ones shown to the Demon."
+msgstr "Setelah informasi Minion, bangunkan setiap Minion dan tunjukkan tiga token karakter yang tidak ada dalam permainan. Token ini bisa sama atau berbeda satu sama lain dan yang ditunjukkan kepada Demon."
+
+msgctxt "soldier name"
+msgid "Soldier"
+msgstr "Soldier"
+
+msgctxt "soldier ability"
+msgid "You are safe from the Demon."
+msgstr "Kamu aman dari Demon."
+
+msgctxt "soldier flavor"
+msgid "As David said to Goliath, as Theseus said to the Minotaur, as Arjuna said to Bhagadatta... No."
+msgstr "Seperti yang dikatakan David kepada Goliat, seperti yang dikatakan Theseus kepada Minotaur, seperti yang dikatakan Arjuna kepada Bhagadatta... Tidak."
+
+msgctxt "spiritofivory name"
+msgid "Spirit Of Ivory"
+msgstr "Spirit Of Ivory"
+
+msgctxt "spiritofivory ability"
+msgid "There can't be more than 1 extra evil player."
+msgstr "Tidak boleh ada lebih dari 1 pemain jahat tambahan."
+
+msgctxt "spiritofivory flavor"
+msgid "The Wasteland calls. Bones rise to flesh, then fall to dust. The great spirit grows. The great spirit watches. The great spirit guides. The human listens, or the human is no more."
+msgstr "Tanah Terlantar memanggil. Tulang bangkit menjadi daging, lalu jatuh menjadi debu. Roh besar tumbuh. Roh besar mengawasi. Roh besar membimbing. Manusia mendengarkan, atau manusia tidak ada lagi."
+
+msgctxt "spiritofivory reminders"
+msgid "No extra evil"
+msgstr "No extra evil"
+
+msgctxt "spy name"
+msgid "Spy"
+msgstr "Spy"
+
+msgctxt "spy ability"
+msgid "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead."
+msgstr "Setiap malam, kamu melihat Grimoire. Kamu mungkin terdaftar sebagai baik & sebagai Townsfolk atau Outsider, bahkan jika sudah mati."
+
+msgctxt "spy flavor"
+msgid "Any brewmaster worth their liquor, knows no concoction pours trouble quicker, than one where spies seem double."
+msgstr "Setiap pembuat bir yang layak, tahu tidak ada ramuan yang menciptakan masalah lebih cepat, daripada yang di mana mata-mata tampak ganda."
+
+msgctxt "spy firstNightReminder"
+msgid "Show the Grimoire to the Spy for as long as they need."
+msgstr "Tunjukkan Grimoire kepada Spy selama yang mereka butuhkan."
+
+msgctxt "spy otherNightReminder"
+msgid "Show the Grimoire to the Spy for as long as they need."
+msgstr "Tunjukkan Grimoire kepada Spy selama yang mereka butuhkan."
+
+msgctxt "steward name"
+msgid "Steward"
+msgstr "Steward"
+
+msgctxt "steward ability"
+msgid "You start knowing 1 good player."
+msgstr "Kamu mulai dengan mengetahui 1 pemain baik."
+
+msgctxt "steward flavor"
+msgid "How DARE you accuse Her Ladyship of wrongdoing? I’ve known her my entire life! All nine years!"
+msgstr "Bagaimana kamu berani menuduh Nyonya atas kesalahan? Aku sudah mengenalnya sepanjang hidupku! Selama sembilan tahun!"
+
+msgctxt "steward firstNightReminder"
+msgid "Point to 1 good player."
+msgstr "Tunjukkan 1 pemain baik."
+
+msgctxt "steward reminders"
+msgid "Know"
+msgstr "Know"
+
+msgctxt "stormcatcher name"
+msgid "Storm Catcher"
+msgstr "Storm Catcher"
+
+msgctxt "stormcatcher ability"
+msgid "Name a good character. If in play, they can only die by execution, but evil players learn which player it is."
+msgstr "Sebutkan karakter baik. Jika ada dalam permainan, mereka hanya bisa mati melalui eksekusi, tetapi pemain jahat akan tahu siapa pemain itu."
+
+msgctxt "stormcatcher flavor"
+msgid "At dawn, the temple’s long shadow creeps to the fountain. At dusk, the obelisk blocks the red glare, cooling warm water under the archway. All lines converge here. A storm is coming, and this, this pebbled and lush and holy place between the apple trees, is the eye."
+msgstr "Saat fajar, bayangan panjang kuil merayap ke air mancur. Saat senja, obelisk memblokir cahaya merah, mendinginkan air hangat di bawah lengkungan. Semua garis bertemu di sini. Badai akan datang, dan ini, tempat berbatu, subur, dan suci di antara pohon apel, adalah mata badai."
+
+msgctxt "stormcatcher reminders"
+msgid "Safe"
+msgstr "Safe"
+
+msgctxt "summoner name"
+msgid "Summoner"
+msgstr "Summoner"
+
+msgctxt "summoner ability"
+msgid "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]"
+msgstr "Kamu mendapatkan 3 kebohongan. Pada malam ke-3, pilih seorang pemain: mereka menjadi Demon jahat pilihanmu. [Tidak ada Demon]"
+
+msgctxt "summoner flavor"
+msgid "Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness"
+msgstr "Salam para penjaga dari utara; dengan intelektualku, engkau terputus. Salam para penjaga dari timur; dengan kehendakku, engkau dikuasai. Salam para penjaga dari selatan; dengan yang ada di luar, misteri terungkap. Salam para penjaga dari barat; perisai dalam kegelapan."
+
+msgctxt "summoner firstNightReminder"
+msgid "Show the 'These characters are not in play' card. Show 3 character tokens of good characters not in play."
+msgstr "Tunjukkan kartu 'Karakter-karakter ini tidak ada dalam permainan'. Tunjukkan 3 token karakter dari karakter-karakter baik yang tidak ada dalam permainan."
+
+msgctxt "summoner otherNightReminder"
+msgid "If it is the 3rd night, wake the Summoner. They point to a player and a Demon on the character sheet - that player becomes that Demon."
+msgstr "Jika ini malam ketiga, bangunkan Summoner. Mereka menunjuk ke seorang pemain dan Demon di lembar karakter - pemain tersebut menjadi Demon itu."
+
+msgctxt "summoner reminders"
+msgid "Night 1,Night 2,Night 3"
+msgstr "Night 1,Night 2,Night 3"
+
+msgctxt "sweetheart name"
+msgid "Sweetheart"
+msgstr "Sweetheart"
+
+msgctxt "sweetheart ability"
+msgid "When you die, 1 player is drunk from now on."
+msgstr "Saat kamu mati, 1 pemain menjadi mabuk mulai sekarang."
+
+msgctxt "sweetheart flavor"
+msgid "I will never forget her. Never."
+msgstr "Aku tidak akan pernah melupakannya. Tidak akan."
+
+msgctxt "sweetheart otherNightReminder"
+msgid "Choose a player that is drunk."
+msgstr "Pilih pemain yang sedang mabuk."
+
+msgctxt "sweetheart reminders"
+msgid "Drunk"
+msgstr "Drunk"
+
+msgctxt "tealady name"
+msgid "Tea Lady"
+msgstr "Tea Lady"
+
+msgctxt "tealady ability"
+msgid "If both your alive neighbours are good, they can't die."
+msgstr "Jika kedua tetanggamu yang masih hidup adalah baik, mereka tidak bisa mati."
+
+msgctxt "tealady flavor"
+msgid "If you are cold, tea will warm you. If you are too heated, tea will cool you. If you are depressed, tea will cheer you. If you are excited, tea will calm you."
+msgstr "Jika kamu kedinginan, teh akan menghangatkanmu. Jika kamu terlalu panas, teh akan mendinginkanmu. Jika kamu tertekan, teh akan menyenankanmu. Jika kamu bersemangat, teh akan menenangkanmu."
+
+msgctxt "tealady reminders"
+msgid "Can not die"
+msgstr "Can not die"
+
+msgctxt "thief name"
+msgid "Thief"
+msgstr "Thief"
+
+msgctxt "thief ability"
+msgid "Each night, choose a player (not yourself): their vote counts negatively tomorrow."
+msgstr "Setiap malam, pilih seorang pemain (bukan dirimu): suara mereka dihitung negatif besok."
+
+msgctxt "thief flavor"
+msgid "I aint done nuffink. I weren't even in dat alley last night! It weren't me what stole Mayor Bruno's briefcase wiv all dem fancy dockoments innit. Besides, it was too 'eavy to carry far."
+msgstr "Aku tidak melakukan apapun. Aku bahkan tidak ada di gang itu tadi malam! Itu bukan aku yang mencuri tas tangan Walikota Bruno yang penuh dokumen fancy itu. Lagipula, itu terlalu berat untuk dibawa jauh."
+
+msgctxt "thief firstNightReminder"
+msgid "The Thief points to a player. Put the Thief's 'Negative vote' reminder by the chosen player's character token."
+msgstr "Thief menunjuk ke seorang pemain. Letakkan pengingat 'Negative vote' milik Thief di token karakter pemain yang dipilih."
+
+msgctxt "thief otherNightReminder"
+msgid "The Thief points to a player. Put the Thief's 'Negative vote' reminder by the chosen player's character token."
+msgstr "Thief menunjuk ke seorang pemain. Letakkan pengingat 'Negative vote' milik Thief di token karakter pemain yang dipilih."
+
+msgctxt "thief reminders"
+msgid "Negative vote"
+msgstr "Negative vote"
+
+msgctxt "tinker name"
+msgid "Tinker"
+msgstr "Tinker"
+
+msgctxt "tinker ability"
+msgid "You might die at any time."
+msgstr "Kamu mungkin mati kapan saja."
+
+msgctxt "tinker flavor"
+msgid "I think I see the problem. Luckily, I have an idea! This catapult will shoot twice as far with just a minor adjustment..."
+msgstr "Aku pikir aku melihat masalahnya. Untungnya, aku punya ide! Katapel ini akan memotret dua kali lebih jauh dengan hanya sedikit penyesuaian..."
+
+msgctxt "tinker otherNightReminder"
+msgid "The Tinker might die."
+msgstr "Tinker mungkin mati."
+
+msgctxt "tinker reminders"
+msgid "Dead"
+msgstr "Dead"
+
+msgctxt "towncrier name"
+msgid "Town Crier"
+msgstr "Town Crier"
+
+msgctxt "towncrier ability"
+msgid "Each night*, you learn if a Minion nominated today."
+msgstr "Setiap malam*, kamu mengetahui jika seorang Minion menominasikan hari ini."
+
+msgctxt "towncrier flavor"
+msgid "Hear ye! Hear ye! Witchcraft in the labyrinth! Genius savant reveals all! Town in danger! Hear Ye!"
+msgstr "Dengarkan! Dengarkan! Sihir di labirin! Jenius ahli mengungkap semuanya! Kota dalam bahaya! Dengarkan!"
+
+msgctxt "towncrier otherNightReminder"
+msgid "Nod 'yes' or shake head 'no' for whether a Minion nominated today. Place the 'Minion not nominated' marker (remove 'Minion nominated', if any)."
+msgstr "Anggukkan kepala 'ya' atau goyangkan kepala 'tidak' apakah ada Minion yang menominasikan hari ini. Letakkan marker 'Minions not nominated' (hapus 'Minion nominated', jika ada)."
+
+msgctxt "towncrier reminders"
+msgid "Minions not nominated,Minion nominated"
+msgstr "Minions not nominated,Minion nominated"
+
+msgctxt "toymaker name"
+msgid "Toymaker"
+msgstr "Toymaker"
+
+msgctxt "toymaker ability"
+msgid "The Demon may choose not to attack & must do this at least once per game. Evil players get normal starting info."
+msgstr "Demon mungkin memilih untuk tidak menyerang & harus melakukannya setidaknya sekali per permainan. Pemain jahat mendapatkan informasi awal normal."
+
+msgctxt "toymaker flavor"
+msgid "It buzzes! It walks down stairs! It keeps you warm at night! It tastes like sugar! The kiddies love it! Introducing... the brand new... Warm'o-buzzy-wuzzy-walk'a'bot-thingy-contraption! Fun for all ages!"
+msgstr "Itu berdengung! Itu berjalan turun tangga! Itu menjaga kamu tetap hangat di malam hari! Rasanya seperti gula! Anak-anak menyukainya! Memperkenalkan... yang baru... Warm'o-buzzy-wuzzy-walk'a'bot-thingy-contraption! Seru untuk segala usia!"
+
+msgctxt "toymaker reminders"
+msgid "No Attack"
+msgstr "No Attack"
+
+msgctxt "undertaker name"
+msgid "Undertaker"
+msgstr "Undertaker"
+
+msgctxt "undertaker ability"
+msgid "Each night*, you learn which character died by execution today."
+msgstr "Setiap malam*, kamu mengetahui karakter siapa yang mati karena eksekusi hari ini."
+
+msgctxt "undertaker flavor"
+msgid "Hmmm....what have we here? The left boot is worn down to the heel, with flint shavings under the tongue. This is the garb of a Military man."
+msgstr "Hmmm....apa yang kita temukan di sini? Sepatu bot kiri sudah habis hingga tumit, dengan serpihan batu api di bawah lidahnya. Ini adalah pakaian seorang tentara."
+
+msgctxt "undertaker otherNightReminder"
+msgid "If a player was executed today: Show that player’s character token."
+msgstr "Jika seorang pemain dieksekusi hari ini: Tunjukkan token karakter pemain tersebut."
+
+msgctxt "undertaker reminders"
+msgid "Executed"
+msgstr "Executed"
+
+msgctxt "vigormortis name"
+msgid "Vigormortis"
+msgstr "Vigormortis"
+
+msgctxt "vigormortis ability"
+msgid "Each night*, choose a player: they die. Minions you kill keep their ability & poison 1 Townsfolk neighbour. [−1 Outsider]"
+msgstr "Setiap malam*, pilih seorang pemain: mereka mati. Minion yang kamu bunuh mempertahankan kemampuan mereka & meracuni 1 tetangga Townsfolk. [−1 Outsider]"
+
+msgctxt "vigormortis flavor"
+msgid "All doors are one door. All keys are one key. All cups are one cup, but whosoever drinketh of the water that I give shall never thirst, but the water shall be in him a well springing up into everlasting life."
+msgstr "Semua pintu adalah satu pintu. Semua kunci adalah satu kunci. Semua cangkir adalah satu cangkir, tetapi siapa pun yang meminum air yang kuberikan tidak akan pernah haus, tetapi air itu akan ada padanya sebagai sumur yang memancar menuju kehidupan yang kekal."
+
+msgctxt "vigormortis otherNightReminder"
+msgid "The Vigormortis points to a player. That player dies. If a Minion, they keep their ability and one of their Townsfolk neighbours is poisoned."
+msgstr "Vigormortis menunjuk ke seorang pemain. Pemain tersebut mati. Jika Minion, mereka tetap memiliki kemampuan dan salah satu tetangga Townsfolk mereka teracuni."
+
+msgctxt "vigormortis reminders"
+msgid "Dead,Has ability,Poisoned"
+msgstr "Dead,Has ability,Poisoned"
+
+msgctxt "villageidiot name"
+msgid "Village Idiot"
+msgstr "Village Idiot"
+
+msgctxt "villageidiot ability"
+msgid "Each night, choose a player: you learn their alignment. [+0 to +2 Village Idiots. 1 of the extras is drunk]"
+msgstr "Setiap malam, pilih seorang pemain: kamu mengetahui pihak mereka. [+0 hingga +2 Village Idiots. 1 dari yang ekstra mabuk]"
+
+msgctxt "villageidiot flavor"
+msgid "Roses are blue, and violets are red, Please reverse what I just said."
+msgstr "Mawar itu biru, dan violet itu merah, Harap balik apa yang baru saja kukatakan."
+
+msgctxt "villageidiot firstNightReminder"
+msgid "The Village Idiot points to a player; give a thumbs up if that player is good or a thumbs down if that player is evil."
+msgstr "Village Idiot menunjuk ke seorang pemain; beri jempol ke atas jika pemain tersebut baik atau jempol ke bawah jika pemain tersebut jahat."
+
+msgctxt "villageidiot otherNightReminder"
+msgid "The Village Idiot points to a player; give a thumbs up if that player is good or a thumbs down if that player is evil."
+msgstr "Village Idiot menunjuk ke seorang pemain; beri jempol ke atas jika pemain tersebut baik atau jempol ke bawah jika pemain tersebut jahat."
+
+msgctxt "villageidiot reminders"
+msgid "Drunk"
+msgstr "Drunk"
+
+msgctxt "virgin name"
+msgid "Virgin"
+msgstr "Virgin"
+
+msgctxt "virgin ability"
+msgid "The 1st time you are nominated, if the nominator is a Townsfolk, they are executed immediately."
+msgstr "Saat pertama kali kamu dinominasikan, jika nominasi berasal dari Townsfolk, mereka langsung dieksekusi."
+
+msgctxt "virgin flavor"
+msgid "I am pure. Let those who are without sin cast themselves down and suffer in my stead. My reputation shall not be stained with your venomous accusations."
+msgstr "Aku suci. Biarkan mereka yang tanpa dosa melemparkan diri mereka turun dan menderita di tempatku. Reputasiku tidak akan ternoda dengan tuduhan beracunmu."
+
+msgctxt "virgin reminders"
+msgid "No ability"
+msgstr "No ability"
+
+msgctxt "vizier name"
+msgid "Vizier"
+msgstr "Vizier"
+
+msgctxt "vizier ability"
+msgid "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately."
+msgstr "Semua pemain tahu siapa dirimu. Kamu tidak bisa mati pada siang hari. Jika pihak baik memilih, kamu dapat memilih untuk mengeksekusi segera."
+
+msgctxt "vizier flavor"
+msgid "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me."
+msgstr "Keputusan yang sangat baik, seperti biasa, tuanku. Kejahatan kecil seperti menabrak Uskup memang pantas mendapatkan ‘keadilan’ dan ‘belas kasihan’mu. Berjalanlah di taman. Kunjungi galeri dan lihat-lihat patung-patung Von Strauf. Santai saja, tuanku. Biarkan semuanya… padaku."
+
+msgctxt "vizier firstNightReminder"
+msgid "Announce 'The Vizier is in play' and state which player they are."
+msgstr "Umumkan 'Vizier ada dalam permainan' dan sebutkan pemain yang dimaksud."
+
+msgctxt "vortox name"
+msgid "Vortox"
+msgstr "Vortox"
+
+msgctxt "vortox ability"
+msgid "Each night*, choose a player: they die. Townsfolk abilities yield false info. Each day, if no-one is executed, evil wins."
+msgstr "Setiap malam*, pilih seorang pemain: mereka mati. Kemampuan Townsfolk memberikan informasi palsu. Setiap hari, jika tidak ada yang dieksekusi, pihak jahat menang."
+
+msgctxt "vortox flavor"
+msgid "Black is White. Right is Wrong. Left is Right. Up is Long. Down is Sight. Short is Blind. Follow me. Answers find."
+msgstr "Hitam itu Putih. Benar itu Salah. Kiri itu Benar. Atas itu Panjang. Bawah itu Penglihatan. Pendek itu Buta. Ikuti aku. Temukan jawaban."
+
+msgctxt "vortox otherNightReminder"
+msgid "The Vortox points to a player. That player dies."
+msgstr "Vortox menunjuk ke seorang pemain. Pemain tersebut mati."
+
+msgctxt "vortox reminders"
+msgid "Dead"
+msgstr "Dead"
+
+msgctxt "voudon name"
+msgid "Voudon"
+msgstr "Voudon"
+
+msgctxt "voudon ability"
+msgid "Only you and the dead can vote. They don't need a vote token to do so. A 50% majority is not required."
+msgstr "Hanya kamu dan orang mati yang bisa memberikan suara. Mereka tidak memerlukan token suara untuk melakukannya. Mayoritas 50% tidak diperlukan."
+
+msgctxt "voudon flavor"
+msgid "Bien venu. Sit down. Breathe deep. Enter the land of the dead. See with their eyes. Speak with their voice. Yon sel lang se janm ase."
+msgstr "Selamat datang. Duduklah. Tarik napas dalam-dalam. Masuk ke tanah orang mati. Lihat dengan mata mereka. Bicaralah dengan suara mereka. Yon sel lang se janm ase."
+
+msgctxt "washerwoman name"
+msgid "Washerwoman"
+msgstr "Washerwoman"
+
+msgctxt "washerwoman ability"
+msgid "You start knowing that 1 of 2 players is a particular Townsfolk."
+msgstr "Kamu mulai dengan mengetahui bahwa 1 dari 2 pemain adalah Townsfolk tertentu."
+
+msgctxt "washerwoman flavor"
+msgid "Bloodstains on a dinner jacket? No, this is cooking sherry. How careless."
+msgstr "Noda darah di jas makan? Tidak, ini sherry masak. Betapa cerobohnya."
+
+msgctxt "washerwoman firstNightReminder"
+msgid "Show the character token of a Townsfolk in play. Point to two players, one of which is that character."
+msgstr "Tunjukkan token karakter dari Townsfolk yang ada dalam permainan. Tunjuk ke dua pemain, salah satunya adalah karakter tersebut."
+
+msgctxt "washerwoman reminders"
+msgid "Townsfolk,Wrong"
+msgstr "Townsfolk,Wrong"
+
+msgctxt "widow name"
+msgid "Widow"
+msgstr "Widow"
+
+msgctxt "widow ability"
+msgid "On your 1st night, look at the Grimoire and choose a player: they are poisoned. 1 good player knows a Widow is in play."
+msgstr "Pada malam pertama, lihat Grimoire dan pilih seorang pemain: mereka diracuni. 1 pemain baik tahu bahwa seorang Widow ada dalam permainan."
+
+msgctxt "widow flavor"
+msgid "More wine? Château d’Ergot ’07 is a very special vintage. My yes, very special indeed."
+msgstr "Lebih anggur? Château d’Ergot ’07 adalah vintage yang sangat istimewa. Ya, sangat istimewa memang."
+
+msgctxt "widow firstNightReminder"
+msgid "Show the Grimoire to the Widow for as long as they need. The Widow points to a player. That player is poisoned. Wake a good player. Show the 'These characters are in play' card, then the Widow character token."
+msgstr "Tunjukkan Grimoire kepada Widow selama yang mereka butuhkan. Widow menunjuk ke seorang pemain. Pemain tersebut menjadi teracuni. Bangunkan seorang pemain baik. Tunjukkan kartu 'Karakter-karakter ini ada dalam permainan', kemudian token karakter Widow."
+
+msgctxt "widow remindersGlobal"
+msgid "Knows"
+msgstr "Knows"
+
+msgctxt "widow reminders"
+msgid "Poisoned"
+msgstr "Poisoned"
+
+msgctxt "witch name"
+msgid "Witch"
+msgstr "Witch"
+
+msgctxt "witch ability"
+msgid "Each night, choose a player: if they nominate tomorrow, they die. If just 3 players live, you lose this ability."
+msgstr "Setiap malam, pilih seorang pemain: jika mereka menominasikan besok, mereka mati. Jika hanya ada 3 pemain yang masih hidup, kamu kehilangan kemampuan ini."
+
+msgctxt "witch flavor"
+msgid "Three drops of goat's blood. A lock of hair, torn in anger. The name is spoken, the shadow cast. Walk left foot first down that brambled path, and don't look back."
+msgstr "Tiga tetes darah kambing. Sebuah ikat rambut, robek karena marah. Nama disebutkan, bayangan terlempar. Berjalan dengan kaki kiri pertama melewati jalan berdaun itu, dan jangan lihat ke belakang."
+
+msgctxt "witch firstNightReminder"
+msgid "The Witch points to a player. If that player nominates tomorrow they die immediately."
+msgstr "Witch menunjuk ke seorang pemain. Jika pemain tersebut menominasikan esok hari, mereka langsung mati."
+
+msgctxt "witch otherNightReminder"
+msgid "If there are 4 or more players alive: The Witch points to a player. If that player nominates tomorrow they die immediately."
+msgstr "Jika ada 4 atau lebih pemain yang hidup: Witch menunjuk ke seorang pemain. Jika pemain tersebut menominasikan esok hari, mereka langsung mati."
+
+msgctxt "witch reminders"
+msgid "Cursed"
+msgstr "Cursed"
+
+msgctxt "wizard name"
+msgid "Wizard"
+msgstr "Wizard"
+
+msgctxt "wizard ability"
+msgid "Once per game, choose to make a wish.  If granted, it might have a price & leave a clue as to its nature."
+msgstr "Sekali dalam satu permainan, kamu bisa memilih untuk mengucapkan sebuah permohonan. Jika permohonan itu dikabulkan, mungkin ada konsekuensinya dan akan memberikan petunjuk tentang sifat permohonan tersebut."
+
+msgctxt "wizard flavor"
+msgid "Genies are overrated."
+msgstr "Jin-jin itu terlalu dibesar-besarkan."
+
+msgctxt "wizard firstNightReminder"
+msgid "Run the Wizard ability if applicable."
+msgstr "Jalankan kemampuan Wizard jika dapat diterapkan."
+
+msgctxt "wizard otherNightReminder"
+msgid "Run the Wizard ability if applicable."
+msgstr "Jalankan kemampuan Wizard jika dapat diterapkan."
+
+msgctxt "wizard reminders"
+msgid "?"
+msgstr "?"
+
+msgctxt "xaan name"
+msgid "Xaan"
+msgstr "Xaan"
+
+msgctxt "xaan ability"
+msgid "On night X, all Townsfolk are poisoned until dusk. [X Outsiders]"
+msgstr "Pada malam X, semua Townsfolk diracuni hingga senja. [X Outsiders]"
+
+msgctxt "xaan flavor"
+msgid "Down they fall. One by one. By two, by three, by five."
+msgstr "Turun mereka jatuh. Satu demi satu. Dua, tiga, lima."
+
+msgctxt "xaan reminders"
+msgid "Night 1, Night 2, Night 3, X"
+msgstr "Night 1, Night 2, Night 3, X"
+
+msgctxt "yaggababble name"
+msgid "Yaggababble"
+msgstr "Yaggababble"
+
+msgctxt "yaggababble ability"
+msgid "You start knowing a secret phrase. For each time you said it publicly today, a player might die."
+msgstr "Kamu mulai dengan mengetahui frasa rahasia. Untuk setiap kali kamu mengucapkannya secara terbuka hari ini, seorang pemain mungkin mati."
+
+msgctxt "yaggababble flavor"
+msgid "Murders inside the Rue Morgue? Фальшивые новости! Hounds on the Baskerville moor? Фальшивые новости! Death while sailing the Nile? Фальшивые новости!"
+msgstr "Pembunuhan di Rue Morgue? Фальшивые новости! Anjing di rawa Baskerville? Фальшивые новости! Kematian saat berlayar di Sungai Nil? Фальшивые новости!"
+
+msgctxt "yaggababble firstNightReminder"
+msgid "Show the Yaggababble their secret phrase."
+msgstr "Tunjukkan Yaggababble frase rahasia mereka."
+
+msgctxt "yaggababble otherNightReminder"
+msgid "Choose a number of players up to the total number of times the Yaggababble said their secret phrase publicly, those players die."
+msgstr "Pilih sejumlah pemain hingga total kali Yaggababble mengucapkan frase rahasia mereka secara publik, pemain-pemain tersebut mati."
+
+msgctxt "yaggababble reminders"
+msgid "Dead"
+msgstr "Dead"
+
+msgctxt "zealot name"
+msgid "Zealot"
+msgstr "Zealot"
+
+msgctxt "zealot ability"
+msgid "If there are 5 or more players alive, you must vote for every nomination."
+msgstr "Jika ada 5 atau lebih pemain yang masih hidup, kamu harus memilih untuk memberikan suara pada setiap nominasi."
+
+msgctxt "zealot flavor"
+msgid "I enjoy talking to you. Your mind appeals to me. It resembles my own mind except that you happen to be insane."
+msgstr "Aku suka berbicara denganmu. Pikiranmu menarik bagiku. Itu mirip dengan pikiranku kecuali bahwa kamu kebetulan gila."
+
+msgctxt "zombuul name"
+msgid "Zombuul"
+msgstr "Zombuul"
+
+msgctxt "zombuul ability"
+msgid "Each night*, if no-one died today, choose a player: they die. The 1st time you die, you live but register as dead."
+msgstr "Setiap malam*, jika tidak ada yang mati hari ini, pilih seorang pemain: mereka mati. Saat pertama kali kamu mati, kamu hidup tetapi terdaftar sebagai mati."
+
+msgctxt "zombuul flavor"
+msgid "I do not. Understand. Your ways. Fellow human. Show me. The dirt. Where the holy. Lay. Sleeping. I too. Must sleep. Soon."
+msgstr "Aku tidak. Mengerti. Cara-caramu. Sesama manusia. Tunjukkan padaku. Tanah. Tempat yang suci. Terbaring. Tidur. Aku juga. Harus tidur. Segera."
+
+msgctxt "zombuul otherNightReminder"
+msgid "If no-one died during the day: The Zombuul points to a player. That player dies."
+msgstr "Jika tidak ada yang mati selama hari itu: Zombuul menunjuk ke seorang pemain. Pemain tersebut mati."
+
+msgctxt "zombuul reminders"
+msgid "Died today,Dead"
+msgstr "Died today,Dead"
