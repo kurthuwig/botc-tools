@@ -4,19 +4,41 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>###SCRIPT_NAME###</title>
-  <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap" rel="stylesheet">
   <style>
     body {
       font-family: 'Lexend Deca', sans-serif;
       font-size: 14px;
+      font-optical-sizing: auto;
+      font-weight: 200;
+      font-style: normal;
       text-wrap: pretty;
     }
 
+    @media screen {
+      body {
+        width: 18.3cm;
+      }
+    }
+
+    .title-container {
+      display: flex;
+      justify-content: center;
+      align-items: baseline;
+      position: relative;
+    }
+
     .title {
-      font-size: 150%;
+      font-size: 120%;
       font-weight: bold;
       text-align: center;
       padding-bottom: 0.2em;
+    }
+
+    .author {
+      margin-left: auto;
     }
 
     .section-header {
@@ -31,12 +53,22 @@
     }
 
     .character-name {
-      font-weight: bold;
+      font-weight: normal;
+      display: inline;
+    }
+
+    .english-name {
+      font-style: italic;
+      font-weight: normal;
       display: inline;
     }
 
     .character-ability {
       display: inline;
+    }
+
+    .setup-modification {
+      font-weight: normal;
     }
 
     .first-night-order {
@@ -101,7 +133,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      width: 2em;
+      width: 1.5em;
     }
 
     .character-icon-cell {
@@ -135,25 +167,6 @@
       grid-row: span ###DEMON_ROWS###;
       background-color: red;
       color: white;
-    }
-
-    .english-name {
-      font-style: italic;
-    }
-
-    .setup-modification {
-      font-weight: bold;
-    }
-
-    .title-container {
-      display: flex;
-      justify-content: center;
-      align-items: baseline;
-      position: relative;
-    }
-
-    .author {
-      margin-left: auto;
     }
 
     .copyright {
@@ -201,4 +214,26 @@
   &copy; Steven Medway, www.bloodontheclocktower.com
 </div>
 </body>
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+          const targetElement = document.body;
+
+          const HEIGHT_THRESHOLD_CM = 27.5;
+          const PX_PER_CM = 96 / 2.54;
+          const HEIGHT_THRESHOLD_PX = HEIGHT_THRESHOLD_CM * PX_PER_CM;
+          const MIN_FONT_SIZE_PX = 8;
+          const FONT_DECREMENT_STEP = 0.1;
+          const initialFontSize = parseFloat(window.getComputedStyle(targetElement).fontSize);
+          let currentFontSize = initialFontSize;
+
+          if (targetElement.offsetHeight <= HEIGHT_THRESHOLD_PX) {
+              return;
+          }
+
+          while (targetElement.offsetHeight > HEIGHT_THRESHOLD_PX && currentFontSize > MIN_FONT_SIZE_PX) {
+              currentFontSize -= FONT_DECREMENT_STEP;
+              targetElement.style.fontSize = `${currentFontSize}px`;
+          }
+      });
+</script>
 </html>
