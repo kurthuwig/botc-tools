@@ -53,8 +53,12 @@ class PlayerSheetPrinter(locale: Locale) {
         private val soa = mutableListOf<String>()
         private val firstNightOrder = mutableMapOf<String, Int>()
         private val otherNightOrder = mutableMapOf<String, Int>()
-        private val characterEntry = PrintSheet.javaClass.getResourceAsStream("/html/character-entry.html")!!.readAllBytes().toString(Charsets.UTF_8)
-        private val playerSheet = PrintSheet.javaClass.getResourceAsStream("/html/player-sheet.html")!!.readAllBytes().toString(Charsets.UTF_8)
+        private val characterEntry =
+            PrintSheet.javaClass.getResourceAsStream("/html/character-entry.html")!!.readAllBytes()
+                .toString(Charsets.UTF_8)
+        private val playerSheet =
+            PrintSheet.javaClass.getResourceAsStream("/html/player-sheet.html")!!.readAllBytes()
+                .toString(Charsets.UTF_8)
 
         init {
             PrintSheet.javaClass.getResourceAsStream("/roles.json").use {
@@ -78,7 +82,13 @@ class PlayerSheetPrinter(locale: Locale) {
 
     private val l10n = L10n(locale)
 
-    fun printPlayerSheet(scriptName: String, author: String, scriptJson: String, out: PrintWriter) {
+    fun printPlayerSheet(
+        scriptName: String,
+        author: String,
+        scriptJson: String,
+        includeEnglishName: Boolean,
+        out: PrintWriter,
+    ) {
         val json = Json { ignoreUnknownKeys = true }
         val jsonArray = json.parseToJsonElement(scriptJson).jsonArray
         val roleNames = mutableListOf<String>()
@@ -94,10 +104,12 @@ class PlayerSheetPrinter(locale: Locale) {
                         println("Warnung: Unbekanntes Objekt im Array: $it")
                     }
                 }
+
                 is JsonPrimitive ->
                     it.contentOrNull?.let { name ->
                         roleNames.add(name)
                     } ?: println("Unknown role: $it")
+
                 else -> println("Unknown role: $it")
             }
         }
@@ -109,10 +121,12 @@ class PlayerSheetPrinter(locale: Locale) {
                     .replace(" ", "")
                     .replace("_", "")
             }
-            .map { roles[it] ?: run {
-                println("Unknown role: $it")
-                return
-            } }
+            .map {
+                roles[it] ?: run {
+                    println("Unknown role: $it")
+                    return
+                }
+            }
             .sortedBy { soa.indexOf(it.id) }
 
         val firstNight = scriptRoles
@@ -138,21 +152,42 @@ class PlayerSheetPrinter(locale: Locale) {
                 .replace("###MINION_ROWS###", ceil(minions.size / 2.0).toInt().toString())
                 .replace("###DEMON_ROWS###", ceil(demons.size / 2.0).toInt().toString())
                 .replace("###SECTION_TOWNSFOLK###", appL10n.trc("section", "Townsfolk"))
-                .replace("###TOWNSFOLK###", sectionHtml(townsfolk, firstNight, otherNight))
+                .replace(
+                    "###TOWNSFOLK###",
+                    sectionHtml(townsfolk, firstNight, otherNight, includeEnglishName)
+                )
                 .replace("###SECTION_OUTSIDERS###", appL10n.trc("section", "Outsiders"))
-                .replace("###OUTSIDERS###", sectionHtml(outsiders, firstNight, otherNight))
+                .replace(
+                    "###OUTSIDERS###",
+                    sectionHtml(outsiders, firstNight, otherNight, includeEnglishName)
+                )
                 .replace("###SECTION_MINIONS###", appL10n.trc("section", "Minions"))
-                .replace("###MINIONS###", sectionHtml(minions, firstNight, otherNight))
+                .replace(
+                    "###MINIONS###",
+                    sectionHtml(minions, firstNight, otherNight, includeEnglishName)
+                )
                 .replace("###SECTION_DEMONS###", appL10n.trc("section", "Demons"))
-                .replace("###DEMONS###", sectionHtml(demons, firstNight, otherNight))
+                .replace(
+                    "###DEMONS###",
+                    sectionHtml(demons, firstNight, otherNight, includeEnglishName)
+                )
                 .replace("###SECTION_FABLED###", appL10n.trc("section", "Fabled"))
-                .replace("###FABLED###", sectionHtml(fabled, firstNight, otherNight))
+                .replace(
+                    "###FABLED###",
+                    sectionHtml(fabled, firstNight, otherNight, includeEnglishName)
+                )
                 .replace("###SECTION_TRAVELLERS###", appL10n.trc("section", "Travellers"))
-                .replace("###TRAVELLERS###", sectionHtml(travellers, firstNight, otherNight))
+                .replace(
+                    "###TRAVELLERS###",
+                    sectionHtml(travellers, firstNight, otherNight, includeEnglishName)
+                )
                 .replace("[", "<span class=\"setup-modification\">[")
                 .replace("]", "]</span>")
                 .replace("###FIRST_NIGHT_EXPLANATION###", appL10n.tr("First night order"))
-                .replace("###NOT_FIRST_NIGHT_EXPLANATION###", appL10n.tr("* not in the first night"))
+                .replace(
+                    "###NOT_FIRST_NIGHT_EXPLANATION###",
+                    appL10n.tr("* not in the first night")
+                )
                 .replace("###OTHER_NIGHT_EXPLANATION###", appL10n.tr("Other night order"))
         )
         out.flush()
@@ -162,9 +197,12 @@ class PlayerSheetPrinter(locale: Locale) {
         sectionRoles: Iterable<Role>,
         firstNight: List<Role>,
         otherNight: List<Role>,
+        includeEnglishName: Boolean,
     ): String {
         val result = StringBuilder()
         sectionRoles.forEach { role ->
+            val translatedName = l10n.l18n(role.id, L10n.Type.NAME)
+            val englishName = l10n.english(role.id, L10n.Type.NAME)
             result.append(
                 characterEntry
                     .replace("###CHARACTER_NAME###", l10n.l18n(role.id, L10n.Type.NAME))
@@ -186,6 +224,14 @@ class PlayerSheetPrinter(locale: Locale) {
                     .replace("###OTHER_NIGHT_ORDER###", otherNight.indexOf(role).let {
                         if (it == -1) "" else (it + 1).toString()
                     })
+                    .replace(
+                        "###CHARACTER_ID###",
+                        if (includeEnglishName && englishName != translatedName) {
+                            "(${englishName.replace("\"", "\\\"")})"
+                        } else {
+                            ""
+                        }
+                    )
             )
         }
         return result.toString()

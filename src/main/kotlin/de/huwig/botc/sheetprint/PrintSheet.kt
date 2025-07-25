@@ -14,12 +14,12 @@ object PrintSheet {
         data class Parameters(val name: String, val author: String, val filename: String)
 
         listOf(
-            Parameters("Catfishing (v11.1.1)", "Emily", "Catfishing"),
+            Parameters("Catfishing (11.1.1)", "Emily", "Catfishing"),
             Parameters("Hide and Seek (6.1.0)", "Narninian & Zaba", "Hide and Seek"),
-            Parameters("Veiled Threats (v1.1.0)", "Ian (UrbanMinotaur)", "Veiled Threats"),
+            Parameters("Veiled Threats (1.1.0)", "Ian (UrbanMinotaur)", "Veiled Threats"),
             Parameters("No Roles Barred (1.0.1)", "Andrew Pichot", "No Roles Barred"),
             Parameters("Boozling (9.0.0)", "Lau", "Boozling"),
-            Parameters("The Ballad of Seat 7 (v6.0.0)", "TrashWarlock", "The Ballad of Seat 7"),
+            Parameters("The Ballad of Seat 7 (6.0.0)", "TrashWarlock", "The Ballad of Seat 7"),
 
             Parameters("Trouble Brewing (1.0.0)", "The Pandemonium Institute", "Trouble Brewing"),
             Parameters("Sects and Violets (1.0.0)", "The Pandemonium Institute", "Sects and Violets"),
@@ -47,7 +47,13 @@ object PrintSheet {
             }
 
             PrintWriter(FileWriter("${params.filename}.html")).use { out ->
-                playerSheetPrinter.printPlayerSheet(params.name, params.author, scriptJson, out)
+                playerSheetPrinter.printPlayerSheet(
+                    scriptName = params.name,
+                    author = params.author,
+                    scriptJson = scriptJson,
+                    includeEnglishName = false,
+                    out = out,
+                )
             }
         }
     }

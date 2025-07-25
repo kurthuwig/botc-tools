@@ -35,7 +35,12 @@ class L10n(locale: Locale) {
         val context = id + " " + type.value
         return characterL10n.trc(
             context = context,
-            text = mapping.tr(context).replace("\"", "\\\""),
+            text = english(id, type),
         )
+    }
+
+    fun english(id: String, type: Type): String {
+        val context = id + " " + type.value
+        return mapping.tr(context)
     }
 }

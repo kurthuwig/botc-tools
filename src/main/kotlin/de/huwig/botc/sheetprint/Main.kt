@@ -17,7 +17,9 @@ import java.util.*
 object Main {
     @JvmStatic
     fun main(args: Array<String>) {
-        val playerSheetPrinter = PlayerSheetPrinter(Locale.GERMANY)
+        val playerSheetPrinter = PlayerSheetPrinter(
+            Locale.GERMANY,
+        )
         embeddedServer(
             factory = Netty,
             host = System.getenv("HOST") ?: "0.0.0.0",
@@ -46,6 +48,7 @@ private fun Route.printSheet(playerSheetPrinter: PlayerSheetPrinter) {
             val scriptName = parameters["scriptName"]!!
             val author = parameters["author"]!!
             val scriptJson = parameters["scriptJson"]!!
+            val includeEnglishName = "true" == parameters["includeEnglishName"]
 
             println("...$scriptName by $author (${scriptJson.length})")
 
@@ -54,6 +57,7 @@ private fun Route.printSheet(playerSheetPrinter: PlayerSheetPrinter) {
                     scriptName = scriptName,
                     author = author,
                     scriptJson = scriptJson,
+                    includeEnglishName = includeEnglishName,
                     out = PrintWriter(this),
                 )
             }
