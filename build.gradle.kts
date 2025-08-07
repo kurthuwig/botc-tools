@@ -43,3 +43,35 @@ gettext {
     potFile.set(File("src/main/resources/po/app.pot"))
     keywords.set(listOf("tr", "trc:1c,2", "trn:1,2"))
 }
+
+tasks.register("updatePoFiles") {
+    description = "Updates all PO files in src/main/resources/po/*/LC_MESSAGES with the master POT file."
+
+    doLast {
+        val potFile = file("src/main/resources/po/characters.pot")
+
+        val poFiles = fileTree(rootDir) {
+            include("src/main/resources/po/**/LC_MESSAGES/characters.po")
+        }
+
+        println("Found ${poFiles.count()} PO file(s) to update.")
+
+        poFiles.forEach { poFile ->
+            println("Updating ${poFile.absolutePath}...")
+
+            try {
+                exec {
+                    commandLine("msgmerge", "--no-wrap", "--update", poFile.absolutePath, potFile.absolutePath)
+                }
+            } catch (e: Exception) {
+                println("ERROR: Could not execute 'msgmerge' command.")
+                println("Please ensure the gettext toolchain is installed on your system.")
+                println("On macOS, you can install it with 'brew install gettext'.")
+                println("On Debian/Ubuntu, you can install it with 'sudo apt-get install gettext'.")
+                throw e
+            }
+        }
+
+        println("All PO files updated successfully.")
+    }
+}
