@@ -3126,10 +3126,6 @@ msgctxt "wraith otherNightReminder"
 msgid "If the wraith has lost its ability, remind them not to open their eyes."
 msgstr ""
 
-msgctxt "wraith reminders"
-msgid ""
-msgstr ""
-
 msgctxt "xaan name"
 msgid "Xaan"
 msgstr ""
