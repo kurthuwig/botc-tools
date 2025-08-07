@@ -669,10 +669,6 @@ msgctxt "deusexfiasco ability"
 msgid "At least once per game, the Storyteller will make a mistake, correct it and publicly admit to it."
 msgstr "At least once per game, the Storyteller will make a mistake, correct it and publicly admit to it."
 
-msgctxt "deusexfiasco flavor"
-msgid "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
-msgstr "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
-
 msgctxt "deusexfiasco reminders"
 msgid "Whoopsie"
 msgstr "Whoopsie"
@@ -1361,6 +1357,22 @@ msgctxt "heretic flavor"
 msgid "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
 msgstr "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
 
+msgctxt "hermit name"
+msgid "Hermit"
+msgstr ""
+
+msgctxt "hermit ability"
+msgid "You have all Outsider abilities. [-0 or -1 Outsider]"
+msgstr ""
+
+msgctxt "hermit flavor"
+msgid "In the lost and forgotten places of the earth, the soul’s light beckons."
+msgstr ""
+
+msgctxt "hermit reminders"
+msgid "1, 2, 3"
+msgstr ""
+
 msgctxt "highpriestess name"
 msgid "High Priestess"
 msgstr "High Priestess"
@@ -2038,6 +2050,10 @@ msgstr "<grunt><grin></grunt>"
 msgctxt "ogre firstNightReminder"
 msgid "The Ogre points to a player (not themselves) and becomes their alignment."
 msgstr "De Ogre duid een speler aan (niet zichzelf) en wordt deel van hun team."
+
+msgctxt "ogre reminders"
+msgid "Friend"
+msgstr ""
 
 msgctxt "ojo name"
 msgid "Ojo"
@@ -3196,3 +3212,7 @@ msgstr "Als er niemand gestorven is vandaag, dan duid de Zombuul een speler aan,
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "Dead,Died today"
+
+#~ msgctxt "deusexfiasco flavor"
+#~ msgid "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
+#~ msgstr "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."

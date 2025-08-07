@@ -1073,6 +1073,11 @@ msgctxt "gambler otherNightReminder"
 msgid "The Gambler points to a player, and a character on their sheet. If incorrect, the Gambler dies."
 msgstr "Gambler menunjuk ke seorang pemain, dan karakter di list lembar karakter mereka. Jika salah, Gambler mati."
 
+#, fuzzy
+msgctxt "gambler reminders"
+msgid "Dead"
+msgstr "Dead"
+
 msgctxt "gangster name"
 msgid "Gangster"
 msgstr "Gangster"
@@ -1794,10 +1799,6 @@ msgid ""
 msgstr ""
 "1... 2... Abra... 3... 4... Cadabra... *poof!*\n"
 "Dan, seperti yang Anda lihat, ladies and gentlemen, tas emas Kapten Farnsworth telah menghilang! Hilang! Tanpa jejak! Terima kasih, dan selamat malam!"
-
-msgctxt "magician firstNightReminder"
-msgid "Point to the Magician when showing the Demon their Minions. Point to the Demon and the Magician when showing the Minions their Demon."
-msgstr "Tunjuklah Magician saat menunjukkan Minion info kepada Demon . Tunjuklah pada Demon dan Magician saat menunjukkan Demon info kepada Para Minion."
 
 msgctxt "marionette name"
 msgid "Marionette"
@@ -3210,3 +3211,7 @@ msgstr "Jika tidak ada yang mati selama hari itu: Zombuul menunjuk ke seorang pe
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "Died today,Dead"
+
+#~ msgctxt "magician firstNightReminder"
+#~ msgid "Point to the Magician when showing the Demon their Minions. Point to the Demon and the Magician when showing the Minions their Demon."
+#~ msgstr "Tunjuklah Magician saat menunjukkan Minion info kepada Demon . Tunjuklah pada Demon dan Magician saat menunjukkan Demon info kepada Para Minion."

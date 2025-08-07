@@ -1357,6 +1357,22 @@ msgctxt "heretic flavor"
 msgid "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
 msgstr "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
 
+msgctxt "hermit name"
+msgid "Hermit"
+msgstr ""
+
+msgctxt "hermit ability"
+msgid "You have all Outsider abilities. [-0 or -1 Outsider]"
+msgstr ""
+
+msgctxt "hermit flavor"
+msgid "In the lost and forgotten places of the earth, the soul’s light beckons."
+msgstr ""
+
+msgctxt "hermit reminders"
+msgid "1, 2, 3"
+msgstr ""
+
 msgctxt "highpriestess name"
 msgid "High Priestess"
 msgstr "ธิดาเทพ"
@@ -2035,6 +2051,10 @@ msgctxt "ogre firstNightReminder"
 msgid "The Ogre points to a player (not themselves) and becomes their alignment."
 msgstr "ยักษ์เพื่อนรักชี้ไปที่ผู้เล่นหนึ่งคน (ไม่ใช่ตัวเอง) แล้วเปลี่ยนฝ่ายไปอยู่ฝ่ายเดียวกับผู้เล่นนั้น"
 
+msgctxt "ogre reminders"
+msgid "Friend"
+msgstr ""
+
 msgctxt "ojo name"
 msgid "Ojo"
 msgstr "ตามาร"
@@ -2398,6 +2418,11 @@ msgstr "ถ้าคุณถูกฆ่าตอนกลางคืน ค�
 msgctxt "ravenkeeper flavor"
 msgid "My birds will avenge me! Fly! Fly, my sweet and dutiful pets! To the manor and to the river! To the alleys and to the salons! Fly!"
 msgstr "My birds will avenge me! Fly! Fly, my sweet and dutiful pets! To the manor and to the river! To the alleys and to the salons! Fly!"
+
+#, fuzzy
+msgctxt "ravenkeeper otherNightReminder"
+msgid "If the Ravenkeeper died tonight: The Ravenkeeper points to a player. Show that player’s character token."
+msgstr "ถ้าคนนอกตายวันนี้ เจ้าพ่อชี้ไปที่ผู้เล่นหนึ่งคน เขาจะตาย"
 
 msgctxt "recluse name"
 msgid "Recluse"

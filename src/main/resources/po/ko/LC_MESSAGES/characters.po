@@ -1357,6 +1357,22 @@ msgctxt "heretic flavor"
 msgid "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
 msgstr "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
 
+msgctxt "hermit name"
+msgid "Hermit"
+msgstr ""
+
+msgctxt "hermit ability"
+msgid "You have all Outsider abilities. [-0 or -1 Outsider]"
+msgstr ""
+
+msgctxt "hermit flavor"
+msgid "In the lost and forgotten places of the earth, the soul’s light beckons."
+msgstr ""
+
+msgctxt "hermit reminders"
+msgid "1, 2, 3"
+msgstr ""
+
 msgctxt "highpriestess name"
 msgid "High Priestess"
 msgstr "대사제"
@@ -1782,10 +1798,6 @@ msgid ""
 msgstr ""
 "1... 2... Abra... 3... 4... Cadabra... *poof!*\n"
 "And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!"
-
-msgctxt "magician firstNightReminder"
-msgid "Point to the Magician when showing the Demon their Minions. Point to the Demon and the Magician when showing the Minions their Demon."
-msgstr "하수인들에게 악마를 알려줄떄, 같이 알려줍니다 악마에게 하수인들을 알려줄떄, 마술사도 포함됩니다"
 
 msgctxt "marionette name"
 msgid "Marionette"
@@ -3200,3 +3212,7 @@ msgstr "만약 오늘 낮에 아무도 죽지 않았다면, 좀부울은 플레�
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "오늘 사망함,사망"
+
+#~ msgctxt "magician firstNightReminder"
+#~ msgid "Point to the Magician when showing the Demon their Minions. Point to the Demon and the Magician when showing the Minions their Demon."
+#~ msgstr "하수인들에게 악마를 알려줄떄, 같이 알려줍니다 악마에게 하수인들을 알려줄떄, 마술사도 포함됩니다"

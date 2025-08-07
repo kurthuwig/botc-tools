@@ -67,6 +67,10 @@ msgctxt "alhadikhia otherNightReminder"
 msgid "The Al-Hadikhia chooses 3 players. Announce the first player, wake them to nod yes to live or shake head no to die, kill or resurrect accordingly, then put to sleep and announce the next player. If all 3 are alive after this, all 3 die."
 msgstr "Al-Hadikha sceglie 3 giocatori. Annuncia il primo e sveglialo. Al-Hadikha annuisce se vuole vivere oppure scuote la testa se vuole morire dopodiché uccidilo, tienilo in vita oppure resuscitalo (se era morto) a seconda della sua scelta, infine fallo addormentare e sveglia il giocatore successivo. Se tutti e 3 sono vivi alla fine, tutti e 3 muoiono."
 
+msgctxt "alhadikhia reminders"
+msgid "1,2,3,Chose death,Chose life"
+msgstr ""
+
 msgctxt "alsaahir name"
 msgid "Alsaahir"
 msgstr "Alsaahir"
@@ -114,6 +118,11 @@ msgstr "Qualcosa di brutto potrebbe accadere a chi è responsabile della morte d
 msgctxt "angel flavor"
 msgid "Let those who are without sin dare to raise their hand to my chosen, for I shall strike such fools down with the fury and righteousness of a thousand storms."
 msgstr "Let those who are without sin dare to raise their hand to my chosen, for I shall strike such fools down with the fury and righteousness of a thousand storms."
+
+#, fuzzy
+msgctxt "angel reminders"
+msgid "Protect,Something Bad"
+msgstr "Qualcosa di brutto"
 
 msgctxt "apprentice name"
 msgid "Apprentice"
@@ -1349,6 +1358,22 @@ msgctxt "heretic flavor"
 msgid "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
 msgstr "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
 
+msgctxt "hermit name"
+msgid "Hermit"
+msgstr ""
+
+msgctxt "hermit ability"
+msgid "You have all Outsider abilities. [-0 or -1 Outsider]"
+msgstr ""
+
+msgctxt "hermit flavor"
+msgid "In the lost and forgotten places of the earth, the soul’s light beckons."
+msgstr ""
+
+msgctxt "hermit reminders"
+msgid "1, 2, 3"
+msgstr ""
+
 msgctxt "highpriestess name"
 msgid "High Priestess"
 msgstr "Papessa"
@@ -2026,6 +2051,10 @@ msgstr "<grunt><grin></grunt>"
 msgctxt "ogre firstNightReminder"
 msgid "The Ogre points to a player (not themselves) and becomes their alignment."
 msgstr "L'Orco indica un giocatore (non sé stesso) e diventa della sua fazione."
+
+msgctxt "ogre reminders"
+msgid "Friend"
+msgstr ""
 
 msgctxt "ojo name"
 msgid "Ojo"

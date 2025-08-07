@@ -1357,6 +1357,22 @@ msgctxt "heretic flavor"
 msgid "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
 msgstr "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
 
+msgctxt "hermit name"
+msgid "Hermit"
+msgstr ""
+
+msgctxt "hermit ability"
+msgid "You have all Outsider abilities. [-0 or -1 Outsider]"
+msgstr ""
+
+msgctxt "hermit flavor"
+msgid "In the lost and forgotten places of the earth, the soul’s light beckons."
+msgstr ""
+
+msgctxt "hermit reminders"
+msgid "1, 2, 3"
+msgstr ""
+
 msgctxt "highpriestess name"
 msgid "High Priestess"
 msgstr "女祭司"
@@ -2036,6 +2052,10 @@ msgstr "<grunt><grin></grunt>"
 msgctxt "ogre firstNightReminder"
 msgid "The Ogre points to a player (not themselves) and becomes their alignment."
 msgstr "在首个夜晚，唤醒食人魔。让食人魔指向一名玩家。让食人魔重新入睡。如果食人魔指向了一名邪恶玩家，将食人魔的角色标记倒转放置，代表食人魔现在属于邪恶阵营。"
+
+msgctxt "ogre reminders"
+msgid "Friend"
+msgstr ""
 
 msgctxt "ojo name"
 msgid "Ojo"

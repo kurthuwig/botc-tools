@@ -167,6 +167,10 @@ msgctxt "assassin ability"
 msgid "Once per game, at night*, choose a player: they die, even if for some reason they could not."
 msgstr "每場遊戲一次，晚上時*，選擇一位玩家，該玩家死亡，無論是否有原因導致他們不能死。"
 
+msgctxt "assassin flavor"
+msgid "..."
+msgstr ""
+
 msgctxt "assassin otherNightReminder"
 msgid "If the Assassin has not yet used their ability: The Assassin either shows the 'no' head signal, or points to a player. That player dies."
 msgstr "刺客可以指向一位玩家，該玩家死亡。"
@@ -1352,6 +1356,22 @@ msgstr "獲勝的玩家改為落敗且落敗的玩家改為獲勝(儘管你死�
 msgctxt "heretic flavor"
 msgid "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
 msgstr "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
+
+msgctxt "hermit name"
+msgid "Hermit"
+msgstr ""
+
+msgctxt "hermit ability"
+msgid "You have all Outsider abilities. [-0 or -1 Outsider]"
+msgstr ""
+
+msgctxt "hermit flavor"
+msgid "In the lost and forgotten places of the earth, the soul’s light beckons."
+msgstr ""
+
+msgctxt "hermit reminders"
+msgid "1, 2, 3"
+msgstr ""
 
 msgctxt "highpriestess name"
 msgid "High Priestess"

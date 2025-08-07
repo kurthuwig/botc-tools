@@ -1357,6 +1357,22 @@ msgctxt "heretic flavor"
 msgid "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
 msgstr "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
 
+msgctxt "hermit name"
+msgid "Hermit"
+msgstr ""
+
+msgctxt "hermit ability"
+msgid "You have all Outsider abilities. [-0 or -1 Outsider]"
+msgstr ""
+
+msgctxt "hermit flavor"
+msgid "In the lost and forgotten places of the earth, the soul’s light beckons."
+msgstr ""
+
+msgctxt "hermit reminders"
+msgid "1, 2, 3"
+msgstr ""
+
 msgctxt "highpriestess name"
 msgid "High Priestess"
 msgstr "Svečenica"
@@ -2035,6 +2051,10 @@ msgctxt "ogre firstNightReminder"
 msgid "The Ogre points to a player (not themselves) and becomes their alignment."
 msgstr "The Ogre points to a player (not themselves) and becomes their alignment."
 
+msgctxt "ogre reminders"
+msgid "Friend"
+msgstr ""
+
 msgctxt "ojo name"
 msgid "Ojo"
 msgstr "Ojo"
@@ -2474,6 +2494,11 @@ msgstr "Vsako noč izbereš enega živega igralca. Eden od vaju je pijan do mrak
 msgctxt "sailor flavor"
 msgid "I'll drink any one of yer under the table! You! The chatterbox! Reckon you can take me? No? Howza 'bout you, Grandma? You ever tried Old McKillys Extra Spiced Rum before? Guaranteed to put hairs on yer chest! Step aboard, aye!"
 msgstr "I'll drink any one of yer under the table! You! The chatterbox! Reckon you can take me? No? Howza 'bout you, Grandma? You ever tried Old McKillys Extra Spiced Rum before? Guaranteed to put hairs on yer chest! Step aboard, aye!"
+
+#, fuzzy
+msgctxt "sailor firstNightReminder"
+msgid "The Sailor points to a living player. Either the Sailor, or the chosen player, is drunk."
+msgstr "Prej pijan igralec ozdravi. Mornar pokaže na živega igralca. Bodisi on bodisi mornar je pijan."
 
 msgctxt "sailor otherNightReminder"
 msgid "The previously drunk player is no longer drunk. The Sailor points to a living player. Either the Sailor, or the chosen player, is drunk."

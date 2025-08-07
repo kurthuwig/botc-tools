@@ -99,6 +99,11 @@ msgctxt "amnesiac firstNightReminder"
 msgid "Decide the Amnesiac's entire ability. If the Amnesiac's ability causes them to wake tonight: Wake the Amnesiac and run their ability."
 msgstr "قرر ماهي ميزة وقدرة فاقد الذاكرة. وإذا احتجت أن توقظ فاقد الذاكرة في الليل، أوقظه وأخبره المعلومة حسب ميزته."
 
+#, fuzzy
+msgctxt "amnesiac otherNightReminder"
+msgid "If the Amnesiac's ability causes them to wake tonight: Wake the Amnesiac and run their ability."
+msgstr "قرر ماهي ميزة وقدرة فاقد الذاكرة. وإذا احتجت أن توقظ فاقد الذاكرة في الليل، أوقظه وأخبره المعلومة حسب ميزته."
+
 msgctxt "amnesiac reminders"
 msgid "?"
 msgstr "?"
@@ -664,10 +669,6 @@ msgstr "Deus ex Fiasco"
 msgctxt "deusexfiasco ability"
 msgid "At least once per game, the Storyteller will make a mistake, correct it and publicly admit to it."
 msgstr "At least once per game, the Storyteller will make a mistake, correct it and publicly admit to it."
-
-msgctxt "deusexfiasco flavor"
-msgid "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
-msgstr "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
 
 msgctxt "deusexfiasco reminders"
 msgid "Whoopsie"
@@ -1357,6 +1358,22 @@ msgctxt "heretic flavor"
 msgid "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
 msgstr "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
 
+msgctxt "hermit name"
+msgid "Hermit"
+msgstr ""
+
+msgctxt "hermit ability"
+msgid "You have all Outsider abilities. [-0 or -1 Outsider]"
+msgstr ""
+
+msgctxt "hermit flavor"
+msgid "In the lost and forgotten places of the earth, the soul’s light beckons."
+msgstr ""
+
+msgctxt "hermit reminders"
+msgid "1, 2, 3"
+msgstr ""
+
 msgctxt "highpriestess name"
 msgid "High Priestess"
 msgstr "High Priestess"
@@ -2034,6 +2051,10 @@ msgstr "<grunt><grin></grunt>"
 msgctxt "ogre firstNightReminder"
 msgid "The Ogre points to a player (not themselves) and becomes their alignment."
 msgstr "The Ogre points to a player (not themselves) and becomes their alignment."
+
+msgctxt "ogre reminders"
+msgid "Friend"
+msgstr ""
 
 msgctxt "ojo name"
 msgid "Ojo"
@@ -3029,6 +3050,29 @@ msgctxt "voudon flavor"
 msgid "Bien venu. Sit down. Breathe deep. Enter the land of the dead. See with their eyes. Speak with their voice. Yon sel lang se janm ase."
 msgstr "Bien venu. Sit down. Breathe deep. Enter the land of the dead. See with their eyes. Speak with their voice. Yon sel lang se janm ase."
 
+#, fuzzy
+msgctxt "washerwoman name"
+msgid "Washerwoman"
+msgstr "الصياد"
+
+#, fuzzy
+msgctxt "washerwoman ability"
+msgid "You start knowing that 1 of 2 players is a particular Townsfolk."
+msgstr "في أول ليلة فقط، المنظم يخبرك شخصية من الأشرار لأحد لاعبين."
+
+msgctxt "washerwoman flavor"
+msgid "Bloodstains on a dinner jacket? No, this is cooking sherry. How careless."
+msgstr ""
+
+#, fuzzy
+msgctxt "washerwoman firstNightReminder"
+msgid "Show the character token of a Townsfolk in play. Point to two players, one of which is that character."
+msgstr "أخبره باسم شخصية من الأشرار الموجودين في اللعبة، ثم أخبره باسم لاعبين أحدهما صاحب هذه الشخصية."
+
+msgctxt "washerwoman reminders"
+msgid "Townsfolk,Wrong"
+msgstr ""
+
 msgctxt "widow name"
 msgid "Widow"
 msgstr "الأرملة"
@@ -3172,3 +3216,7 @@ msgstr "إذا لم يمت أي لاعب في النهار يختار الزوم
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "مات اليوم,ميت"
+
+#~ msgctxt "deusexfiasco flavor"
+#~ msgid "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
+#~ msgstr "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."

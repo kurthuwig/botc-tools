@@ -47,6 +47,11 @@ msgctxt "alchemist firstNightReminder"
 msgid "Show the Alchemist a not-in-play Minion token"
 msgstr "Du har en Håndlanger, der ikke er i spils, evne"
 
+#, fuzzy
+msgctxt "alchemist remindersGlobal"
+msgid "Is the Alchemist"
+msgstr "Alkymisten"
+
 msgctxt "alhadikhia name"
 msgid "Al-Hadikhia"
 msgstr "Akrobaten"
@@ -664,10 +669,6 @@ msgstr "Deus ex Fiasco"
 msgctxt "deusexfiasco ability"
 msgid "At least once per game, the Storyteller will make a mistake, correct it and publicly admit to it."
 msgstr "At least once per game, the Storyteller will make a mistake, correct it and publicly admit to it."
-
-msgctxt "deusexfiasco flavor"
-msgid "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
-msgstr "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
 
 msgctxt "deusexfiasco reminders"
 msgid "Whoopsie"
@@ -1362,6 +1363,22 @@ msgstr "Dem, der vinder, taber og dem, der taber, vinder, selvom du er død."
 msgctxt "heretic flavor"
 msgid "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
 msgstr "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
+
+msgctxt "hermit name"
+msgid "Hermit"
+msgstr ""
+
+msgctxt "hermit ability"
+msgid "You have all Outsider abilities. [-0 or -1 Outsider]"
+msgstr ""
+
+msgctxt "hermit flavor"
+msgid "In the lost and forgotten places of the earth, the soul’s light beckons."
+msgstr ""
+
+msgctxt "hermit reminders"
+msgid "1, 2, 3"
+msgstr ""
 
 msgctxt "highpriestess name"
 msgid "High Priestess"
@@ -2927,6 +2944,10 @@ msgctxt "undertaker otherNightReminder"
 msgid "If a player was executed today: Show that player’s character token."
 msgstr "Hvis en spiller blev henrettet i dag: Vis denne spillers Karakterbrik."
 
+msgctxt "undertaker reminders"
+msgid "Executed"
+msgstr ""
+
 msgctxt "vigormortis name"
 msgid "Vigormortis"
 msgstr "Vigormortis"
@@ -3198,3 +3219,7 @@ msgstr "Hvis ingen døde i løbet af dagen: Zombuul peger på en spiller. Den sp
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "Døde idag,Død"
+
+#~ msgctxt "deusexfiasco flavor"
+#~ msgid "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
+#~ msgstr "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
