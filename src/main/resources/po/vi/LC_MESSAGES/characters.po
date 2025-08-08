@@ -1,15 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: vi\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.6\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-08-08 17:01+0000\nLast-Translator: tuanhuyng <tuanhuynguyen806@gmail.com>\nLanguage-Team: Vietnamese <https://hosted.weblate.org/projects/botc/characters/vi/>\nLanguage: vi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.13-dev\n"
 
 msgctxt "acrobat name"
 msgid "Acrobat"
@@ -17,7 +7,7 @@ msgstr "Nghệ sĩ xiếc"
 
 msgctxt "acrobat ability"
 msgid "Each night*, choose a player: if they are or become drunk or poisoned tonight, you die."
-msgstr "Mỗi đêm*, chọn 1 người: nếu họ đang hoặc trở nên say hoặc độc trong tối nay, bạn chết"
+msgstr "Mỗi đêm*, chọn 1 người: nếu họ đang hoặc trở nên say hoặc độc trong tối nay, bạn chết."
 
 msgctxt "acrobat flavor"
 msgid "Welcome, one and all, to the greatest show on earth."
@@ -25,7 +15,7 @@ msgstr "Chào mừng quý khán giả đến với buổi diễn tuyệt vời n
 
 msgctxt "acrobat otherNightReminder"
 msgid "The Acrobat chooses a player. If they are become drunk or poisoned tonight, the Acrobat player dies."
-msgstr "Nếu bất kì hàng xóm tốt của họ trúng độc hoặc bị say, Nghệ sĩ xiếc chết"
+msgstr "Nếu bất kì hàng xóm tốt của họ trúng độc hoặc bị say, Nghệ sĩ xiếc chết."
 
 msgctxt "acrobat reminders"
 msgid "Dead"
@@ -57,7 +47,7 @@ msgstr "Al-Hadikhia"
 
 msgctxt "alhadikhia ability"
 msgid "Each night*, you may choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die."
-msgstr "Mỗi đêm*, có thể chọn 3 người (mọi người biết là ai): mỗi người bí mật chọn được sống hoặc chết, nếu tất cả chọn sống, họ cùng chết"
+msgstr "Mỗi đêm*, có thể chọn 3 người (mọi người biết là ai): mỗi người bí mật chọn được sống hoặc chết, nếu tất cả chọn sống, họ cùng chết."
 
 msgctxt "alhadikhia flavor"
 msgid "Alsukut min dhahab."
@@ -73,7 +63,7 @@ msgstr "1,2,3,Chọn chết,Chọn sống"
 
 msgctxt "alsaahir name"
 msgid "Alsaahir"
-msgstr "Alsaahir"
+msgstr "Người tiên đoán"
 
 msgctxt "alsaahir ability"
 msgid "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins."
@@ -137,7 +127,7 @@ msgstr "Nhiều năm qua, ta đã đi và tìm hiểu Kỹ sảo đó. Bạn có
 
 msgctxt "apprentice firstNightReminder"
 msgid "Show the Apprentice the 'You are' card, then a Townsfolk or Minion token. In the Grimoire, replace the Apprentice token with that character token, and put the Apprentice's 'Is the Apprentice' reminder by that character token."
-msgstr "Cho tập sự thấy lá 'Bạn là', và thẻ Dân làng hoặc Tay sai. Trong Grimoire, thay thẻ Tập sự với thẻ nhân vật đó, và đặt đánh dấu \"là Tập sụ\" của Tập sự bên cạnh thẻ đó"
+msgstr "Cho tập sự thấy lá 'Bạn là', và thẻ Dân làng hoặc Tay sai. Trong Grimoire, thay thẻ Tập sự với thẻ nhân vật đó, và đặt đánh dấu \"là Tập sụ\" của Tập sự bên cạnh thẻ đó."
 
 msgctxt "apprentice reminders"
 msgid "Is the Apprentice"
@@ -663,7 +653,7 @@ msgstr "Đã đoán"
 
 msgctxt "deusexfiasco name"
 msgid "Deus ex Fiasco"
-msgstr "Deus ex Fiasco"
+msgstr "Lỗi trên trời rơi xuống"
 
 msgctxt "deusexfiasco ability"
 msgid "At least once per game, the Storyteller will make a mistake, correct it and publicly admit to it."
@@ -883,7 +873,7 @@ msgstr "Fang Gu"
 
 msgctxt "fanggu ability"
 msgid "Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu & you die instead. [+1 Outsider]"
-msgstr "Mỗi đêm*, chọn 1 người: họ chết. Lữ khách  đầu tiên bị nhân vật này chọn sẽ biến thành Fang Gu xấu & bạn chết. [+1 Lữ khách]"
+msgstr "Mỗi đêm*, chọn 1 người: họ chết. Lữ khách đầu tiên bị nhân vật này chọn sẽ biến thành Fang Gu xấu & bạn chết. [+1 Lữ khách]"
 
 msgctxt "fanggu flavor"
 msgid "Your walls and your weapons are but smoke in dreams."
@@ -1135,7 +1125,7 @@ msgstr "Four the score or seven beers, no shows are goes for me and my. A prank 
 
 msgctxt "gnome reminders"
 msgid "Amigo"
-msgstr "Amigo"
+msgstr "Bạn thân"
 
 msgctxt "goblin name"
 msgid "Goblin"
@@ -1179,7 +1169,7 @@ msgstr "Chết hôm nay,Chết"
 
 msgctxt "golem name"
 msgid "Golem"
-msgstr "Golem"
+msgstr "Người đá"
 
 msgctxt "golem ability"
 msgid "You may only nominate once per game. When you do, if the nominee is not the Demon, they die."
@@ -1379,7 +1369,7 @@ msgstr "Nữ thượng tế"
 
 msgctxt "highpriestess ability"
 msgid "Each night, learn which player the Storyteller believes you should talk to most."
-msgstr "Mỗi đêm, bạn biết Người kể chuyện nghĩ bạn nên nói chuyện với người nào nhất"
+msgstr "Mỗi đêm, bạn biết Người kể chuyện nghĩ bạn nên nói chuyện với người nào nhất."
 
 msgctxt "highpriestess flavor"
 msgid "There is life behind the personality that uses personalities as masks. There are times when life puts off the mask and deep answers to deep."
@@ -1583,7 +1573,7 @@ msgstr "Hiệp sĩ"
 
 msgctxt "knight ability"
 msgid "You start knowing 2 players that are not the Demon."
-msgstr "Bạn bắt đầu biết 2 người chơi không phải là Quỷ"
+msgstr "Bạn bắt đầu biết 2 người chơi không phải là Quỷ."
 
 msgctxt "knight flavor"
 msgid "When a man lies, he murders some part of the world."
@@ -1591,7 +1581,7 @@ msgstr "When a man lies, he murders some part of the world."
 
 msgctxt "knight firstNightReminder"
 msgid "Point to 2 non-Demon players."
-msgstr "Chỉ 2 người không phải Quỷ"
+msgstr "Chỉ 2 người không phải Quỷ."
 
 msgctxt "knight reminders"
 msgid "Know, Know"
@@ -1647,7 +1637,7 @@ msgstr "Thủ thư"
 
 msgctxt "librarian ability"
 msgid "You start knowing that 1 of 2 players is a particular Outsider. (Or that zero are in play.)"
-msgstr "Đêm đầu tiên, bạn biết chức năng của Lữ khách thuộc về 1 trong 2 người (hoặc là không có Lữ khách)."
+msgstr "Đêm đầu tiên, bạn biết chức năng của Lữ khách thuộc về 1 trong 2 người. (Hoặc không có Lữ khách.)"
 
 msgctxt "librarian flavor"
 msgid "Certainly madam, under normal circumstances, you may borrow the Codex Malificarium from the library vaults. However, you do not seem to be a member."
@@ -1777,7 +1767,7 @@ msgstr "Beneath the thin veneer of civilisation lies a howling madness."
 
 msgctxt "lycanthrope otherNightReminder"
 msgid "The Lycanthrope points to a living player: if good, they die and the Demon doesn't kill tonight"
-msgstr "Người sói chỉ người sống: nếu là tốt, họ chết và những người khác không thế chết đêm nay."
+msgstr "Người sói chỉ người sống: nếu là tốt, họ chết và Quỷ không giết tối nay đêm nay"
 
 msgctxt "lycanthrope reminders"
 msgid "Dead,Faux Paw"
@@ -1909,7 +1899,7 @@ msgstr "Người hát rong"
 
 msgctxt "minstrel ability"
 msgid "When a Minion dies by execution, all other players (except Travellers) are drunk until dusk tomorrow."
-msgstr "Nếu 1 Tay sai chết vì hành quyết, tất cả người khác (trừ Du khách)  đều bị say đến hoàng hôn ngày hôm sau."
+msgstr "Nếu 1 Tay sai chết vì hành quyết, tất cả người khác (trừ Du khách) đều bị say đến hoàng hôn ngày hôm sau."
 
 msgctxt "minstrel flavor"
 msgid "And I shall hear, tho' soft you tread above me... And all my dreams will warm and sweeter be... If you'll not fail to tell me that you love me... I simply sleep in peace until you come to me."
@@ -2037,7 +2027,7 @@ msgstr "Chết,Trúng độc"
 
 msgctxt "ogre name"
 msgid "Ogre"
-msgstr "Ogre"
+msgstr "Thần rừng"
 
 msgctxt "ogre ability"
 msgid "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned."
@@ -2145,7 +2135,7 @@ msgstr "là Triết gia,Say"
 
 msgctxt "pithag name"
 msgid "Pit-Hag"
-msgstr "Pit-Hag"
+msgstr "Mụ phù phép"
 
 msgctxt "pithag ability"
 msgid "Each night*, choose a player & a character they become (if not-in-play). If a Demon is made, deaths tonight are arbitrary."
@@ -2245,7 +2235,7 @@ msgstr "Add compound Alpha to compound Beta... NOT TOO MUCH!"
 
 msgctxt "poisoner firstNightReminder"
 msgid "The Poisoner points to a player. That player is poisoned."
-msgstr "Độc thủ chỉ 1 người. Đánh dấu là \"Trúng độc\""
+msgstr "Độc thủ chỉ 1 người. Họ bị độc."
 
 msgctxt "poisoner otherNightReminder"
 msgid "The previously poisoned player is no longer poisoned. The Poisoner points to a player. That player is poisoned."
@@ -2317,11 +2307,11 @@ msgstr "Đang nghe đạo"
 
 msgctxt "princess name"
 msgid "Princess"
-msgstr "Princess"
+msgstr "Công chúa"
 
 msgctxt "princess ability"
 msgid "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
-msgstr "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
+msgstr "Trong ngày đầu tiên của bạn, nếu bạn biểu quyết và hành quyết một người, Quỷ không được giết tối nay."
 
 msgctxt "princess flavor"
 msgid "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
@@ -2329,11 +2319,11 @@ msgstr "Our words are hounds, bound by silken threads, dear lords. Let kindness 
 
 msgctxt "princess otherNightReminder"
 msgid "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
-msgstr "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
+msgstr "Nếu hôm nay là ngày đầu tiên của Công chúa và họ biểu quyết chết 1 người, Quỷ không giết người."
 
 msgctxt "princess reminders"
 msgid "Doesn't Kill"
-msgstr "Doesn't Kill"
+msgstr "Không giết"
 
 msgctxt "professor name"
 msgid "Professor"
@@ -2441,7 +2431,7 @@ msgstr "Cách mạng"
 
 msgctxt "revolutionary ability"
 msgid "2 neighboring players are known to be the same alignment. Once per game, one of them registers falsely"
-msgstr "2 người ngồi cạnh nhau được biết là cùng phe. Một lần trong game, một trong số họ thấy sai."
+msgstr "2 người ngồi cạnh nhau được biết là cùng phe. Một lần trong game, một trong số họ thấy sai"
 
 msgctxt "revolutionary flavor"
 msgid ""
@@ -2671,11 +2661,11 @@ msgstr "Effendi... I am but a humble man, but my pipe is golden and a single tun
 
 msgctxt "snakecharmer firstNightReminder"
 msgid "The Snake Charmer points to a player. If that player is the Demon: swap the Demon and Snake Charmer character and alignments. Wake each player to inform them of their new role and alignment. The new Snake Charmer is poisoned."
-msgstr "Nuôi rắn chỉ 1 người. Nếu người đó là Quỷ: hoán đổi nhân vật và phe của Quỷ và Nuôi rắn. Gọi mỗi người dậy để thông báo phe và nhân vật của họ.  Nuôi rắn hóa thành Quỷ và đổi sang Phe Xấu. Quỷ cũ hóa thành Nuôi rắn, và đổi sang Phe Tốt và bị trúng độc (không còn chức năng)."
+msgstr "Nuôi rắn chỉ 1 người. Nếu người đó là Quỷ: hoán đổi nhân vật và phe của Quỷ và Nuôi rắn. Gọi mỗi người dậy để thông báo phe và nhân vật của họ. Nuôi rắn hóa thành Quỷ và đổi sang Phe Xấu. Quỷ cũ hóa thành Nuôi rắn, và đổi sang Phe Tốt và bị trúng độc (không còn chức năng)."
 
 msgctxt "snakecharmer otherNightReminder"
 msgid "The Snake Charmer points to a player. If that player is the Demon: swap the Demon and Snake Charmer character and alignments. Wake each player to inform them of their new role and alignment. The new Snake Charmer is poisoned."
-msgstr "Nuôi rắn chỉ 1 người. Nếu người đó là Quỷ: hoán đổi nhân vật và phe của Quỷ và Nuôi rắn. Gọi mỗi người dậy để thông báo phe và nhân vật của họ.  Nuôi rắn mới bị trúng độc (không còn chức năng)."
+msgstr "Nuôi rắn chỉ 1 người. Nếu người đó là Quỷ: hoán đổi nhân vật và phe của Quỷ và Nuôi rắn. Gọi mỗi người dậy để thông báo phe và nhân vật của họ. Nuôi rắn mới bị trúng độc (không còn chức năng)."
 
 msgctxt "snakecharmer reminders"
 msgid "Poisoned"
@@ -2935,7 +2925,7 @@ msgstr "Hmmm....what have we here? The left boot is worn down to the heel, with 
 
 msgctxt "undertaker otherNightReminder"
 msgid "If a player was executed today: Show that player’s character token."
-msgstr "Nếu có người bị Hành Quyết  Cho xem thẻ nhân vật của người đó."
+msgstr "Nếu có người bị Hành Quyết Cho xem thẻ nhân vật của người đó."
 
 msgctxt "undertaker reminders"
 msgid "Executed"
@@ -3131,11 +3121,11 @@ msgstr "Genies are overrated."
 
 msgctxt "wizard firstNightReminder"
 msgid "Run the Wizard ability if applicable."
-msgstr "Chạy chức năng của Pháp sư nếu có thể"
+msgstr "Chạy chức năng của Pháp sư nếu có thể."
 
 msgctxt "wizard otherNightReminder"
 msgid "Run the Wizard ability if applicable."
-msgstr "Chạy chức năng của Pháp sư nếu có thể"
+msgstr "Chạy chức năng của Pháp sư nếu có thể."
 
 msgctxt "wizard reminders"
 msgid "?"
@@ -3143,19 +3133,19 @@ msgstr "?"
 
 msgctxt "wraith name"
 msgid "Wraith"
-msgstr ""
+msgstr "Hồn ma"
 
 msgctxt "wraith ability"
 msgid "You may choose to open your eyes at night. You wake when other evil players do."
-msgstr ""
+msgstr "Bạn có thể mở mắt trong đêm. Bạn dậy khi người xấu khác dậy."
 
 msgctxt "wraith flavor"
 msgid "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
-msgstr ""
+msgstr "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
 
 msgctxt "wraith otherNightReminder"
 msgid "If the wraith has lost its ability, remind them not to open their eyes."
-msgstr ""
+msgstr "Nếu hồn ma mất chức năng, nhớ nhắc họ không mở mắt."
 
 msgctxt "xaan name"
 msgid "Xaan"
@@ -3191,7 +3181,7 @@ msgstr "Cho Yaggababble thấy câu của họ."
 
 msgctxt "yaggababble otherNightReminder"
 msgid "Choose a number of players up to the total number of times the Yaggababble said their secret phrase publicly, those players die."
-msgstr "Chọn số người nhỏ hơn hoặc bằng số lần Yaggababble công khai nói câu bí mật, họ chết"
+msgstr "Chọn số người nhỏ hơn hoặc bằng số lần Yaggababble công khai nói câu bí mật, họ chết."
 
 msgctxt "yaggababble reminders"
 msgid "Dead"
