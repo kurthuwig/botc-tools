@@ -17,11 +17,11 @@ msgstr "Akrobaten"
 
 msgctxt "acrobat ability"
 msgid "Each night*, choose a player: if they are or become drunk or poisoned tonight, you die."
-msgstr "Hver Nat*, Hvis en af dine levende naboer er forgiftede eller fulde, Dør du."
+msgstr "Hver nat*, Hvis en af dine levende naboer er forgiftede eller fulde, Dør du."
 
 msgctxt "acrobat flavor"
 msgid "Welcome, one and all, to the greatest show on earth."
-msgstr "Welcome, one and all, to the greatest show on earth."
+msgstr "Velkommen, alle sammen, til det største show på jorden."
 
 msgctxt "acrobat otherNightReminder"
 msgid "The Acrobat chooses a player. If they are become drunk or poisoned tonight, the Acrobat player dies."
@@ -46,11 +46,6 @@ msgstr "Visit the interior of the Earth. By rectification thou shalt find the hi
 msgctxt "alchemist firstNightReminder"
 msgid "Show the Alchemist a not-in-play Minion token"
 msgstr "Du har en Håndlanger, der ikke er i spils, evne"
-
-#, fuzzy
-msgctxt "alchemist remindersGlobal"
-msgid "Is the Alchemist"
-msgstr "Alkymisten"
 
 msgctxt "alhadikhia name"
 msgid "Al-Hadikhia"
@@ -486,6 +481,26 @@ msgctxt "butler reminders"
 msgid "Master"
 msgstr "Herre"
 
+msgctxt "cacklejack name"
+msgid "Cacklejack"
+msgstr "Cacklejack"
+
+msgctxt "cacklejack ability"
+msgid "Each day, choose a player: a different player changes character tonight."
+msgstr "Each day, choose a player: a different player changes character tonight."
+
+msgctxt "cacklejack flavor"
+msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+msgstr "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+
+msgctxt "cacklejack otherNightReminder"
+msgid "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+msgstr "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+
+msgctxt "cacklejack reminders"
+msgid "Not me"
+msgstr "Not me"
+
 msgctxt "cannibal name"
 msgid "Cannibal"
 msgstr "Kannibal"
@@ -611,7 +626,7 @@ msgid "The Courtier either shows a 'no' head signal, or points to a character on
 msgstr "Hofdamen enten ryster på hovedet for 'nej', eller peger på en karakter på arket. Hvis hofdamen bruger sin evne, og denne karakter er i spil, er denne spiller fuld."
 
 msgctxt "courtier otherNightReminder"
-msgid "Reduce the remaining number of days the marked player is poisoned. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgid "Reduce the remaining number of days the marked player is drunk. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
 msgstr "Reducer det tilbageværende antal dage karakteren er Forgiftet. Hvis Hofdamen ikke har brugt sin evne: Hofdamen enten ryster på hovedet for 'nej', eller peger på en karakter på arket. Hvis hofdamen bruger sin evne, og denne karakter er i spil, er denne spiller fuld."
 
 msgctxt "courtier reminders"
@@ -668,11 +683,15 @@ msgstr "Deus ex Fiasco"
 
 msgctxt "deusexfiasco ability"
 msgid "At least once per game, the Storyteller will make a mistake, correct it and publicly admit to it."
-msgstr "At least once per game, the Storyteller will make a mistake, correct it and publicly admit to it."
+msgstr "Mindst en gang pr spil vil Spillederen lave en fejl, rette den og offentligt indrømme den."
+
+msgctxt "deusexfiasco flavor"
+msgid "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
+msgstr "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
 
 msgctxt "deusexfiasco reminders"
 msgid "Whoopsie"
-msgstr "Whoopsie"
+msgstr "Ups"
 
 msgctxt "deviant name"
 msgid "Deviant"
@@ -1366,19 +1385,19 @@ msgstr "After the hail has smashed the roof and splintered the glass of the Cath
 
 msgctxt "hermit name"
 msgid "Hermit"
-msgstr ""
+msgstr "Eremit"
 
 msgctxt "hermit ability"
 msgid "You have all Outsider abilities. [-0 or -1 Outsider]"
-msgstr ""
+msgstr "Du har alle Fremmedes evner. [-0 or -1 Fremmede]"
 
 msgctxt "hermit flavor"
 msgid "In the lost and forgotten places of the earth, the soul’s light beckons."
-msgstr ""
+msgstr "In the lost and forgotten places of the earth, the soul’s light beckons."
 
 msgctxt "hermit reminders"
 msgid "1, 2, 3"
-msgstr ""
+msgstr "1, 2, 3"
 
 msgctxt "highpriestess name"
 msgid "High Priestess"
@@ -1724,11 +1743,11 @@ msgstr "Død,Forgiftet"
 
 msgctxt "lordoftyphon name"
 msgid "Lord of Typhon"
-msgstr "Lord of Typhon"
+msgstr "Tyfonens Herre"
 
 msgctxt "lordoftyphon ability"
 msgid "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? To +? Outsiders]"
-msgstr "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? To +? Outsiders]"
+msgstr "Hver nat*, vælg en spiller: de dør. [Onde karakterer sidder på række. Du er i midten. +1 Håndlanger. -? To +? Fremmede]"
 
 msgctxt "lordoftyphon flavor"
 msgid "In the shadowed and forgotten corners of the cosmos, where the stars whisper secrets to the void, lies a truth so profound that the merest glimpse of it unravels the sanity of mortal minds."
@@ -1736,15 +1755,15 @@ msgstr "In the shadowed and forgotten corners of the cosmos, where the stars whi
 
 msgctxt "lordoftyphon firstNightReminder"
 msgid "Wake the players on either side of the Demon. Show them the 'You Are' card, the token of the Minion they now are, and a thumbs down to indicate they are evil."
-msgstr "Wake the players on either side of the Demon. Show them the 'You Are' card, the token of the Minion they now are, and a thumbs down to indicate they are evil."
+msgstr "Væk spillere på hver side af dæmonen. Visd dem \"Du er\" kortet, den håndlangerbrik de nu er og en tommelfinger ned, for at indikere at de er onde."
 
 msgctxt "lordoftyphon otherNightReminder"
 msgid "The Lord of Typhon points to a player. That player dies."
-msgstr "The Lord of Typhon points to a player. That player dies."
+msgstr "Tyfonens herre peger på en spiller, de dør"
 
 msgctxt "lordoftyphon reminders"
 msgid "Dead"
-msgstr "Dead"
+msgstr "Død"
 
 msgctxt "lunatic name"
 msgid "Lunatic"
@@ -2152,7 +2171,7 @@ msgstr "Fuld,Er Filosoffen"
 
 msgctxt "pithag name"
 msgid "Pit-Hag"
-msgstr "Troldkælling"
+msgstr "Mosekone"
 
 msgctxt "pithag ability"
 msgid "Each night*, choose a player & a character they become (if not-in-play). If a Demon is made, deaths tonight are arbitrary."
@@ -2164,7 +2183,7 @@ msgstr "Round about the cauldron go; In the poison'd entrails throw; Toad, that 
 
 msgctxt "pithag otherNightReminder"
 msgid "The Pit-Hag points to a player and a character on the sheet. If this character is not in play, wake that player and show them the 'You are' card and the relevant character token. If the character is in play, nothing happens."
-msgstr "Pit-Hag peger på en spiller og en karakter på arket. Hvis denne karakter ikke er i spil, skal du vække spilleren og vise dem kortet 'Du er' og det relevante karaktertoken. Hvis karakteren er i spil, sker der ikke noget"
+msgstr "Mosekonen peger på en spiller og en karakter på arket. Hvis denne karakter ikke er i spil, skal du vække spilleren og vise dem kortet 'Du er' og det relevante karaktertoken. Hvis karakteren er i spil, sker der ikke noget"
 
 msgctxt "pixie name"
 msgid "Pixie"
@@ -2324,11 +2343,11 @@ msgstr "Ved en prædiken"
 
 msgctxt "princess name"
 msgid "Princess"
-msgstr "Princess"
+msgstr "Prinsesse"
 
 msgctxt "princess ability"
 msgid "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
-msgstr "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
+msgstr "På din første dag, hvis du nominerede og henrettede en spiller, dræber dæmonen ikke i nat."
 
 msgctxt "princess flavor"
 msgid "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
@@ -2336,11 +2355,11 @@ msgstr "Our words are hounds, bound by silken threads, dear lords. Let kindness 
 
 msgctxt "princess otherNightReminder"
 msgid "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
-msgstr "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
+msgstr "Hvis det var prinsessens første dag, og de nominerede og henrettede en spiller, dræber dæmonen ikke i nat."
 
 msgctxt "princess reminders"
 msgid "Doesn't Kill"
-msgstr "Doesn't Kill"
+msgstr "Dræber Ikke"
 
 msgctxt "professor name"
 msgid "Professor"
@@ -2944,10 +2963,6 @@ msgctxt "undertaker otherNightReminder"
 msgid "If a player was executed today: Show that player’s character token."
 msgstr "Hvis en spiller blev henrettet i dag: Vis denne spillers Karakterbrik."
 
-msgctxt "undertaker reminders"
-msgid "Executed"
-msgstr ""
-
 msgctxt "vigormortis name"
 msgid "Vigormortis"
 msgstr "Vigormortis"
@@ -3126,11 +3141,11 @@ msgstr "Forbandet"
 
 msgctxt "wizard name"
 msgid "Wizard"
-msgstr "Wizard"
+msgstr "Troldmand"
 
 msgctxt "wizard ability"
 msgid "Once per game, choose to make a wish.  If granted, it might have a price & leave a clue as to its nature."
-msgstr "Once per game, choose to make a wish.  If granted, it might have a price & leave a clue as to its nature."
+msgstr "En gang per spil kan du lave et ønske. Hvis dette opfyldes kan det komme med en pris, og efterlade et spor til hvad dettes natur er."
 
 msgctxt "wizard flavor"
 msgid "Genies are overrated."
@@ -3138,7 +3153,7 @@ msgstr "Genies are overrated."
 
 msgctxt "wizard firstNightReminder"
 msgid "Run the Wizard ability if applicable."
-msgstr "Run the Wizard ability if applicable."
+msgstr "Kør Troldmandens evne hvis det er nødvendigt."
 
 msgctxt "wizard otherNightReminder"
 msgid "Run the Wizard ability if applicable."
@@ -3150,19 +3165,23 @@ msgstr "?"
 
 msgctxt "wraith name"
 msgid "Wraith"
-msgstr ""
+msgstr "Spøgelse"
 
 msgctxt "wraith ability"
 msgid "You may choose to open your eyes at night. You wake when other evil players do."
-msgstr ""
+msgstr "Du kan vælge at åbne øjnene om natten. Du bliver vækket med alle andre onde karakterer."
 
 msgctxt "wraith flavor"
 msgid "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
-msgstr ""
+msgstr "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
+
+msgctxt "wraith firstNightReminder"
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Væk spøgelset, hvergang en anden ons spiller bliver vækket."
 
 msgctxt "wraith otherNightReminder"
-msgid "If the wraith has lost its ability, remind them not to open their eyes."
-msgstr ""
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Væk spøgelset, i nat, hver gang en anden ond spiller bliver vækket."
 
 msgctxt "xaan name"
 msgid "Xaan"
@@ -3170,7 +3189,7 @@ msgstr "Xaan"
 
 msgctxt "xaan ability"
 msgid "On night X, all Townsfolk are poisoned until dusk. [X Outsiders]"
-msgstr "On night X, all Townsfolk are poisoned until dusk. [X Outsiders]"
+msgstr "På nat X: alle byboere er forgiftet indtil aften. [X fremmede]"
 
 msgctxt "xaan flavor"
 msgid "Down they fall. One by one. By two, by three, by five."
@@ -3178,7 +3197,7 @@ msgstr "Down they fall. One by one. By two, by three, by five."
 
 msgctxt "xaan reminders"
 msgid "Night 1, Night 2, Night 3, X"
-msgstr "Night 1, Night 2, Night 3, X"
+msgstr "Nat 1, Nat 2, Nat 3, X"
 
 msgctxt "yaggababble name"
 msgid "Yaggababble"
@@ -3235,7 +3254,3 @@ msgstr "Hvis ingen døde i løbet af dagen: Zombuul peger på en spiller. Den sp
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "Døde idag,Død"
-
-#~ msgctxt "deusexfiasco flavor"
-#~ msgid "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
-#~ msgstr "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."

@@ -99,11 +99,6 @@ msgctxt "amnesiac firstNightReminder"
 msgid "Decide the Amnesiac's entire ability. If the Amnesiac's ability causes them to wake tonight: Wake the Amnesiac and run their ability."
 msgstr "قرر ماهي ميزة وقدرة فاقد الذاكرة. وإذا احتجت أن توقظ فاقد الذاكرة في الليل، أوقظه وأخبره المعلومة حسب ميزته."
 
-#, fuzzy
-msgctxt "amnesiac otherNightReminder"
-msgid "If the Amnesiac's ability causes them to wake tonight: Wake the Amnesiac and run their ability."
-msgstr "قرر ماهي ميزة وقدرة فاقد الذاكرة. وإذا احتجت أن توقظ فاقد الذاكرة في الليل، أوقظه وأخبره المعلومة حسب ميزته."
-
 msgctxt "amnesiac reminders"
 msgid "?"
 msgstr "?"
@@ -486,6 +481,26 @@ msgctxt "butler reminders"
 msgid "Master"
 msgstr "متبوع"
 
+msgctxt "cacklejack name"
+msgid "Cacklejack"
+msgstr "Cacklejack"
+
+msgctxt "cacklejack ability"
+msgid "Each day, choose a player: a different player changes character tonight."
+msgstr "Each day, choose a player: a different player changes character tonight."
+
+msgctxt "cacklejack flavor"
+msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+msgstr "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+
+msgctxt "cacklejack otherNightReminder"
+msgid "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+msgstr "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+
+msgctxt "cacklejack reminders"
+msgid "Not me"
+msgstr "Not me"
+
 msgctxt "cannibal name"
 msgid "Cannibal"
 msgstr "آكل لحوم البشر"
@@ -611,7 +626,7 @@ msgid "The Courtier either shows a 'no' head signal, or points to a character on
 msgstr "الحاشية إما يختار شخصية أو يؤجل الاختيار. إذا اختار شخصية وهذه الشخصية موجودة في اللعبة يصبح ذلك اللاعب مخمور"
 
 msgctxt "courtier otherNightReminder"
-msgid "Reduce the remaining number of days the marked player is poisoned. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgid "Reduce the remaining number of days the marked player is drunk. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
 msgstr "خفض عدد الأيام للاعب المخمور. وإذا لم يستخدم الحاشية ميزته إسأله إما يختار شخصية أو يؤجل الاختيار. إذا اختار شخصية وهذه الشخصية موجودة في اللعبة يصبح ذلك اللاعب مخمور"
 
 msgctxt "courtier reminders"
@@ -669,6 +684,10 @@ msgstr "Deus ex Fiasco"
 msgctxt "deusexfiasco ability"
 msgid "At least once per game, the Storyteller will make a mistake, correct it and publicly admit to it."
 msgstr "At least once per game, the Storyteller will make a mistake, correct it and publicly admit to it."
+
+msgctxt "deusexfiasco flavor"
+msgid "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
+msgstr "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
 
 msgctxt "deusexfiasco reminders"
 msgid "Whoopsie"
@@ -1360,19 +1379,19 @@ msgstr "After the hail has smashed the roof and splintered the glass of the Cath
 
 msgctxt "hermit name"
 msgid "Hermit"
-msgstr ""
+msgstr "Hermit"
 
 msgctxt "hermit ability"
 msgid "You have all Outsider abilities. [-0 or -1 Outsider]"
-msgstr ""
+msgstr "You have all Outsider abilities. [-0 or -1 Outsider]"
 
 msgctxt "hermit flavor"
 msgid "In the lost and forgotten places of the earth, the soul’s light beckons."
-msgstr ""
+msgstr "In the lost and forgotten places of the earth, the soul’s light beckons."
 
 msgctxt "hermit reminders"
 msgid "1, 2, 3"
-msgstr ""
+msgstr "1, 2, 3"
 
 msgctxt "highpriestess name"
 msgid "High Priestess"
@@ -1452,7 +1471,7 @@ msgstr "Come inside, fair traveller, and rest your weary bones. Drink and be mer
 
 msgctxt "innkeeper otherNightReminder"
 msgid "The previously protected and drunk players lose those markers. The Innkeeper points to two players. Those players are protected. One is drunk."
-msgstr "أزل العلامة من كلا اللاعبين (اللاعب المحمي سابقا واللاعب المخمور سابقا). الساقي يختار لاعبين آخرين لحمايتهما، وأحدهما يصبح مخمو."
+msgstr "أزل العلامة من كلا اللاعبين (اللاعب المحمي سابقا واللاعب المخمور سابقا). الساقي يختار لاعبين آخرين لحمايتهما، وأحدهما يصبح مخمور"
 
 msgctxt "innkeeper reminders"
 msgid "Protected,Drunk"
@@ -2051,10 +2070,6 @@ msgstr "<grunt><grin></grunt>"
 msgctxt "ogre firstNightReminder"
 msgid "The Ogre points to a player (not themselves) and becomes their alignment."
 msgstr "The Ogre points to a player (not themselves) and becomes their alignment."
-
-msgctxt "ogre reminders"
-msgid "Friend"
-msgstr ""
 
 msgctxt "ojo name"
 msgid "Ojo"
@@ -3050,29 +3065,6 @@ msgctxt "voudon flavor"
 msgid "Bien venu. Sit down. Breathe deep. Enter the land of the dead. See with their eyes. Speak with their voice. Yon sel lang se janm ase."
 msgstr "Bien venu. Sit down. Breathe deep. Enter the land of the dead. See with their eyes. Speak with their voice. Yon sel lang se janm ase."
 
-#, fuzzy
-msgctxt "washerwoman name"
-msgid "Washerwoman"
-msgstr "الصياد"
-
-#, fuzzy
-msgctxt "washerwoman ability"
-msgid "You start knowing that 1 of 2 players is a particular Townsfolk."
-msgstr "في أول ليلة فقط، المنظم يخبرك شخصية من الأشرار لأحد لاعبين."
-
-msgctxt "washerwoman flavor"
-msgid "Bloodstains on a dinner jacket? No, this is cooking sherry. How careless."
-msgstr ""
-
-#, fuzzy
-msgctxt "washerwoman firstNightReminder"
-msgid "Show the character token of a Townsfolk in play. Point to two players, one of which is that character."
-msgstr "أخبره باسم شخصية من الأشرار الموجودين في اللعبة، ثم أخبره باسم لاعبين أحدهما صاحب هذه الشخصية."
-
-msgctxt "washerwoman reminders"
-msgid "Townsfolk,Wrong"
-msgstr ""
-
 msgctxt "widow name"
 msgid "Widow"
 msgstr "الأرملة"
@@ -3147,19 +3139,23 @@ msgstr "?"
 
 msgctxt "wraith name"
 msgid "Wraith"
-msgstr ""
+msgstr "Wraith"
 
 msgctxt "wraith ability"
 msgid "You may choose to open your eyes at night. You wake when other evil players do."
-msgstr ""
+msgstr "You may choose to open your eyes at night. You wake when other evil players do."
 
 msgctxt "wraith flavor"
 msgid "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
-msgstr ""
+msgstr "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
+
+msgctxt "wraith firstNightReminder"
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Wake the Wraith tonight whenever other evil players wake."
 
 msgctxt "wraith otherNightReminder"
-msgid "If the wraith has lost its ability, remind them not to open their eyes."
-msgstr ""
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Wake the Wraith tonight whenever other evil players wake."
 
 msgctxt "xaan name"
 msgid "Xaan"
@@ -3232,7 +3228,3 @@ msgstr "إذا لم يمت أي لاعب في النهار يختار الزوم
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "مات اليوم,ميت"
-
-#~ msgctxt "deusexfiasco flavor"
-#~ msgid "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
-#~ msgstr "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."

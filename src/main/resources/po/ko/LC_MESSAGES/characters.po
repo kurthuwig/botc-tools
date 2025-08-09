@@ -485,6 +485,26 @@ msgctxt "butler reminders"
 msgid "Master"
 msgstr "마스터"
 
+msgctxt "cacklejack name"
+msgid "Cacklejack"
+msgstr "Cacklejack"
+
+msgctxt "cacklejack ability"
+msgid "Each day, choose a player: a different player changes character tonight."
+msgstr "Each day, choose a player: a different player changes character tonight."
+
+msgctxt "cacklejack flavor"
+msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+msgstr "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+
+msgctxt "cacklejack otherNightReminder"
+msgid "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+msgstr "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+
+msgctxt "cacklejack reminders"
+msgid "Not me"
+msgstr "Not me"
+
 msgctxt "cannibal name"
 msgid "Cannibal"
 msgstr "식인종"
@@ -610,7 +630,7 @@ msgid "The Courtier either shows a 'no' head signal, or points to a character on
 msgstr "대신을 꺠웁니다, 아니오 또는 캐릭터 시트의 한명을 가리킵니다, 그 캐릭터에 '취함3' 알림토큰을 표기하고, 대신에게 '능력없음' 알림으로 표기합니다.(취함3,2,1 을 밤마다 바꿉니다)"
 
 msgctxt "courtier otherNightReminder"
-msgid "Reduce the remaining number of days the marked player is poisoned. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgid "Reduce the remaining number of days the marked player is drunk. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
 msgstr "대신을 꺠웁니다, 아니오 또는 캐릭터 시트의 한명을 가리킵니다, 그 캐릭터에 '취함3' 알림토큰을 표기하고, 대신에게 '능력없음' 알림으로 표기합니다.(취함3,2,1 을 밤마다 바꿉니다)"
 
 msgctxt "courtier reminders"
@@ -1359,19 +1379,19 @@ msgstr "After the hail has smashed the roof and splintered the glass of the Cath
 
 msgctxt "hermit name"
 msgid "Hermit"
-msgstr ""
+msgstr "Hermit"
 
 msgctxt "hermit ability"
 msgid "You have all Outsider abilities. [-0 or -1 Outsider]"
-msgstr ""
+msgstr "You have all Outsider abilities. [-0 or -1 Outsider]"
 
 msgctxt "hermit flavor"
 msgid "In the lost and forgotten places of the earth, the soul’s light beckons."
-msgstr ""
+msgstr "In the lost and forgotten places of the earth, the soul’s light beckons."
 
 msgctxt "hermit reminders"
 msgid "1, 2, 3"
-msgstr ""
+msgstr "1, 2, 3"
 
 msgctxt "highpriestess name"
 msgid "High Priestess"
@@ -1798,6 +1818,10 @@ msgid ""
 msgstr ""
 "1... 2... Abra... 3... 4... Cadabra... *poof!*\n"
 "And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!"
+
+msgctxt "magician firstNightReminder"
+msgid "Point to the Magician when showing the Demon their Minions. Point to the Demon and the Magician when showing the Minions their Demon."
+msgstr "하수인들에게 악마를 알려줄떄, 같이 알려줍니다 악마에게 하수인들을 알려줄떄, 마술사도 포함됩니다"
 
 msgctxt "marionette name"
 msgid "Marionette"
@@ -3143,19 +3167,23 @@ msgstr "?"
 
 msgctxt "wraith name"
 msgid "Wraith"
-msgstr ""
+msgstr "Wraith"
 
 msgctxt "wraith ability"
 msgid "You may choose to open your eyes at night. You wake when other evil players do."
-msgstr ""
+msgstr "You may choose to open your eyes at night. You wake when other evil players do."
 
 msgctxt "wraith flavor"
 msgid "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
-msgstr ""
+msgstr "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
+
+msgctxt "wraith firstNightReminder"
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Wake the Wraith tonight whenever other evil players wake."
 
 msgctxt "wraith otherNightReminder"
-msgid "If the wraith has lost its ability, remind them not to open their eyes."
-msgstr ""
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Wake the Wraith tonight whenever other evil players wake."
 
 msgctxt "xaan name"
 msgid "Xaan"
@@ -3228,7 +3256,3 @@ msgstr "만약 오늘 낮에 아무도 죽지 않았다면, 좀부울은 플레�
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "오늘 사망함,사망"
-
-#~ msgctxt "magician firstNightReminder"
-#~ msgid "Point to the Magician when showing the Demon their Minions. Point to the Demon and the Magician when showing the Minions their Demon."
-#~ msgstr "하수인들에게 악마를 알려줄떄, 같이 알려줍니다 악마에게 하수인들을 알려줄떄, 마술사도 포함됩니다"

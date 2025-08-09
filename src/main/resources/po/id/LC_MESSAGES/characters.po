@@ -485,6 +485,26 @@ msgctxt "butler reminders"
 msgid "Master"
 msgstr "Master"
 
+msgctxt "cacklejack name"
+msgid "Cacklejack"
+msgstr "Cacklejack"
+
+msgctxt "cacklejack ability"
+msgid "Each day, choose a player: a different player changes character tonight."
+msgstr "Each day, choose a player: a different player changes character tonight."
+
+msgctxt "cacklejack flavor"
+msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+msgstr "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+
+msgctxt "cacklejack otherNightReminder"
+msgid "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+msgstr "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+
+msgctxt "cacklejack reminders"
+msgid "Not me"
+msgstr "Not me"
+
 msgctxt "cannibal name"
 msgid "Cannibal"
 msgstr "Cannibal"
@@ -610,7 +630,7 @@ msgid "The Courtier either shows a 'no' head signal, or points to a character on
 msgstr "Courtier antara menunjukkan sinyal kepala 'tidak', atau menunjuk ke karakter di lembar list karakter. Jika Courtiers menggunakan kemampuannya: Jika karakter tersebut ada dalam permainan, pemain tersebut mabuk."
 
 msgctxt "courtier otherNightReminder"
-msgid "Reduce the remaining number of days the marked player is poisoned. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgid "Reduce the remaining number of days the marked player is drunk. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
 msgstr "Kurangi jumlah hari tersisa pemain yang ditandai diracuni. Jika Courtier belum menggunakan kemampuannya: Courtier antara menunjukkan sinyal kepala 'tidak', atau menunjuk ke karakter di lembar list karakter. Jika Courtiers menggunakan kemampuannya: Jika karakter tersebut ada dalam permainan, pemain tersebut mabuk."
 
 msgctxt "courtier reminders"
@@ -1072,11 +1092,6 @@ msgstr "Kepala, saya menang. Ekor, kamu kalah."
 msgctxt "gambler otherNightReminder"
 msgid "The Gambler points to a player, and a character on their sheet. If incorrect, the Gambler dies."
 msgstr "Gambler menunjuk ke seorang pemain, dan karakter di list lembar karakter mereka. Jika salah, Gambler mati."
-
-#, fuzzy
-msgctxt "gambler reminders"
-msgid "Dead"
-msgstr "Dead"
 
 msgctxt "gangster name"
 msgid "Gangster"
@@ -1800,6 +1815,10 @@ msgstr ""
 "1... 2... Abra... 3... 4... Cadabra... *poof!*\n"
 "Dan, seperti yang Anda lihat, ladies and gentlemen, tas emas Kapten Farnsworth telah menghilang! Hilang! Tanpa jejak! Terima kasih, dan selamat malam!"
 
+msgctxt "magician firstNightReminder"
+msgid "Point to the Magician when showing the Demon their Minions. Point to the Demon and the Magician when showing the Minions their Demon."
+msgstr "Tunjuklah Magician saat menunjukkan Minion info kepada Demon . Tunjuklah pada Demon dan Magician saat menunjukkan Demon info kepada Para Minion."
+
 msgctxt "marionette name"
 msgid "Marionette"
 msgstr "Marionette"
@@ -2322,15 +2341,15 @@ msgstr "Princess"
 
 msgctxt "princess ability"
 msgid "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
-msgstr "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
+msgstr "Pada hari pertama-mu, Jika kamu melakukan nominasi & mengeksekusi seorang pemain, Demon tidak akan membunuh malam ini."
 
 msgctxt "princess flavor"
 msgid "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
-msgstr "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
+msgstr "Kata-kata kita adalah anjing pemburu, terikat oleh benang sutra, tuan-tuan yang mulia. Biarlah kebaikan merajutnya dengan benar, agar tali kekang tak terurai dan merobek singgasana kita."
 
 msgctxt "princess otherNightReminder"
 msgid "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
-msgstr "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
+msgstr "Jika hari ini adalah hari pertama Princess, dan dia melakukan nominasi lalu mengeksekusi seorang pemain, maka Demon tidak membunuh."
 
 msgctxt "princess reminders"
 msgid "Doesn't Kill"
@@ -3142,19 +3161,23 @@ msgstr "?"
 
 msgctxt "wraith name"
 msgid "Wraith"
-msgstr ""
+msgstr "Wraith"
 
 msgctxt "wraith ability"
 msgid "You may choose to open your eyes at night. You wake when other evil players do."
-msgstr ""
+msgstr "Kamu boleh memilih untuk membuka matamu pada malam hari. Kamu akan terbangun saat pemain jahat lainnya terbangun."
 
 msgctxt "wraith flavor"
 msgid "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
-msgstr ""
+msgstr "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
+
+msgctxt "wraith firstNightReminder"
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Setiap kali kamu membangunkan seorang pemain jahat pada malam hari, pertama-tama bangunkan Wraith. Ketika kamu menidurkan pemain jahat itu kembali, tidurkan juga Wraith."
 
 msgctxt "wraith otherNightReminder"
-msgid "If the wraith has lost its ability, remind them not to open their eyes."
-msgstr ""
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Setiap kali kamu membangunkan seorang pemain jahat pada malam hari, pertama-tama bangunkan Wraith. Ketika kamu menidurkan pemain jahat itu kembali, tidurkan juga Wraith."
 
 msgctxt "xaan name"
 msgid "Xaan"
@@ -3227,7 +3250,3 @@ msgstr "Jika tidak ada yang mati selama hari itu: Zombuul menunjuk ke seorang pe
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "Died today,Dead"
-
-#~ msgctxt "magician firstNightReminder"
-#~ msgid "Point to the Magician when showing the Demon their Minions. Point to the Demon and the Magician when showing the Minions their Demon."
-#~ msgstr "Tunjuklah Magician saat menunjukkan Minion info kepada Demon . Tunjuklah pada Demon dan Magician saat menunjukkan Demon info kepada Para Minion."

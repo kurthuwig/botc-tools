@@ -21,7 +21,7 @@ msgstr "Chaque nuit*, choisissez un joueur: s'il est ou devient ivre ou empoison
 
 msgctxt "acrobat flavor"
 msgid "Welcome, one and all, to the greatest show on earth."
-msgstr "Welcome, one and all, to the greatest show on earth."
+msgstr "Bienvenue, à toutes et à tous, au meilleur spectacle du monde."
 
 msgctxt "acrobat otherNightReminder"
 msgid "The Acrobat chooses a player. If they are become drunk or poisoned tonight, the Acrobat player dies."
@@ -81,7 +81,7 @@ msgstr "Chaque jour, si vous devinez publiquement quels joueurs est/sont Sbires 
 
 msgctxt "alsaahir flavor"
 msgid "I am here because of you, and you are here because of me."
-msgstr "I am here because of you, and you are here because of me."
+msgstr "Je suis ici à cause de vous, et vous êtes ici à cause de moi."
 
 msgctxt "amnesiac name"
 msgid "Amnesiac"
@@ -89,11 +89,11 @@ msgstr "Amnésique"
 
 msgctxt "amnesiac ability"
 msgid "You do not know what your ability is. Each day, privately guess what it is: you learn how accurate you are."
-msgstr "Vous ne connaissez pas votre capacité. Chaque jour, tentez de la deviner en privé: vous apprenez à quel point vous êtes précis."
+msgstr "Vous ne connaissez pas votre capacité. Chaque jour, tentez de la deviner en privé: vous apprenez à quel point vous êtes proche."
 
 msgctxt "amnesiac flavor"
 msgid "Wait. What. Who? Oh, ok. Wait. What?"
-msgstr "Wait. What. Who? Oh, ok. Wait. What?"
+msgstr "Attends. Quoi. Qui? Oh, ok. Attends. Quoi?"
 
 msgctxt "amnesiac firstNightReminder"
 msgid "Decide the Amnesiac's entire ability. If the Amnesiac's ability causes them to wake tonight: Wake the Amnesiac and run their ability."
@@ -117,7 +117,7 @@ msgstr "Quelque chose de grave peut arriver à celui qui est le plus responsable
 
 msgctxt "angel flavor"
 msgid "Let those who are without sin dare to raise their hand to my chosen, for I shall strike such fools down with the fury and righteousness of a thousand storms."
-msgstr "Let those who are without sin dare to raise their hand to my chosen, for I shall strike such fools down with the fury and righteousness of a thousand storms."
+msgstr "Laissez ceux qui n'ont jamais péché oser lever la main contre mes protégés, car j'abbaterai ces sots avec la colère et la vertu de milliers de tempêtes."
 
 msgctxt "angel reminders"
 msgid "Protect,Something Bad"
@@ -189,7 +189,7 @@ msgstr "Le Conteur peut ignorer les règles du jeu et s'il est exécuté, les Bo
 
 msgctxt "atheist flavor"
 msgid "Let us disperse with unnecessary conjecture and silly paranoia. There is a perfectly rational explanation for everything. Yes, a teacup may indeed be orbiting the planet, too small to see, but I shall drink my tea from the very real china in my very real hands."
-msgstr "Let us disperse with unnecessary conjecture and silly paranoia. There is a perfectly rational explanation for everything. Yes, a teacup may indeed be orbiting the planet, too small to see, but I shall drink my tea from the very real china in my very real hands."
+msgstr "Dispersons ces conjectures inutiles et cette paranoïa stupide. Il existe une explication parfaitement rationelle à tout. Oui, une tasse de thé pourrait bien être en orbite autour de notre planète, trop petite pour être vue, mais je buvrais mon thé de la très réelle porcelaine dans mes très réelles mains."
 
 msgctxt "balloonist name"
 msgid "Balloonist"
@@ -213,7 +213,7 @@ msgstr "Choisissez un type de rôle différent de la nuit dernière. Pointez un 
 
 msgctxt "balloonist reminders"
 msgid "Seen Townsfolk,Seen Outsider,Seen Minion,Seen Demon,Seen Traveller"
-msgstr "vu"
+msgstr "Vu"
 
 msgctxt "banshee name"
 msgid "Banshee"
@@ -221,7 +221,7 @@ msgstr "Banshee"
 
 msgctxt "banshee ability"
 msgid "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination."
-msgstr "Si le démon vous tue, tous les joueurs l'apprennent. A partir de maintenant, vous pourrez nommer 2 fois par jour et voter 2 fois par nomination."
+msgstr "Si le Démon vous tue, tous les joueurs l'apprennent. A partir de maintenant, vous pourrez nommer 2 fois par jour et voter 2 fois par nomination."
 
 msgctxt "banshee flavor"
 msgid "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh."
@@ -241,11 +241,11 @@ msgstr "Barbier"
 
 msgctxt "barber ability"
 msgid "If you died today or tonight, the Demon may choose 2 players (not another Demon) to swap characters."
-msgstr "Si vous mourez aujourd’hui ou cette nuit, le Démon peut choisir deux joueurs (pas un autre Démon) pour échanger leurs rôles entre eux cette nuit, sans pour autant changer leur alignement."
+msgstr "Si vous êtes mort aujourd’hui ou cette nuit, le Démon peut choisir 2 joueurs (pas un autre Démon) et échanger leurs rôles (pas leur alignement) cette nuit."
 
 msgctxt "barber flavor"
 msgid "Did you know that barbery and surgery were once the same profession? No? Well, now you do."
-msgstr "Did you know that barbery and surgery were once the same profession? No? Well, now you do."
+msgstr "Saviez-vous que la barberie et la chirurgie était autrefois la même profession? Non? Et bien maintenant, oui."
 
 msgctxt "barber otherNightReminder"
 msgid "If the Barber died today: Wake the Demon. Show the 'This character selected you' card, then Barber token. The Demon either shows a 'no' head signal, or points to 2 players. If they chose players: Swap the character tokens. Wake each player. Show 'You are', then their new character token."
@@ -253,7 +253,7 @@ msgstr "S’il est mort aujourd'hui réveillez le Démon. Montrez la carte verte
 
 msgctxt "barber reminders"
 msgid "Haircuts tonight"
-msgstr "Échange"
+msgstr "Coupe de cheveux"
 
 msgctxt "barista name"
 msgid "Barista"
@@ -265,7 +265,7 @@ msgstr "Chaque nuit et jusqu'au crépuscule suivant, un autre joueur apprend que
 
 msgctxt "barista flavor"
 msgid "A cup of coffee with no cream, Monsieur? I’m terribly sorry, but we’re fresh out of cream — how about with no milk?"
-msgstr "A cup of coffee with no cream, Monsieur? I’m terribly sorry, but we’re fresh out of cream — how about with no milk?"
+msgstr "Une tasse de café sans crême, Monsieur? Je suis navré, mais nous sommes tout juste à court de crême — que diriez-vous d'un café sans lait?"
 
 msgctxt "barista firstNightReminder"
 msgid "Choose a player, wake them and tell them which Barista power is affecting them. Treat them accordingly (sober/healthy/true info or activate their ability twice)."
@@ -285,7 +285,7 @@ msgstr "Baron"
 
 msgctxt "baron ability"
 msgid "There are extra Outsiders in play. [+2 Outsiders]"
-msgstr "Il y a des Étrangers supplémentaires en jeu [+2 Étrangers]."
+msgstr "Il y a des Étrangers supplémentaires en jeu. [+2 Étrangers]"
 
 msgctxt "baron flavor"
 msgid "This town has gone to the dogs, what? Cheap foreign labor... that's the ticket. Stuff them in the mine, I say. A bit of hard work never hurt anyone, and a clip'o'the ears to any brigand who says otherwise. It's all about the bottom line, what?"
@@ -297,7 +297,7 @@ msgstr "Mendiant"
 
 msgctxt "beggar ability"
 msgid "You must use a vote token to vote. Dead players may choose to give you theirs. If so, you learn their alignment. You are sober & healthy."
-msgstr "Vous ne ne pouvez voter que si vous disposez d'un jeton de vote. Pendant la journée, un joueur mort peut vous donner son jeton. Si cela se produit, vous apprenez son alignement. Vous êtes sobre et sain."
+msgstr "Vous ne ne pouvez voter qu'en dépensant un jeton de vote. Pendant la journée, un joueur mort peut vous donner son jeton. Si cela se produit, vous apprenez son alignement. Vous êtes sobre et sain."
 
 msgctxt "beggar flavor"
 msgid "Alms for the poor, good Sir? Spare a coin, Madam? Thank you. God bless! You're a right kind soul and no mistake! I'll have some swanky nosh tonight, I will!"
@@ -309,7 +309,7 @@ msgstr "Archevêque"
 
 msgctxt "bishop ability"
 msgid "Only the Storyteller can nominate. At least 1 opposite player must be nominated each day."
-msgstr "Seul le conteur peut nommer. Un joueur d'alignement opposé à l’Archevêque devra être nominé chaque jour."
+msgstr "Seul le Conteur peut nommer. Un joueur d'alignement opposé à l’Archevêque devra être nominé chaque jour."
 
 msgctxt "bishop flavor"
 msgid "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis."
@@ -329,11 +329,11 @@ msgstr "Le Démon (même si ivre ou empoisonné) obtient la capacité d'un rôle
 
 msgctxt "boffin flavor"
 msgid "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle."
-msgstr "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle."
+msgstr "De l'hydrogène stellaire, vaste, inerte; carbone, oxygène, gas nobles, tous ruinés. Le chaos moléculaire, l'entropie, donne lieu à un nouveau phénomène cosmique, une renaissance depuis le chaos atomique, la chute d'une matière dense. Le tout dans une toute petite bouteille."
 
 msgctxt "boffin firstNightReminder"
 msgid "Wake the Boffin and show them the token of the ability the Demon has. Put the Boffin back to sleep. Wake the Demon, show the Boffin token, then show the token of the good ability the Demon has."
-msgstr "Réveillez le Scientifique et montrez-lui la capacité que le démon possède. Rendormez le Scientifique. Réveillez le démon, Montrez-lui le jeton du Scientifique, puis montrez-lui la capacité bonne que qu'il possède."
+msgstr "Réveillez le Scientifique et montrez-lui la capacité que le démon possède. Rendormez le Scientifique. Réveillez le Démon, Montrez-lui le jeton du Scientifique, puis montrez-lui la capacité bonne que qu'il possède."
 
 msgctxt "bonecollector name"
 msgid "Bone Collector"
@@ -345,7 +345,7 @@ msgstr "Une fois par partie, la nuit, choisissez un joueur mort: il retrouve ses
 
 msgctxt "bonecollector flavor"
 msgid "I collect many things. Hair. Teeth. Clothes. Fragments of poems. The dreams of lost lovers. My secret arts are not for you to know but my fee is a mere pittance. Bring me the blood of a noblewoman who died of heartbreak under a full moon, and you shall have your answers."
-msgstr "I collect many things. Hair. Teeth. Clothes. Fragments of poems. The dreams of lost lovers. My secret arts are not for you to know but my fee is a mere pittance. Bring me the blood of a noblewoman who died of heartbreak under a full moon, and you shall have your answers."
+msgstr "Je collecte beaucoup de choses. Des cheveux. Des dents. Des vêtements. Des fragments de poèmes. Les rêves des amants perdus. Mon art secret n'est pas pour votre connaissance, mais mes frais ne sont qu'une simple pitance. Apportez-moi le sang d'une femme noble morte d'un coeur brisé sous la pleine lune, et vous aurez vos réponses."
 
 msgctxt "bonecollector otherNightReminder"
 msgid "The Bone Collector either shakes their head no or points at any dead player. If they pointed at any dead player, put the Bone Collector's 'Has Ability' reminder by the chosen player's character token. (They may need to be woken tonight to use it.)"
@@ -365,7 +365,7 @@ msgstr "Si vous êtes exécuté, tous les joueurs sauf 3 meurent. Après un déc
 
 msgctxt "boomdandy flavor"
 msgid "Tick... Tick... Tick... TOCK."
-msgstr "Tick... Tick... Tick... TOCK."
+msgstr "Tic... Tic... Tic... TAC."
 
 msgctxt "bootlegger name"
 msgid "Bootlegger"
@@ -389,7 +389,7 @@ msgstr "Chasseur de primes"
 
 msgctxt "bountyhunter ability"
 msgid "You start knowing 1 evil player. If the player you know dies, you learn another evil player tonight. [1 Townsfolk is evil]"
-msgstr "La première nuit, le Conteur vous désigne 1 joueur maléfique (votre cible). Si ce joueur meurt, cette nuit le Conteur vous désigne 1 nouveau joueur maléfique (nouvelle cible) [1 Villageois est maléfique]."
+msgstr "Vous commencez par apprendre 1 joueur maléfique. Si le joueur que vous avez appris meurt, vous apprenez 1 autre joueur maléfique cette nuit. [1 Villageois est maléfique]"
 
 msgctxt "bountyhunter flavor"
 msgid "Alone, I walk these streets, paved with the sick stench of corruption. Its thickness worms its way into my nostrils, unbidden, burning with revulsion. And anticipation. The illness of this wretched place grows each night. And I... I am the cure."
@@ -417,7 +417,7 @@ msgstr "Pendant les 2 premières minutes de chaque journée, les joueurs vétér
 
 msgctxt "buddhist flavor"
 msgid "You throw thorns. Falling in my silence, they become flowers."
-msgstr "You throw thorns. Falling in my silence, they become flowers."
+msgstr "Vous lancez des épines. Dans mon silence, elles deviennent des roses."
 
 msgctxt "bureaucrat name"
 msgid "Bureaucrat"
@@ -429,7 +429,7 @@ msgstr "Chaque nuit, choisissez un autre joueur: son vote comptera pour 3 votes 
 
 msgctxt "bureaucrat flavor"
 msgid "Sign here please. And here. And here. Aaaaaaaaand here. This should all be sorted and tallied by the end of the day, assuming everyone's signatures are legible. We haven't had a mix-up in the paperwork for ages. Yesterday noon, if memory serves..."
-msgstr "Sign here please. And here. And here. Aaaaaaaaand here. This should all be sorted and tallied by the end of the day, assuming everyone's signatures are legible. We haven't had a mix-up in the paperwork for ages. Yesterday noon, if memory serves..."
+msgstr "Veuillez signer ici. Et ici. Et là. Eeeeeet juste là. Tout devrait être en ordre et pris en compte d'ici la fin de la journée, en supposant que toutes les signatures soient lisibles. Nous n'avons pas eu de mélange dans l'administration depuis des lustres. Hier midi, si je me souviens bien..."
 
 msgctxt "bureaucrat firstNightReminder"
 msgid "The Bureaucrat points to a player. Put the Bureaucrat's '3 votes' reminder by the chosen player's character token."
@@ -453,7 +453,7 @@ msgstr "Chaque jour, après la 1ère exécution, vous pouvez faire une nouvelle 
 
 msgctxt "butcher flavor"
 msgid "It tastes like chicken. More please."
-msgstr "It tastes like chicken. More please."
+msgstr "Ca a un goût de poulet. Encore, s'il vous plaît."
 
 msgctxt "butler name"
 msgid "Butler"
@@ -469,9 +469,9 @@ msgid ""
 "No, sir...\n"
 "Certainly, sir."
 msgstr ""
-"Yes, sir...\n"
-"No, sir...\n"
-"Certainly, sir."
+"Oui, monsieur...\n"
+"Non, monsieur...\n"
+"Bien, monsieur."
 
 msgctxt "butler firstNightReminder"
 msgid "The Butler points to a player. Mark that player as 'Master'."
@@ -485,17 +485,37 @@ msgctxt "butler reminders"
 msgid "Master"
 msgstr "Maître"
 
+msgctxt "cacklejack name"
+msgid "Cacklejack"
+msgstr "Voltingue"
+
+msgctxt "cacklejack ability"
+msgid "Each day, choose a player: a different player changes character tonight."
+msgstr "Chaque jour, choisissez un joueur: un autre joueur change de personnage cette nuit."
+
+msgctxt "cacklejack flavor"
+msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+msgstr "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+
+msgctxt "cacklejack otherNightReminder"
+msgid "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+msgstr "Réveillez un joueur non marqué avec « Pas moi », montrez-lui la carte « Vous êtes », puis son nouveau jeton de personnage."
+
+msgctxt "cacklejack reminders"
+msgid "Not me"
+msgstr "Pas moi"
+
 msgctxt "cannibal name"
 msgid "Cannibal"
 msgstr "Cannibale"
 
 msgctxt "cannibal ability"
 msgid "You have the ability of the recently killed executee. If they are evil, you are poisoned until a good player dies by execution."
-msgstr "Chaque nuit*, vous gagnez la capacité du dernier rôle exécuté mort. S'il était maléfique, vous gagnez une capacité au choix du conteur et êtes empoisonné jusqu'à l'exécution d'un joueur bon"
+msgstr "Vous avez la capacité du dernier joueur mort par exécution. S'il était maléfique, vous êtes empoisonné jusqu'à la mort par exécution d'un joueur bon."
 
 msgctxt "cannibal flavor"
 msgid "I don’t like clowns. They taste funny."
-msgstr "I don’t like clowns. They taste funny."
+msgstr "Je n'aime pas les clowns. Ils ont un drôle de goût."
 
 msgctxt "cannibal reminders"
 msgid "Poisoned,Died today"
@@ -511,7 +531,7 @@ msgstr "Chaque nuit, choisissez un joueur et un rôle « bon » de la partie : i
 
 msgctxt "cerenovus flavor"
 msgid "Reality is merely an opinion. Specifically, my opinion."
-msgstr "Reality is merely an opinion. Specifically, my opinion."
+msgstr "La réalité n'est qu'une opinion. Plus précisément, mon opinion."
 
 msgctxt "cerenovus firstNightReminder"
 msgid "The Cerenovus points to a player, then to a character on their sheet. Wake that player. Show the 'This character selected you' card, then the Cerenovus token. Show the selected character token. If the player is not mad about being that character tomorrow, they can be executed."
@@ -555,7 +575,7 @@ msgstr "Votre première nuit, le Conteur vous indique combien de paires de joueu
 
 msgctxt "chef flavor"
 msgid "This evening's reservations seem odd. Never before has Mrs Mayweather kept company with that scamp from Hudson Lane. Yet, tonight, they have a table for two. Strange."
-msgstr "This evening's reservations seem odd. Never before has Mrs Mayweather kept company with that scamp from Hudson Lane. Yet, tonight, they have a table for two. Strange."
+msgstr "Les réservations de ce soir semblent étranges. Jamais avant n'ai-je vu Mme Mayweather tenir compagnie à ce gredin de Hudson Lane. Et pourtant, ce soir, ils sont assis à la même table. Étrange."
 
 msgctxt "chef firstNightReminder"
 msgid "Show the finger signal (0, 1, 2, …) for the number of pairs of neighbouring evil players."
@@ -567,7 +587,7 @@ msgstr "Enfant de Chœur"
 
 msgctxt "choirboy ability"
 msgid "If the Demon kills the King, you learn which player is the Demon. [+ the King]"
-msgstr "Si le Roi est assassiné par le Démon, vous apprenez qui est le Démon. [+Roi]"
+msgstr "Si le Démon tue le Roi, vous apprenez qui est le Démon. [+Roi]"
 
 msgctxt "choirboy flavor"
 msgid "I saw it, I did. I was in the pews, tidying the hymn books, when a dreadful tune started from the pipe organ. The organist had a long cloak, and long fingers on the keys. And a hat that looked… just like… yours."
@@ -587,7 +607,7 @@ msgstr "La première nuit, le Conteur vous indique à quelle distance (en nombre
 
 msgctxt "clockmaker flavor"
 msgid "Do not disturb me. The tick must continue, for the circle is a symbol of life and contains all things - all answers - in its divine machinery. I must work."
-msgstr "Do not disturb me. The tick must continue, for the circle is a symbol of life and contains all things - all answers - in its divine machinery. I must work."
+msgstr "Ne me dérangez pas. Le tic-tac doit continuer, car le cercle est un symbole de vie et contient toute chose - toute réponse - dans la divine machinerie. Je dois continuer mon travail."
 
 msgctxt "clockmaker firstNightReminder"
 msgid "Show the hand signal for the number (1, 2, 3, etc.) of places from Demon to closest Minion."
@@ -603,14 +623,14 @@ msgstr "Une fois par partie, pendant la nuit, choisissez un autre rôle. S’il 
 
 msgctxt "courtier flavor"
 msgid "I am more afraid of an army of one hundred sheep led by a lion than an army of one hundred lions led by a sheep."
-msgstr "I am more afraid of an army of one hundred sheep led by a lion than an army of one hundred lions led by a sheep."
+msgstr "Je suis plus effrayée d'une armée de cent moutons dirigée par un lion que d'une armée de cent lions dirigée par un mouton."
 
 msgctxt "courtier firstNightReminder"
 msgid "The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
 msgstr "La Courtisane décide si elle utilise sa capacité. Une fois par partie, elle choisit un rôle, il sera ivre pour trois nuits et trois jours."
 
 msgctxt "courtier otherNightReminder"
-msgid "Reduce the remaining number of days the marked player is poisoned. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgid "Reduce the remaining number of days the marked player is drunk. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
 msgstr "Réduisez le nombre de jours restants pendant lesquels le joueur marqué est ivre. Si la Courtisane n'a pas encore utilisé sa capacité elle décide si elle l'utilise. Une fois par partie, elle choisit un rôle, il sera ivre pour 3 nuits et 3 jours."
 
 msgctxt "courtier reminders"
@@ -623,11 +643,11 @@ msgstr "Chef de secte"
 
 msgctxt "cultleader ability"
 msgid "Each night, you become the alignment of an alive neighbour. If all good players choose to join your cult, your team wins."
-msgstr "Chaque nuit, prenez l'alignement d'un voisin vivant: si tous les « bons » joueurs choisissent de rejoindre votre culte, votre équipe gagne."
+msgstr "Chaque nuit, prenez l'alignement d'un voisin vivant. Si tous les joueurs « bons » choisissent de rejoindre votre culte, votre équipe gagne."
 
 msgctxt "cultleader flavor"
 msgid "Thinking themselves wise, they became fools."
-msgstr "Thinking themselves wise, they became fools."
+msgstr "Se pensant sages, ils sont devenus sots."
 
 msgctxt "cultleader firstNightReminder"
 msgid "If the cult leader changed alignment, show them the thumbs up good signal of the thumbs down evil signal accordingly."
@@ -647,7 +667,7 @@ msgstr "Tous les Sbires savent qu'une Demoiselle est en jeu. Si un Sbire vous d�
 
 msgctxt "damsel flavor"
 msgid "Don't touch the hair, honey."
-msgstr "Don't touch the hair, honey."
+msgstr "Ne touche pas à tes cheveux, ma chérie."
 
 msgctxt "damsel firstNightReminder"
 msgid "Wake all the Minions, show them the 'This character selected you' card and the Damsel token."
@@ -668,6 +688,10 @@ msgstr "Deus ex Fiasco"
 msgctxt "deusexfiasco ability"
 msgid "At least once per game, the Storyteller will make a mistake, correct it and publicly admit to it."
 msgstr "Une fois par partie, le Conteur va faire une « erreur », la corriger, et l'admettre publiquement."
+
+msgctxt "deusexfiasco flavor"
+msgid "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
+msgstr "Ce n'est pas un bug, c'est une fonctionnalité. Ce n'est pas une erreur, c'est un patch. Ce n'est pas cassé, c'est différent."
 
 msgctxt "deusexfiasco reminders"
 msgid "Whoopsie"
@@ -747,11 +771,11 @@ msgstr "Rêveur"
 
 msgctxt "dreamer ability"
 msgid "Each night, choose a player (not yourself or Travellers): you learn 1 good and 1 evil character, 1 of which is correct."
-msgstr "Chaque nuit, choisissez un autre joueur (pas un Voyageur), vous apprendrez son rôle et un rôle d'alignement opposé."
+msgstr "Chaque nuit, choisissez un autre joueur (pas un Voyageur), vous apprendrez son rôle et un rôle de l'alignement opposé."
 
 msgctxt "dreamer flavor"
 msgid "I remember the Clockmaker. The sky was red and it was raining fractal triangles. There was a smell of violets and a bubbling sound. A woman with glowing eyes and a scraggly beard was hissing at the sky. Then, I awoke."
-msgstr "I remember the Clockmaker. The sky was red and it was raining fractal triangles. There was a smell of violets and a bubbling sound. A woman with glowing eyes and a scraggly beard was hissing at the sky. Then, I awoke."
+msgstr "Je me rappelle de l'Horloger. Le ciel était rouge et il pleuvait des triangles fractaux. Il y avait une odeur de violettes et un son de bouillenement. Une femme avec des yeux luisants et une barbe en bataille sifflait au ciel. Puis, je me suis réveillé."
 
 msgctxt "dreamer firstNightReminder"
 msgid "The Dreamer points to a player. Show 1 good and 1 evil character token; one of these is correct."
@@ -787,7 +811,7 @@ msgstr "Chaque jour, 3 joueurs peuvent choisir de vous rendre visite. La nuit*, 
 
 msgctxt "duchess flavor"
 msgid "We shall entertain between the hours of 6 and 7 precisely. Tea at 6:15. Scones at 6:45. Do not be late. Formal wear applies, as always."
-msgstr "We shall entertain between the hours of 6 and 7 precisely. Tea at 6:15. Scones at 6:45. Do not be late. Formal wear applies, as always."
+msgstr "Nous nous entretiendrons entre 18h00 et 19h00 très précisément. Thé à 18h15. Scones à 18h45. Ne soyez pas en retard. Habits formels, comme d'habitude."
 
 msgctxt "duchess reminders"
 msgid "Visitor,False Info"
@@ -803,7 +827,7 @@ msgstr "Chaque nuit, vous apprenez combien de vos voisins vivants sont maléfiqu
 
 msgctxt "empath flavor"
 msgid "My skin prickles. Something is not right here. I can feel it."
-msgstr "My skin prickles. Something is not right here. I can feel it."
+msgstr "Mes poils se hérissent. Quelque chose ne va pas ici. Je le sens."
 
 msgctxt "empath firstNightReminder"
 msgid "Show the finger signal (0, 1, 2) for the number of evil alive neighbours of the Empath."
@@ -823,7 +847,7 @@ msgstr "Une fois par partie, pendant la nuit, choisissez quels Sbires ou quel D�
 
 msgctxt "engineer flavor"
 msgid "If it bends, great. If it breaks, well, it probably needed fixing anyway."
-msgstr "If it bends, great. If it breaks, well, it probably needed fixing anyway."
+msgstr "Si ça se tord, tant mieux. Si ça se casse, ça devait probablement être réparé dans tous les cas."
 
 msgctxt "engineer firstNightReminder"
 msgid "The Engineer shows a 'no' head signal, or points to a Demon or points to the relevant number of Minions. If the Engineer chose characters, replace the Demon or Minions with the choices, then wake the relevant players and show them the You are card and the relevant character tokens."
@@ -843,11 +867,11 @@ msgstr "Jumeau Maléfique"
 
 msgctxt "eviltwin ability"
 msgid "You & an opposing player know each other. If the good player is executed, evil wins. Good can't win if you both live."
-msgstr "Vous et un joueur d'alignement opposé vous connaissez. Si le joueur bon est exécuté, le mal gagne. Les bons ne peuvent pas gagner si vous êtes tous les deux en vie."
+msgstr "Vous et un joueur d'alignement opposé vous connaissez. Si le joueur bon est exécuté, le mal gagne. Le bien ne peut pas gagner si vous êtes tous les deux en vie."
 
 msgctxt "eviltwin flavor"
 msgid "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!"
-msgstr "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!"
+msgstr "Je ne suis pas Sara! Je suis Clara! C'est ELLE Sara! Sara est la maléfique! Pas moi!"
 
 msgctxt "eviltwin firstNightReminder"
 msgid "Wake the Evil Twin and their twin. Confirm that they have acknowledged each other. Point to the Evil Twin. Show their Evil Twin token to the twin player. Point to the twin. Show their character token to the Evil Twin player."
@@ -863,7 +887,7 @@ msgstr "Exorciste"
 
 msgctxt "exorcist ability"
 msgid "Each night*, choose a player (different to last night): the Demon, if chosen, learns who you are then doesn't wake tonight."
-msgstr "Chaque nuit*, choisissez un joueur (différent de la nuit précédente): si c’est un Démon, il n’agira pas cette nuit et il saura qui vous êtes."
+msgstr "Chaque nuit*, choisissez un joueur (différent de la nuit précédente): si c’est un Démon, il n’agira pas cette nuit et il apprend qui vous êtes."
 
 msgctxt "exorcist flavor"
 msgid "We cast you out, every unclean spirit, every satanic power, every onslaught of the infernal adversary, every legion, every diabolical group and sect, in the name and by the power of Our Lord Jesus Christ. We command you, begone and fly far from the Church of God, from the souls made by God in His image and redeemed by the precious blood of the divine Lamb."
@@ -887,15 +911,15 @@ msgstr "Chaque nuit*, choisissez un joueur: il meurt. Le 1er Étranger que vous 
 
 msgctxt "fanggu flavor"
 msgid "Your walls and your weapons are but smoke in dreams."
-msgstr "Your walls and your weapons are but smoke in dreams."
+msgstr "Vos murs et vos armes ne sont que de la fumée dans des rêves."
 
 msgctxt "fanggu otherNightReminder"
 msgid "The Fang Gu points to a player. That player dies. Or, if that player was an Outsider and there are no other Fang Gu in play: The Fang Gu dies instead of the chosen player. The chosen player is now an evil Fang Gu. Wake the new Fang Gu. Show the 'You are' card, then the Fang Gu token. Show the 'You are' card, then the thumb-down 'evil' hand sign."
-msgstr "Pointe un joueur, qui meurt, sauf s’il est le premier Étranger choisi. Dans ce cas, tuez le Démon (sans lui indiquer). Réveillez ce premier Étranger, montrez-lui la carte violette « Vous êtes » et le jeton du Démon. Indiquez-lui son nouvel alignement maléfique, par un pouce pointé vers le bas."
+msgstr "Pointe un joueur, qui meurt, sauf s’il est le premier Étranger choisi. Dans ce cas, tuez le Démon (sans lui indiquer). Réveillez ce premier Étranger, montrez-lui la carte violette « Vous êtes » et le jeton du Démon. Indiquez-lui son nouvel alignement maléfique, par un pouce pointé vers le bas. Placez le jeton « Transféré » dans le Grimoire."
 
 msgctxt "fanggu reminders"
 msgid "Dead,Once"
-msgstr "Assassiné,Transféré"
+msgstr "Mort,Transféré"
 
 msgctxt "farmer name"
 msgid "Farmer"
@@ -903,11 +927,11 @@ msgstr "Fermier"
 
 msgctxt "farmer ability"
 msgid "If you die at night, an alive good player becomes a Farmer."
-msgstr "Quand vous mourez pendant la nuit, un autre joueur bon et vivant devient le Fermier."
+msgstr "Si vous mourez pendant la nuit, un autre joueur bon et vivant devient le Fermier."
 
 msgctxt "farmer flavor"
 msgid "Even the high and mighty need food on the table. Without us, the city starves."
-msgstr "Even the high and mighty need food on the table. Without us, the city starves."
+msgstr "Même les riches et les puissants ont besoin de nourriture sur la table. Sans nous, la ville mourrait de faim."
 
 msgctxt "farmer otherNightReminder"
 msgid "If a Farmer died tonight, choose another good player and make them the Farmer. Wake this player, show them the 'You are' card and the Farmer character token."
@@ -923,7 +947,7 @@ msgstr "Chaque nuit, choisissez un joueur: si vous le nommez et qu'il est exécu
 
 msgctxt "fearmonger flavor"
 msgid "Beware of gazing long into the Abyss, lest the Abyss also gaze into you."
-msgstr "Beware of gazing long into the Abyss, lest the Abyss also gaze into you."
+msgstr "Faites attention quand vous fixez l'Abysse, sinon l'Abysse vous fixera en retour."
 
 msgctxt "fearmonger firstNightReminder"
 msgid "The Fearmonger points to a player. Place the Fear token next to that player and announce that a new player has been selected with the Fearmonger ability."
@@ -943,11 +967,11 @@ msgstr "Passeur"
 
 msgctxt "ferryman ability"
 msgid "On the final day, all dead players regain their vote token."
-msgstr "Le jour final, les joueurs morts regagnent leurs jetons de vote"
+msgstr "Le jour final, les joueurs morts regagnent leurs jetons de vote."
 
 msgctxt "ferryman flavor"
 msgid "When righteous dreams come, they have the weight of truth."
-msgstr "When righteous dreams come, they have the weight of truth."
+msgstr "Quand les rêves vertueux deviennent réalité, ils portent le poids de la vérité."
 
 msgctxt "fibbin name"
 msgid "Fibbin"
@@ -962,8 +986,8 @@ msgid ""
 "Tee-hee-hee.\n"
 "Tee. Hee. Hee."
 msgstr ""
-"Tee-hee-hee.\n"
-"Tee. Hee. Hee."
+"Hé-hé-hé.\n"
+"Hé. Hé. Hé."
 
 msgctxt "fibbin reminders"
 msgid "Used"
@@ -1007,7 +1031,7 @@ msgstr "Chaque nuit*, vous apprenez si le Démon a voté aujourd'hui."
 
 msgctxt "flowergirl flavor"
 msgid "Yesterday's violets have withered and died, but today my poppies bloom."
-msgstr "Yesterday's violets have withered and died, but today my poppies bloom."
+msgstr "Mes violettes d'hier sont flétries et mortes, mais aujourd'hui mes coqulicots fleurissent."
 
 msgctxt "flowergirl otherNightReminder"
 msgid "Nod 'yes' or shake head 'no' for whether the Demon voted today. Place the 'Demon not voted' marker (remove 'Demon voted', if any)."
@@ -1015,7 +1039,7 @@ msgstr "Indiquer d'un signal de tête (hocher oui, secouer non) pour indiquer si
 
 msgctxt "flowergirl reminders"
 msgid "Demon voted,Demon not voted"
-msgstr "Aucun Vote,Démon Vote"
+msgstr "Démon n'a pas voté,Démon a voté"
 
 msgctxt "fool name"
 msgid "Fool"
@@ -1063,11 +1087,11 @@ msgstr "Parieur"
 
 msgctxt "gambler ability"
 msgid "Each night*, choose a player & guess their character: if you guess wrong, you die."
-msgstr "Chaque nuit*, choisissez un joueur et tentez de deviner son rôle, si vous faites erreur, vous mourez."
+msgstr "Chaque nuit*, choisissez un joueur et tentez de deviner son rôle: si vous faites erreur, vous mourez."
 
 msgctxt "gambler flavor"
 msgid "Heads, I win. Tails, you lose."
-msgstr "Heads, I win. Tails, you lose."
+msgstr "Pile, je gagne. Face, tu perds."
 
 msgctxt "gambler otherNightReminder"
 msgid "The Gambler points to a player, and a character on their sheet. If incorrect, the Gambler dies."
@@ -1087,7 +1111,7 @@ msgstr "Une fois par jour, vous pouvez assassiner un de vos deux voisins vivants
 
 msgctxt "gangster flavor"
 msgid "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
-msgstr "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
+msgstr "J'aime vos chaussures. Ce serait vraiment dommage que vous ayez un petit accident, et qu'elles soient ruinées. Maintenant que vous le dites, j'aime aussi vos boutons de manchette."
 
 msgctxt "gardener name"
 msgid "Gardener"
@@ -1107,11 +1131,11 @@ msgstr "Général"
 
 msgctxt "general ability"
 msgid "Each night, you learn which alignment the Storyteller believes is winning: good, evil, or neither."
-msgstr "Chaque nuit, vous apprenez quelle équipe est en train de gagner selon le Conteur: bon, maléfique ou ni l'un ni l'autre."
+msgstr "Chaque nuit, vous apprenez quelle équipe est en train de gagner selon le Conteur: bon, maléfique, ou ni l'un ni l'autre."
 
 msgctxt "general flavor"
 msgid "I don’t have time for quotes."
-msgstr "I don’t have time for quotes."
+msgstr "Je n'ai pas le temps pour les citations."
 
 msgctxt "general firstNightReminder"
 msgid "Show the General thumbs up for good winning, thumbs down for evil winning or thumb to the side for neither."
@@ -1135,7 +1159,7 @@ msgstr "Four the score or seven beers, no shows are goes for me and my. A prank 
 
 msgctxt "gnome reminders"
 msgid "Amigo"
-msgstr "Connu"
+msgstr "Amigo"
 
 msgctxt "goblin name"
 msgid "Goblin"
@@ -1147,7 +1171,7 @@ msgstr "Une fois nommé, vous pouvez prétendre publiquement être le Gobelin : 
 
 msgctxt "goblin flavor"
 msgid "You don’t want to insult the goblins. You really, really don’t. On a completely different note… can I have another piece of cake?"
-msgstr "You don’t want to insult the goblins. You really, really don’t. On a completely different note… can I have another piece of cake?"
+msgstr "Vous ne voulez pas insulter les gobelins. Vraiment, vous ne le voulez pas. Absolument rien à voir... pourrais-je avoir une autre part de gâteau?"
 
 msgctxt "goblin reminders"
 msgid "Claimed"
@@ -1163,7 +1187,7 @@ msgstr "Vous commencez en sachant quels Étrangers sont en jeu. Si l’un d’en
 
 msgctxt "godfather flavor"
 msgid "Normally, it's just business. But when you insult my daughter, you insult me. And when you insult me, you insult my family. You really should be more careful - it would be a shame if you had an unfortunate accident."
-msgstr "Normally, it's just business. But when you insult my daughter, you insult me. And when you insult me, you insult my family. You really should be more careful - it would be a shame if you had an unfortunate accident."
+msgstr "Habituellement, c'est juste le travail. Mais quand on insulte ma fille, on m'insulte moi. Et quand on m'insulte moi, on insulte ma famille. Tu devrais vraiment faire plus attention - ce serait dommage que tu ais un terrible accident."
 
 msgctxt "godfather firstNightReminder"
 msgid "Show each of the Outsider tokens in play."
@@ -1187,7 +1211,7 @@ msgstr "Vous ne pouvez nommer qu'une fois par partie. Lorsque vous le faites, si
 
 msgctxt "golem flavor"
 msgid "Golem help? Golem smash! Golem help."
-msgstr "Golem help? Golem smash! Golem help."
+msgstr "Golem aide? Golem écrase! Golem aide."
 
 msgctxt "golem reminders"
 msgid "Can not nominate"
@@ -1219,7 +1243,7 @@ msgstr "Chaque jour, vous pouvez faire publiquement une déclaration de votre ch
 
 msgctxt "gossip flavor"
 msgid "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah."
-msgstr "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah."
+msgstr "Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla. Bla."
 
 msgctxt "gossip otherNightReminder"
 msgid "If the Gossip’s public statement was true: Choose a player not protected from dying tonight. That player dies."
@@ -1235,11 +1259,11 @@ msgstr "Mamie"
 
 msgctxt "grandmother ability"
 msgid "You start knowing a good player & their character. If the Demon kills them, you die too."
-msgstr "La première nuit, le Conteur vous indique votre descendance et son rôle « bon ». Si elle est tuée par le Démon, vous mourez également."
+msgstr "La première nuit, le Conteur vous indique un joueur « bon » et son rôle. S'il est tué par le Démon, vous mourez également."
 
 msgctxt "grandmother flavor"
 msgid "Take a jacket if you go outside, dearie. And your thermos. And your scarf. I have a weak heart, you know. Whatever would I do if you caught cold...or worse?"
-msgstr "Take a jacket if you go outside, dearie. And your thermos. And your scarf. I have a weak heart, you know. Whatever would I do if you caught cold...or worse?"
+msgstr "Prend un manteau si tu dois sortir, mon petit. Et ta thermos. Et ton écharpe. J'ai un coeur qui faîblit, tu sais. Qu'est-ce que je pourrais bien faire si tu attrapais un rhume... ou pire?"
 
 msgctxt "grandmother firstNightReminder"
 msgid "Show the marked character token. Point to the marked player."
@@ -1247,7 +1271,7 @@ msgstr "Pointer sa descendance et montrer le rôle de celui-ci."
 
 msgctxt "grandmother otherNightReminder"
 msgid "If the Grandmother’s grandchild was killed by the Demon tonight: The Grandmother dies."
-msgstr "Si sa descendance a été tué par le démon cette nuit: La Mamie meurt."
+msgstr "Si sa descendance a été tué par le Démon cette nuit: La Mamie meurt."
 
 msgctxt "grandmother reminders"
 msgid "Grandchild"
@@ -1263,7 +1287,7 @@ msgstr "Chaque jour, après le décompte de la première nomination, vous pouvez
 
 msgctxt "gunslinger flavor"
 msgid "It's time someone took matters into their own hands. That someone... is me."
-msgstr "It's time someone took matters into their own hands. That someone... is me."
+msgstr "Il est temps que quelqu'un prenne les choses en main. Et ce quelqu'un... c'est moi."
 
 msgctxt "harlot name"
 msgid "Harlot"
@@ -1291,7 +1315,7 @@ msgstr "Harpie"
 
 msgctxt "harpy ability"
 msgid "Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or one or both might die."
-msgstr "Chaque nuit, choisissez 2 joueurs: demain, le 1er joueur est Dément que le 2nd est Maléfique, ou l'un ou les deux pourraient mourir."
+msgstr "Chaque nuit, choisissez 2 joueurs: demain, le 1er joueur est dément que le 2e est maléfique, ou l'un ou les deux pourraient mourir."
 
 msgctxt "harpy flavor"
 msgid "So fair a day I never did see, nor so fowl a presence hanging over me."
@@ -1327,7 +1351,7 @@ msgstr "Si le Chapelier est mort aujourd'hui: Réveillez les Sbires et le Démon
 
 msgctxt "hatter reminders"
 msgid "Tea Party Tonight"
-msgstr "Soirée de Thé"
+msgstr "Soirée de thé"
 
 msgctxt "hellslibrarian name"
 msgid "Hell's Librarian"
@@ -1335,11 +1359,11 @@ msgstr "Bibliothécaire de l'enfer"
 
 msgctxt "hellslibrarian ability"
 msgid "Something bad might happen to whoever talks when the Storyteller has asked for silence."
-msgstr "Quelque chose de grave peut arriver au joueur qui parle lorsque le conteur a demandé le silence."
+msgstr "Quelque chose de grave peut arriver au joueur qui parle lorsque le Conteur a demandé le silence."
 
 msgctxt "hellslibrarian flavor"
 msgid "Shhhhhh. Please be quiet. It is best not to disturb the Librarian. I've heard it has a temper."
-msgstr "Shhhhhh. Please be quiet. It is best not to disturb the Librarian. I've heard it has a temper."
+msgstr "Chuuut. Ne faites pas trop de bruit. Il ne faut pas déranger le Bibliohécaire. J'ai entendu dire qu'il a un caractère bien trempé."
 
 msgctxt "hellslibrarian reminders"
 msgid "Something Bad"
@@ -1355,23 +1379,23 @@ msgstr "Ceux qui perdent, gagnent et vice versa, même si vous êtes mort."
 
 msgctxt "heretic flavor"
 msgid "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
-msgstr "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
+msgstr "Une fois que la grêle a fraquassé le toit de la Cathédrale et brisé le verre de ses vitraux, elle fond de nouveau dans la terre, tel un agneau mourant sous le soleil du désert. Voici la parabole de l'aliéné."
 
 msgctxt "hermit name"
 msgid "Hermit"
-msgstr ""
+msgstr "Hermite"
 
 msgctxt "hermit ability"
 msgid "You have all Outsider abilities. [-0 or -1 Outsider]"
-msgstr ""
+msgstr "Vous avez toutes les capacités d'Étrangers. [-0 à -1 Étranger]"
 
 msgctxt "hermit flavor"
 msgid "In the lost and forgotten places of the earth, the soul’s light beckons."
-msgstr ""
+msgstr "In the lost and forgotten places of the earth, the soul’s light beckons."
 
 msgctxt "hermit reminders"
 msgid "1, 2, 3"
-msgstr ""
+msgstr "1,2,3"
 
 msgctxt "highpriestess name"
 msgid "High Priestess"
@@ -1427,7 +1451,7 @@ msgstr "Chaque nuit*, choisissez un joueur : il meurt. Si vous vous choisissez, 
 
 msgctxt "imp flavor"
 msgid "We must keep our wits sharp and our sword sharper. Evil walks among us, and will stop at nothing to destroy us good, simple folk, bringing our fine town to ruin. Trust no-one. But, if you must trust someone, trust me."
-msgstr "We must keep our wits sharp and our sword sharper. Evil walks among us, and will stop at nothing to destroy us good, simple folk, bringing our fine town to ruin. Trust no-one. But, if you must trust someone, trust me."
+msgstr "Nous devons garder nos yeux et nos épées aiguisés. Le mal est parmi nous, et ne s'arrêtera à rien pour nous détruire, simples et bonnes gens, amenant notre magnifique village à la ruine. Ne faites confiance à personne. Mais si vous devez placer votre confiance en quelqu'un, placez-la en moi."
 
 msgctxt "imp otherNightReminder"
 msgid "The Imp points to a player. That player dies. If the Imp chose themselves: Replace the character of 1 alive minion with a spare Imp token. Show the 'You are' card, then the Imp token."
@@ -1435,7 +1459,7 @@ msgstr "L'Imp choisit un joueur qui est aussitôt assassiné. S’il se choisit,
 
 msgctxt "imp reminders"
 msgid "Dead"
-msgstr "Assassiné"
+msgstr "Mort"
 
 msgctxt "innkeeper name"
 msgid "Innkeeper"
@@ -1463,11 +1487,11 @@ msgstr "Enquêteur"
 
 msgctxt "investigator ability"
 msgid "You start knowing that 1 of 2 players is a particular Minion."
-msgstr "Votre première nuit, le Conteur vous désigne 2 joueurs: vous apprenez ensuite le rôle de Sbire de l’un des deux."
+msgstr "Votre première nuit, le Conteur vous montre 2 joueurs: vous apprenez ensuite le rôle de Sbire de l’un des deux."
 
 msgctxt "investigator flavor"
 msgid "It is a fine night for a stroll, wouldn't you say, Mister Morozov? Or should I say... BARON Morozov?"
-msgstr "It is a fine night for a stroll, wouldn't you say, Mister Morozov? Or should I say... BARON Morozov?"
+msgstr "Une nuit parfaite pour une promenade, ne diriez-vous pas, Monsieur Morozov? Ou devrais-je dire... BARON Morozov?"
 
 msgctxt "investigator firstNightReminder"
 msgid "Show the character token of a Minion in play. Point to two players, one of which is that character."
@@ -1487,7 +1511,7 @@ msgstr "Une fois par partie, si un autre joueur a nommé, vous pouvez choisir de
 
 msgctxt "judge flavor"
 msgid "I find the defendant guilty of the crimes of murder, fraud, arson, larceny, impersonating an officer of the law, practicing medicine without a license, slander, regicide, and littering."
-msgstr "I find the defendant guilty of the crimes of murder, fraud, arson, larceny, impersonating an officer of the law, practicing medicine without a license, slander, regicide, and littering."
+msgstr "Je déclare l'accusé coupable de meurtre, de fraude, d'incendie criminel, de larcin, de vol d'identité d'un officier, de pratiquer la médecine sans license, de calomnies, de régicide, et de mal jeter ses détritus."
 
 msgctxt "judge reminders"
 msgid "No ability"
@@ -1519,7 +1543,7 @@ msgstr "Kazali"
 
 msgctxt "kazali ability"
 msgid "Each night*, choose a player: they die. [You choose which players are Minions. -? to +? Outsiders]"
-msgstr "Chaque nuit*, choisissez un joueur: il meurt. [Vous choisissez quels joueurs sont quels Sbires. -?/+? Etrangers]"
+msgstr "Chaque nuit*, choisissez un joueur: il meurt. [Vous choisissez quels joueurs sont quels Sbires. -?/+? Étrangers]"
 
 msgctxt "kazali flavor"
 msgid "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig."
@@ -1575,7 +1599,7 @@ msgstr "Lorsque vous apprenez que vous êtes mort, choisissez publiquement un jo
 
 msgctxt "klutz flavor"
 msgid "Oops."
-msgstr "Oops."
+msgstr "Oups."
 
 msgctxt "knight name"
 msgid "Knight"
@@ -1587,7 +1611,7 @@ msgstr "Vous commencez en connaissant 2 joueurs qui ne sont pas le Démon."
 
 msgctxt "knight flavor"
 msgid "When a man lies, he murders some part of the world."
-msgstr "When a man lies, he murders some part of the world."
+msgstr "Quand un homme ment, il assassine une partie du monde."
 
 msgctxt "knight firstNightReminder"
 msgid "Point to 2 non-Demon players."
@@ -1603,11 +1627,11 @@ msgstr "Légion"
 
 msgctxt "legion ability"
 msgid "Each night*, a player might die. Executions fail if only evil voted. You register as a Minion too. [Most players are Legion]"
-msgstr "Chaque nuit*, un joueur peut mourir. Les exécutions échouent si uniquement des maléfiques ont votés. Vous êtes également reconnu comme étant un Sbire. [La majorité des joueurs sont des Légions]"
+msgstr "Chaque nuit*, un joueur peut mourir. Les exécutions échouent si uniquement des maléfiques ont voté. Vous êtes également reconnu comme étant un Sbire. [La majorité des joueurs sont des Légions]"
 
 msgctxt "legion flavor"
 msgid "We are the chill wind on a winter’s day. We are the shadow in the moonless night. We are the poison in your tea and the whisper in your ear. We are everywhere."
-msgstr "We are the chill wind on a winter’s day. We are the shadow in the moonless night. We are the poison in your tea and the whisper in your ear. We are everywhere."
+msgstr "Nous sommes la brise d'un jour d'hiver. Nous sommes l'ombre d'une nuit sans lune. Nous sommes le poison dans votre thé et le chuchotement dans votre oreille. Nous sommes partout."
 
 msgctxt "legion otherNightReminder"
 msgid "Choose a player, that player dies."
@@ -1615,7 +1639,7 @@ msgstr "Choisissez un joueur, il meurt."
 
 msgctxt "legion reminders"
 msgid "Dead,About to die"
-msgstr "Assassiné,Sur le point de mourir"
+msgstr "Mort,Sur le point de mourir"
 
 msgctxt "leviathan name"
 msgid "Leviathan"
@@ -1647,11 +1671,11 @@ msgstr "Archiviste"
 
 msgctxt "librarian ability"
 msgid "You start knowing that 1 of 2 players is a particular Outsider. (Or that zero are in play.)"
-msgstr "Votre première nuit, le Conteur vous désigne 2 joueurs: vous apprenez ensuite le rôle d’Étranger de l’un des deux (ou que zéro sont en jeu)."
+msgstr "Votre première nuit, le Conteur vous montre 2 joueurs: vous apprenez ensuite le rôle d’Étranger de l’un des deux (ou que zéro sont en jeu)."
 
 msgctxt "librarian flavor"
 msgid "Certainly madam, under normal circumstances, you may borrow the Codex Malificarium from the library vaults. However, you do not seem to be a member."
-msgstr "Certainly madam, under normal circumstances, you may borrow the Codex Malificarium from the library vaults. However, you do not seem to be a member."
+msgstr "Certainement madame, dans des circomstances habituelles, vous pourriez emprunter le Codex Malificarium présent dans le coffre de la bibliothèque. Cependant, vous ne sembler pas être un membre."
 
 msgctxt "librarian firstNightReminder"
 msgid "Show the character token of an Outsider in play. Point to two players, one of which is that character."
@@ -1667,7 +1691,7 @@ msgstr "P'tit Monstre"
 
 msgctxt "lilmonsta ability"
 msgid "Each night, Minions choose who babysits Lil' Monsta's token & \"is the Demon\". Each night*, a player might die. [+1 Minion]"
-msgstr "Chaque nuit, les Sbires choisissent qui garde le jeton P’tit Monstre et « est le Démon ». Un joueur peut mourrir chaque nuit*. [+1 Sbire]"
+msgstr "Chaque nuit, les Sbires choisissent qui garde le P’tit Monstre et « est le Démon ». Chaque nuit*, un joueur pourrait mourir. [+1 Sbire]"
 
 msgctxt "lilmonsta flavor"
 msgid ""
@@ -1675,9 +1699,9 @@ msgid ""
 "Step 2: World domination.\n"
 "Step 3: Bweakfast."
 msgstr ""
-"Step 1: Be cute.\n"
-"Step 2: World domination.\n"
-"Step 3: Bweakfast."
+"Étape 1: Être mignon.\n"
+"Étape 2: Dominer le monde.\n"
+"Étape 3: P'tit-déj."
 
 msgctxt "lilmonsta firstNightReminder"
 msgid "Wake all Minions together, allow them to vote by pointing at who they want to babysit Lil' Monsta."
@@ -1689,7 +1713,7 @@ msgstr "Au début de la nuit, réveillez tous les Sbires. Les Sbires désignent 
 
 msgctxt "lilmonsta remindersGlobal"
 msgid "Is the Demon,Dead"
-msgstr "Assassiné,P’tit Monstre"
+msgstr "Mort,P’tit Monstre"
 
 msgctxt "lleech name"
 msgid "Lleech"
@@ -1721,7 +1745,7 @@ msgstr "Seigneur du Typhon"
 
 msgctxt "lordoftyphon ability"
 msgid "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? To +? Outsiders]"
-msgstr "Chaque nuit*, choisissez un joueur : il meurt. [Les rôles maléfiques sont alignés. Vous êtes au mileu. +1 Sbire, -?/+? Etrangers]"
+msgstr "Chaque nuit*, choisissez un joueur : il meurt. [Les rôles maléfiques sont alignés. Vous êtes au mileu. +1 Sbire, -?/+? Étrangers]"
 
 msgctxt "lordoftyphon flavor"
 msgid "In the shadowed and forgotten corners of the cosmos, where the stars whisper secrets to the void, lies a truth so profound that the merest glimpse of it unravels the sanity of mortal minds."
@@ -1745,11 +1769,11 @@ msgstr "Lunatique"
 
 msgctxt "lunatic ability"
 msgid "You think you are a Demon, but you are not. The Demon knows who you are & who you choose at night."
-msgstr "Vous pensez que vous êtes un Démon, mais vous ne l’êtes pas. Le Démon sait qui vous êtes et qui vous avez attaqué."
+msgstr "Vous pensez que vous êtes un Démon, mais vous ne l’êtes pas. Le Démon sait qui vous êtes et qui vous choisissez la nuit."
 
 msgctxt "lunatic flavor"
 msgid "I am the night... I think."
-msgstr "I am the night... I think."
+msgstr "Je suis la nuit... Je crois."
 
 msgctxt "lunatic firstNightReminder"
 msgid "If 7 or more players: Show the Lunatic a number of arbitrary 'Minions', players equal to the number of Minions in play. Show 3 character tokens of arbitrary good characters. If the token received by the Lunatic is a Demon that would wake tonight: Allow the Lunatic to do the Demon actions. Place their 'attack' markers. Wake the Demon. Show the Demon’s real character token. Show them the Lunatic player. If the Lunatic attacked players: Show the real demon each marked player. Remove any Lunatic 'attack' markers."
@@ -1781,7 +1805,7 @@ msgstr "Le Lycanthrope pointe vers un joueur vivant: s'il est bon, il meurt et l
 
 msgctxt "lycanthrope reminders"
 msgid "Dead,Faux Paw"
-msgstr "Mort, Fausse Patte,"
+msgstr "Mort,Fausse Patte"
 
 msgctxt "magician name"
 msgid "Magician"
@@ -1809,7 +1833,7 @@ msgstr "Vous pensez que vous êtes un joueur bon, mais vous ne l’êtes pas. Le
 
 msgctxt "marionette flavor"
 msgid "Words, words. They're all we have to go on."
-msgstr "Words, words. They're all we have to go on."
+msgstr "Des morts, des mots. C'est tout ce que nous avons pour avancer."
 
 msgctxt "marionette firstNightReminder"
 msgid "Select one of the good players next to the Demon and place the Is the Marionette reminder token. Wake the Demon and show them the Marionette."
@@ -1825,11 +1849,11 @@ msgstr "Conspirateur"
 
 msgctxt "mastermind ability"
 msgid "If the Demon dies by execution (ending the game), play for 1 more day. If a player is then executed, their team loses."
-msgstr "Si le Démon meurt par exécution, jouez encore une journée. Durant celle-ci, si un joueur « bon » est exécuté, son équipe perd."
+msgstr "Si le Démon meurt par exécution (terminant la partie), jouez encore une journée. Durant celle-ci, si un joueur « bon » est exécuté, son équipe perd."
 
 msgctxt "mastermind flavor"
 msgid "The tentacles of that monster are nailed to the doors of the church. Mothers and children are dancing in the street. Excellent. Everything is proceeding exactly as I have planned."
-msgstr "The tentacles of that monster are nailed to the doors of the church. Mothers and children are dancing in the street. Excellent. Everything is proceeding exactly as I have planned."
+msgstr "Les tentacules de ce monstre sont cloués aux portes de l'église. Les mères et les enfants dancent dans la rue. Excellent. Tout se passe exactement comme je l'avais prévu."
 
 msgctxt "mathematician name"
 msgid "Mathematician"
@@ -1837,7 +1861,7 @@ msgstr "Mathématicien"
 
 msgctxt "mathematician ability"
 msgid "Each night, you learn how many players’ abilities worked abnormally (since dawn) due to another character's ability."
-msgstr "Chaque nuit, vous apprenez combien de capacités n’ont pas fonctionné à cause de celle d'un autre joueur depuis l’Aube."
+msgstr "Chaque nuit, vous apprenez combien de capacités n’ont pas fonctionné à cause de celle d'un autre joueur depuis l’aube."
 
 msgctxt "mathematician flavor"
 msgid "Any consistent formal system x, within which a certain amount of elementary arithmetic can be carried out is incomplete; that is, there are statements of the language of x which can neither be proved nor disproved in x. Ergo, you are drunk."
@@ -1877,7 +1901,7 @@ msgstr "Si aucune exécution n'a lieu quand il ne reste que 3 joueurs en vie (do
 
 msgctxt "mayor flavor"
 msgid "We must put our differences aside, and cease this senseless killing. We are all taxpayers after all. Well, most of us."
-msgstr "We must put our differences aside, and cease this senseless killing. We are all taxpayers after all. Well, most of us."
+msgstr "Nous devons mettre de côté nos différences, et arrêtez tous ces meurtres sans raison. Nous payons tous des taxes après tout. Enfin, pour la plupart."
 
 msgctxt "mezepheles name"
 msgid "Mezepheles"
@@ -1885,7 +1909,7 @@ msgstr "Mezepheles"
 
 msgctxt "mezepheles ability"
 msgid "You start knowing a secret word. The 1st good player to say this word becomes evil that night."
-msgstr "Vous commencez la partie en connaissant un mot secret. Le premier joueur bon qui prononcera ce mot deviendra maléfique à partir de la nuit suivante."
+msgstr "Vous commencez par apprendre un mot secret. Le premier joueur bon qui prononcera ce mot deviendra maléfique à partir de la nuit suivante."
 
 msgctxt "mezepheles flavor"
 msgid "That which issues from the heart alone, will bend the hearts of others to your own."
@@ -1909,7 +1933,7 @@ msgstr "Ménestrel"
 
 msgctxt "minstrel ability"
 msgid "When a Minion dies by execution, all other players (except Travellers) are drunk until dusk tomorrow."
-msgstr "Si un Sbire est exécuté aujourd'hui, tous les autres joueurs (à l'exception des Voyageurs) sont ivres jusqu’au prochain crépuscule."
+msgstr "Quand un Sbire meurt par exécution, tous les autres joueurs (à l'exception des Voyageurs) sont ivres jusqu’au prochain crépuscule."
 
 msgctxt "minstrel flavor"
 msgid "And I shall hear, tho' soft you tread above me... And all my dreams will warm and sweeter be... If you'll not fail to tell me that you love me... I simply sleep in peace until you come to me."
@@ -1933,7 +1957,7 @@ msgstr "Tis an ill and deathly wind that blows tonight. Come, my brother, take s
 
 msgctxt "monk otherNightReminder"
 msgid "The previously protected player is no longer protected. The Monk points to a player not themself. Mark that player 'Protected'."
-msgstr "Choisit un autre joueur qui sera protégé (mort) du démon cette nuit, mais pas contre d'autres effets nocifs"
+msgstr "Choisit un autre joueur qui sera protégé du Démon cette nuit, mais pas contre d'autres effets nocifs."
 
 msgctxt "monk reminders"
 msgid "Protected"
@@ -1969,7 +1993,7 @@ msgstr "Vous êtes dément que vous n'êtes pas un Étranger, sinon vous pourrie
 
 msgctxt "mutant flavor"
 msgid "I am not a freak! I am a human being! Have mercy!"
-msgstr "I am not a freak! I am a human being! Have mercy!"
+msgstr "Je ne suis pas un monstre! Je suis un être humain! Ayez pitié!"
 
 msgctxt "nightwatchman name"
 msgid "Nightwatchman"
@@ -2005,11 +2029,11 @@ msgstr "Le Conteur vous indique 3 joueurs, dont un seul et unique maléfique."
 
 msgctxt "noble flavor"
 msgid "Sarcasm is indeed the lowest form of wit. But speaking in response to your criticism, Sir, it is, nevertheless, a form of wit."
-msgstr "Sarcasm is indeed the lowest form of wit. But speaking in response to your criticism, Sir, it is, nevertheless, a form of wit."
+msgstr "Le sarcase est effectivement la forme de rétorque la plus basse. Mais en réponse à votre critique, Monsieur, il s'agit, tout de même, d'une forme de rétorque."
 
 msgctxt "noble firstNightReminder"
 msgid "Point to 3 players including one evil player, in no particular order."
-msgstr "Indiquer 3 joueurs, donc un maléfique, sans ordre particulier."
+msgstr "Indiquer 3 joueurs, dont un maléfique, sans ordre particulier."
 
 msgctxt "noble reminders"
 msgid "Seen"
@@ -2021,7 +2045,7 @@ msgstr "No Dashii"
 
 msgctxt "nodashii ability"
 msgid "Each night*, choose a player: they die. Your 2 Townsfolk neighbours are poisoned."
-msgstr "Chaque nuit*, choisissez un joueur : il meurt. Vos deux voisins Villageois (morts ou vifs) sont empoisonnés."
+msgstr "Chaque nuit*, choisissez un joueur : il meurt. Vos deux voisins Villageois (morts ou vivants) sont empoisonnés."
 
 msgctxt "nodashii flavor"
 msgid "By the sins of Arnoch, I feel thy laden stench. By the curs-ed sun and her foul legion of tiny grinning gods, I corrupt thee. By the blessed night and the hidden depths of the horrid and unholy sea, I end thy squalid life upon this plane."
@@ -2033,7 +2057,7 @@ msgstr "Le No Dashii pointe un joueur: il meurt"
 
 msgctxt "nodashii reminders"
 msgid "Dead,Poisoned"
-msgstr "Assassiné,Empoisonné"
+msgstr "Mort,Empoisonné"
 
 msgctxt "ogre name"
 msgid "Ogre"
@@ -2045,7 +2069,7 @@ msgstr "Durant votre première nuit, choisissez un autre joueur: vous changez se
 
 msgctxt "ogre flavor"
 msgid "<grunt><grin></grunt>"
-msgstr "<grunt><grin></grunt>"
+msgstr "<grogne><sourit></grogne>"
 
 msgctxt "ogre firstNightReminder"
 msgid "The Ogre points to a player (not themselves) and becomes their alignment."
@@ -2065,7 +2089,7 @@ msgstr "Chaque nuit*, choisissez un rôle: il meurt. S'il n'est pas en jeu, le C
 
 msgctxt "ojo flavor"
 msgid "Like a bonfire on a moonless night… I see you, mortal."
-msgstr "Like a bonfire on a moonless night… I see you, mortal."
+msgstr "Tel un feu de camp dans une nuit sans lune... Je te vois, mortel."
 
 msgctxt "ojo otherNightReminder"
 msgid "The Ojo points to a character on the sheet; if in play, that player dies. If it is not in play, the Storyteller chooses who dies instead."
@@ -2097,7 +2121,7 @@ msgstr "Organiste Barbare"
 
 msgctxt "organgrinder ability"
 msgid "All players keep their eyes closed when voting and the vote tally is secret. Each night, choose if you are drunk or not."
-msgstr "Tout les joueurs gardent leur yeux fermés pendant les votes et le décompte des votes est secret. Chaque nuit, choisissez si vous êtes ivre ou non."
+msgstr "Tout les joueurs gardent leur yeux fermés pendant les votes et le décompte des votes est secret. Chaque nuit, vous pouvez choisir d'être ivre jusqu'au crépuscule."
 
 msgctxt "organgrinder flavor"
 msgid "Round and round the handles go. The more you dance the less you know."
@@ -2113,11 +2137,11 @@ msgstr "Pacifiste"
 
 msgctxt "pacifist ability"
 msgid "Executed good players might not die."
-msgstr "Les joueurs « bons » exécutés peuvent, possiblement, survivre à l’exécution."
+msgstr "Les joueurs « bons » exécutés pourraient survivre à l’exécution."
 
 msgctxt "pacifist flavor"
 msgid "Distrust all in whom the impulse to punish is powerful."
-msgstr "Distrust all in whom the impulse to punish is powerful."
+msgstr "Méfiez-vous de tous ceux en qui l'impulsion de punir est grande."
 
 msgctxt "philosopher name"
 msgid "Philosopher"
@@ -2125,11 +2149,11 @@ msgstr "Philosophe"
 
 msgctxt "philosopher ability"
 msgid "Once per game, at night, choose a good character: gain that ability. If this character is in play, they are drunk."
-msgstr "Une fois par partie, pendant la nuit, choisissez un rôle « bon » et gagnez cette capacité. Si ce rôle est déjà en jeu, ce joueur devient ivre."
+msgstr "Une fois par partie, pendant la nuit, choisissez un rôle « bon » et gagnez cette capacité. Si ce rôle est déjà en jeu, ce joueur est ivre."
 
 msgctxt "philosopher flavor"
 msgid "If anything is real, beer is real. Drink, for tomorrow we may die."
-msgstr "If anything is real, beer is real. Drink, for tomorrow we may die."
+msgstr "Si quoi que ce soit est réel, alors la bière est réelle. Buvez, car demain nous pourrions mourir."
 
 msgctxt "philosopher firstNightReminder"
 msgid "The Philosopher either shows a 'no' head signal, or points to a good character on their sheet. If they chose a character: Swap the out-of-play character token with the Philosopher token and add the 'Is the Philosopher' reminder. If the character is in play, place the drunk marker by that player."
@@ -2141,7 +2165,7 @@ msgstr "S’il n'a pas encore utilisé sa capacité: il décide s’il utilise s
 
 msgctxt "philosopher remindersGlobal"
 msgid "Is the Philosopher,Drunk"
-msgstr "Faussaire,Ivre"
+msgstr "Est le Philosophe,Ivre"
 
 msgctxt "pithag name"
 msgid "Pit-Hag"
@@ -2217,11 +2241,11 @@ msgstr "Po"
 
 msgctxt "po ability"
 msgid "Each night*, you may choose a player: they die. If your last choice was no-one, choose 3 players tonight."
-msgstr "Chaque nuit*, vous pouvez choisir un joueur et il meurt. Si votre dernier choix n'était personne, choisissez trois joueurs qui mourront cette nuit."
+msgstr "Chaque nuit*, vous pouvez choisir un joueur: il meurt. Si votre dernier choix n'était personne, choisissez trois joueurs ce soir."
 
 msgctxt "po flavor"
 msgid "Would you like a flower? I'm so lonely."
-msgstr "Would you like a flower? I'm so lonely."
+msgstr "Voulez-vous une fleur? Je suis si seul."
 
 msgctxt "po otherNightReminder"
 msgid "If the Po chose no-one the previous night: The Po points to three players. Otherwise: The Po either shows the 'no' head signal , or points to a player. Chosen players die"
@@ -2229,7 +2253,7 @@ msgstr "S’il n'a choisi personne la nuit précédente, désigne 3 joueurs. Sin
 
 msgctxt "po reminders"
 msgid "Dead,3 attacks"
-msgstr "Assassiné 1,Assassiné 2,Assassiné 3,Attaque x3"
+msgstr "Mort 1,Mort 2,Mort 3,Attaque x3"
 
 msgctxt "poisoner name"
 msgid "Poisoner"
@@ -2241,7 +2265,7 @@ msgstr "Chaque nuit, choisissez un joueur: il est empoisonné cette nuit ainsi q
 
 msgctxt "poisoner flavor"
 msgid "Add compound Alpha to compound Beta... NOT TOO MUCH!"
-msgstr "Add compound Alpha to compound Beta... NOT TOO MUCH!"
+msgstr "Ajouter le composant Alpha au composant Bêta... PAS TROP!"
 
 msgctxt "poisoner firstNightReminder"
 msgid "The Poisoner points to a player. That player is poisoned."
@@ -2261,11 +2285,11 @@ msgstr "Politicien"
 
 msgctxt "politician ability"
 msgid "If you were the player most responsible for your team losing, you change alignment & win, even if dead."
-msgstr "Si vous êtes le joueur qui est majoritairement responsable de la défaite de votre équipe, vous gagnez avec l’équipe adverse (même mort)."
+msgstr "Si vous êtes le joueur qui est majoritairement responsable de la défaite de votre équipe, vous gagnez avec l’équipe adverse, même si vous êtes mort."
 
 msgctxt "politician flavor"
 msgid "I'm glad you asked that question. Truly, I am. But I think the REAL question here is..."
-msgstr "I'm glad you asked that question. Truly, I am. But I think the REAL question here is..."
+msgstr "Je suis heureux que vous ayez posé cette question. Je le suis vraiment. Mais je pense que la VRAIE question est plutôt..."
 
 msgctxt "poppygrower name"
 msgid "Poppy Grower"
@@ -2293,15 +2317,15 @@ msgstr "Maléfiques se réveillent"
 
 msgctxt "preacher name"
 msgid "Preacher"
-msgstr "Prédicateur"
+msgstr "Confesseur"
 
 msgctxt "preacher ability"
 msgid "Each night, choose a player: a Minion, if chosen, learns this. All chosen Minions have no ability."
-msgstr "Chaque nuit, choisissez un joueur: si le joueur choisi est un Sbire il se fait réveiller et il apprend qu’il a perdu sa capacité."
+msgstr "Chaque nuit, choisissez un joueur: si le joueur choisi est un Sbire, il l'apprend. Les Sbires choisis n'ont pas de capacité."
 
 msgctxt "preacher flavor"
 msgid "It is better to be rich and healthy than poor and sick."
-msgstr "It is better to be rich and healthy than poor and sick."
+msgstr "Il vaut mieux être riche et sain que pauvre et malade."
 
 msgctxt "preacher firstNightReminder"
 msgid "The Preacher chooses a player. If a Minion is chosen, wake the Minion and show the 'This character selected you' card and then the Preacher token."
@@ -2317,11 +2341,11 @@ msgstr "Aucune capacité"
 
 msgctxt "princess name"
 msgid "Princess"
-msgstr "Princess"
+msgstr "Princesse"
 
 msgctxt "princess ability"
 msgid "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
-msgstr "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
+msgstr "Lors de votre premier jour, si vous avez nominé & exécuté un joueur, le Démon ne tue pas cette nuit."
 
 msgctxt "princess flavor"
 msgid "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
@@ -2329,11 +2353,11 @@ msgstr "Our words are hounds, bound by silken threads, dear lords. Let kindness 
 
 msgctxt "princess otherNightReminder"
 msgid "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
-msgstr "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
+msgstr "Si c'était le premier jour de la Princess aujourd'hui, et elle a nominé et exécuté un joueur, le Démon ne tue pas cette nuit."
 
 msgctxt "princess reminders"
 msgid "Doesn't Kill"
-msgstr "Doesn't Kill"
+msgstr "Ne tue pas"
 
 msgctxt "professor name"
 msgid "Professor"
@@ -2345,7 +2369,7 @@ msgstr "Une fois par partie, pendant la nuit*, choisissez un joueur mort : s'il
 
 msgctxt "professor flavor"
 msgid "The process is simple. Attach the hydraulic confabulator to the modified chi matrix amplifier, add 20 CCs of pseudodorafine, keep his Z levels above 20%, and your husband will be fine. Now, all we need is a lightning strike."
-msgstr "The process is simple. Attach the hydraulic confabulator to the modified chi matrix amplifier, add 20 CCs of pseudodorafine, keep his Z levels above 20%, and your husband will be fine. Now, all we need is a lightning strike."
+msgstr "Le processus est simple. Attachez le confabulateur hydraulique à l'amplificateur modifié de matrice chi, ajoutez 20 CCs de pseudodorafine, gardez ses niveaux Z au dessus de 20%, et votre mari se portera bien. Maintenant, un éclair est tout ce qu'il manque."
 
 msgctxt "professor otherNightReminder"
 msgid "If the Professor has not used their ability: The Professor either shakes their head no, or points to a player. If that player is a Townsfolk, they are now alive."
@@ -2373,7 +2397,7 @@ msgstr "Pooka"
 
 msgctxt "pukka ability"
 msgid "Each night, choose a player: they are poisoned. The previously poisoned player dies then becomes healthy."
-msgstr "Chaque nuit, choisissez un joueur: il est empoisonné, et le joueur choisi précédemment meurt, puis devient sain."
+msgstr "Chaque nuit, choisissez un joueur: il est empoisonné. Le joueur précédemment empoisonné meurt, puis devient sain."
 
 msgctxt "pukka flavor"
 msgid "You truly have been kind welcoming me into your beautiful home. I am so sorry I accidentally scratched you. A little thing. No matter. But please, take this golden toothpick as a humble token of my regret."
@@ -2381,11 +2405,11 @@ msgstr "You truly have been kind welcoming me into your beautiful home. I am so 
 
 msgctxt "pukka firstNightReminder"
 msgid "The Pukka points to a player. That player is poisoned."
-msgstr "Le Pooka pointe un jouer. Ce joueur est empoisonné."
+msgstr "Le Pooka pointe un joueur. Ce joueur est empoisonné."
 
 msgctxt "pukka otherNightReminder"
 msgid "The Pukka points to a player. That player is poisoned. The previously poisoned player dies."
-msgstr "Le précédent joueur empoisonné meurt. Il pointe un joueur. Ce joueur est empoisonné."
+msgstr "Le Pooka pointe un joueur. Ce joueur est empoisonné. Le joueur précédemment empoisonné meurt."
 
 msgctxt "pukka reminders"
 msgid "Poisoned,Dead"
@@ -2405,7 +2429,7 @@ msgstr "When one begins to think that some thing is merely some other thing, one
 
 msgctxt "puzzlemaster reminders"
 msgid "Drunk,Guess used"
-msgstr "Saoul,Utilisé"
+msgstr "Ivre,Utilisé"
 
 msgctxt "ravenkeeper name"
 msgid "Ravenkeeper"
@@ -2429,7 +2453,7 @@ msgstr "Reclus"
 
 msgctxt "recluse ability"
 msgid "You might register as evil & as a Minion or Demon, even if dead."
-msgstr "Vous pourriez être reconnu comme étant maléfique (Sbire ou Démon), même si vous êtes mort."
+msgstr "Vous pourriez être reconnu comme étant maléfique, et comme un Sbire ou un Démon, même si vous êtes mort."
 
 msgctxt "recluse flavor"
 msgid "Garn git ya darn grub ya mitts ofma lorn yasee. Grr. Natsy pikkins yonder southwise ye begittin afta ya! Git! Me harvy no so widda licks and demmons no be fightin' hadsup ne'er ma kin. Git, assay!"
@@ -2441,19 +2465,19 @@ msgstr "Révolutionnaire"
 
 msgctxt "revolutionary ability"
 msgid "2 neighboring players are known to be the same alignment. Once per game, one of them registers falsely"
-msgstr "2 joueurs voisins sont connus pour être du même alignement. Une fois par partie, l'un d'entre eux apparaîtra comme ayant l'alignement opposé"
+msgstr "2 joueurs voisins sont connus pour être du même alignement. Une fois par partie, 1 d'entre eux sera reconnu comme quelque chose qu'il n'est pas."
 
 msgctxt "revolutionary flavor"
 msgid ""
 "United we feigned.\n"
 "Divided, we stalled."
 msgstr ""
-"United we feigned.\n"
-"Divided, we stalled."
+"Unis, nous feintions.\n"
+"Divisés, nous attendions."
 
 msgctxt "revolutionary reminders"
 msgid "Register Falsely?"
-msgstr "Apparait faussement"
+msgstr "Révolutionnaire,Reconnu faussement"
 
 msgctxt "riot name"
 msgid "Riot"
@@ -2461,7 +2485,7 @@ msgstr "Émeutier"
 
 msgctxt "riot ability"
 msgid "On day 3, Minions become Riot & nominees die but nominate an alive player immediately. This must happen."
-msgstr "Le Jour 3, les Sbires deviennent des Émeutiers & les joueurs nommés meurent et doivent immédiatement nommer un joueur vivant."
+msgstr "Le jour 3, les Sbires deviennent des Émeutiers & les joueurs nommés meurent et doivent immédiatement nommer un joueur vivant. Cela doit arriver."
 
 msgctxt "riot flavor"
 msgid "Larga vida a la revolución! Mi revolucion!"
@@ -2473,7 +2497,7 @@ msgstr "Sage"
 
 msgctxt "sage ability"
 msgid "If the Demon kills you, you learn that it is 1 of 2 players."
-msgstr "Si le Démon vous tue, vous apprenez qu'il est parmi deux joueurs."
+msgstr "Si le Démon vous tue, vous apprenez qu'il est parmi 2 joueurs."
 
 msgctxt "sage flavor"
 msgid "These mountainous tomes guard the secret, I am sure of it! Twixt word and word, it lies in wait. More candles, boy! More ink! These notes may look arcane, but the infernal puzzle is revealing itself."
@@ -2505,7 +2529,7 @@ msgstr "Il choisit 1 joueur vivant : un des deux est ivre jusqu’au crépuscule
 
 msgctxt "sailor reminders"
 msgid "Drunk"
-msgstr "Ivre,Marin Protégé"
+msgstr "Ivre,Protégé"
 
 msgctxt "saint name"
 msgid "Saint"
@@ -2517,7 +2541,7 @@ msgstr "Si vous mourez par exécution, votre équipe perd."
 
 msgctxt "saint flavor"
 msgid "Wisdom begets peace. Patience begets wisdom. Fear not, for the time shall come when fear too shall pass. Let us pray, and may the unity of our vision make saints of us all."
-msgstr "Wisdom begets peace. Patience begets wisdom. Fear not, for the time shall come when fear too shall pass. Let us pray, and may the unity of our vision make saints of us all."
+msgstr "La sagesse amène à la paix. La patience amène à la sagesse. N'ayez crainte, car le temps viendra où même la peur passera. Prions, et que l'unité de notre vision fassent de nous tous des saints."
 
 msgctxt "savant name"
 msgid "Savant"
@@ -2525,11 +2549,11 @@ msgstr "Savant"
 
 msgctxt "savant ability"
 msgid "Each day, you may visit the Storyteller to learn 2 things in private: 1 is true & 1 is false."
-msgstr "Chaque jour, visitez le Conteur pour apprendre: une vérité et un mensonge."
+msgstr "Chaque jour, visitez le Conteur pour apprendre une vérité et un mensonge."
 
 msgctxt "savant flavor"
 msgid "Seventy-two matchsticks on the floor... the sun sets early but the moon is unchanged... a torn piece of cloth... evil in the manor house... three by three... the one we trusted is not what he seems... green light means magnesium... residue, but the pattern is wrong... Seventy-two matchsticks on the floor..."
-msgstr "Seventy-two matchsticks on the floor... the sun sets early but the moon is unchanged... a torn piece of cloth... evil in the manor house... three by three... the one we trusted is not what he seems... green light means magnesium... residue, but the pattern is wrong... Seventy-two matchsticks on the floor..."
+msgstr "Soixante-douze alumettes sur le sol... le soleil se couche tôt mais la lune reste inchangée... un morceau de fabrique déchirée... un mal dans le manoir... trois par trois... celui que l'on croît n'est pas ce qu'il semble être... une lumière verte indique du magnésium... des résidus, mais le motif est incorrect... Soixante-douze alumettes sur le sol..."
 
 msgctxt "scapegoat name"
 msgid "Scapegoat"
@@ -2545,19 +2569,19 @@ msgstr "Good evening! Thank you for inviting me to the ball. I'm not from around
 
 msgctxt "scarletwoman name"
 msgid "Scarlet Woman"
-msgstr "Croqueuse d'homme"
+msgstr "Croqueuse d'Homme"
 
 msgctxt "scarletwoman ability"
 msgid "If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don’t count)"
-msgstr "S'il y a 5 joueurs vivants ou plus (voyageurs exclus) et que le Démon meurt, vous devenez le nouveau Démon."
+msgstr "S'il y a 5 joueurs vivants ou plus (Voyageurs exclus) et que le Démon meurt, vous devenez le nouveau Démon."
 
 msgctxt "scarletwoman flavor"
 msgid "You have shown me the secrets of the Council of the Purple Flame. We have lain together in fire and in lust and in beastly commune, and I am forever your servant. But tonight, my dear, I am your master."
-msgstr "You have shown me the secrets of the Council of the Purple Flame. We have lain together in fire and in lust and in beastly commune, and I am forever your servant. But tonight, my dear, I am your master."
+msgstr "Vous m'avez montré les secrets du Conseil de la Flamme Violette. Nous nous sommes allongés ensemble dans le feu, la passion, et la communion bestiale, et je serais pour toujours votre servante. Mais pour ce soir, mon cher, je serai votre maîtresse."
 
 msgctxt "scarletwoman otherNightReminder"
 msgid "If the Scarlet Woman became the Demon today: Show the 'You are' card, then the demon token."
-msgstr "S'il y a 5 joueurs vivants ou plus (voyageurs exclus) et que le Démon meurt, la Croqueuse d'homme remplacera le Démon, la réveiller et lui indiquer."
+msgstr "S'il y a 5 joueurs vivants ou plus (voyageurs exclus) et que le Démon meurt, la Croqueuse d'homme devient le Démon. Réveillez-la, indiquez-lui la carte \"Vous êtes\", suivi du jeton du Démon, et du signe maléfique."
 
 msgctxt "scarletwoman reminders"
 msgid "Demon"
@@ -2569,7 +2593,7 @@ msgstr "Couturière"
 
 msgctxt "seamstress ability"
 msgid "Once per game, at night, choose 2 players (not yourself): you learn if they are the same alignment."
-msgstr "Une fois par partie, pendant la nuit, choisissez deux autres joueurs. Vous apprendrez s'ils sont du même alignement."
+msgstr "Une fois par partie, pendant la nuit, choisissez deux autres joueurs: vous apprenez s'ils sont du même alignement."
 
 msgctxt "seamstress flavor"
 msgid "Did you hear that stranger in the cashmere coat put the word on our young Belle? And she said yes? Well, that's nothing compared to what Harry and that juggler got up to at the fair! The things I could say if I was a tattletale... my, yes."
@@ -2577,11 +2601,11 @@ msgstr "Did you hear that stranger in the cashmere coat put the word on our youn
 
 msgctxt "seamstress firstNightReminder"
 msgid "The Seamstress either shows a 'no' head signal, or points to two other players. If the Seamstress chose players , nod 'yes' or shake 'no' for whether they are of same alignment."
-msgstr "Elle décide si elle utilise sa capacité. Si oui, elle pointe deux joueurs et le conteur lui indique s'ils sont du même alignement."
+msgstr "Elle décide si elle utilise sa capacité. Si oui, elle pointe deux joueurs. Indiquez-lui s'ils sont du même alignement."
 
 msgctxt "seamstress otherNightReminder"
 msgid "If the Seamstress has not yet used their ability: the Seamstress either shows a 'no' head signal, or points to two other players. If the Seamstress chose players , nod 'yes' or shake 'no' for whether they are of same alignment."
-msgstr "Si elle n'a pas encore utilisé sa capacité: elle décide si elle utilise sa capacité. Si oui, elle pointe deux joueurs et le conteur lui indique s'ils sont du même alignement."
+msgstr "Si elle n'a pas encore utilisé sa capacité, elle décide si elle utilise sa capacité. Si oui, elle pointe deux joueurs. Indiquez-lui s'ils sont du même alignement."
 
 msgctxt "seamstress reminders"
 msgid "No ability"
@@ -2593,7 +2617,7 @@ msgstr "Sentinelle"
 
 msgctxt "sentinel ability"
 msgid "There might be 1 extra or 1 fewer Outsider in-play."
-msgstr "Il peut y avoir 1 étranger de plus ou de moins en jeu."
+msgstr "Il peut y avoir 1 Étranger de plus ou de moins en jeu."
 
 msgctxt "sentinel flavor"
 msgid ""
@@ -2601,9 +2625,9 @@ msgid ""
 "Papers, please.\n"
 "Weapons, please."
 msgstr ""
-"Name, please.\n"
-"Papers, please.\n"
-"Weapons, please."
+"Nom, s'il vous plaît.\n"
+"Papiers, s'il vous plaît.\n"
+"Armes, s'il vous plaît."
 
 msgctxt "shabaloth name"
 msgid "Shabaloth"
@@ -2611,7 +2635,7 @@ msgstr "Shabaloth"
 
 msgctxt "shabaloth ability"
 msgid "Each night*, choose 2 players: they die. A dead player you chose last night might be regurgitated."
-msgstr "Chaque nuit*, choisissez deux joueurs: ils sont dévorés. Un de ceux-ci pourrait être régurgité la nuit suivante (même s'il était déjà mort)."
+msgstr "Chaque nuit*, choisissez 2 joueurs: ils meurent. Un joueur mort que vous avez choisi la nuit précédente pourrait être régurgité."
 
 msgctxt "shabaloth flavor"
 msgid "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
@@ -2639,7 +2663,7 @@ msgstr "これは夢。それも夢。すべて夢です。"
 
 msgctxt "shugenja firstNightReminder"
 msgid "Wake the Shugenja; point horizontally in the direction of the closest evil player. If the two closest evil players are equidistant, point your finger horizontally in either direction."
-msgstr "Reveillez le Shugenja; pointez horizontalement dans la direction du joueur maléfique le plus proche. Si les 2 joueur maléfique les plus proches sont équidistant, pointez horizontalement dans n'importe laquel des deux directions."
+msgstr "Reveillez le Shugenja; pointez horizontalement dans la direction du joueur maléfique le plus proche. Si les 2 joueurs maléfiques les plus proches sont équidistant, pointez horizontalement dans n'importe laquel des deux directions."
 
 msgctxt "slayer name"
 msgid "Slayer"
@@ -2647,11 +2671,11 @@ msgstr "Mercenaire"
 
 msgctxt "slayer ability"
 msgid "Once per game, during the day, publicly choose a player: if they are the Demon, they die."
-msgstr "Une fois par partie, pendant la journée, choisissez publiquement un joueur : Si un démon est choisi, il meurt"
+msgstr "Une fois par partie, pendant la journée, choisissez publiquement un joueur : si un Démon est choisi, il meurt."
 
 msgctxt "slayer flavor"
 msgid "Die."
-msgstr "Die."
+msgstr "Meurs."
 
 msgctxt "slayer reminders"
 msgid "No ability"
@@ -2663,11 +2687,11 @@ msgstr "Charmeur de serpent"
 
 msgctxt "snakecharmer ability"
 msgid "Each night, choose an alive player: a chosen Demon swaps characters & alignments with you & is then poisoned."
-msgstr "Chaque nuit, choisissez un joueur vivant. Si vous avez choisi un Démon, vous échangez de rôle et d'alignement avec lui et il devient empoisonné."
+msgstr "Chaque nuit, choisissez un joueur vivant: si c'est un Démon, vous échangez de rôle et d'alignement avec lui et il devient empoisonné."
 
 msgctxt "snakecharmer flavor"
 msgid "Effendi... I am but a humble man, but my pipe is golden and a single tune will tame the wildest djinn, Inshallah. They say that greed hangs more men than rope. But not I, Effendi... not I."
-msgstr "Effendi... I am but a humble man, but my pipe is golden and a single tune will tame the wildest djinn, Inshallah. They say that greed hangs more men than rope. But not I, Effendi... not I."
+msgstr "Effendi... Je ne suis qu'un humble homme, mais ma flûte est en or et une seule mélodie peut apprivoiser même le djinn le plus féroce, Inshallah. On dit que l'avarice pend plus d'hommes que la corde. Mais pas moi, Effendi... pas moi."
 
 msgctxt "snakecharmer firstNightReminder"
 msgid "The Snake Charmer points to a player. If that player is the Demon: swap the Demon and Snake Charmer character and alignments. Wake each player to inform them of their new role and alignment. The new Snake Charmer is poisoned."
@@ -2691,7 +2715,7 @@ msgstr "Chaque Sbire apprend trois bluffs."
 
 msgctxt "snitch flavor"
 msgid "It was John."
-msgstr "It was John."
+msgstr "C'était John."
 
 msgctxt "snitch firstNightReminder"
 msgid "After Minion info wake each Minion and show them three not-in-play character tokens. These may be the same or different to each other and the ones shown to the Demon."
@@ -2707,11 +2731,11 @@ msgstr "Vous êtes à l'abri des effets négatifs du Démon."
 
 msgctxt "soldier flavor"
 msgid "As David said to Goliath, as Theseus said to the Minotaur, as Arjuna said to Bhagadatta... No."
-msgstr "As David said to Goliath, as Theseus said to the Minotaur, as Arjuna said to Bhagadatta... No."
+msgstr "Comme David dit à Goliath, comme Thésée dit au Minotaure, comme Arjuna dit à Bhagadatta... Non."
 
 msgctxt "spiritofivory name"
 msgid "Spirit Of Ivory"
-msgstr "Esprit d'ivoire"
+msgstr "Esprit d'Ivoire"
 
 msgctxt "spiritofivory ability"
 msgid "There can't be more than 1 extra evil player."
@@ -2719,11 +2743,11 @@ msgstr "Il ne peut pas y avoir plus d'un joueur maléfique supplémentaire."
 
 msgctxt "spiritofivory flavor"
 msgid "The Wasteland calls. Bones rise to flesh, then fall to dust. The great spirit grows. The great spirit watches. The great spirit guides. The human listens, or the human is no more."
-msgstr "The Wasteland calls. Bones rise to flesh, then fall to dust. The great spirit grows. The great spirit watches. The great spirit guides. The human listens, or the human is no more."
+msgstr "Les Friches appellent. Les os deviennent chair, puis redeviennent poussière. Le grand esprit grandit. Le grand esprit observe. Le grand esprit guide. L'humain écoute, ou l'humain n'est plus."
 
 msgctxt "spiritofivory reminders"
 msgid "No extra evil"
-msgstr "Pas de Maléfique en plus"
+msgstr "Seul Maléfique en plus"
 
 msgctxt "spy name"
 msgid "Spy"
@@ -2731,7 +2755,7 @@ msgstr "Espion"
 
 msgctxt "spy ability"
 msgid "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead."
-msgstr "Chaque nuit, vous voyez le grimoire. Vous pourriez être reconnu comme étant « Bon » (Villageois ou Étranger), même si vous êtes mort."
+msgstr "Chaque nuit, vous voyez le grimoire. Vous pourriez être reconnu comme étant « bon », et comme un Villageois ou un Étranger, même si vous êtes mort."
 
 msgctxt "spy flavor"
 msgid "Any brewmaster worth their liquor, knows no concoction pours trouble quicker, than one where spies seem double."
@@ -2755,7 +2779,7 @@ msgstr "Vous commencez en sachant 1 joueur « Bon »."
 
 msgctxt "steward flavor"
 msgid "How DARE you accuse Her Ladyship of wrongdoing? I’ve known her my entire life! All nine years!"
-msgstr "How DARE you accuse Her Ladyship of wrongdoing? I’ve known her my entire life! All nine years!"
+msgstr "Comment OSEZ-vous accusez Sa Seigneurie de méfaits? Je l'ai connue toute ma vie! Chacun des mes neuf ans!"
 
 msgctxt "steward firstNightReminder"
 msgid "Point to 1 good player."
@@ -2767,7 +2791,7 @@ msgstr "Connu"
 
 msgctxt "stormcatcher name"
 msgid "Storm Catcher"
-msgstr "Attrape-tempête"
+msgstr "Attrape-Tempête"
 
 msgctxt "stormcatcher ability"
 msgid "Name a good character. If in play, they can only die by execution, but evil players learn which player it is."
@@ -2811,11 +2835,11 @@ msgstr "Dulcinée"
 
 msgctxt "sweetheart ability"
 msgid "When you die, 1 player is drunk from now on."
-msgstr "Si vous mourez, un autre joueur devient ivre à partir de maintenant."
+msgstr "Si vous mourez, un autre joueur devient ivre pour le reste de la partie."
 
 msgctxt "sweetheart flavor"
 msgid "I will never forget her. Never."
-msgstr "I will never forget her. Never."
+msgstr "Je ne l'oublierai jamais. Jamais."
 
 msgctxt "sweetheart otherNightReminder"
 msgid "Choose a player that is drunk."
@@ -2827,7 +2851,7 @@ msgstr "Ivre"
 
 msgctxt "tealady name"
 msgid "Tea Lady"
-msgstr "Serveuse de thé"
+msgstr "Serveuse de Thé"
 
 msgctxt "tealady ability"
 msgid "If both your alive neighbours are good, they can't die."
@@ -2835,7 +2859,7 @@ msgstr "Si vos deux voisins vivants sont « bons », ils ne peuvent pas mourir."
 
 msgctxt "tealady flavor"
 msgid "If you are cold, tea will warm you. If you are too heated, tea will cool you. If you are depressed, tea will cheer you. If you are excited, tea will calm you."
-msgstr "If you are cold, tea will warm you. If you are too heated, tea will cool you. If you are depressed, tea will cheer you. If you are excited, tea will calm you."
+msgstr "Si vous avez froid, le thé vous réchauffera. Si vous avez chaud, le thé vous refroidira. Si vous êtes déprimé, le thé vous réconfortera. Si vous êtes excité, le thé vous calmera."
 
 msgctxt "tealady reminders"
 msgid "Can not die"
@@ -2875,7 +2899,7 @@ msgstr "Vous pouvez mourir... à tout moment."
 
 msgctxt "tinker flavor"
 msgid "I think I see the problem. Luckily, I have an idea! This catapult will shoot twice as far with just a minor adjustment..."
-msgstr "I think I see the problem. Luckily, I have an idea! This catapult will shoot twice as far with just a minor adjustment..."
+msgstr "Je pense voir le problème. Heureusement, j'ai une idée! Cette catapulte tirera deux fois plus loin avec seulement un ajustement mineur..."
 
 msgctxt "tinker otherNightReminder"
 msgid "The Tinker might die."
@@ -2895,7 +2919,7 @@ msgstr "Chaque nuit*, vous apprenez si un Sbire a nommé aujourd'hui."
 
 msgctxt "towncrier flavor"
 msgid "Hear ye! Hear ye! Witchcraft in the labyrinth! Genius savant reveals all! Town in danger! Hear Ye!"
-msgstr "Hear ye! Hear ye! Witchcraft in the labyrinth! Genius savant reveals all! Town in danger! Hear Ye!"
+msgstr "Oyé! Oyé! Sorcellerie dans le labyrinthe! Un génie savant révèle la vérité! Le village est en danger! Oyé!"
 
 msgctxt "towncrier otherNightReminder"
 msgid "Nod 'yes' or shake head 'no' for whether a Minion nominated today. Place the 'Minion not nominated' marker (remove 'Minion nominated', if any)."
@@ -2903,15 +2927,15 @@ msgstr "Indiquer d'un signal de tête (hocher oui, secouer non) pour indiquer si
 
 msgctxt "towncrier reminders"
 msgid "Minions not nominated,Minion nominated"
-msgstr "Aucune nomination,Sbire Nomination"
+msgstr "Sbire n'a pas nominé,Sbire a nominé"
 
 msgctxt "toymaker name"
 msgid "Toymaker"
-msgstr "Fabricant de jouets"
+msgstr "Fabricant de Jouets"
 
 msgctxt "toymaker ability"
 msgid "The Demon may choose not to attack & must do this at least once per game. Evil players get normal starting info."
-msgstr "Le démon peut choisir de ne pas attaquer et doit le faire au moins une fois par partie. Les mauvais joueurs obtiennent des informations de départ normales."
+msgstr "Le Démon peut choisir de ne pas attaquer et doit le faire au moins une fois par partie. Les joueurs maléfiques obtiennent des informations de départ normales."
 
 msgctxt "toymaker flavor"
 msgid "It buzzes! It walks down stairs! It keeps you warm at night! It tastes like sugar! The kiddies love it! Introducing... the brand new... Warm'o-buzzy-wuzzy-walk'a'bot-thingy-contraption! Fun for all ages!"
@@ -2931,7 +2955,7 @@ msgstr "Chaque nuit*, vous apprenez quel est le rôle du joueur qui est mort par
 
 msgctxt "undertaker flavor"
 msgid "Hmmm....what have we here? The left boot is worn down to the heel, with flint shavings under the tongue. This is the garb of a Military man."
-msgstr "Hmmm....what have we here? The left boot is worn down to the heel, with flint shavings under the tongue. This is the garb of a Military man."
+msgstr "Hmmm....qu'avons-nous là? La botte gauche est abimée jusqu'au talon, avec des morceaux de silex sous la languette. C'est là l'habit d'un homme militaire."
 
 msgctxt "undertaker otherNightReminder"
 msgid "If a player was executed today: Show that player’s character token."
@@ -2947,7 +2971,7 @@ msgstr "Vigormortis"
 
 msgctxt "vigormortis ability"
 msgid "Each night*, choose a player: they die. Minions you kill keep their ability & poison 1 Townsfolk neighbour. [−1 Outsider]"
-msgstr "Chaque nuit*, choisissez un joueur : il meurt. Les Sbires que vous tuez gardent leur capacité et un de ses voisins Villageois (mort ou vif) est empoisonné. [-1 Étranger]."
+msgstr "Chaque nuit*, choisissez un joueur : il meurt. Les Sbires que vous tuez gardent leur capacité et empoisonnent un de leurs voisins Villageois (mort ou vif). [-1 Étranger]"
 
 msgctxt "vigormortis flavor"
 msgid "All doors are one door. All keys are one key. All cups are one cup, but whosoever drinketh of the water that I give shall never thirst, but the water shall be in him a well springing up into everlasting life."
@@ -2959,7 +2983,7 @@ msgstr "Il pointe un joueur : il meurt. Un Sbire tué garde sa capacité et un 
 
 msgctxt "vigormortis reminders"
 msgid "Dead,Has ability,Poisoned"
-msgstr "Assassiné,Capacité Active,Empoisonné"
+msgstr "Mort,Capacité Active,Empoisonné"
 
 msgctxt "villageidiot name"
 msgid "Village Idiot"
@@ -2967,7 +2991,7 @@ msgstr "Idiot du Village"
 
 msgctxt "villageidiot ability"
 msgid "Each night, choose a player: you learn their alignment. [+0 to +2 Village Idiots. 1 of the extras is drunk]"
-msgstr "Chaque nuit, choisissez un joueur: vous apprenez leur alignement. [+0 à +2 Idiots du Village. 1 des extras est ivre.]"
+msgstr "Chaque nuit, choisissez un joueur: vous apprenez son alignement. [+0 à +2 Idiots du Village. 1 des extras est ivre]"
 
 msgctxt "villageidiot flavor"
 msgid "Roses are blue, and violets are red, Please reverse what I just said."
@@ -3007,7 +3031,7 @@ msgstr "Vizir"
 
 msgctxt "vizier ability"
 msgid "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately."
-msgstr "Tout les joueurs savent que vous ȇtes le Vizir. Vous ne pouvez pas mourir pendant le jour. Si le Bien a voté, vous pouvez choisir d'éxécuter immédiatement."
+msgstr "Tout les joueurs savent que vous ȇtes le Vizir. Vous ne pouvez pas mourir pendant le jour. Si un joueur « bon » a voté, vous pouvez choisir d'éxécuter immédiatement."
 
 msgctxt "vizier flavor"
 msgid "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me."
@@ -3023,7 +3047,7 @@ msgstr "Vortox"
 
 msgctxt "vortox ability"
 msgid "Each night*, choose a player: they die. Townsfolk abilities yield false info. Each day, if no-one is executed, evil wins."
-msgstr "Chaque nuit*, choisissez un joueur ; il meurt. Les capacités des Villageois produisent de fausses informations. Si pas d’exécution, le mal l'emporte."
+msgstr "Chaque nuit*, choisissez un joueur ; il meurt. Les capacités des Villageois produisent de fausses informations. Si pas d’exécution, le mal gagne."
 
 msgctxt "vortox flavor"
 msgid "Black is White. Right is Wrong. Left is Right. Up is Long. Down is Sight. Short is Blind. Follow me. Answers find."
@@ -3035,7 +3059,7 @@ msgstr "Il pointe un joueur : il meurt. Si personne n'est exécuté à chaque j
 
 msgctxt "vortox reminders"
 msgid "Dead"
-msgstr "Assassiné"
+msgstr "Mort"
 
 msgctxt "voudon name"
 msgid "Voudon"
@@ -3055,7 +3079,7 @@ msgstr "Lavandière"
 
 msgctxt "washerwoman ability"
 msgid "You start knowing that 1 of 2 players is a particular Townsfolk."
-msgstr "Votre première nuit, le Conteur vous désigne 2 joueurs: vous apprenez le rôle de Villageois de l’un des deux."
+msgstr "Votre première nuit, le Conteur vous montre 2 joueurs: vous apprenez le rôle de Villageois de l’un des deux."
 
 msgctxt "washerwoman flavor"
 msgid "Bloodstains on a dinner jacket? No, this is cooking sherry. How careless."
@@ -3075,7 +3099,7 @@ msgstr "Veuve"
 
 msgctxt "widow ability"
 msgid "On your 1st night, look at the Grimoire and choose a player: they are poisoned. 1 good player knows a Widow is in play."
-msgstr "La première nuit, regardez le Grimoire et choisissez un joueur : il est empoisonné. Un joueur « Bon » sait que la Veuve Noire est en jeu."
+msgstr "La première nuit, regardez le Grimoire et choisissez un joueur : il est empoisonné. Un joueur « bon » sait que la Veuve est en jeu."
 
 msgctxt "widow flavor"
 msgid "More wine? Château d’Ergot ’07 is a very special vintage. My yes, very special indeed."
@@ -3083,7 +3107,7 @@ msgstr "More wine? Château d’Ergot ’07 is a very special vintage. My yes, v
 
 msgctxt "widow firstNightReminder"
 msgid "Show the Grimoire to the Widow for as long as they need. The Widow points to a player. That player is poisoned. Wake a good player. Show the 'These characters are in play' card, then the Widow character token."
-msgstr "Montrez le Grimoire à la Veuve Noire. Elle désigne ensuite un joueur : ce joueur est empoisonné. Réveillez un joueur « Bon ». Montrez la carte cyan « Ce rôle est en jeu » et le jeton de la Veuve Noire."
+msgstr "Montrez le Grimoire à la Veuve. Elle désigne ensuite un joueur : ce joueur est empoisonné. Réveillez un joueur « Bon ». Montrez la carte cyan « Ce rôle est en jeu » et le jeton de la Veuve."
 
 msgctxt "widow remindersGlobal"
 msgid "Knows"
@@ -3099,7 +3123,7 @@ msgstr "Sorcière"
 
 msgctxt "witch ability"
 msgid "Each night, choose a player: if they nominate tomorrow, they die. If just 3 players live, you lose this ability."
-msgstr "Chaque nuit, choisissez un joueur: s'il fait une nomination le jour suivant, il meurt aussitôt. Si seulement 3 joueurs sont vivants, votre capacité est inactive."
+msgstr "Chaque nuit, choisissez un joueur: s'il nomine le jour suivant, il meurt aussitôt. Si seulement 3 joueurs sont vivants, vous perdez cette capacité."
 
 msgctxt "witch flavor"
 msgid "Three drops of goat's blood. A lock of hair, torn in anger. The name is spoken, the shadow cast. Walk left foot first down that brambled path, and don't look back."
@@ -3127,15 +3151,7 @@ msgstr "Une fois par partie, vous pouvez faire un voeu. S'il est exaucé, il peu
 
 msgctxt "wizard flavor"
 msgid "Genies are overrated."
-msgstr "Genies are overrated."
-
-msgctxt "wizard firstNightReminder"
-msgid "Run the Wizard ability if applicable."
-msgstr ""
-
-msgctxt "wizard otherNightReminder"
-msgid "Run the Wizard ability if applicable."
-msgstr ""
+msgstr "Les génies sont surcôtés."
 
 msgctxt "wizard reminders"
 msgid "?"
@@ -3143,19 +3159,23 @@ msgstr "?"
 
 msgctxt "wraith name"
 msgid "Wraith"
-msgstr ""
+msgstr "Spectre"
 
 msgctxt "wraith ability"
 msgid "You may choose to open your eyes at night. You wake when other evil players do."
-msgstr ""
+msgstr "Vous pouvez ouvrir les yeux durant la nuit. Lorsqu'un autre joueur maléfique se réveille, vous vous réveillez aussi."
 
 msgctxt "wraith flavor"
 msgid "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
-msgstr ""
+msgstr "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
+
+msgctxt "wraith firstNightReminder"
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Réveillez le Spectre avec les autres joueurs maléfiques qui se réveillent cette nuit."
 
 msgctxt "wraith otherNightReminder"
-msgid "If the wraith has lost its ability, remind them not to open their eyes."
-msgstr ""
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Réveillez le Spectre avec les autres joueurs maléfiques qui se réveillent cette nuit."
 
 msgctxt "xaan name"
 msgid "Xaan"
@@ -3163,7 +3183,7 @@ msgstr "Xaan"
 
 msgctxt "xaan ability"
 msgid "On night X, all Townsfolk are poisoned until dusk. [X Outsiders]"
-msgstr "La nuit X, tous les Villageois sont empoisonnés jusqu'au crépuscule. [X Etrangers]"
+msgstr "La nuit X, tous les Villageois sont empoisonnés jusqu'au crépuscule. [X Étrangers]"
 
 msgctxt "xaan flavor"
 msgid "Down they fall. One by one. By two, by three, by five."
@@ -3171,7 +3191,7 @@ msgstr "Down they fall. One by one. By two, by three, by five."
 
 msgctxt "xaan reminders"
 msgid "Night 1, Night 2, Night 3, X"
-msgstr "X, Nuit 1, Nuit 2, Nuit 3"
+msgstr "X,Nuit 1,Nuit 2,Nuit 3"
 
 msgctxt "yaggababble name"
 msgid "Yaggababble"
@@ -3183,7 +3203,7 @@ msgstr "Vous commencez par apprendre une phrase secrète. Pour chaque fois que v
 
 msgctxt "yaggababble flavor"
 msgid "Murders inside the Rue Morgue? Фальшивые новости! Hounds on the Baskerville moor? Фальшивые новости! Death while sailing the Nile? Фальшивые новости!"
-msgstr "Murders inside the Rue Morgue? Фальшивые новости! Hounds on the Baskerville moor? Фальшивые новости! Death while sailing the Nile? Фальшивые новости!"
+msgstr "Des meurtres à la Rue Morgue? Фальшивые новости! Des chiens dans les landes de Baskerville? Фальшивые новости! Des morts en naviguant le Nil? Фальшивые новости!"
 
 msgctxt "yaggababble firstNightReminder"
 msgid "Show the Yaggababble their secret phrase."
@@ -3207,7 +3227,7 @@ msgstr "Si 5 joueurs ou plus sont en vie, vous devez voter pour chaque nominatio
 
 msgctxt "zealot flavor"
 msgid "I enjoy talking to you. Your mind appeals to me. It resembles my own mind except that you happen to be insane."
-msgstr "I enjoy talking to you. Your mind appeals to me. It resembles my own mind except that you happen to be insane."
+msgstr "J'apprécie parler avec vous. Votre esprit m'intéresse. Il ressemble au mien, à l'exception que vous semblez complètement fou."
 
 msgctxt "zombuul name"
 msgid "Zombuul"
@@ -3219,7 +3239,7 @@ msgstr "Chaque nuit*, si personne n’est mort aujourd'hui, choisissez un joueur
 
 msgctxt "zombuul flavor"
 msgid "I do not. Understand. Your ways. Fellow human. Show me. The dirt. Where the holy. Lay. Sleeping. I too. Must sleep. Soon."
-msgstr "I do not. Understand. Your ways. Fellow human. Show me. The dirt. Where the holy. Lay. Sleeping. I too. Must sleep. Soon."
+msgstr "Je ne. Comprends pas. Vos manières. Cher humain. Montrez-moi. La terre. Où les saints. Reposent. Endormis. Je dois. Dormir aussi. Bientôt."
 
 msgctxt "zombuul otherNightReminder"
 msgid "If no-one died during the day: The Zombuul points to a player. That player dies."
@@ -3227,4 +3247,4 @@ msgstr "Si personne n’est mort aujourd'hui, choisit un joueur, il meurt."
 
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
-msgstr "Assassiné,Aucun Mort"
+msgstr "Mort,Aucun Mort"

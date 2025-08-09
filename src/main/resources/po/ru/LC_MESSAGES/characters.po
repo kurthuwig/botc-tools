@@ -17,7 +17,7 @@ msgstr "Акробат"
 
 msgctxt "acrobat ability"
 msgid "Each night*, choose a player: if they are or become drunk or poisoned tonight, you die."
-msgstr "Каждой ночью*, если любой из ваших добрых живых соседей пьян или отравлен, вы умираете."
+msgstr "Каждую ночь*: выберите игрока. Если он пьян или отравлен текущей ночью, вы умираете."
 
 msgctxt "acrobat flavor"
 msgid "Welcome, one and all, to the greatest show on earth."
@@ -25,7 +25,7 @@ msgstr "Welcome, one and all, to the greatest show on earth."
 
 msgctxt "acrobat otherNightReminder"
 msgid "The Acrobat chooses a player. If they are become drunk or poisoned tonight, the Acrobat player dies."
-msgstr "Если добрый живой сосед пьян или отравлен, Акробат умирает."
+msgstr "Акробат выбирает игрока. Если тот игрок пьян или отравлен этой ночью, Акробат умирает."
 
 msgctxt "acrobat reminders"
 msgid "Dead"
@@ -37,7 +37,7 @@ msgstr "Алхимик"
 
 msgctxt "alchemist ability"
 msgid "You have a Minion ability. When using this, the Storyteller may prompt you to choose differently."
-msgstr "Вы владеете способностью Приспешника, который отсутствует в игре."
+msgstr "Вы обладаете способностью Приспешника. При ее использовании Рассказчик может потребовать от вас изменить выбор."
 
 msgctxt "alchemist flavor"
 msgid "Visit the interior of the Earth. By rectification thou shalt find the hidden stone. Above the gold, lieth the red. Kether in Malkuth."
@@ -485,6 +485,26 @@ msgctxt "butler reminders"
 msgid "Master"
 msgstr "Хозяин"
 
+msgctxt "cacklejack name"
+msgid "Cacklejack"
+msgstr "Cacklejack"
+
+msgctxt "cacklejack ability"
+msgid "Each day, choose a player: a different player changes character tonight."
+msgstr "Each day, choose a player: a different player changes character tonight."
+
+msgctxt "cacklejack flavor"
+msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+msgstr "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+
+msgctxt "cacklejack otherNightReminder"
+msgid "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+msgstr "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+
+msgctxt "cacklejack reminders"
+msgid "Not me"
+msgstr "Not me"
+
 msgctxt "cannibal name"
 msgid "Cannibal"
 msgstr "Людоед"
@@ -610,7 +630,7 @@ msgid "The Courtier either shows a 'no' head signal, or points to a character on
 msgstr "Льстец либо качанием головы отказывается действовать, либо указывает на роль в списке. Если Льстец применил способность и выбранная роль находится в игре, ее владелец становится пьян."
 
 msgctxt "courtier otherNightReminder"
-msgid "Reduce the remaining number of days the marked player is poisoned. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgid "Reduce the remaining number of days the marked player is drunk. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
 msgstr "Уменьшите счетчик дней рядом с помеченным пьяным игроком на 1. Если Льстец еще не применял способность: Льстец либо качанием головы отказывается действовать, либо указывает на роль в списке. Если Льстец применил способность и выбранная роль находится в игре, ее владелец становится пьян."
 
 msgctxt "courtier reminders"
@@ -1359,19 +1379,19 @@ msgstr "After the hail has smashed the roof and splintered the glass of the Cath
 
 msgctxt "hermit name"
 msgid "Hermit"
-msgstr ""
+msgstr "Hermit"
 
 msgctxt "hermit ability"
 msgid "You have all Outsider abilities. [-0 or -1 Outsider]"
-msgstr ""
+msgstr "You have all Outsider abilities. [-0 or -1 Outsider]"
 
 msgctxt "hermit flavor"
 msgid "In the lost and forgotten places of the earth, the soul’s light beckons."
-msgstr ""
+msgstr "In the lost and forgotten places of the earth, the soul’s light beckons."
 
 msgctxt "hermit reminders"
 msgid "1, 2, 3"
-msgstr ""
+msgstr "1, 2, 3"
 
 msgctxt "highpriestess name"
 msgid "High Priestess"
@@ -1717,7 +1737,7 @@ msgstr "Мертв,Отравлен"
 
 msgctxt "lordoftyphon name"
 msgid "Lord of Typhon"
-msgstr "Лорд Тифонский"
+msgstr "Владыка Тифона"
 
 msgctxt "lordoftyphon ability"
 msgid "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? To +? Outsiders]"
@@ -1769,7 +1789,7 @@ msgstr "Оборотень"
 
 msgctxt "lycanthrope ability"
 msgid "Each night*, choose an alive player. If good, they die & the Demon doesn’t kill tonight. One good player registers as evil."
-msgstr "Каждой ночью* выберите живого игрока. Если этот игрок добрый, то он умирает, но больше этой ночью никто не умрет."
+msgstr "Каждую ночь*: выберите живого игрока. Если этот игрок добрый, он умирает и Демон не убивает текущей ночью. Один из добрых игроков определяется злым."
 
 msgctxt "lycanthrope flavor"
 msgid "Beneath the thin veneer of civilisation lies a howling madness."
@@ -1777,11 +1797,11 @@ msgstr "Beneath the thin veneer of civilisation lies a howling madness."
 
 msgctxt "lycanthrope otherNightReminder"
 msgid "The Lycanthrope points to a living player: if good, they die and the Demon doesn't kill tonight"
-msgstr "Оборотень указывает на живого игрока. Если этот игрок добрый, то он умирает, и больше этой ночью никто умереть не может."
+msgstr "Оборотень указывает на живого игрока. Если этот игрок добрый, то он умирает, и Демон ночью не убивает."
 
 msgctxt "lycanthrope reminders"
 msgid "Dead,Faux Paw"
-msgstr "Мертв"
+msgstr "Мертв,Ложный след"
 
 msgctxt "magician name"
 msgid "Magician"
@@ -2097,7 +2117,7 @@ msgstr "Шарманщик"
 
 msgctxt "organgrinder ability"
 msgid "All players keep their eyes closed when voting and the vote tally is secret. Each night, choose if you are drunk or not."
-msgstr "Все игроки держат глаза закрытыми во время голосования, и подсчет голосов является секретным. Голоса за вас учитываются только в том случае, если вы проголосовали."
+msgstr "Все игроки держат глаза закрытыми во время голосования, и подсчет голосов является секретным. Каждую ночь: выберите, становитесь ли вы пьяным до заката."
 
 msgctxt "organgrinder flavor"
 msgid "Round and round the handles go. The more you dance the less you know."
@@ -2105,7 +2125,7 @@ msgstr "Round and round the handles go. The more you dance the less you know."
 
 msgctxt "organgrinder reminders"
 msgid "Drunk,About to die"
-msgstr "Умрет"
+msgstr "Пьян,Умрет"
 
 msgctxt "pacifist name"
 msgid "Pacifist"
@@ -2321,7 +2341,7 @@ msgstr "Princess"
 
 msgctxt "princess ability"
 msgid "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
-msgstr "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
+msgstr "В ваш первый день: если вы номинировали и казнили игрока, Демон не убивает ближайшей ночью."
 
 msgctxt "princess flavor"
 msgid "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
@@ -2329,11 +2349,11 @@ msgstr "Our words are hounds, bound by silken threads, dear lords. Let kindness 
 
 msgctxt "princess otherNightReminder"
 msgid "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
-msgstr "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
+msgstr "Если это был первый день Принцессы, она номинировала и по ее номинации казнили игрока, Демон не убивает ближайшей ночью."
 
 msgctxt "princess reminders"
 msgid "Doesn't Kill"
-msgstr "Doesn't Kill"
+msgstr "Не убивает"
 
 msgctxt "professor name"
 msgid "Professor"
@@ -2461,7 +2481,7 @@ msgstr "Бедлам"
 
 msgctxt "riot ability"
 msgid "On day 3, Minions become Riot & nominees die but nominate an alive player immediately. This must happen."
-msgstr "Выдвинутые игроки немедленно умирают, но имеют право сразу же выдвинуть кого-то еще (в 3-й день они обязаны это сделать). После 3-го дня зло побеждает. [Все Приспешники - Бедлам]"
+msgstr "В третий день: Приспешники становятся Мятежниками, а номинированные игроки умирают, но немедленно номинируют живого игрока. Номинации должны произойти."
 
 msgctxt "riot flavor"
 msgid "Larga vida a la revolución! Mi revolucion!"
@@ -3119,11 +3139,11 @@ msgstr "Проклятье"
 
 msgctxt "wizard name"
 msgid "Wizard"
-msgstr "Wizard"
+msgstr "Волшебник"
 
 msgctxt "wizard ability"
 msgid "Once per game, choose to make a wish.  If granted, it might have a price & leave a clue as to its nature."
-msgstr "Once per game, choose to make a wish.  If granted, it might have a price & leave a clue as to its nature."
+msgstr "Один раз за игру: вы можете загадать желание. Если оно исполнено, оно может иметь цену и оставить подсказку о своей природе."
 
 msgctxt "wizard flavor"
 msgid "Genies are overrated."
@@ -3131,11 +3151,11 @@ msgstr "Genies are overrated."
 
 msgctxt "wizard firstNightReminder"
 msgid "Run the Wizard ability if applicable."
-msgstr "Run the Wizard ability if applicable."
+msgstr "Если возможно, разыграйте спрособность Волшебника."
 
 msgctxt "wizard otherNightReminder"
 msgid "Run the Wizard ability if applicable."
-msgstr "Run the Wizard ability if applicable."
+msgstr "Если возможно, разыграйте спрособность Волшебника."
 
 msgctxt "wizard reminders"
 msgid "?"
@@ -3143,27 +3163,31 @@ msgstr "?"
 
 msgctxt "wraith name"
 msgid "Wraith"
-msgstr ""
+msgstr "Призрак"
 
 msgctxt "wraith ability"
 msgid "You may choose to open your eyes at night. You wake when other evil players do."
-msgstr ""
+msgstr "Вы можете открывать глаза ночью. Вы просыпаетесь при пробуждении других злых игроков."
 
 msgctxt "wraith flavor"
 msgid "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
-msgstr ""
+msgstr "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
+
+msgctxt "wraith firstNightReminder"
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Разбудите Призрака ночью, когда просыпаются другие злые игроки."
 
 msgctxt "wraith otherNightReminder"
-msgid "If the wraith has lost its ability, remind them not to open their eyes."
-msgstr ""
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Разбудите Призрака ночью, когда просыпаются другие злые игроки."
 
 msgctxt "xaan name"
 msgid "Xaan"
-msgstr "Xaan"
+msgstr "Ксаан"
 
 msgctxt "xaan ability"
 msgid "On night X, all Townsfolk are poisoned until dusk. [X Outsiders]"
-msgstr "On night X, all Townsfolk are poisoned until dusk. [X Outsiders]"
+msgstr "В ночь X: все Горожане становятся отравленными до заката. [X Изгоев]"
 
 msgctxt "xaan flavor"
 msgid "Down they fall. One by one. By two, by three, by five."
@@ -3171,7 +3195,7 @@ msgstr "Down they fall. One by one. By two, by three, by five."
 
 msgctxt "xaan reminders"
 msgid "Night 1, Night 2, Night 3, X"
-msgstr "Night 1, Night 2, Night 3, X"
+msgstr "Ночь 1,Ночь 2,Ночь 3,X"
 
 msgctxt "yaggababble name"
 msgid "Yaggababble"

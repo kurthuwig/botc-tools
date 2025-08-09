@@ -369,7 +369,7 @@ msgstr "Tick... Tick... Tick... TOCK."
 
 msgctxt "bootlegger name"
 msgid "Bootlegger"
-msgstr "Бутлегер"
+msgstr "Контрабандист (Бутлегер)"
 
 msgctxt "bootlegger ability"
 msgid "This script has homebrew characters or rules."
@@ -484,6 +484,26 @@ msgstr "Дворецкий указывает на игрока. Отметьт�
 msgctxt "butler reminders"
 msgid "Master"
 msgstr "Мастер"
+
+msgctxt "cacklejack name"
+msgid "Cacklejack"
+msgstr "Cacklejack"
+
+msgctxt "cacklejack ability"
+msgid "Each day, choose a player: a different player changes character tonight."
+msgstr "Each day, choose a player: a different player changes character tonight."
+
+msgctxt "cacklejack flavor"
+msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+msgstr "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+
+msgctxt "cacklejack otherNightReminder"
+msgid "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+msgstr "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+
+msgctxt "cacklejack reminders"
+msgid "Not me"
+msgstr "Not me"
 
 msgctxt "cannibal name"
 msgid "Cannibal"
@@ -610,7 +630,7 @@ msgid "The Courtier either shows a 'no' head signal, or points to a character on
 msgstr "Льстец либо качанием головы отказывается действовать, либо указывает на роль в списке. Если Льстец применил способность и выбранная роль находится в игре, ее владелец становится пьян."
 
 msgctxt "courtier otherNightReminder"
-msgid "Reduce the remaining number of days the marked player is poisoned. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgid "Reduce the remaining number of days the marked player is drunk. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
 msgstr "Уменьшите счетчик дней рядом с помеченным пьяным игроком на 1. Если Льстец еще не применял способность: Льстец либо качанием головы отказывается действовать, либо указывает на роль в списке. Если Льстец применил способность и выбранная роль находится в игре, ее владелец становится пьян."
 
 msgctxt "courtier reminders"
@@ -1359,19 +1379,19 @@ msgstr "After the hail has smashed the roof and splintered the glass of the Cath
 
 msgctxt "hermit name"
 msgid "Hermit"
-msgstr ""
+msgstr "Аскет"
 
 msgctxt "hermit ability"
 msgid "You have all Outsider abilities. [-0 or -1 Outsider]"
-msgstr ""
+msgstr "Вы имеете все способности других аутсайдеров. [-0 или -1 Аутсайдер]"
 
 msgctxt "hermit flavor"
 msgid "In the lost and forgotten places of the earth, the soul’s light beckons."
-msgstr ""
+msgstr "In the lost and forgotten places of the earth, the soul’s light beckons."
 
 msgctxt "hermit reminders"
 msgid "1, 2, 3"
-msgstr ""
+msgstr "1, 2, 3"
 
 msgctxt "highpriestess name"
 msgid "High Priestess"
@@ -2051,10 +2071,6 @@ msgctxt "ogre firstNightReminder"
 msgid "The Ogre points to a player (not themselves) and becomes their alignment."
 msgstr "The Ogre points to a player (not themselves) and becomes their alignment."
 
-msgctxt "ogre reminders"
-msgid "Friend"
-msgstr ""
-
 msgctxt "ojo name"
 msgid "Ojo"
 msgstr "Охо"
@@ -2317,11 +2333,11 @@ msgstr "На богослужении"
 
 msgctxt "princess name"
 msgid "Princess"
-msgstr "Princess"
+msgstr "Принцесса"
 
 msgctxt "princess ability"
 msgid "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
-msgstr "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
+msgstr "Если в ваш первый день в игре номинированный вами игрок будет казнён, то Демон в эту ночь не убивает."
 
 msgctxt "princess flavor"
 msgid "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
@@ -3143,23 +3159,27 @@ msgstr "?"
 
 msgctxt "wraith name"
 msgid "Wraith"
-msgstr ""
+msgstr "Призрак"
 
 msgctxt "wraith ability"
 msgid "You may choose to open your eyes at night. You wake when other evil players do."
-msgstr ""
+msgstr "Вы можете открывать глаза ночью. Вы просыпаетесь вместе с другими злыми игроками."
 
 msgctxt "wraith flavor"
 msgid "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
-msgstr ""
+msgstr "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
+
+msgctxt "wraith firstNightReminder"
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Wake the Wraith tonight whenever other evil players wake."
 
 msgctxt "wraith otherNightReminder"
-msgid "If the wraith has lost its ability, remind them not to open their eyes."
-msgstr ""
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Wake the Wraith tonight whenever other evil players wake."
 
 msgctxt "xaan name"
 msgid "Xaan"
-msgstr "Мурза (Хан)"
+msgstr "Хан (Мурза)"
 
 msgctxt "xaan ability"
 msgid "On night X, all Townsfolk are poisoned until dusk. [X Outsiders]"

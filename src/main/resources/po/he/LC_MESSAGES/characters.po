@@ -23,11 +23,6 @@ msgctxt "acrobat flavor"
 msgid "Welcome, one and all, to the greatest show on earth."
 msgstr "Welcome, one and all, to the greatest show on earth."
 
-#, fuzzy
-msgctxt "acrobat otherNightReminder"
-msgid "The Acrobat chooses a player. If they are become drunk or poisoned tonight, the Acrobat player dies."
-msgstr "בכל לילה*, אם אחד מהשכנים הטובים החיים שלך שיכור או מורעל, אתה מת."
-
 msgctxt "acrobat reminders"
 msgid "Dead"
 msgstr "מת"
@@ -380,10 +375,6 @@ msgctxt "bootlegger flavor"
 msgid "I've got the latest shipment from home, a brew I'd like to call 'Barrowfog'. Wanna try?"
 msgstr "I've got the latest shipment from home, a brew I'd like to call 'Barrowfog'. Wanna try?"
 
-msgctxt "bootlegger firstNightReminder"
-msgid "Announce the Bootlegger is in play and inform the group of all homebrew characters and/or rules you are using in this game."
-msgstr ""
-
 msgctxt "bountyhunter name"
 msgid "Bounty Hunter"
 msgstr "צייד ראשים"
@@ -485,6 +476,26 @@ msgstr "המלצר בוחר שחקן."
 msgctxt "butler reminders"
 msgid "Master"
 msgstr "אדון"
+
+msgctxt "cacklejack name"
+msgid "Cacklejack"
+msgstr "Cacklejack"
+
+msgctxt "cacklejack ability"
+msgid "Each day, choose a player: a different player changes character tonight."
+msgstr "Each day, choose a player: a different player changes character tonight."
+
+msgctxt "cacklejack flavor"
+msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+msgstr "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+
+msgctxt "cacklejack otherNightReminder"
+msgid "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+msgstr "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+
+msgctxt "cacklejack reminders"
+msgid "Not me"
+msgstr "Not me"
 
 msgctxt "cannibal name"
 msgid "Cannibal"
@@ -611,7 +622,7 @@ msgid "The Courtier either shows a 'no' head signal, or points to a character on
 msgstr "החצרן עלול לבחור דמות  ."
 
 msgctxt "courtier otherNightReminder"
-msgid "Reduce the remaining number of days the marked player is poisoned. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgid "Reduce the remaining number of days the marked player is drunk. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
 msgstr "החצרן עלול לבחור דמות  ."
 
 msgctxt "courtier reminders"
@@ -1360,19 +1371,19 @@ msgstr "After the hail has smashed the roof and splintered the glass of the Cath
 
 msgctxt "hermit name"
 msgid "Hermit"
-msgstr ""
+msgstr "Hermit"
 
 msgctxt "hermit ability"
 msgid "You have all Outsider abilities. [-0 or -1 Outsider]"
-msgstr ""
+msgstr "You have all Outsider abilities. [-0 or -1 Outsider]"
 
 msgctxt "hermit flavor"
 msgid "In the lost and forgotten places of the earth, the soul’s light beckons."
-msgstr ""
+msgstr "In the lost and forgotten places of the earth, the soul’s light beckons."
 
 msgctxt "hermit reminders"
 msgid "1, 2, 3"
-msgstr ""
+msgstr "1, 2, 3"
 
 msgctxt "highpriestess name"
 msgid "High Priestess"
@@ -1800,6 +1811,10 @@ msgstr ""
 "1... 2... Abra... 3... 4... Cadabra... *poof!*\n"
 "And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!"
 
+msgctxt "magician firstNightReminder"
+msgid "Point to the Magician when showing the Demon their Minions. Point to the Demon and the Magician when showing the Minions their Demon."
+msgstr "כלול את הקוסם בשלבי המידע של השד והמשרתים"
+
 msgctxt "marionette name"
 msgid "Marionette"
 msgstr "מריונטה"
@@ -2051,10 +2066,6 @@ msgstr "<grunt><grin></grunt>"
 msgctxt "ogre firstNightReminder"
 msgid "The Ogre points to a player (not themselves) and becomes their alignment."
 msgstr "The Ogre points to a player (not themselves) and becomes their alignment."
-
-msgctxt "ogre reminders"
-msgid "Friend"
-msgstr ""
 
 msgctxt "ojo name"
 msgid "Ojo"
@@ -3144,19 +3155,23 @@ msgstr "?"
 
 msgctxt "wraith name"
 msgid "Wraith"
-msgstr ""
+msgstr "Wraith"
 
 msgctxt "wraith ability"
 msgid "You may choose to open your eyes at night. You wake when other evil players do."
-msgstr ""
+msgstr "You may choose to open your eyes at night. You wake when other evil players do."
 
 msgctxt "wraith flavor"
 msgid "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
-msgstr ""
+msgstr "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
+
+msgctxt "wraith firstNightReminder"
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Wake the Wraith tonight whenever other evil players wake."
 
 msgctxt "wraith otherNightReminder"
-msgid "If the wraith has lost its ability, remind them not to open their eyes."
-msgstr ""
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Wake the Wraith tonight whenever other evil players wake."
 
 msgctxt "xaan name"
 msgid "Xaan"
@@ -3229,7 +3244,3 @@ msgstr "אם אף אחד לא מת היום, הזומבול בוחר שחקן."
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "מתו היום, מת"
-
-#~ msgctxt "magician firstNightReminder"
-#~ msgid "Point to the Magician when showing the Demon their Minions. Point to the Demon and the Magician when showing the Minions their Demon."
-#~ msgstr "כלול את הקוסם בשלבי המידע של השד והמשרתים"

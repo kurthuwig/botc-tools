@@ -1,5 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-08-09 07:43+0000\nLast-Translator: Eliderad <aki12@live.se>\nLanguage-Team: Swedish <https://hosted.weblate.org/projects/botc/characters/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13-dev\n"
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
 
 msgctxt "acrobat name"
 msgid "Acrobat"
@@ -355,7 +365,7 @@ msgstr "Om du avrättas dör alla utom 3 spelare. Efter en nedräkning från 10 
 
 msgctxt "boomdandy flavor"
 msgid "Tick... Tick... Tick... TOCK."
-msgstr "Tick… Tick… Tick… TICK."
+msgstr "Vilken jävla smäll!"
 
 msgctxt "bootlegger name"
 msgid "Bootlegger"
@@ -471,6 +481,26 @@ msgstr "Butlern pekar på en spelare. Markera den spelaren som ”Husbonde”."
 msgctxt "butler reminders"
 msgid "Master"
 msgstr "Husbonde"
+
+msgctxt "cacklejack name"
+msgid "Cacklejack"
+msgstr "Kackeljack"
+
+msgctxt "cacklejack ability"
+msgid "Each day, choose a player: a different player changes character tonight."
+msgstr "Varje dag väljer du en spelare: en annan spelare byter roll inatt."
+
+msgctxt "cacklejack flavor"
+msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+msgstr "Sladd α Till sladd β. LjUs pÅ. LaRM av. TJohOpp! Armar UTåt. FingER mot näsan. håÅåålL stiLLa. BoiNgo-banGo! Ha ha ha!"
+
+msgctxt "cacklejack otherNightReminder"
+msgid "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+msgstr "Väck en spelare som inte är markerad med ”Inte mig” och visa hen kortet ”Du är” följt av hens nya rollbricka."
+
+msgctxt "cacklejack reminders"
+msgid "Not me"
+msgstr "Inte mig"
 
 msgctxt "cannibal name"
 msgid "Cannibal"
@@ -597,7 +627,7 @@ msgid "The Courtier either shows a 'no' head signal, or points to a character on
 msgstr "Hovmästaren skakar på huvudet för nej, eller pekar på en roll på sitt ark. Om Hovmästaren använder sin förmåga och den utpekade rollen är i spel blir den spelaren full."
 
 msgctxt "courtier otherNightReminder"
-msgid "Reduce the remaining number of days the marked player is poisoned. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgid "Reduce the remaining number of days the marked player is drunk. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
 msgstr "Minska antalet dagar som den markerade spelaren är förgiftad. Om Hovmästaren inte har använt sin förmåga: Hovmästaren skakar på huvudet för nej, eller pekar på en roll på sitt ark. Om Hovmästaren använder sin förmåga och den utpekade rollen är i spel blir den spelaren full."
 
 msgctxt "courtier reminders"
@@ -650,11 +680,15 @@ msgstr "Har gissat"
 
 msgctxt "deusexfiasco name"
 msgid "Deus ex Fiasco"
-msgstr "Deus ex fiasco"
+msgstr "Deus Ex Fiasco"
 
 msgctxt "deusexfiasco ability"
 msgid "At least once per game, the Storyteller will make a mistake, correct it and publicly admit to it."
-msgstr "En gång per spel begår Berättaren ett ”misstag”, rättar till det och erkänner."
+msgstr "Minst en gång per spel begår Berättaren ett misstag, rättar till det och erkänner detta öppet."
+
+msgctxt "deusexfiasco flavor"
+msgid "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
+msgstr "Det är inte en bugg; det är en funktion. Det är inte ett fel; det är en fix. Det är inte trasigt; det är lustigt."
 
 msgctxt "deusexfiasco reminders"
 msgid "Whoopsie"
@@ -666,7 +700,7 @@ msgstr "Avvikaren"
 
 msgctxt "deviant ability"
 msgid "If you were funny today, you cannot die by exile."
-msgstr "Om du var rolig idag kan du inte bli utstött."
+msgstr "Om du var rolig idag kan du inte dö av exil."
 
 msgctxt "deviant flavor"
 msgid "Twas the lady's quip, forsooth."
@@ -674,7 +708,7 @@ msgstr "… sa flickan."
 
 msgctxt "devilsadvocate name"
 msgid "Devil's Advocate"
-msgstr "Djävulens advokat"
+msgstr "Djävulens Advokat"
 
 msgctxt "devilsadvocate ability"
 msgid "Each night, choose a living player (different to last night): if executed tomorrow, they don't die."
@@ -686,11 +720,11 @@ msgstr "Skulle invändningen ogillas vill min klient dementera anklagelserna med
 
 msgctxt "devilsadvocate firstNightReminder"
 msgid "The Devil’s Advocate points to a living player. That player survives execution tomorrow."
-msgstr "Djävulens advokat pekar på en levande spelare. Den spelaren överlever avrättning imorgon."
+msgstr "Djävulens Advokat pekar på en levande spelare. Den spelaren överlever avrättning imorgon."
 
 msgctxt "devilsadvocate otherNightReminder"
 msgid "The Devil’s Advocate points to a living player, different from the previous night. That player survives execution tomorrow."
-msgstr "Djävulens advokat pekar på en levande spelare, men inte samma som igår natt. Den spelaren överlever avrättning imorgon."
+msgstr "Djävulens Advokat pekar på en levande spelare, men inte samma som igår natt. Den spelaren överlever avrättning imorgon."
 
 msgctxt "devilsadvocate reminders"
 msgid "Survives execution"
@@ -722,7 +756,7 @@ msgstr "Varje levande spelare kan en gång per spel öppet välja att en spelare
 
 msgctxt "doomsayer flavor"
 msgid "And on the Seventh Day, there shall be a great flood and a pestilence upon the People of the Village of the Ravens! The dead shall rise and the living shall repent! O Woe! O Unholy day! Only by great sacrifice shall they prevail! So sayeth the Sages of Nostros and so sayeth I."
-msgstr "Och på den Sjunde dagen skall syndaflod och farsot drabba folket i korparnas by! De döda skall resa sig ur sina gravar och de levande skall få sona! Ve! Grymma dag! Endast stora uppoffringar kan rädda dem! Så säger Nostros vise och så säger jag."
+msgstr "Och på den sjunde dagen skall syndaflod och farsot drabba folket i korparnas by! De döda skall resa sig ur sina gravar och de levande skall få sona! Ve! Grymma dag! Endast stora uppoffringar kan rädda dem! Så säger Nostros vise och så säger jag."
 
 msgctxt "dreamer name"
 msgid "Dreamer"
@@ -1256,7 +1290,7 @@ msgstr "Varje natt* väljer du en levande spelare; om hen går med på det får 
 
 msgctxt "harlot flavor"
 msgid "Enchanté, Sailor. You look like you need someone to really listen to your troubles. I'm a good listener. Very, very good."
-msgstr "Enchanté, matros. Du ser ut som att du behöver lätta på hjärtat för någon. Jag är bra på att lyssna. Mycket, mycket bra."
+msgstr "Enchanté, matros. Du ser ut som att du behöver lätta på hjärtat. Jag är bra på att lyssna. Mycket, mycket bra."
 
 msgctxt "harlot otherNightReminder"
 msgid "The Harlot points at any player. Then, put the Harlot to sleep. Wake the chosen player, show them the 'This character selected you' token, then the Harlot token. That player either nods their head yes or shakes their head no. If they nodded their head yes, wake the Harlot and show them the chosen player's character token. Then, you may decide that both players die."
@@ -1344,15 +1378,15 @@ msgstr "Eremiten"
 
 msgctxt "hermit ability"
 msgid "You have all Outsider abilities. [-0 or -1 Outsider]"
-msgstr ""
+msgstr "Du har alla Utbölingars förmågor. [−0 eller −1 Utböling]"
 
 msgctxt "hermit flavor"
 msgid "In the lost and forgotten places of the earth, the soul’s light beckons."
-msgstr ""
+msgstr "På jordens förlorade och bortglömda platser kallar själens ljus."
 
 msgctxt "hermit reminders"
 msgid "1, 2, 3"
-msgstr ""
+msgstr "1,2,3"
 
 msgctxt "highpriestess name"
 msgid "High Priestess"
@@ -1480,7 +1514,7 @@ msgstr "Jonglören"
 
 msgctxt "juggler ability"
 msgid "On your 1st day, publicly guess up to 5 players' characters. That night, you learn how many you got correct."
-msgstr "På din första dag får du öppet gissa upp till 5 spelares roller. Inatt får du veta hur många rätt du hade."
+msgstr "Din första dag får du öppet gissa upp till 5 spelares roller. Inatt får du veta hur många rätt du hade."
 
 msgctxt "juggler flavor"
 msgid "For my next trick, as per request, I will need a flower, a bag of beans, a toy snake, a paintbrush, and a motorized gasoline-powered hedge trimming device. I warn you, this trick may be my last. Oh dear."
@@ -1652,9 +1686,9 @@ msgid ""
 "Step 2: World domination.\n"
 "Step 3: Bweakfast."
 msgstr ""
-"Steg 1: Vara söt.\n"
-"Steg 2: Världsherravälde.\n"
-"Steg 3: Frukost."
+"Steg 1: Va söt.\n"
+"Steg 2: Ta övej väden.\n"
+"Steg 3: Äta fjukost."
 
 msgctxt "lilmonsta firstNightReminder"
 msgid "Wake all Minions together, allow them to vote by pointing at who they want to babysit Lil' Monsta."
@@ -1698,7 +1732,7 @@ msgstr "Tyfons Herre"
 
 msgctxt "lordoftyphon ability"
 msgid "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? To +? Outsiders]"
-msgstr "Varje natt* väljer du en spelare; hen dör. [Onda sitter på rad & du är inte ytterst. +1 Kumpan. ±? Utbölingar]"
+msgstr "Varje natt* väljer du en spelare; hen dör. [Onda sitter på rad; du är inte ytterst. +1 Kumpan. ±? Utbölingar]"
 
 msgctxt "lordoftyphon flavor"
 msgid "In the shadowed and forgotten corners of the cosmos, where the stars whisper secrets to the void, lies a truth so profound that the merest glimpse of it unravels the sanity of mortal minds."
@@ -2072,7 +2106,7 @@ msgstr "Positivhalaren"
 
 msgctxt "organgrinder ability"
 msgid "All players keep their eyes closed when voting and the vote tally is secret. Each night, choose if you are drunk or not."
-msgstr "Alla spelare blundar under röstningen & resultatet är hemligt. Varje natt väljer du om du ska vara full till skymningen."
+msgstr "Alla spelare blundar vid röstning och resultatet är hemligt. Varje natt väljer du om du ska vara full till skymningen."
 
 msgctxt "organgrinder flavor"
 msgid "Round and round the handles go. The more you dance the less you know."
@@ -2284,23 +2318,23 @@ msgstr "Ingen förmåga"
 
 msgctxt "princess name"
 msgid "Princess"
-msgstr "Princess"
+msgstr "Prinsessan"
 
 msgctxt "princess ability"
 msgid "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
-msgstr "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
+msgstr "Om du nominerade och avrättade en spelare din första dag får Demonen inte döda den natten."
 
 msgctxt "princess flavor"
 msgid "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
-msgstr "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
+msgstr "Våra ord är blodhundar bundna med silkestrådar, mitt herrskap. Väv dem med vänlighet, så inte tyglarna tvinnas upp och hovet slits i stycken."
 
 msgctxt "princess otherNightReminder"
 msgid "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
-msgstr "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
+msgstr "Om det var Prinsessans första dag idag och hen nominerade och avrättade en spelare så får Demonen inte döda."
 
 msgctxt "princess reminders"
 msgid "Doesn't Kill"
-msgstr "Doesn't Kill"
+msgstr "Dödar inte"
 
 msgctxt "professor name"
 msgid "Professor"
@@ -2426,7 +2460,7 @@ msgstr "Kravallen"
 
 msgctxt "riot ability"
 msgid "On day 3, Minions become Riot & nominees die but nominate an alive player immediately. This must happen."
-msgstr "Dag 3 blir Kumpaner till Kravallen & nominerade dör men nominerar en levande spelare direkt. Detta måste hända."
+msgstr "Dag 3 blir Kumpaner till Kravallen och nominerade dör men nominerar en levande spelare direkt. Detta måste hända."
 
 msgctxt "riot flavor"
 msgid "Larga vida a la revolución! Mi revolucion!"
@@ -2653,7 +2687,7 @@ msgstr "Varje Kumpan får 3 bluffar."
 
 msgctxt "snitch flavor"
 msgid "It was John."
-msgstr "Det var Jan."
+msgstr "Det var Johan."
 
 msgctxt "snitch firstNightReminder"
 msgid "After Minion info wake each Minion and show them three not-in-play character tokens. These may be the same or different to each other and the ones shown to the Demon."
@@ -3105,19 +3139,23 @@ msgstr "?"
 
 msgctxt "wraith name"
 msgid "Wraith"
-msgstr ""
+msgstr "Vålnaden"
 
 msgctxt "wraith ability"
 msgid "You may choose to open your eyes at night. You wake when other evil players do."
-msgstr ""
+msgstr "Du får öppna ögonen på natten. Du vaknar med andra onda spelare."
 
 msgctxt "wraith flavor"
 msgid "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
-msgstr ""
+msgstr "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
+
+msgctxt "wraith firstNightReminder"
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Väck Vålnaden inatt när andra onda spelare vaknar."
 
 msgctxt "wraith otherNightReminder"
-msgid "If the wraith has lost its ability, remind them not to open their eyes."
-msgstr ""
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Väck Vålnaden inatt när andra onda spelare vaknar."
 
 msgctxt "xaan name"
 msgid "Xaan"

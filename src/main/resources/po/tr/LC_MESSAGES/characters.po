@@ -165,7 +165,7 @@ msgstr "Suikastçi"
 
 msgctxt "assassin ability"
 msgid "Once per game, at night*, choose a player: they die, even if for some reason they could not."
-msgstr "Oyun başına bir kez, gece*, bir oyuncu seçin: herhangi bir nedenden dolayı ölememiş olsalar bile ölürler."
+msgstr "Oyunda bir kez, gece*, bir oyuncu seçin: herhangi bir nedenden dolayı ölemiyecek olsalar bile ölürler."
 
 msgctxt "assassin flavor"
 msgid "..."
@@ -485,6 +485,26 @@ msgctxt "butler reminders"
 msgid "Master"
 msgstr "Efendi"
 
+msgctxt "cacklejack name"
+msgid "Cacklejack"
+msgstr "Cacklejack"
+
+msgctxt "cacklejack ability"
+msgid "Each day, choose a player: a different player changes character tonight."
+msgstr "Each day, choose a player: a different player changes character tonight."
+
+msgctxt "cacklejack flavor"
+msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+msgstr "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+
+msgctxt "cacklejack otherNightReminder"
+msgid "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+msgstr "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+
+msgctxt "cacklejack reminders"
+msgid "Not me"
+msgstr "Not me"
+
 msgctxt "cannibal name"
 msgid "Cannibal"
 msgstr "Yamyam"
@@ -531,7 +551,7 @@ msgstr "Hizmetçi"
 
 msgctxt "chambermaid ability"
 msgid "Each night, choose 2 alive players (not yourself): you learn how many woke tonight due to their ability."
-msgstr "Her gece 2 canlı oyuncu seçin (kendiniz hariç): yetenekleri sayesinde bu gece kaç kişinin uyandığını öğrenirsiniz."
+msgstr "Her gece 2 canlı oyuncu seçin (kendiniz hariç): bu gece kaç kişinin yetenekleri sayesinde uyandığını öğrenirsiniz."
 
 msgctxt "chambermaid flavor"
 msgid "I aint seen nothin' untoward, Milady. Begging your pardon, but if I did see somethin', it certainly weren't the master o' the house sneaking into the professor's laboratory 'round eleven o'clock and mixing up fancy potions, just like you said, Miss."
@@ -599,7 +619,7 @@ msgstr "Nedim"
 
 msgctxt "courtier ability"
 msgid "Once per game, at night, choose a character: they are drunk for 3 nights & 3 days."
-msgstr "Her oyunda bir kez, gece, bir karakter seçin: bu karakter 3 gece ve 3 gün boyunca sarhoş olur."
+msgstr "Oyunda bir kez, gece, bir karakter seçin: o 3 gece ve 3 gün boyunca sarhoş olur."
 
 msgctxt "courtier flavor"
 msgid "I am more afraid of an army of one hundred sheep led by a lion than an army of one hundred lions led by a sheep."
@@ -610,7 +630,7 @@ msgid "The Courtier either shows a 'no' head signal, or points to a character on
 msgstr "Nedim ya 'hayır' işareti yapar ya da kâğıttaki bir karakteri işaret eder. Eğer nedim yeteneğini kullandıysa: Eğer o karakter oyundaysa, o oyuncu sarhoş olur."
 
 msgctxt "courtier otherNightReminder"
-msgid "Reduce the remaining number of days the marked player is poisoned. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgid "Reduce the remaining number of days the marked player is drunk. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
 msgstr "İşaretli oyuncunun zehirlendiği kalan gün sayısını azalt. Eğer Nedim henüz yeteneğini kullanmamışsa: Nedim ya 'hayır' işareti yapar ya da kâğıttaki bir karakteri işaret eder. Eğer nedim yeteneğini kullandıysa: Eğer o karakter oyundaysa, o oyuncu sarhoş olur."
 
 msgctxt "courtier reminders"
@@ -687,7 +707,7 @@ msgstr "Twas the lady's quip, forsooth."
 
 msgctxt "devilsadvocate name"
 msgid "Devil's Advocate"
-msgstr "Şeytan'ın Avukatı"
+msgstr "Şeytanın Avukatı"
 
 msgctxt "devilsadvocate ability"
 msgid "Each night, choose a living player (different to last night): if executed tomorrow, they don't die."
@@ -1235,7 +1255,7 @@ msgstr "Büyükanne"
 
 msgctxt "grandmother ability"
 msgid "You start knowing a good player & their character. If the Demon kills them, you die too."
-msgstr "İyi bir oyuncuyu ve onun karakterini bilerek başlarsınız. Eğer İblis onları öldürürse, siz de ölürsünüz."
+msgstr "İyi bir oyuncuyu ve onun karakterini bilerek başlarsınız. Eğer İblis onu öldürürse, siz de ölürsünüz."
 
 msgctxt "grandmother flavor"
 msgid "Take a jacket if you go outside, dearie. And your thermos. And your scarf. I have a weak heart, you know. Whatever would I do if you caught cold...or worse?"
@@ -1359,19 +1379,19 @@ msgstr "After the hail has smashed the roof and splintered the glass of the Cath
 
 msgctxt "hermit name"
 msgid "Hermit"
-msgstr ""
+msgstr "Münzevi"
 
 msgctxt "hermit ability"
 msgid "You have all Outsider abilities. [-0 or -1 Outsider]"
-msgstr ""
+msgstr "Tüm yabancı yeteneklerine sahipsiniz. [-1 veya -0 Yabancı]"
 
 msgctxt "hermit flavor"
 msgid "In the lost and forgotten places of the earth, the soul’s light beckons."
-msgstr ""
+msgstr "In the lost and forgotten places of the earth, the soul’s light beckons."
 
 msgctxt "hermit reminders"
 msgid "1, 2, 3"
-msgstr ""
+msgstr "1, 2, 3"
 
 msgctxt "highpriestess name"
 msgid "High Priestess"
@@ -1423,7 +1443,7 @@ msgstr "Imp"
 
 msgctxt "imp ability"
 msgid "Each night*, choose a player: they die. If you kill yourself this way, a Minion becomes the Imp."
-msgstr "Her gece* bir oyuncu seçin: o ölür. Eğer kendinizi seçerseniz, siz ölürsünüz ve bir Minyon Imp'e dönüşür."
+msgstr "Her gece* bir oyuncu seçin: o ölür. Eğer bu şekilde kendinizi öldürürseniz, bir Minyon Imp'e dönüşür."
 
 msgctxt "imp flavor"
 msgid "We must keep our wits sharp and our sword sharper. Evil walks among us, and will stop at nothing to destroy us good, simple folk, bringing our fine town to ruin. Trust no-one. But, if you must trust someone, trust me."
@@ -1825,7 +1845,7 @@ msgstr "Deha"
 
 msgctxt "mastermind ability"
 msgid "If the Demon dies by execution (ending the game), play for 1 more day. If a player is then executed, their team loses."
-msgstr "Eğer İblis idam edilerek ölürse (oyunu bitirirse), 1 gün daha oynayın. Eğer bir oyuncu daha sonra idam edilirse, takımı kaybeder."
+msgstr "Eğer İblis idam edilerek ölürse (oyunu bitirerek), 1 gün daha oynayın. Eğer bir oyuncu daha sonra idam edilirse, takımı kaybeder."
 
 msgctxt "mastermind flavor"
 msgid "The tentacles of that monster are nailed to the doors of the church. Mothers and children are dancing in the street. Excellent. Everything is proceeding exactly as I have planned."
@@ -1873,7 +1893,7 @@ msgstr "Belediye Başkanı"
 
 msgctxt "mayor ability"
 msgid "If only 3 players live & no execution occurs, your team wins. If you die at night, another player might die instead."
-msgstr "Sadece üç canlı oyuncu kaldığında ve hiç infaz olmazsa takımınız kazanır. Gece ölürseniz, sizin yerinize başka biri ölebilir."
+msgstr "Sadece üç canlı oyuncu kaldığında ve hiç idam olmazsa takımınız kazanır. Gece ölürseniz, sizin yerinize başka biri ölebilir."
 
 msgctxt "mayor flavor"
 msgid "We must put our differences aside, and cease this senseless killing. We are all taxpayers after all. Well, most of us."
@@ -2051,10 +2071,6 @@ msgctxt "ogre firstNightReminder"
 msgid "The Ogre points to a player (not themselves) and becomes their alignment."
 msgstr "Ogre bir oyuncuyu işaret eder (kendisi değil) ve onun bağlılığına geçer."
 
-msgctxt "ogre reminders"
-msgid "Friend"
-msgstr ""
-
 msgctxt "ojo name"
 msgid "Ojo"
 msgstr "Ojo"
@@ -2217,7 +2233,7 @@ msgstr "Po"
 
 msgctxt "po ability"
 msgid "Each night*, you may choose a player: they die. If your last choice was no-one, choose 3 players tonight."
-msgstr "Hikaye Anlatıcısı Yeteneği"
+msgstr "Her gece* bir oyuncu seçebilirsiniz: o ölür. Eğer son seçiminiz kimse idiyse, bu gece 3 oyuncu seçin."
 
 msgctxt "po flavor"
 msgid "Would you like a flower? I'm so lonely."
@@ -2317,11 +2333,11 @@ msgstr "Vaazda"
 
 msgctxt "princess name"
 msgid "Princess"
-msgstr "Princess"
+msgstr "Prenses"
 
 msgctxt "princess ability"
 msgid "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
-msgstr "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
+msgstr "Eğer ilk gününüzde bir oyuncuyu aday gösterir ve idam ettirirseniz, İblis bu gece öldürmez."
 
 msgctxt "princess flavor"
 msgid "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
@@ -2329,11 +2345,11 @@ msgstr "Our words are hounds, bound by silken threads, dear lords. Let kindness 
 
 msgctxt "princess otherNightReminder"
 msgid "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
-msgstr "If it was the Princess' first day today, and they nominated and executed a player, the Demon doesn't kill."
+msgstr "Bugün Prenses'in ilk günü ise ve bir oynucuyu aday gösterip idam ettirirdiyse, İblis kimseyi öldürmez."
 
 msgctxt "princess reminders"
 msgid "Doesn't Kill"
-msgstr "Doesn't Kill"
+msgstr "Öldürmez"
 
 msgctxt "professor name"
 msgid "Professor"
@@ -2373,7 +2389,7 @@ msgstr "Pukka"
 
 msgctxt "pukka ability"
 msgid "Each night, choose a player: they are poisoned. The previously poisoned player dies then becomes healthy."
-msgstr "Her gece bir oyuncu seçin: o zehirlenir. Önceki zehirlenen oyuncu ölür ve sonra iyileşir."
+msgstr "Her gece bir oyuncu seçin: o zehirlenir. Önceki zehirlenen oyuncu ölür ve sonra sağlıklı olur."
 
 msgctxt "pukka flavor"
 msgid "You truly have been kind welcoming me into your beautiful home. I am so sorry I accidentally scratched you. A little thing. No matter. But please, take this golden toothpick as a humble token of my regret."
@@ -2429,7 +2445,7 @@ msgstr "Münzevi"
 
 msgctxt "recluse ability"
 msgid "You might register as evil & as a Minion or Demon, even if dead."
-msgstr "Kötü, yani bir Minyon veya İblis olarak görünebilirsiniz, ölseniz bile."
+msgstr "Kötü ve bir Minyon veya İblis olarak görünebilirsiniz, ölseniz bile."
 
 msgctxt "recluse flavor"
 msgid "Garn git ya darn grub ya mitts ofma lorn yasee. Grr. Natsy pikkins yonder southwise ye begittin afta ya! Git! Me harvy no so widda licks and demmons no be fightin' hadsup ne'er ma kin. Git, assay!"
@@ -2513,7 +2529,7 @@ msgstr "Aziz"
 
 msgctxt "saint ability"
 msgid "If you die by execution, your team loses."
-msgstr "İdam edilerek öldürülürseniz kötüler kazanır."
+msgstr "İdam edilerek öldürülürseniz takımınız kaybeder."
 
 msgctxt "saint flavor"
 msgid "Wisdom begets peace. Patience begets wisdom. Fear not, for the time shall come when fear too shall pass. Let us pray, and may the unity of our vision make saints of us all."
@@ -2611,7 +2627,7 @@ msgstr "Shabaloth"
 
 msgctxt "shabaloth ability"
 msgid "Each night*, choose 2 players: they die. A dead player you chose last night might be regurgitated."
-msgstr "Her gece*, 2 oyuncu seçin: onlar ölür. Dün gece seçtiğiniz ölü bir oyuncu dirilebilir."
+msgstr "Her gece*, 2 oyuncu seçin: onlar ölür. Dün gece seçtiğiniz ölü bir oyuncu geviş getirilebilir."
 
 msgctxt "shabaloth flavor"
 msgid "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
@@ -2731,7 +2747,7 @@ msgstr "Ajan"
 
 msgctxt "spy ability"
 msgid "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead."
-msgstr "Her gece Grimoire'ı görürsünüz. İyi olarak, yani bir Kasabalı veya Yabancı olarak görünebilirsiniz, ölseniz bile."
+msgstr "Her gece Grimoire'ı görürsünüz. İyi olarak ve bir Kasabalı veya Yabancı olarak görünebilirsiniz, ölseniz bile."
 
 msgctxt "spy flavor"
 msgid "Any brewmaster worth their liquor, knows no concoction pours trouble quicker, than one where spies seem double."
@@ -3143,19 +3159,23 @@ msgstr "?"
 
 msgctxt "wraith name"
 msgid "Wraith"
-msgstr ""
+msgstr "Wraith"
 
 msgctxt "wraith ability"
 msgid "You may choose to open your eyes at night. You wake when other evil players do."
-msgstr ""
+msgstr "You may choose to open your eyes at night. You wake when other evil players do."
 
 msgctxt "wraith flavor"
 msgid "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
-msgstr ""
+msgstr "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
+
+msgctxt "wraith firstNightReminder"
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Wake the Wraith tonight whenever other evil players wake."
 
 msgctxt "wraith otherNightReminder"
-msgid "If the wraith has lost its ability, remind them not to open their eyes."
-msgstr ""
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Wake the Wraith tonight whenever other evil players wake."
 
 msgctxt "xaan name"
 msgid "Xaan"

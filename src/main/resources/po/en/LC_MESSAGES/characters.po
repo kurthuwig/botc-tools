@@ -1,4 +1,3 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -6,6 +5,7 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -482,6 +482,26 @@ msgctxt "butler reminders"
 msgid "Master"
 msgstr "Master"
 
+msgctxt "cacklejack name"
+msgid "Cacklejack"
+msgstr "Cacklejack"
+
+msgctxt "cacklejack ability"
+msgid "Each day, choose a player: a different player changes character tonight."
+msgstr "Each day, choose a player: a different player changes character tonight."
+
+msgctxt "cacklejack flavor"
+msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!"
+msgstr "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!"
+
+msgctxt "cacklejack otherNightReminder"
+msgid "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+msgstr "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+
+msgctxt "cacklejack reminders"
+msgid "Not me"
+msgstr "Not me"
+
 msgctxt "cannibal name"
 msgid "Cannibal"
 msgstr "Cannibal"
@@ -607,8 +627,8 @@ msgid "The Courtier either shows a 'no' head signal, or points to a character on
 msgstr "The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
 
 msgctxt "courtier otherNightReminder"
-msgid "Reduce the remaining number of days the marked player is poisoned. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
-msgstr "Reduce the remaining number of days the marked player is poisoned. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgid "Reduce the remaining number of days the marked player is drunk. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgstr "Reduce the remaining number of days the marked player is drunk. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
 
 msgctxt "courtier reminders"
 msgid "Drunk 3,Drunk 2,Drunk 1,No ability"
@@ -665,6 +685,10 @@ msgstr "Deus ex Fiasco"
 msgctxt "deusexfiasco ability"
 msgid "At least once per game, the Storyteller will make a mistake, correct it and publicly admit to it."
 msgstr "At least once per game, the Storyteller will make a mistake, correct it and publicly admit to it."
+
+msgctxt "deusexfiasco flavor"
+msgid "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
+msgstr "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
 
 msgctxt "deusexfiasco reminders"
 msgid "Whoopsie"
@@ -1048,6 +1072,18 @@ msgctxt "fortuneteller reminders"
 msgid "Red herring"
 msgstr "Red herring"
 
+msgctxt "gardener name"
+msgid "Gardener"
+msgstr "Gardener"
+
+msgctxt "gardener ability"
+msgid "The Storyteller assigns 1 or more players' characters."
+msgstr "The Storyteller assigns 1 or more players' characters."
+
+msgctxt "gardener flavor"
+msgid "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
+msgstr "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
+
 msgctxt "gambler name"
 msgid "Gambler"
 msgstr "Gambler"
@@ -1079,18 +1115,6 @@ msgstr "Once per day, you may choose to kill an alive neighbour, if your other a
 msgctxt "gangster flavor"
 msgid "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
 msgstr "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
-
-msgctxt "gardener name"
-msgid "Gardener"
-msgstr "Gardener"
-
-msgctxt "gardener ability"
-msgid "The Storyteller assigns 1 or more players' characters."
-msgstr "The Storyteller assigns 1 or more players' characters."
-
-msgctxt "gardener flavor"
-msgid "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
-msgstr "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
 
 msgctxt "general name"
 msgid "General"
@@ -1780,6 +1804,10 @@ msgid ""
 "1... 2... Abra... 3... 4... Cadabra... *poof!*\n"
 "And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!"
 msgstr ""
+
+msgctxt "magician firstNightReminder"
+msgid "Point to the Magician when showing the Demon their Minions. Point to the Demon and the Magician when showing the Minions their Demon."
+msgstr "Point to the Magician when showing the Demon their Minions. Point to the Demon and the Magician when showing the Minions their Demon."
 
 msgctxt "marionette name"
 msgid "Marionette"
@@ -3122,9 +3150,13 @@ msgctxt "wraith flavor"
 msgid "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
 msgstr "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
 
+msgctxt "wraith firstNightReminder"
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Wake the Wraith tonight whenever other evil players wake."
+
 msgctxt "wraith otherNightReminder"
-msgid "If the wraith has lost its ability, remind them not to open their eyes."
-msgstr "If the wraith has lost its ability, remind them not to open their eyes."
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Wake the Wraith tonight whenever other evil players wake."
 
 msgctxt "xaan name"
 msgid "Xaan"

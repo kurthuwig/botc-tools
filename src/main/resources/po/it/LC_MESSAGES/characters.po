@@ -67,10 +67,6 @@ msgctxt "alhadikhia otherNightReminder"
 msgid "The Al-Hadikhia chooses 3 players. Announce the first player, wake them to nod yes to live or shake head no to die, kill or resurrect accordingly, then put to sleep and announce the next player. If all 3 are alive after this, all 3 die."
 msgstr "Al-Hadikha sceglie 3 giocatori. Annuncia il primo e sveglialo. Al-Hadikha annuisce se vuole vivere oppure scuote la testa se vuole morire dopodiché uccidilo, tienilo in vita oppure resuscitalo (se era morto) a seconda della sua scelta, infine fallo addormentare e sveglia il giocatore successivo. Se tutti e 3 sono vivi alla fine, tutti e 3 muoiono."
 
-msgctxt "alhadikhia reminders"
-msgid "1,2,3,Chose death,Chose life"
-msgstr ""
-
 msgctxt "alsaahir name"
 msgid "Alsaahir"
 msgstr "Alsaahir"
@@ -118,11 +114,6 @@ msgstr "Qualcosa di brutto potrebbe accadere a chi è responsabile della morte d
 msgctxt "angel flavor"
 msgid "Let those who are without sin dare to raise their hand to my chosen, for I shall strike such fools down with the fury and righteousness of a thousand storms."
 msgstr "Let those who are without sin dare to raise their hand to my chosen, for I shall strike such fools down with the fury and righteousness of a thousand storms."
-
-#, fuzzy
-msgctxt "angel reminders"
-msgid "Protect,Something Bad"
-msgstr "Qualcosa di brutto"
 
 msgctxt "apprentice name"
 msgid "Apprentice"
@@ -486,6 +477,26 @@ msgctxt "butler reminders"
 msgid "Master"
 msgstr "Padrone"
 
+msgctxt "cacklejack name"
+msgid "Cacklejack"
+msgstr "Cacklejack"
+
+msgctxt "cacklejack ability"
+msgid "Each day, choose a player: a different player changes character tonight."
+msgstr "Each day, choose a player: a different player changes character tonight."
+
+msgctxt "cacklejack flavor"
+msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+msgstr "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+
+msgctxt "cacklejack otherNightReminder"
+msgid "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+msgstr "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+
+msgctxt "cacklejack reminders"
+msgid "Not me"
+msgstr "Not me"
+
 msgctxt "cannibal name"
 msgid "Cannibal"
 msgstr "Cannibale"
@@ -611,7 +622,7 @@ msgid "The Courtier either shows a 'no' head signal, or points to a character on
 msgstr "La Cortigiana può fare segno di \"No\" con la testa, oppure indicare un personaggio nella scheda personaggi. Se la Cortigiana ha usato la sua abilità: se quel personaggio è in gioco, quel giocatore è ubriaco."
 
 msgctxt "courtier otherNightReminder"
-msgid "Reduce the remaining number of days the marked player is poisoned. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgid "Reduce the remaining number of days the marked player is drunk. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
 msgstr "Riduci il numero rimanente di giorni di ebbrezza del giocatore scelto. Se la Cortigiana non ha ancora usato la sua abilità: La Cortigiana può fare segno di \"No\" con la testa, oppure indicare un personaggio nella scheda personaggi. Se la Cortigiana ha usato la sua abilità: se quel personaggio è in gioco, quel giocatore è ubriaco."
 
 msgctxt "courtier reminders"
@@ -1360,19 +1371,19 @@ msgstr "After the hail has smashed the roof and splintered the glass of the Cath
 
 msgctxt "hermit name"
 msgid "Hermit"
-msgstr ""
+msgstr "Hermit"
 
 msgctxt "hermit ability"
 msgid "You have all Outsider abilities. [-0 or -1 Outsider]"
-msgstr ""
+msgstr "You have all Outsider abilities. [-0 or -1 Outsider]"
 
 msgctxt "hermit flavor"
 msgid "In the lost and forgotten places of the earth, the soul’s light beckons."
-msgstr ""
+msgstr "In the lost and forgotten places of the earth, the soul’s light beckons."
 
 msgctxt "hermit reminders"
 msgid "1, 2, 3"
-msgstr ""
+msgstr "1, 2, 3"
 
 msgctxt "highpriestess name"
 msgid "High Priestess"
@@ -2052,10 +2063,6 @@ msgctxt "ogre firstNightReminder"
 msgid "The Ogre points to a player (not themselves) and becomes their alignment."
 msgstr "L'Orco indica un giocatore (non sé stesso) e diventa della sua fazione."
 
-msgctxt "ogre reminders"
-msgid "Friend"
-msgstr ""
-
 msgctxt "ojo name"
 msgid "Ojo"
 msgstr "Ojo"
@@ -2652,7 +2659,7 @@ msgstr "Una volta per partita, di giorno, scegli pubblicamente un giocatore: se 
 
 msgctxt "slayer flavor"
 msgid "Die."
-msgstr "Die."
+msgstr "Muori!"
 
 msgctxt "slayer reminders"
 msgid "No ability"
@@ -2768,7 +2775,7 @@ msgstr "Conosce"
 
 msgctxt "stormcatcher name"
 msgid "Storm Catcher"
-msgstr "Domatore di tempeste"
+msgstr "Domatore di Tempeste"
 
 msgctxt "stormcatcher ability"
 msgid "Name a good character. If in play, they can only die by execution, but evil players learn which player it is."
@@ -3144,19 +3151,23 @@ msgstr "?"
 
 msgctxt "wraith name"
 msgid "Wraith"
-msgstr ""
+msgstr "Wraith"
 
 msgctxt "wraith ability"
 msgid "You may choose to open your eyes at night. You wake when other evil players do."
-msgstr ""
+msgstr "You may choose to open your eyes at night. You wake when other evil players do."
 
 msgctxt "wraith flavor"
 msgid "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
-msgstr ""
+msgstr "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
+
+msgctxt "wraith firstNightReminder"
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Wake the Wraith tonight whenever other evil players wake."
 
 msgctxt "wraith otherNightReminder"
-msgid "If the wraith has lost its ability, remind them not to open their eyes."
-msgstr ""
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Wake the Wraith tonight whenever other evil players wake."
 
 msgctxt "xaan name"
 msgid "Xaan"

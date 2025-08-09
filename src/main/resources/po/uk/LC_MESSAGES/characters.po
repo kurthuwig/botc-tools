@@ -109,7 +109,7 @@ msgstr "?"
 
 msgctxt "angel name"
 msgid "Angel"
-msgstr "Ангел"
+msgstr "Янгол"
 
 msgctxt "angel ability"
 msgid "Something bad might happen to whoever is most responsible for the death of a new player."
@@ -389,7 +389,7 @@ msgstr "Головолов"
 
 msgctxt "bountyhunter ability"
 msgid "You start knowing 1 evil player. If the player you know dies, you learn another evil player tonight. [1 Townsfolk is evil]"
-msgstr "Ти одразу знаєш одного злого гравця; як він помре, вночі дізнаєшся нового злого гравця. [1 з Міщан за зло]"
+msgstr "Ти одразу знаєш одного злого гравця; як він помре, вночі ти дізнаєшся нового злого гравця. [1 з Міщан за зло]"
 
 msgctxt "bountyhunter flavor"
 msgid "Alone, I walk these streets, paved with the sick stench of corruption. Its thickness worms its way into my nostrils, unbidden, burning with revulsion. And anticipation. The illness of this wretched place grows each night. And I... I am the cure."
@@ -485,6 +485,26 @@ msgctxt "butler reminders"
 msgid "Master"
 msgstr "Сер"
 
+msgctxt "cacklejack name"
+msgid "Cacklejack"
+msgstr "Cacklejack"
+
+msgctxt "cacklejack ability"
+msgid "Each day, choose a player: a different player changes character tonight."
+msgstr "Each day, choose a player: a different player changes character tonight."
+
+msgctxt "cacklejack flavor"
+msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+msgstr "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+
+msgctxt "cacklejack otherNightReminder"
+msgid "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+msgstr "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+
+msgctxt "cacklejack reminders"
+msgid "Not me"
+msgstr "Not me"
+
 msgctxt "cannibal name"
 msgid "Cannibal"
 msgstr "Канібал"
@@ -507,7 +527,7 @@ msgstr "Сереновус"
 
 msgctxt "cerenovus ability"
 msgid "Each night, choose a player & a good character: they are “mad” they are this character tomorrow, or might be executed."
-msgstr "Щоночі обирай гравця і доброго персонажа: вони \"марять\", що вони цей персонаж, інакше їх може бути страчено."
+msgstr "Щоночі обирай гравця і доброго персонажа: обраний гравець \"марить\", що він цей персонаж, інакше його може бути страчено."
 
 msgctxt "cerenovus flavor"
 msgid "Reality is merely an opinion. Specifically, my opinion."
@@ -610,7 +630,7 @@ msgid "The Courtier either shows a 'no' head signal, or points to a character on
 msgstr "Придворний або дає сигнал 'ні', або вказує на персонажа в списку. Якщо Придворний використав свою здібність: якщо обраний персонаж у грі, той гравець п'ян."
 
 msgctxt "courtier otherNightReminder"
-msgid "Reduce the remaining number of days the marked player is poisoned. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
+msgid "Reduce the remaining number of days the marked player is drunk. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
 msgstr "Зменш число днів персонаж буде ще п'ян на 1. Якщо Придворний не використав своєї здібності: Придворний або дає сигнал 'ні', або вказує на персонажа в списку. Якщо Придворний використав свою здібність: якщо обраний персонаж у грі, той гравець п'ян."
 
 msgctxt "courtier reminders"
@@ -939,11 +959,11 @@ msgstr "Страх"
 
 msgctxt "ferryman name"
 msgid "Ferryman"
-msgstr "Ferryman"
+msgstr "Перевізник"
 
 msgctxt "ferryman ability"
 msgid "On the final day, all dead players regain their vote token."
-msgstr "On the final day, all dead players regain their vote token."
+msgstr "На останній день мертвим гравцям повертаються жетони голосу."
 
 msgctxt "ferryman flavor"
 msgid "When righteous dreams come, they have the weight of truth."
@@ -1359,19 +1379,19 @@ msgstr "After the hail has smashed the roof and splintered the glass of the Cath
 
 msgctxt "hermit name"
 msgid "Hermit"
-msgstr ""
+msgstr "Самітник"
 
 msgctxt "hermit ability"
 msgid "You have all Outsider abilities. [-0 or -1 Outsider]"
-msgstr ""
+msgstr "Ти маєш здібнсті всіх Приїжджих. [-0 або -1 Приїжджий]"
 
 msgctxt "hermit flavor"
 msgid "In the lost and forgotten places of the earth, the soul’s light beckons."
-msgstr ""
+msgstr "In the lost and forgotten places of the earth, the soul’s light beckons."
 
 msgctxt "hermit reminders"
 msgid "1, 2, 3"
-msgstr ""
+msgstr "1, 2, 3"
 
 msgctxt "highpriestess name"
 msgid "High Priestess"
@@ -1941,7 +1961,7 @@ msgstr "Захищено"
 
 msgctxt "moonchild name"
 msgid "Moonchild"
-msgstr "Дитя Луни"
+msgstr "Дитя Місяця"
 
 msgctxt "moonchild ability"
 msgid "When you learn that you died, publicly choose 1 alive player. Tonight, if it was a good player, they die."
@@ -1953,7 +1973,7 @@ msgstr "Scorpio looks sideways at the lovers, and you have a choice to make. Wit
 
 msgctxt "moonchild otherNightReminder"
 msgid "If the Moonchild used their ability to target a player today: If that player is good, they die."
-msgstr "Якщо Дитя Луни використало свою здібність і обрало гравця: якщо цей гравець за добро, він помирає."
+msgstr "Якщо Дитя Місяця використало свою здібність і обрало гравця: якщо цей гравець за добро, він помирає."
 
 msgctxt "moonchild reminders"
 msgid "Dead"
@@ -2317,11 +2337,11 @@ msgstr "Проповідано"
 
 msgctxt "princess name"
 msgid "Princess"
-msgstr "Princess"
+msgstr "Принцеса"
 
 msgctxt "princess ability"
 msgid "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
-msgstr "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
+msgstr "Якщо твого першого дня ти номінуєш і стратиш гравця, Демон цієї ночі не вбиває."
 
 msgctxt "princess flavor"
 msgid "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
@@ -2333,7 +2353,7 @@ msgstr "If it was the Princess' first day today, and they nominated and executed
 
 msgctxt "princess reminders"
 msgid "Doesn't Kill"
-msgstr "Doesn't Kill"
+msgstr "Не Вбиває"
 
 msgctxt "professor name"
 msgid "Professor"
@@ -3143,19 +3163,23 @@ msgstr "?"
 
 msgctxt "wraith name"
 msgid "Wraith"
-msgstr ""
+msgstr "Примара"
 
 msgctxt "wraith ability"
 msgid "You may choose to open your eyes at night. You wake when other evil players do."
-msgstr ""
+msgstr "Вночі ти можеш прокидатися коли завгодно. Коли злі гравці прокидаються, ти прокидаєшся разом з ними."
 
 msgctxt "wraith flavor"
 msgid "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
-msgstr ""
+msgstr "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
+
+msgctxt "wraith firstNightReminder"
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Щоразу як прокидаються злі гравці, розбуди Примару."
 
 msgctxt "wraith otherNightReminder"
-msgid "If the wraith has lost its ability, remind them not to open their eyes."
-msgstr ""
+msgid "Wake the Wraith tonight whenever other evil players wake."
+msgstr "Щоразу як прокидаються злі гравці, розбуди Примару."
 
 msgctxt "xaan name"
 msgid "Xaan"
@@ -3179,7 +3203,7 @@ msgstr "Балаягга"
 
 msgctxt "yaggababble ability"
 msgid "You start knowing a secret phrase. For each time you said it publicly today, a player might die."
-msgstr "Ти одразу знаєш таємну фразу. Щодня до світанку, за кожен раз що ти публічно її скажеш може померти гравець."
+msgstr "Ти одразу знаєш таємну фразу. Щодня, за кожен раз що ти публічно її скажеш до наступного світанку може померти гравець."
 
 msgctxt "yaggababble flavor"
 msgid "Murders inside the Rue Morgue? Фальшивые новости! Hounds on the Baskerville moor? Фальшивые новости! Death while sailing the Nile? Фальшивые новости!"
@@ -3203,7 +3227,7 @@ msgstr "Фанатик"
 
 msgctxt "zealot ability"
 msgid "If there are 5 or more players alive, you must vote for every nomination."
-msgstr "Доки більше 4-х гравців живі ти маєш проголосувати за всі номінації."
+msgstr "Доки більше 4-х гравців живі ти маєш голосувати за всі номінації."
 
 msgctxt "zealot flavor"
 msgid "I enjoy talking to you. Your mind appeals to me. It resembles my own mind except that you happen to be insane."
