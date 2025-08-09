@@ -493,8 +493,9 @@ msgctxt "cacklejack ability"
 msgid "Each day, choose a player: a different player changes character tonight."
 msgstr "Chaque jour, choisissez un joueur: un autre joueur change de personnage cette nuit."
 
+#, fuzzy
 msgctxt "cacklejack flavor"
-msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!"
 msgstr "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
 
 msgctxt "cacklejack otherNightReminder"
@@ -1081,6 +1082,18 @@ msgctxt "fortuneteller reminders"
 msgid "Red herring"
 msgstr "Faux positif"
 
+msgctxt "gardener name"
+msgid "Gardener"
+msgstr "Jardinier"
+
+msgctxt "gardener ability"
+msgid "The Storyteller assigns 1 or more players' characters."
+msgstr "Le Conteur assigne les personnages d'1 joueur ou plus."
+
+msgctxt "gardener flavor"
+msgid "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
+msgstr "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
+
 msgctxt "gambler name"
 msgid "Gambler"
 msgstr "Parieur"
@@ -1112,18 +1125,6 @@ msgstr "Une fois par jour, vous pouvez assassiner un de vos deux voisins vivants
 msgctxt "gangster flavor"
 msgid "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
 msgstr "J'aime vos chaussures. Ce serait vraiment dommage que vous ayez un petit accident, et qu'elles soient ruinées. Maintenant que vous le dites, j'aime aussi vos boutons de manchette."
-
-msgctxt "gardener name"
-msgid "Gardener"
-msgstr "Jardinier"
-
-msgctxt "gardener ability"
-msgid "The Storyteller assigns 1 or more players' characters."
-msgstr "Le Conteur assigne les personnages d'1 joueur ou plus."
-
-msgctxt "gardener flavor"
-msgid "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
-msgstr "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
 
 msgctxt "general name"
 msgid "General"
@@ -1822,6 +1823,10 @@ msgid ""
 msgstr ""
 "1... 2... Abra... 3... 4... Cadabra... *poof!*\n"
 "And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!"
+
+msgctxt "magician firstNightReminder"
+msgid "Point to the Magician when showing the Demon their Minions. Point to the Demon and the Magician when showing the Minions their Demon."
+msgstr ""
 
 msgctxt "marionette name"
 msgid "Marionette"
@@ -3152,6 +3157,14 @@ msgstr "Une fois par partie, vous pouvez faire un voeu. S'il est exaucé, il peu
 msgctxt "wizard flavor"
 msgid "Genies are overrated."
 msgstr "Les génies sont surcôtés."
+
+msgctxt "wizard firstNightReminder"
+msgid "Run the Wizard ability if applicable."
+msgstr ""
+
+msgctxt "wizard otherNightReminder"
+msgid "Run the Wizard ability if applicable."
+msgstr ""
 
 msgctxt "wizard reminders"
 msgid "?"

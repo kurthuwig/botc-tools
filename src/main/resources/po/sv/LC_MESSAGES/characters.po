@@ -490,8 +490,9 @@ msgctxt "cacklejack ability"
 msgid "Each day, choose a player: a different player changes character tonight."
 msgstr "Varje dag väljer du en spelare: en annan spelare byter roll inatt."
 
+#, fuzzy
 msgctxt "cacklejack flavor"
-msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!"
 msgstr "Sladd α Till sladd β. LjUs pÅ. LaRM av. TJohOpp! Armar UTåt. FingER mot näsan. håÅåålL stiLLa. BoiNgo-banGo! Ha ha ha!"
 
 msgctxt "cacklejack otherNightReminder"
@@ -1072,6 +1073,18 @@ msgctxt "fortuneteller reminders"
 msgid "Red herring"
 msgstr "Villospår"
 
+msgctxt "gardener name"
+msgid "Gardener"
+msgstr "Trädgårdsmästaren"
+
+msgctxt "gardener ability"
+msgid "The Storyteller assigns 1 or more players' characters."
+msgstr "Berättaren bestämmer 1 eller flera spelares karaktär."
+
+msgctxt "gardener flavor"
+msgid "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
+msgstr "Nej men det här går ju inte för sig. Munkaluvan har blandats med ulvatanden, och odörten kväver julrosen! Kära någon, det är bäst att börja om. Hämta saxen."
+
 msgctxt "gambler name"
 msgid "Gambler"
 msgstr "Hasardspelaren"
@@ -1103,18 +1116,6 @@ msgstr "En gång per dag kan du döda en levande granne, om din andra levande gr
 msgctxt "gangster flavor"
 msgid "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
 msgstr "Fina skor. Det vore synd om du råkade ut för en olycka och de blev förstörda. Apropå det, fina manschettknappar."
-
-msgctxt "gardener name"
-msgid "Gardener"
-msgstr "Trädgårdsmästaren"
-
-msgctxt "gardener ability"
-msgid "The Storyteller assigns 1 or more players' characters."
-msgstr "Berättaren bestämmer 1 eller flera spelares karaktär."
-
-msgctxt "gardener flavor"
-msgid "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
-msgstr "Nej men det här går ju inte för sig. Munkaluvan har blandats med ulvatanden, och odörten kväver julrosen! Kära någon, det är bäst att börja om. Hämta saxen."
 
 msgctxt "general name"
 msgid "General"
@@ -1807,6 +1808,10 @@ msgid ""
 "1... 2... Abra... 3... 4... Cadabra... *poof!*\n"
 "And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!"
 msgstr "Ett… två… abra… tre… fyra… kadabra… *poff!* Och som ni ser, mina damer och herrar, har kapten Farncreutz guldbörs förvunnit! Spårlöst borta! Tack så mycket, och god natt!"
+
+msgctxt "magician firstNightReminder"
+msgid "Point to the Magician when showing the Demon their Minions. Point to the Demon and the Magician when showing the Minions their Demon."
+msgstr ""
 
 msgctxt "marionette name"
 msgid "Marionette"

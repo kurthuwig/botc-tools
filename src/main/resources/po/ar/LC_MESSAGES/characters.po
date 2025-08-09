@@ -99,6 +99,11 @@ msgctxt "amnesiac firstNightReminder"
 msgid "Decide the Amnesiac's entire ability. If the Amnesiac's ability causes them to wake tonight: Wake the Amnesiac and run their ability."
 msgstr "قرر ماهي ميزة وقدرة فاقد الذاكرة. وإذا احتجت أن توقظ فاقد الذاكرة في الليل، أوقظه وأخبره المعلومة حسب ميزته."
 
+#, fuzzy
+msgctxt "amnesiac otherNightReminder"
+msgid "If the Amnesiac's ability causes them to wake tonight: Wake the Amnesiac and run their ability."
+msgstr "قرر ماهي ميزة وقدرة فاقد الذاكرة. وإذا احتجت أن توقظ فاقد الذاكرة في الليل، أوقظه وأخبره المعلومة حسب ميزته."
+
 msgctxt "amnesiac reminders"
 msgid "?"
 msgstr "?"
@@ -489,8 +494,9 @@ msgctxt "cacklejack ability"
 msgid "Each day, choose a player: a different player changes character tonight."
 msgstr "Each day, choose a player: a different player changes character tonight."
 
+#, fuzzy
 msgctxt "cacklejack flavor"
-msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!"
 msgstr "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
 
 msgctxt "cacklejack otherNightReminder"
@@ -1077,6 +1083,18 @@ msgctxt "fortuneteller reminders"
 msgid "Red herring"
 msgstr "خدعة"
 
+msgctxt "gardener name"
+msgid "Gardener"
+msgstr "Gardener"
+
+msgctxt "gardener ability"
+msgid "The Storyteller assigns 1 or more players' characters."
+msgstr "The Storyteller assigns 1 or more players' characters."
+
+msgctxt "gardener flavor"
+msgid "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
+msgstr "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
+
 msgctxt "gambler name"
 msgid "Gambler"
 msgstr "المقامر"
@@ -1108,18 +1126,6 @@ msgstr "Once per day, you may choose to kill an alive neighbour, if your other a
 msgctxt "gangster flavor"
 msgid "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
 msgstr "Heads, I win. Tails, you lose."
-
-msgctxt "gardener name"
-msgid "Gardener"
-msgstr "Gardener"
-
-msgctxt "gardener ability"
-msgid "The Storyteller assigns 1 or more players' characters."
-msgstr "The Storyteller assigns 1 or more players' characters."
-
-msgctxt "gardener flavor"
-msgid "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
-msgstr "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
 
 msgctxt "general name"
 msgid "General"
@@ -1819,6 +1825,10 @@ msgstr ""
 "1... 2... Abra... 3... 4... Cadabra... *poof!*\n"
 "And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!"
 
+msgctxt "magician firstNightReminder"
+msgid "Point to the Magician when showing the Demon their Minions. Point to the Demon and the Magician when showing the Minions their Demon."
+msgstr ""
+
 msgctxt "marionette name"
 msgid "Marionette"
 msgstr "العروسة المتحركة"
@@ -2070,6 +2080,10 @@ msgstr "<grunt><grin></grunt>"
 msgctxt "ogre firstNightReminder"
 msgid "The Ogre points to a player (not themselves) and becomes their alignment."
 msgstr "The Ogre points to a player (not themselves) and becomes their alignment."
+
+msgctxt "ogre reminders"
+msgid "Friend"
+msgstr ""
 
 msgctxt "ojo name"
 msgid "Ojo"
@@ -3064,6 +3078,29 @@ msgstr "Only you and the dead can vote. They don't need a vote token to do so. A
 msgctxt "voudon flavor"
 msgid "Bien venu. Sit down. Breathe deep. Enter the land of the dead. See with their eyes. Speak with their voice. Yon sel lang se janm ase."
 msgstr "Bien venu. Sit down. Breathe deep. Enter the land of the dead. See with their eyes. Speak with their voice. Yon sel lang se janm ase."
+
+#, fuzzy
+msgctxt "washerwoman name"
+msgid "Washerwoman"
+msgstr "الصياد"
+
+#, fuzzy
+msgctxt "washerwoman ability"
+msgid "You start knowing that 1 of 2 players is a particular Townsfolk."
+msgstr "في أول ليلة فقط، المنظم يخبرك شخصية من الأشرار لأحد لاعبين."
+
+msgctxt "washerwoman flavor"
+msgid "Bloodstains on a dinner jacket? No, this is cooking sherry. How careless."
+msgstr ""
+
+#, fuzzy
+msgctxt "washerwoman firstNightReminder"
+msgid "Show the character token of a Townsfolk in play. Point to two players, one of which is that character."
+msgstr "أخبره باسم شخصية من الأشرار الموجودين في اللعبة، ثم أخبره باسم لاعبين أحدهما صاحب هذه الشخصية."
+
+msgctxt "washerwoman reminders"
+msgid "Townsfolk,Wrong"
+msgstr ""
 
 msgctxt "widow name"
 msgid "Widow"

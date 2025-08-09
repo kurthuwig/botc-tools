@@ -167,6 +167,10 @@ msgctxt "assassin ability"
 msgid "Once per game, at night*, choose a player: they die, even if for some reason they could not."
 msgstr "每場遊戲一次，晚上時*，選擇一位玩家，該玩家死亡，無論是否有原因導致他們不能死。"
 
+msgctxt "assassin flavor"
+msgid "..."
+msgstr ""
+
 msgctxt "assassin otherNightReminder"
 msgid "If the Assassin has not yet used their ability: The Assassin either shows the 'no' head signal, or points to a player. That player dies."
 msgstr "刺客可以指向一位玩家，該玩家死亡。"
@@ -489,8 +493,9 @@ msgctxt "cacklejack ability"
 msgid "Each day, choose a player: a different player changes character tonight."
 msgstr "Each day, choose a player: a different player changes character tonight."
 
+#, fuzzy
 msgctxt "cacklejack flavor"
-msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!"
 msgstr "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
 
 msgctxt "cacklejack otherNightReminder"
@@ -684,6 +689,10 @@ msgstr "Deus ex Fiasco"
 msgctxt "deusexfiasco ability"
 msgid "At least once per game, the Storyteller will make a mistake, correct it and publicly admit to it."
 msgstr "每場遊戲至少一次，說書人會犯一個錯誤，向玩家們承認並修正它。"
+
+msgctxt "deusexfiasco flavor"
+msgid "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
+msgstr ""
 
 msgctxt "deusexfiasco reminders"
 msgid "Whoopsie"
@@ -1073,6 +1082,18 @@ msgctxt "fortuneteller reminders"
 msgid "Red herring"
 msgstr "視為惡魔"
 
+msgctxt "gardener name"
+msgid "Gardener"
+msgstr "園丁"
+
+msgctxt "gardener ability"
+msgid "The Storyteller assigns 1 or more players' characters."
+msgstr "一個或更多的角色由說書人分配給玩家。"
+
+msgctxt "gardener flavor"
+msgid "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
+msgstr "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
+
 msgctxt "gambler name"
 msgid "Gambler"
 msgstr "賭徒"
@@ -1104,18 +1125,6 @@ msgstr "每天白天一次，如果你活著的鄰居同意，你可以殺死另
 msgctxt "gangster flavor"
 msgid "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
 msgstr "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
-
-msgctxt "gardener name"
-msgid "Gardener"
-msgstr "園丁"
-
-msgctxt "gardener ability"
-msgid "The Storyteller assigns 1 or more players' characters."
-msgstr "一個或更多的角色由說書人分配給玩家。"
-
-msgctxt "gardener flavor"
-msgid "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
-msgstr "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
 
 msgctxt "general name"
 msgid "General"
@@ -1814,6 +1823,10 @@ msgid ""
 msgstr ""
 "1... 2... Abra... 3... 4... Cadabra... *poof!*\n"
 "And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!"
+
+msgctxt "magician firstNightReminder"
+msgid "Point to the Magician when showing the Demon their Minions. Point to the Demon and the Magician when showing the Minions their Demon."
+msgstr ""
 
 msgctxt "marionette name"
 msgid "Marionette"

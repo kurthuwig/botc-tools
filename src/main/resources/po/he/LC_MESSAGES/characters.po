@@ -23,6 +23,11 @@ msgctxt "acrobat flavor"
 msgid "Welcome, one and all, to the greatest show on earth."
 msgstr "Welcome, one and all, to the greatest show on earth."
 
+#, fuzzy
+msgctxt "acrobat otherNightReminder"
+msgid "The Acrobat chooses a player. If they are become drunk or poisoned tonight, the Acrobat player dies."
+msgstr "בכל לילה*, אם אחד מהשכנים הטובים החיים שלך שיכור או מורעל, אתה מת."
+
 msgctxt "acrobat reminders"
 msgid "Dead"
 msgstr "מת"
@@ -375,6 +380,10 @@ msgctxt "bootlegger flavor"
 msgid "I've got the latest shipment from home, a brew I'd like to call 'Barrowfog'. Wanna try?"
 msgstr "I've got the latest shipment from home, a brew I'd like to call 'Barrowfog'. Wanna try?"
 
+msgctxt "bootlegger firstNightReminder"
+msgid "Announce the Bootlegger is in play and inform the group of all homebrew characters and/or rules you are using in this game."
+msgstr ""
+
 msgctxt "bountyhunter name"
 msgid "Bounty Hunter"
 msgstr "צייד ראשים"
@@ -485,8 +494,9 @@ msgctxt "cacklejack ability"
 msgid "Each day, choose a player: a different player changes character tonight."
 msgstr "Each day, choose a player: a different player changes character tonight."
 
+#, fuzzy
 msgctxt "cacklejack flavor"
-msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!"
 msgstr "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
 
 msgctxt "cacklejack otherNightReminder"
@@ -680,6 +690,10 @@ msgstr "דוס אקס פיאסקו"
 msgctxt "deusexfiasco ability"
 msgid "At least once per game, the Storyteller will make a mistake, correct it and publicly admit to it."
 msgstr "פעם אחת במשחק, מספר הסיפורים יעשה \"טעות\", תקן אותה ותודה בה באופן פומבי."
+
+msgctxt "deusexfiasco flavor"
+msgid "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
+msgstr ""
 
 msgctxt "deusexfiasco reminders"
 msgid "Whoopsie"
@@ -1069,6 +1083,18 @@ msgctxt "fortuneteller reminders"
 msgid "Red herring"
 msgstr "הסחת דעת"
 
+msgctxt "gardener name"
+msgid "Gardener"
+msgstr "גנן"
+
+msgctxt "gardener ability"
+msgid "The Storyteller assigns 1 or more players' characters."
+msgstr "מספר-הסיפורים מקצה דמויות של שחקן אחד או יותר"
+
+msgctxt "gardener flavor"
+msgid "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
+msgstr "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
+
 msgctxt "gambler name"
 msgid "Gambler"
 msgstr "מהמר"
@@ -1100,18 +1126,6 @@ msgstr "פעם אחת בכל יום, אתה רשאי להרוג שכן חי, א�
 msgctxt "gangster flavor"
 msgid "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
 msgstr "Heads, I win. Tails, you lose."
-
-msgctxt "gardener name"
-msgid "Gardener"
-msgstr "גנן"
-
-msgctxt "gardener ability"
-msgid "The Storyteller assigns 1 or more players' characters."
-msgstr "מספר-הסיפורים מקצה דמויות של שחקן אחד או יותר"
-
-msgctxt "gardener flavor"
-msgid "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
-msgstr "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
 
 msgctxt "general name"
 msgid "General"
@@ -2066,6 +2080,10 @@ msgstr "<grunt><grin></grunt>"
 msgctxt "ogre firstNightReminder"
 msgid "The Ogre points to a player (not themselves) and becomes their alignment."
 msgstr "The Ogre points to a player (not themselves) and becomes their alignment."
+
+msgctxt "ogre reminders"
+msgid "Friend"
+msgstr ""
 
 msgctxt "ojo name"
 msgid "Ojo"
