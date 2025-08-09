@@ -1,0 +1,53 @@
+# Blood on the Clocktower printer
+# Copyright (C) 2025 Kurt Huwig
+# This file is distributed under the same license as the PACKAGE package.
+#
+msgid ""
+msgstr "Project-Id-Version: 1.0\nReport-Msgid-Bugs-To: Kurt Huwig\nPOT-Creation-Date: \nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: Automatically generated\nLanguage-Team: none\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Poedit 3.6\n"
+
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:152
+msgid "First night order"
+msgstr ""
+
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:154
+msgid "Other night order"
+msgstr ""
+
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:153
+msgid "* not in the first night"
+msgstr ""
+
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:138
+msgctxt "section"
+msgid "Townsfolk"
+msgstr ""
+
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:140
+msgctxt "section"
+msgid "Outsiders"
+msgstr ""
+
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:142
+msgctxt "section"
+msgid "Minions"
+msgstr ""
+
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:144
+msgctxt "section"
+msgid "Demons"
+msgstr ""
+
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:146
+msgctxt "section"
+msgid "Fabled"
+msgstr ""
+
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:148
+msgctxt "section"
+msgid "Travellers"
+msgstr ""
+
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:133
+#, java-format
+msgid "by {{author}}"
+msgstr ""
