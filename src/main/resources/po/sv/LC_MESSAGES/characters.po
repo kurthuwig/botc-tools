@@ -1,15 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: sv\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.6\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-08-10 06:24+0000\nLast-Translator: Eliderad <aki12@live.se>\nLanguage-Team: Swedish <https://hosted.weblate.org/projects/botc/characters/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13-dev\n"
 
 msgctxt "acrobat name"
 msgid "Acrobat"
@@ -490,10 +480,9 @@ msgctxt "cacklejack ability"
 msgid "Each day, choose a player: a different player changes character tonight."
 msgstr "Varje dag väljer du en spelare: en annan spelare byter roll inatt."
 
-#, fuzzy
 msgctxt "cacklejack flavor"
 msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!"
-msgstr "Sladd α Till sladd β. LjUs pÅ. LaRM av. TJohOpp! Armar UTåt. FingER mot näsan. håÅåålL stiLLa. BoiNgo-banGo! Ha ha ha!"
+msgstr "Sladd α Till sladd β. LjUs pÅ. LaRM av. TJohOpp! Armar UTåt. FingER mot näsan. håÅåålL st1LLa. BoiNgo-banGo! Ha ha ha!"
 
 msgctxt "cacklejack otherNightReminder"
 msgid "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
@@ -1347,7 +1336,7 @@ msgstr "Tebjudning ikväll"
 
 msgctxt "hellslibrarian name"
 msgid "Hell's Librarian"
-msgstr "Hyssjaren"
+msgstr "Stränga Vikarien"
 
 msgctxt "hellslibrarian ability"
 msgid "Something bad might happen to whoever talks when the Storyteller has asked for silence."
@@ -1355,7 +1344,7 @@ msgstr "Något dåligt kanske händer den som pratar när Berättaren har bett o
 
 msgctxt "hellslibrarian flavor"
 msgid "Shhhhhh. Please be quiet. It is best not to disturb the Librarian. I've heard it has a temper."
-msgstr "Schhhhh. Du måste vara tyst. Det är bäst att inte störa bibliotekarien; den lär ha ett himla temperament."
+msgstr "Schhhhh. Du måste vara tyst. Det är bäst att inte störa vikarien; den lär ha ett himla temperament."
 
 msgctxt "hellslibrarian reminders"
 msgid "Something Bad"
@@ -1811,7 +1800,7 @@ msgstr "Ett… två… abra… tre… fyra… kadabra… *poff!* Och som ni ser,
 
 msgctxt "magician firstNightReminder"
 msgid "Point to the Magician when showing the Demon their Minions. Point to the Demon and the Magician when showing the Minions their Demon."
-msgstr ""
+msgstr "Peka på Magikern när du visar Demonen hens Kumpaner. Peka på Demonen och Magikern när du visar Kumpanerna deras Demon."
 
 msgctxt "marionette name"
 msgid "Marionette"
