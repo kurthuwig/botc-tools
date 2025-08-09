@@ -17,9 +17,6 @@ import java.util.*
 object Main {
     @JvmStatic
     fun main(args: Array<String>) {
-        val playerSheetPrinter = PlayerSheetPrinter(
-            Locale.GERMANY,
-        )
         embeddedServer(
             factory = Netty,
             host = System.getenv("HOST") ?: "0.0.0.0",
@@ -30,7 +27,7 @@ object Main {
                 routing {
                     staticResources(remotePath = "/", basePackage = "html")
                     route("/CGI-BIN/SHEETPRT.EXE") {
-                        printSheet(playerSheetPrinter)
+                        printSheet()
                     }
                 }
             }
@@ -38,7 +35,7 @@ object Main {
     }
 }
 
-private fun Route.printSheet(playerSheetPrinter: PlayerSheetPrinter) {
+private fun Route.printSheet() {
     post {
         try {
             println("POST")
@@ -48,23 +45,35 @@ private fun Route.printSheet(playerSheetPrinter: PlayerSheetPrinter) {
             val scriptName = parameters["scriptName"]!!
             val author = parameters["author"]!!
             val scriptJson = parameters["scriptJson"]!!
+            val language = parameters["language"]
             val includeEnglishName = "true" == parameters["includeEnglishName"]
+
+            val playerSheetPrinter = PlayerSheetPrinter(Locale.of(language))
 
             println("...$scriptName by $author (${scriptJson.length})")
 
             call.respondTextWriter(contentType = ContentType.Text.Html) {
-                playerSheetPrinter.printPlayerSheet(
-                    scriptName = scriptName,
-                    author = author,
-                    scriptJson = scriptJson,
-                    includeEnglishName = includeEnglishName,
-                    out = PrintWriter(this),
-                )
+                val writer = PrintWriter(this)
+                try {
+                    playerSheetPrinter.printPlayerSheet(
+                        scriptName = scriptName,
+                        author = author,
+                        scriptJson = scriptJson,
+                        includeEnglishName = includeEnglishName,
+                        out = writer,
+                    )
+                } catch (e: Exception) {
+                    e.printStackTrace()
+                    e.printStackTrace(writer)
+                }
             }
 
             println("...printed")
-        } catch (e: Exception) {
-            e.printStackTrace()
+        } catch (t: Throwable) {
+            t.printStackTrace()
+            call.respondTextWriter(contentType = ContentType.Text.Plain) {
+                t.printStackTrace(PrintWriter(this))
+            }
         }
     }
 }
