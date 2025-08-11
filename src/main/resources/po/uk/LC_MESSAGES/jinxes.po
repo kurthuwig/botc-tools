@@ -1,0 +1,536 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+msgctxt "alchemist boffin"
+msgid "If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has."
+msgstr "Якщо Алхімік має здібність вченого, той не дізнається яку здібність отримав Демон."
+
+msgctxt "alchemist marionette"
+msgid "An Alchemist-Marionette has no Marionette ability & the Marionette is in play."
+msgstr ""
+
+msgctxt "alchemist mastermind"
+msgid "An Alchemist-Mastermind has no Mastermind ability & the Mastermind is not-in-play."
+msgstr ""
+
+msgctxt "alchemist organgrinder"
+msgid "If the Alchemist has the Organ Grinder ability, the Organ Grinder is in play & if both the Alchemist and Organ Grinder are sober, both are drunk."
+msgstr ""
+
+msgctxt "alchemist spy"
+msgid "If the Alchemist has the Spy ability, they do not, and a Spy is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Spy. If correct, the Demon must choose the Spy tonight."
+msgstr ""
+
+msgctxt "alchemist summoner"
+msgid "The Alchemist-Summoner does not get bluffs, and chooses which Demon but not which player. If they die before this happens, evil wins. [No Demon]"
+msgstr ""
+
+msgctxt "alchemist widow"
+msgid "If the Alchemist has the Widow ability, they do not, and a Widow is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Widow. If correct, the Demon must choose the Widow tonight."
+msgstr ""
+
+msgctxt "alchemist wraith"
+msgid "If the Alchemist has the Wraith ability, they do not, and a Wraith is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Wraith. If correct, the Demon must choose the Wraith tonight."
+msgstr "If the Alchemist has the Wraith ability, they do not, and a Wraith is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Wraith: if correct, the Demon must choose the Wraith tonight."
+
+msgctxt "alhadikhia princess"
+msgid "If the Princess nominated & executed a player on their 1st day, no one dies to the Al-Hadikhia ability tonight."
+msgstr "Якщо Принцеса своєї першої ночі номінує і страчує гравця, наступної ночі ніхто не помре від здібності Ал-Хадіхая."
+
+msgctxt "boffin cultleader"
+msgid "If the Demon has the Cult Leader ability, they can’t turn good due to this ability."
+msgstr "Якщо Демон має здібність Лідера Культу, той не може перейти на сторону добра через свою здібність."
+
+msgctxt "boffin drunk"
+msgid "If the Demon would have the Drunk ability, the Boffin chooses a Townsfolk player to have this ability instead."
+msgstr "Як Демон отримує здібність П'яниці, натомість Вчений обирає хто з міщан отримує цю здібність."
+
+msgctxt "boffin goon"
+msgid "If the Demon has the Goon ability, they can’t turn good due to this ability."
+msgstr "Якщо Демон має здібність Прибічника, той не може перейти на сторону добра через свою здібність."
+
+msgctxt "boffin ogre"
+msgid "The Demon cannot have the Ogre ability."
+msgstr "Демон не може отримати здібність Огра."
+
+msgctxt "boffin politician"
+msgid "The Demon cannot have the Politician ability."
+msgstr "Демон не може отримати здібність Політика."
+
+msgctxt "boffin villageidiot"
+msgid "If there is a spare token, the Boffin can give the Demon the Village Idiot ability."
+msgstr "Якщо ще є жетони, Вчений може дати Демону здібність Сільського Дурня."
+
+msgctxt "bountyhunter kazali"
+msgid "An evil Townsfolk is only created if the Bounty Hunter is still in play after the Kazali acts."
+msgstr "Злий Міщанин лиш в грі якщо після дій Казалі Головолов лишився в грі."
+
+msgctxt "bountyhunter philosopher"
+msgid "If the Philosopher gains the Bounty Hunter ability, a Townsfolk might turn evil."
+msgstr "Як Філософ отримує здібність Головолова, Міщанин може перейти на сторону зла."
+
+msgctxt "butler organgrinder"
+msgid "If the Organ Grinder is causing eyes closed voting, the Butler may raise their hand to vote but their vote is only counted if their master voted too."
+msgstr "Якщо через Реліста голосують всліпу, Дворецький може підняти руку але їх голос лише рахується якщо їх Сер проголосував."
+
+msgctxt "cannibal butler"
+msgid "If the Cannibal gains the Butler ability, the Cannibal learns this."
+msgstr "Якщо Канібал отримує здібність Дворецького, Канібал дізнається про це."
+
+msgctxt "cannibal juggler"
+msgid "If the Juggler guesses on their first day and dies by execution, tonight the living Cannibal learns how many guesses the Juggler got correct."
+msgstr "Якщо Жонглер вгадує свого першого дня і помирає від страти, Канібал дізнається скільки персонажів Жонглер вгадав."
+
+msgctxt "cannibal poppygrower"
+msgid "If the Cannibal eats the Poppy Grower, then dies or loses the Poppy Grower ability, the Demon and Minions learn each other that night."
+msgstr "Якщо Канібал з'їдає Маковія і потім помирає чи втрачає її здібність, тієї ночі Демон і Міньони дізнаються одне одного."
+
+msgctxt "cannibal princess"
+msgid "If the Cannibal nominated & executed the Princess today, the Demon doesn’t kill tonight."
+msgstr "Як Канібал номінує і стратить Принцесу, наступної ночі Демон не вбиває."
+
+msgctxt "cannibal zealot"
+msgid "If the Cannibal gains the Zealot ability, the Cannibal learns this."
+msgstr "Якщо Канібал отримує здібність Фанатика, Канібал дізнається про це."
+
+msgctxt "cerenovus goblin"
+msgid "The Cerenovus may choose to make a player mad that they are the Goblin."
+msgstr "Сереновус може обрати щоб гравець 'марив', що той - Гоблін"
+
+msgctxt "heretic baron"
+msgid "The Baron might only add 1 Outsider, not 2."
+msgstr "Барон може додати одного Приїжджого замість двох."
+
+msgctxt "heretic boffin"
+msgid "The Demon cannot have the Heretic ability."
+msgstr "Демон не може отримати здібність Єретика."
+
+msgctxt "heretic godfather"
+msgid "Only 1 jinxed character can be in play."
+msgstr "Лиш один з конфліктуючих персонажів може бути в грі."
+
+msgctxt "heretic lleech"
+msgid "If the Lleech has poisoned the Heretic then the Lleech dies, the Heretic remains poisoned."
+msgstr "Якщо Пійявка отруїла Єретика і Єретик помирає, Єретика ще отруєно"
+
+msgctxt "heretic pithag"
+msgid "A Pit-Hag can not create a Heretic."
+msgstr "Чар-Зіллярка не може створити Єретика"
+
+msgctxt "heretic spy"
+msgid "Only 1 jinxed character can be in play."
+msgstr "Лиш один з конфліктуючих персонажів може бути в грі."
+
+msgctxt "heretic widow"
+msgid "Only 1 jinxed character can be in play."
+msgstr "Лиш один з конфліктуючих персонажів може бути в грі."
+
+msgctxt "kazali choirboy"
+msgid "The Kazali can not choose the King to become a Minion if a Choirboy is in play."
+msgstr "Казалі не може обрати, щоб Король став Міньоном якщо Хорист в грі."
+
+msgctxt "kazali goon"
+msgid "The Kazali can choose that the Goon player is one of their evil Minions."
+msgstr "Казалі може зробити Прибічника своїм Міньоном."
+
+msgctxt "kazali huntsman"
+msgid "If the Kazali chooses the Damsel to become a Minion, and a Huntsman is in play, a good player becomes the Damsel."
+msgstr "Якщо Казалі перетворює Дівицю в Міньона і Єгер в грі, добрий гравець стає Дівицею."
+
+msgctxt "kazali marionette"
+msgid "If the Kazali chooses to create a Marionette, they must choose one of their neighbors."
+msgstr "Якщо Казалі обирає створити Маріонетку, він має обрати для цього свого сусіда."
+
+msgctxt "kazali soldier"
+msgid "The Kazali can choose that the Soldier player is one of their evil Minions."
+msgstr "Казалі може обрати щоб Солдат став одним з злих Міньонів."
+
+msgctxt "legion engineer"
+msgid "Legion and the Engineer can not both be in play at the start of the game. If the Engineer creates Legion, most players (including all evil players) become evil Legion."
+msgstr "Легіон і Інжинер не можуть обидва бути на початку в грі. Якщо Інжинер створює Легіон, більшість гравців (і вся команда за зло) стають злим Легіоном"
+
+msgctxt "legion hatter"
+msgid "If the Hatter dies and Legion is in play, nothing happens. If the Hatter dies and an evil player chooses Legion, all current evil players become Legion."
+msgstr "Якщо Капелюшник помирає і Легіон в грі, нічого не відбувається. Якщо Капелюшник помирає, і злий гравець обирає Легіон, усі злі гравці стають Легіоном."
+
+msgctxt "legion minstrel"
+msgid "If Legion died by execution today, Legion keeps their ability, but the Minstrel might learn they are Legion."
+msgstr "Якщо Легіон сьогодні помер від страти, Легіон лишається зі здібністю, але Міністрель може дізнатися що він - Легіон"
+
+msgctxt "legion preacher"
+msgid "If the Preacher chooses Legion, Legion keeps their ability, but the Preacher might learn they are Legion."
+msgstr "Якщо Проповідник обирає Легіон, той не втрачає здібності, але Проповідник може дізнатися що це Легіон"
+
+msgctxt "legion zealot"
+msgid "The Zealot might register as evil to Legion's ability."
+msgstr "Фанатик може сприйнятися як злий гравець для здібності Легіону."
+
+msgctxt "leviathan banshee"
+msgid "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability."
+msgstr "Щоночі* Левіафан обирає живого доброго гравця (щоразу нового): обрана Банші помирає і отримує свою здібність."
+
+msgctxt "leviathan exorcist"
+msgid "Evil does not win when more than 1 good player has been executed, if the Exorcist is alive and has ever successfully chosen the Leviathan."
+msgstr "Зло не перемагає коли більше одного доброго гравця срачено якщо Екзорцист жив і хоч раз обрав Левіафана."
+
+msgctxt "leviathan farmer"
+msgid "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Farmer uses their ability but does not die."
+msgstr "Щоночі* Левіафан обирає живого доброго гравця (щоразу нового): обраний Фермер активується (але не помирає)."
+
+msgctxt "leviathan grandmother"
+msgid "If Leviathan is in play and the Grandchild dies by execution, evil wins."
+msgstr "Якщо Левіафан в грі і Онук помирає від страти, зло перемагає."
+
+msgctxt "leviathan hatter"
+msgid "If the Hatter dies on or after day 5, the Demon cannot choose Leviathan."
+msgstr "Якщо Капелюшник помер після 4-го дня, Демон не може обрати Левіафана."
+
+msgctxt "leviathan innkeeper"
+msgid "If the Leviathan is in play, the Innkeeper-protected-players are safe from all evil abilities."
+msgstr "Якщо Левіафан в грі, обраних Трактирником гравців захищено від всіх злих здібностей."
+
+msgctxt "leviathan king"
+msgid "If the Leviathan is in play, and at least 1 player is dead, the King learns an alive character each night."
+msgstr "Якщо Левіафан в грі і хоча б 1 гравець мертв, щоночі Король дізнається живого персонажа."
+
+msgctxt "leviathan mayor"
+msgid "If the Leviathan is in play & no execution occurs on day 5, good wins."
+msgstr "Якщо Левіафан в грі і на 5-й день нікого не страчено, добро перемагає."
+
+msgctxt "leviathan monk"
+msgid "If the Leviathan is in play, the Monk-protected-player is safe from all evil abilities."
+msgstr "Якщо Левіафан в грі, обраного Монахом гравця захищено від всіх злих здібностей."
+
+msgctxt "leviathan pithag"
+msgid "After day 5, the Pit-Hag cannot choose Leviathan."
+msgstr "Після 5-го дня Чар-Зіллярка не може обрати Левіафана."
+
+msgctxt "leviathan ravenkeeper"
+msgid "Each night*, the Leviathan chooses an alive player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die."
+msgstr "Щоночі* Левіафан обирає живого доброго гравця (щоразу нового): обраний Воронар активується (але не помирає)"
+
+msgctxt "leviathan sage"
+msgid "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Sage uses their ability but does not die."
+msgstr "Щоночі* Левіафан обирає живого доброго гравця (щоразу нового): обраний Мудрець активується (але не помирає)"
+
+msgctxt "leviathan soldier"
+msgid "If the Leviathan is in play, the Soldier is safe from all evil abilities."
+msgstr "Якщо Левіафан в грі, Солдата захищено від всіх злих здібностей."
+
+msgctxt "lilmonsta hatter"
+msgid "If a Demon chooses Lil' Monsta, they also choose a Minion to become and babysit Lil' Monsta tonight."
+msgstr "Якщо Демон обирає Мінімонсту, той також обирає хто няньчить Мінімонсту цієї ночі."
+
+msgctxt "lilmonsta poppygrower"
+msgid "If the Poppy Grower is in play, Minions don't wake together. They are woken one by one, until one of them chooses to take the Lil' Monsta token."
+msgstr "Якщо Маковій в грі, Міньони разом не прокидаються. Вони прокидаються почергово, доки один з них не погодиться няньчити жетон Мінімонста"
+
+msgctxt "lilmonsta scarletwoman"
+msgid "If there are 5 or more players alive and the player holding the Lil' Monsta token dies, the Scarlet Woman is given the Lil' Monsta token tonight."
+msgstr "Якщо 5 або більше гравців живі і гравець з жетоном Мінімонста помирає, Багрова Дама отримує жетон Мінімонста вночі."
+
+msgctxt "lilmonsta vizier"
+msgid "The Vizier can die by execution if they are babysitting Lil' Monsta."
+msgstr "Везир може померти від страти якщо няньчить Мінімонста"
+
+msgctxt "lleech mastermind"
+msgid "If the Mastermind is alive and the Lleech's host dies by execution, the Lleech lives but loses their ability."
+msgstr "Якщо Геній жив і отруєного Пійявкою гравця вбито стратою, Пійявка виживає але втрачає свою здібність."
+
+msgctxt "lleech slayer"
+msgid "If the Slayer slays the Lleech's host, the host dies."
+msgstr "Якщо Мисливець стріляє в отруєного Пійявкою гравця - той помирає."
+
+msgctxt "magician wraith"
+msgid "Each day, after the execution phase, the living Magician may publicly guess a living player as the Wraith: if correct, the Demon must choose the Wraith tonight."
+msgstr ""
+
+msgctxt "magician spy"
+msgid "When the Spy sees the Grimoire, the Demon and Magician's character tokens are removed."
+msgstr "Коли Шпигун бачить Ґримуар, жетони Демона і Чарівника прибрано."
+
+msgctxt "magician vizier"
+msgid "If the Vizier and Magician are both in play, the Demon does not learn the Minions."
+msgstr "Якщо і Везир, і Чарівник в грі, Демон не дізнається Міньонів."
+
+msgctxt "magician widow"
+msgid "When the Widow sees the Grimoire, the Demon and Magician's character tokens are removed."
+msgstr "Коли Чорна Вдова бачить Ґримуар, жетони Демона і Чарівника прибрано."
+
+msgctxt "magician lilmonsta"
+msgid "Each night, the Magician chooses a Minion: if that Minion & Lil' Monsta are alive, that Minion babysits Lil’ Monsta."
+msgstr "Щоночі Чарівник обирає Міньона: якщо цей Міньон і Мінімоста в живих - той няньчить Мінімонста."
+
+msgctxt "marionette balloonist"
+msgid "If the Marionette thinks that they are the Balloonist, +1 Outsider might have been added."
+msgstr "Якщо Маріонетка думає що вона Аеронавт, одного приїжджого може бути додано в гру."
+
+msgctxt "marionette damsel"
+msgid "The Marionette does not learn that a Damsel is in play."
+msgstr "Маріонетка не дізнається що Дівиця в грі."
+
+msgctxt "marionette huntsman"
+msgid "If the Marionette thinks that they are the Huntsman, the Damsel was added."
+msgstr "Якщо маріонетка думає що вона Єгер, Дівицю додано в гру."
+
+msgctxt "marionette lilmonsta"
+msgid "The Marionette neighbors a Minion, not the Demon. The Marionette is not woken to choose who takes the Lil' Monsta token, and does not learn they are the Marionette if they have the Lil' Monsta token."
+msgstr "Маріонетка сидить поруч з Міньоном, а не Демоном. Маріонетка не прокидається щоб обрати хто няньчить Мінімонста і не дізнається свого персонажа якщо має жетон Мінімонста."
+
+msgctxt "marionette poppygrower"
+msgid "When the Poppy Grower dies, the Demon learns the Marionette but the Marionette learns nothing."
+msgstr "Якщо Маковій помирає, Демон дізнається хто Маріонетка, а Маріонетка нічого не дізнається."
+
+msgctxt "marionette snitch"
+msgid "The Marionette does not learn 3 not in-play characters. The Demon learns an extra 3 instead."
+msgstr "Маріонетка не дізнається 3 блефи; натомість Демон дізнається ще 3."
+
+msgctxt "marionette wraith"
+msgid "The Wraith does not wake with the Marionette."
+msgstr ""
+
+msgctxt "mastermind alhadikhia"
+msgid "If the Al-Hadikhia dies by execution, and the Mastermind is alive, the Al-Hadikhia chooses 3 good players tonight: if all 3 choose to live, evil wins. Otherwise, good wins."
+msgstr "Як Ал-Хадіхая помирає від страти і Геній жив, вночі Ал-Хадіхая обирає трьох добрих гравців: якщо всі оберуть жити, зло перемагає; інакше добро перемагає."
+
+msgctxt "mathematician chambermaid"
+msgid "The Chambermaid learns if the Mathematician wakes tonight or not, even though the Chambermaid wakes first."
+msgstr "Покоївка дізнається, чи прокинеться Математик, не зважаючи на те що Математик прокинеться пізніше."
+
+msgctxt "mathematician lunatic"
+msgid "The Mathematician learns if the Lunatic attacks a different player(s) than the real Demon attacked."
+msgstr "Здібність Математика враховує коли Лунатик атакував відмінних від Демона гравців."
+
+msgctxt "ogre recluse"
+msgid "If the Recluse registers as evil to the Ogre, the Ogre learns that they are evil."
+msgstr "Якщо Огр сприйняв Відлюдника як за зло, Огр дізнається що він на стороні зла."
+
+msgctxt "pithag cultleader"
+msgid "If the Pit-Hag turns an evil player into the Cult Leader, they can't turn good due to their own ability."
+msgstr "Якщо Чар-Зіллярка перетворює злого гравця в Лідера Культу, той не може перейти на сторону добра через свою здібність."
+
+msgctxt "pithag damsel"
+msgid "If a Pit-Hag creates a Damsel, the Storyteller chooses which player it is."
+msgstr "Якщо Чар-Зіллярка створює Дівицю, Оповідач вирішує хто нею стає."
+
+msgctxt "pithag goon"
+msgid "If the Pit-Hag turns an evil player into the Goon, they can't turn good due to their own ability."
+msgstr "Якщо Чар-Зіллярка перетворює злого гравця в Прибічника, той не може перейти на сторону добра через свою здібність."
+
+msgctxt "pithag ogre"
+msgid "If the Pit-Hag turns an evil player into the Ogre, they can't turn good due to their own ability."
+msgstr "Якщо Чар-Зіллярка перетворює злого гравця на Огра, той не може перейти на сторону добра через свою здібність."
+
+msgctxt "pithag politician"
+msgid "If the Pit-Hag turns an evil player into the Politician, they can't turn good due to their own ability."
+msgstr "Якщо Чар-Зіллярка перетворює злого гравця в Політика, той не може перейти на сторону добра через свою здібність."
+
+msgctxt "pithag villageidiot"
+msgid "If there is a spare token, the Pit-Hag can create an extra Village Idiot. If so, the drunk Village Idiot might change."
+msgstr "Якщо ще лишились жетони, Чар-Зіллярка може створити нового Сільського Дурника; тоді п'яний з них може змінитися."
+
+msgctxt "plaguedoctor baron"
+msgid "If the Storyteller gains the Baron ability, up to two players become not-in-play Outsiders."
+msgstr "Якщо Оповідач отримує здібність Барона, до двох гравців стають Приїжджими не в грі"
+
+msgctxt "plaguedoctor boomdandy"
+msgid "If the Plague Doctor is executed and the Storyteller would gain the Boomdandy ability, the Boomdandy ability triggers immediately."
+msgstr "Якщо Чумний Доктор помирає і Оповідач отримує здібність Бумбадира, здібність одразу активується."
+
+msgctxt "plaguedoctor eviltwin"
+msgid "The Storyteller cannot gain the Evil Twin ability if the Plague Doctor dies."
+msgstr "Оповідач не може отримати здібність Злого Близнюка після смерті Чумного Доктора."
+
+msgctxt "plaguedoctor fearmonger"
+msgid "If the Plague Doctor dies, a living Minion gains the Fearmonger ability in addition to their own ability, and learns this."
+msgstr "Якщо Чумний Доктор помирає, живий Міньон отримує здібність Страховія разом зі своєю і дізнається про це"
+
+msgctxt "plaguedoctor goblin"
+msgid "If the Plague Doctor dies, a living Minion gains the Goblin ability in addition to their own ability, and learns this."
+msgstr "Якщо Чумний Доктор помирає, живий Міньон отримує здібність Гобліна разом зі своєю і дізнається про це"
+
+msgctxt "plaguedoctor marionette"
+msgid "If the Demon has a neighbor who is alive and a Townsfolk or Outsider when the Plague Doctor dies, that player becomes an evil Marionette. If there is already an extra evil player, this does not happen."
+msgstr "Якщо Демон має сусіда що жив і Міщан/Приїжджий як помирає Чумний Доктор, той гравець стає злою Маріонеткою. Якщо вже є додатковий злий гравець, цього не відбувається."
+
+msgctxt "plaguedoctor scarletwoman"
+msgid "If the Plague Doctor dies, a living Minion gains the Scarlet Woman ability in addition to their own ability, and learns this."
+msgstr "Якщо Чумний Доктор помирає, живий Міньон отримує здібність Багряної Дами разом зі своєю і дізнається про це"
+
+msgctxt "plaguedoctor spy"
+msgid "If the Plague Doctor dies, a living Minion gains the Spy ability in addition to their own ability, and learns this."
+msgstr "Якщо Чумний Доктор помирає, живий Міньон отримує здібність Шпигуна разом зі своєю і дізнається про це"
+
+msgctxt "plaguedoctor wraith"
+msgid "If the Plague Doctor dies, a living Minion gains the Wraith ability in addition to their own ability, and learns this."
+msgstr ""
+
+msgctxt "riot banshee"
+msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability."
+msgstr "Щоночі* Бунт обирає живого доброго гравця (щоразу нового): обрана Банші помирає і отримує свою здібність."
+
+msgctxt "riot exorcist"
+msgid "If the Exorcist chooses Riot on the 3rd night, Minions do not become Riot."
+msgstr "Якщо в третю ніч Екзорцист обирає Бунт, Міньони не стають Бунтом."
+
+msgctxt "riot farmer"
+msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Farmer uses their ability but does not die."
+msgstr "Щоночі* Бунт обирає живого доброго гравця (щоразу нового): обраний Фермер активується (але не помирає)."
+
+msgctxt "riot grandmother"
+msgid "If Riot is in play and the Grandchild dies during the day, the Grandmother dies too."
+msgstr "Якщо Бунт в грі і онук помирає протягом дня, Бабуся теж помирає."
+
+msgctxt "riot innkeeper"
+msgid "If Riot is in play, the Innkeeper-protected player is safe from all evil abilities."
+msgstr "Якщо Бунт в грі, обраних Трактирником гравців захищено від всіх злих здібностей."
+
+msgctxt "riot king"
+msgid "If Riot is in play, and at least 1 player is dead, the King learns an alive character each night."
+msgstr "Якщо Бунт в грі і хоча б 1 гравець помер, щоночі Король дізнається живого персонажа."
+
+msgctxt "riot mayor"
+msgid "The Mayor may choose to stop nominations. If they do so when only 1 Riot is alive, good wins. Otherwise, evil wins."
+msgstr "Мер може зупинити номінації: в такому випадку якщо лиш 1 Бунт в живих - добро перемагає; інакше перемагає зло."
+
+msgctxt "riot monk"
+msgid "If Riot is in play, the Monk-protected player is safe from all evil abilities."
+msgstr "Якщо Бунт не в грі, обраного Монахом гравця захищено від всіх злих здібностей."
+
+msgctxt "riot ravenkeeper"
+msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die."
+msgstr "Щоночі* Бунт обирає живого доброго гравця (щоразу нового): обраний Воронар активується (але не помирає)"
+
+msgctxt "riot sage"
+msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Sage uses their ability but does not die."
+msgstr "Щоночі* Бунт обирає живого доброго гравця (щоразу нового): обраний Мудрець активується (але не помирає)"
+
+msgctxt "riot soldier"
+msgid "If Riot is in play, the Soldier is safe from all evil abilities."
+msgstr "Якщо Бунт в грі, Солдата захищено від всіх злих здібностей."
+
+msgctxt "scarletwoman alhadikhia"
+msgid "If there are two living Al-Hadikhias, the Scarlet Woman Al-Hadikhia becomes the Scarlet Woman again."
+msgstr "Якщо два Ал-Хадіхая в живих, Багрова Дама що стала Ал-Хадіхая стає знову Багровою Дамою"
+
+msgctxt "scarletwoman fanggu"
+msgid "If the Fang Gu chooses an Outsider and dies, the Scarlet Woman does not become the Fang Gu."
+msgstr "Якщо Фань-Ґу обирає Приїжджого і помирає, Багрова Дама не стає Фань-Ґу."
+
+msgctxt "spy damsel"
+msgid "If the Spy is (or has been) in play, the Damsel is poisoned."
+msgstr "Якщо Шпигун був чи є в грі, Дівицю отруєно."
+
+msgctxt "spy ogre"
+msgid "The Spy registers as evil to the Ogre."
+msgstr "Огр сприймає Шпигуна як злого гравця."
+
+msgctxt "spy poppygrower"
+msgid "If the Poppy Grower is in play, the Spy does not see the Grimoire until the Poppy Grower dies."
+msgstr "Якщо Маковій в грі, Шпигун не бачить Ґримуар доки Маковій не помре."
+
+msgctxt "summoner clockmaker"
+msgid "If the Summoner is in play, the Clockmaker does not receive their information until a Demon is created."
+msgstr "Якщо Заклинатель в грі, Годинникар не отримує дані доки Демона не створено."
+
+msgctxt "summoner courtier"
+msgid "If the Summoner is drunk on the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+msgstr "Якщо Заклинач п'ян третьої ночі, Заклинач обере котрого Демона створити, але Оповідач обере хто ним стане."
+
+msgctxt "summoner engineer"
+msgid "If the Engineer removes a Summoner from play before that Summoner uses their ability, the Summoner uses their ability immediately."
+msgstr "Як Інжинер прибирає Заклинача з гри що не використав своєї здібності, той одразу її використовує."
+
+msgctxt "summoner hatter"
+msgid "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+msgstr "Заклинач не може створити Демона що в грі. Як Заклинач створює Демона що не в грі, смерті вночі випадкові."
+
+msgctxt "summoner kazali"
+msgid "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+msgstr "Заклинач не може створити Демона що в грі. Як Заклинач створює Демона що не в грі, смерті вночі випадкові."
+
+msgctxt "summoner legion"
+msgid "If the Summoner creates Legion, most players (including all evil players) become evil Legion."
+msgstr "Якщо Заклинатель створює Легіон, більшість гравців (в тому числі всі гравці за зло) стають злим Легіоном."
+
+msgctxt "summoner lordoftyphon"
+msgid "If the Summoner creates a Lord of Typhon, the Lord of Typhon must neighbor a Minion. The other neighbor becomes a not-in-play evil Minion."
+msgstr "Якщо Заклинач створює Лорда Тифона, той має бути сусідом Міньона. Інший його сусід стає злим Міньоном не в грі."
+
+msgctxt "summoner marionette"
+msgid "The Marionette neighbors the Summoner. The Summoner knows who the Marionette is."
+msgstr "Маріонетка сидить поруч з Заклиначем. Заклинач знає який гравець - Маріонетка."
+
+msgctxt "summoner pithag"
+msgid "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+msgstr "Заклинач не може створити Демона що в грі. Як Заклинач створює Демона що не в грі, смерті вночі випадкові."
+
+msgctxt "summoner poppygrower"
+msgid "If the Poppy Grower is alive when the Summoner acts, the Summoner chooses which Demon, but the Storyteller chooses which player."
+msgstr "Якщо Маковій жив як діє Заклинатель, той обирає Демона, але Оповідач обирає гравця."
+
+msgctxt "summoner preacher"
+msgid "If the Preacher chose the Summoner on or before the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+msgstr "Якщо Проповідник обирає Заклинателя до 3-ї ночі, Заклинатель обере тип Демона, але Оповідач обере гравця."
+
+msgctxt "summoner pukka"
+msgid "The Summoner may choose a player to become the Pukka on the 2nd night."
+msgstr "Заклинач може стоврити Прикку другої ночі."
+
+msgctxt "summoner zombuul"
+msgid "If the Summoner turns a dead player into the Zombuul, the Storyteller treats that player as a Zombuul that has died once."
+msgstr "Якщо Заклинач перетворює мертвого гравця на Зомбуула, той вважається Зомбуулом що помер раз."
+
+msgctxt "vizier alsaahir"
+msgid "If the Vizier is in play, the Alsaahir must also guess which Demon(s) are in play."
+msgstr "Якщо Візир в грі, Азахір має також вгадати які Демони в грі."
+
+msgctxt "vizier courtier"
+msgid "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+msgstr "Як Везир втрачає свою здібність, він дізнається про це. Якщо Везира страчено поки він має свою здібність, їх команда перемагає."
+
+msgctxt "vizier fearmonger"
+msgid "The Vizier wakes with the Fearmonger, learns who they choose and cannot choose to immediately execute that player."
+msgstr "Везир прокидається з Страховієм, дізнається кого він обрав; Везир не може одразу стратити обраного Страховієм гравця."
+
+msgctxt "vizier investigator"
+msgid "If the Investigator learns that the Vizier is in play, the existence of the Vizier is not announced by the Storyteller."
+msgstr "Якщо Слідчий дізнається що Везир в грі, наявність Везира не оголошена Оповідачем."
+
+msgctxt "vizier politician"
+msgid "The Politician might register as evil to the Vizier."
+msgstr "Візир може сприйняти Політика як за зло."
+
+msgctxt "vizier preacher"
+msgid "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+msgstr "Як Везир втрачає свою здібність, він дізнається про це. Якщо Везира страчено поки він має свою здібність, їх команда перемагає."
+
+msgctxt "vizier zealot"
+msgid "The Zealot might register as evil to the Vizier."
+msgstr "Для Візира Фанатик може сприйматися як злий гравець."
+
+msgctxt "vortox banshee"
+msgid "If the Vortox is in play and the Demon kills the Banshee, the players still learn that the Banshee has died."
+msgstr "Якщо Вортох в грі і Банші помирає, гравці все одно дізнаються що померла Банші."
+
+msgctxt "widow damsel"
+msgid "If the Widow is (or has been) in play, the Damsel is poisoned."
+msgstr "Якщо Чорна Вдова була чи є в грі, Дівицю отруєно."
+
+msgctxt "widow poppygrower"
+msgid "If the Poppy Grower is in play, the Widow does not see the Grimoire until the Poppy Grower dies."
+msgstr "Якщо Маковій в грі, Чорна Вдова не бачить Ґримуар доки Маковій не помре."
+
+msgctxt "yaggababble exorcist"
+msgid "If the Exorcist chooses the Yaggababble, the Yaggababble ability does not kill tonight."
+msgstr "Якщо Екзорцист обирає Балаяггу, то тої ночі здібність Балаягги не вбиває."

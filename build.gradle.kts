@@ -45,33 +45,39 @@ gettext {
 }
 
 tasks.register("updatePoFiles") {
-    description = "Updates all PO files in src/main/resources/po/*/LC_MESSAGES with the master POT file."
+    description = "Updates all PO files for 'characters' and 'jinxes' in src/main/resources/po/*/LC_MESSAGES with their master POT files."
 
     doLast {
-        val potFile = file("src/main/resources/po/characters.pot")
+        val filenames = listOf("characters", "jinxes")
 
-        val poFiles = fileTree(rootDir) {
-            include("src/main/resources/po/**/LC_MESSAGES/characters.po")
-        }
+        filenames.forEach { filename ->
+            println("--- Starting update for '$filename' ---")
 
-        println("Found ${poFiles.count()} PO file(s) to update.")
+            val potFile = file("src/main/resources/po/$filename.pot")
 
-        poFiles.forEach { poFile ->
-            println("Updating ${poFile.absolutePath}...")
+            val poFiles = fileTree(rootDir) {
+                include("src/main/resources/po/**/LC_MESSAGES/$filename.po")
+            }
 
-            try {
-                exec {
-                    commandLine("msgmerge", "--no-wrap", "--update", poFile.absolutePath, potFile.absolutePath)
+            println("Found ${poFiles.count()} PO file(s) for '$filename' to update.")
+
+            poFiles.forEach { poFile ->
+                println("  Updating ${poFile.absolutePath}...")
+
+                try {
+                    exec {
+                        commandLine("msgmerge", "--no-wrap", "--update", poFile.absolutePath, potFile.absolutePath)
+                    }
+                } catch (e: Exception) {
+                    println("  ERROR: Could not execute 'msgmerge' command for ${poFile.name}.")
+                    println("  Please ensure the gettext toolchain is installed on your system.")
+                    println("  On macOS, you can install it with 'brew install gettext'.")
+                    println("  On Debian/Ubuntu, you can install it with 'sudo apt-get install gettext'.")
+                    throw e
                 }
-            } catch (e: Exception) {
-                println("ERROR: Could not execute 'msgmerge' command.")
-                println("Please ensure the gettext toolchain is installed on your system.")
-                println("On macOS, you can install it with 'brew install gettext'.")
-                println("On Debian/Ubuntu, you can install it with 'sudo apt-get install gettext'.")
-                throw e
             }
         }
 
-        println("All PO files updated successfully.")
+        println("--- All PO files updated successfully. ---")
     }
 }

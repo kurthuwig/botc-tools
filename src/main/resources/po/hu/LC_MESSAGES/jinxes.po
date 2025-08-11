@@ -1,0 +1,536 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+msgctxt "alchemist boffin"
+msgid "If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has."
+msgstr "Ha az Alkimista megkapja a Tudós képességet, nem tudja meg, milyen képessége van a Démonnak."
+
+msgctxt "alchemist marionette"
+msgid "An Alchemist-Marionette has no Marionette ability & the Marionette is in play."
+msgstr ""
+
+msgctxt "alchemist mastermind"
+msgid "An Alchemist-Mastermind has no Mastermind ability & the Mastermind is not-in-play."
+msgstr ""
+
+msgctxt "alchemist organgrinder"
+msgid "If the Alchemist has the Organ Grinder ability, the Organ Grinder is in play & if both the Alchemist and Organ Grinder are sober, both are drunk."
+msgstr ""
+
+msgctxt "alchemist spy"
+msgid "If the Alchemist has the Spy ability, they do not, and a Spy is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Spy. If correct, the Demon must choose the Spy tonight."
+msgstr ""
+
+msgctxt "alchemist summoner"
+msgid "The Alchemist-Summoner does not get bluffs, and chooses which Demon but not which player. If they die before this happens, evil wins. [No Demon]"
+msgstr ""
+
+msgctxt "alchemist widow"
+msgid "If the Alchemist has the Widow ability, they do not, and a Widow is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Widow. If correct, the Demon must choose the Widow tonight."
+msgstr ""
+
+msgctxt "alchemist wraith"
+msgid "If the Alchemist has the Wraith ability, they do not, and a Wraith is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Wraith. If correct, the Demon must choose the Wraith tonight."
+msgstr "If the Alchemist has the Wraith ability, they do not, and a Wraith is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Wraith: if correct, the Demon must choose the Wraith tonight."
+
+msgctxt "alhadikhia princess"
+msgid "If the Princess nominated & executed a player on their 1st day, no one dies to the Al-Hadikhia ability tonight."
+msgstr ""
+
+msgctxt "boffin cultleader"
+msgid "If the Demon has the Cult Leader ability, they can’t turn good due to this ability."
+msgstr "Ha a Démonnak megvan a Kultuszvezető képesség, nem válhatnak jóvá e képesség miatt."
+
+msgctxt "boffin drunk"
+msgid "If the Demon would have the Drunk ability, the Boffin chooses a Townsfolk player to have this ability instead."
+msgstr "Ha a Démonnak meglenne a Részeg képesség, a Tudós választ egy Falusi játékost, hogy inkább neki legyen meg ez a képesség."
+
+msgctxt "boffin goon"
+msgid "If the Demon has the Goon ability, they can’t turn good due to this ability."
+msgstr "Ha a Démonnak megvan a Goon képesség, nem válhatnak jóvá e képesség miatt."
+
+msgctxt "boffin ogre"
+msgid "The Demon cannot have the Ogre ability."
+msgstr "A Démon nem rendelkezhet az Ogre képességgel."
+
+msgctxt "boffin politician"
+msgid "The Demon cannot have the Politician ability."
+msgstr "A Démon nem rendelkezhet a Politikus képességgel."
+
+msgctxt "boffin villageidiot"
+msgid "If there is a spare token, the Boffin can give the Demon the Village Idiot ability."
+msgstr "Ha van egy tartalék token, a Tudós adhatja a Démonnak a Falu Bolondja képességet."
+
+msgctxt "bountyhunter kazali"
+msgid "An evil Townsfolk is only created if the Bounty Hunter is still in play after the Kazali acts."
+msgstr "Gonosz falusi csak akkor jön létre, ha a Fejvadász még játékban van, miután a Kazali cselekszik."
+
+msgctxt "bountyhunter philosopher"
+msgid "If the Philosopher gains the Bounty Hunter ability, a Townsfolk might turn evil."
+msgstr "Ha a Filozófus megszerzi a Fejvadász képességet, egy Falusi gonosszá válhat."
+
+msgctxt "butler organgrinder"
+msgid "If the Organ Grinder is causing eyes closed voting, the Butler may raise their hand to vote but their vote is only counted if their master voted too."
+msgstr "Ha a Vezír elveszíti képességét, ezt megtudja, és ha a Vezírt kivégzik, miközben van képessége, csapata nyer."
+
+msgctxt "cannibal butler"
+msgid "If the Cannibal gains the Butler ability, the Cannibal learns this."
+msgstr "Ha a Kannibál megszerzi a Komornyik képességét, a Kannibál ezt megtudja."
+
+msgctxt "cannibal juggler"
+msgid "If the Juggler guesses on their first day and dies by execution, tonight the living Cannibal learns how many guesses the Juggler got correct."
+msgstr ""
+
+msgctxt "cannibal poppygrower"
+msgid "If the Cannibal eats the Poppy Grower, then dies or loses the Poppy Grower ability, the Demon and Minions learn each other that night."
+msgstr "Ha a Kannibál megeszi a Máktermesztőt, majd meghal vagy elveszti a Máktermesztő képességét, a Démon és a Csatlósok megismerik egymást azon az éjszakán."
+
+msgctxt "cannibal princess"
+msgid "If the Cannibal nominated & executed the Princess today, the Demon doesn’t kill tonight."
+msgstr ""
+
+msgctxt "cannibal zealot"
+msgid "If the Cannibal gains the Zealot ability, the Cannibal learns this."
+msgstr "Ha a Kannibál megszerzi a Fanatikus képességét, a Kannibál ezt megtudja."
+
+msgctxt "cerenovus goblin"
+msgid "The Cerenovus may choose to make a player mad that they are the Goblin."
+msgstr "A Cerenovus kiválaszthat egy játékost, hogy megőrüljön, hogy ő a Kobold."
+
+msgctxt "heretic baron"
+msgid "The Baron might only add 1 Outsider, not 2."
+msgstr "A Báró lehet, hogy csak 1 Kívülállót ad hozzá, nem 2-t."
+
+msgctxt "heretic boffin"
+msgid "The Demon cannot have the Heretic ability."
+msgstr "A Démon nem rendelkezhet az Eretnek képességgel."
+
+msgctxt "heretic godfather"
+msgid "Only 1 jinxed character can be in play."
+msgstr "Ha a Pestisdoktor meghal, egy élő Csatlós megszerzi a Vörös Asszony képességet saját képessége mellett, és ezt megtudja."
+
+msgctxt "heretic lleech"
+msgid "If the Lleech has poisoned the Heretic then the Lleech dies, the Heretic remains poisoned."
+msgstr "Ha a Leech megmérgezte az Eretneket, majd a Leech meghal, az Eretnek mérgezett marad."
+
+msgctxt "heretic pithag"
+msgid "A Pit-Hag can not create a Heretic."
+msgstr "A Gödörboszorkány nem hozhat létre Eretneket."
+
+msgctxt "heretic spy"
+msgid "Only 1 jinxed character can be in play."
+msgstr "Csak 1 balszerencsés karakter lehet játékban."
+
+msgctxt "heretic widow"
+msgid "Only 1 jinxed character can be in play."
+msgstr "Csak 1 balszerencsés karakter lehet játékban."
+
+msgctxt "kazali choirboy"
+msgid "The Kazali can not choose the King to become a Minion if a Choirboy is in play."
+msgstr "A Kazali nem választhatja a Királyt, hogy Csatlóssá váljon, ha egy Kórista játékban van."
+
+msgctxt "kazali goon"
+msgid "The Kazali can choose that the Goon player is one of their evil Minions."
+msgstr "A Kazali választhatja, hogy a Goon játékos az egyik gonosz Csatlósuk legyen."
+
+msgctxt "kazali huntsman"
+msgid "If the Kazali chooses the Damsel to become a Minion, and a Huntsman is in play, a good player becomes the Damsel."
+msgstr "Ha a Kazali a Leánykát Csatlóssá változtatja és egy Vadász játékban van, egy jó játékos Leánykává válik."
+
+msgctxt "kazali marionette"
+msgid "If the Kazali chooses to create a Marionette, they must choose one of their neighbors."
+msgstr ""
+
+msgctxt "kazali soldier"
+msgid "The Kazali can choose that the Soldier player is one of their evil Minions."
+msgstr "A Kazali választhatja, hogy a Katona játékos az egyik gonosz Csatlósuk legyen."
+
+msgctxt "legion engineer"
+msgid "Legion and the Engineer can not both be in play at the start of the game. If the Engineer creates Legion, most players (including all evil players) become evil Legion."
+msgstr "Légió és a Mérnök nem lehetnek mindketten játékban a játék kezdetén. Ha a Mérnök létrehozza a Légiót, a legtöbb játék"
+
+msgctxt "legion hatter"
+msgid "If the Hatter dies and Legion is in play, nothing happens. If the Hatter dies and an evil player chooses Legion, all current evil players become Legion."
+msgstr "Ha a Kalapos meghal, és a Légió játékban van, semmi sem történik. Ha a Kalapos meghal és egy gonosz játékos választja a Légiót, minden jelenlegi gonosz játékos Légióvá válik."
+
+msgctxt "legion minstrel"
+msgid "If Legion died by execution today, Legion keeps their ability, but the Minstrel might learn they are Legion."
+msgstr "Ha a Légiót ma kivégzik, a Légió megőrzi képességét, de a Miniszter megtudhatja, hogy ők a Légió."
+
+msgctxt "legion preacher"
+msgid "If the Preacher chooses Legion, Legion keeps their ability, but the Preacher might learn they are Legion."
+msgstr "Ha a Prédikátor a Légiót választja, a Légió megőrzi képességét, de a Prédikátor megtudhatja, hogy ők a Légió."
+
+msgctxt "legion zealot"
+msgid "The Zealot might register as evil to Legion's ability."
+msgstr ""
+
+msgctxt "leviathan banshee"
+msgid "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability."
+msgstr ""
+
+msgctxt "leviathan exorcist"
+msgid "Evil does not win when more than 1 good player has been executed, if the Exorcist is alive and has ever successfully chosen the Leviathan."
+msgstr ""
+
+msgctxt "leviathan farmer"
+msgid "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Farmer uses their ability but does not die."
+msgstr ""
+
+msgctxt "leviathan grandmother"
+msgid "If Leviathan is in play and the Grandchild dies by execution, evil wins."
+msgstr ""
+
+msgctxt "leviathan hatter"
+msgid "If the Hatter dies on or after day 5, the Demon cannot choose Leviathan."
+msgstr "Ha a Kalapos az 5. napon vagy utána meghal, a Démon nem választhatja Leviatánt."
+
+msgctxt "leviathan innkeeper"
+msgid "If the Leviathan is in play, the Innkeeper-protected-players are safe from all evil abilities."
+msgstr ""
+
+msgctxt "leviathan king"
+msgid "If the Leviathan is in play, and at least 1 player is dead, the King learns an alive character each night."
+msgstr ""
+
+msgctxt "leviathan mayor"
+msgid "If the Leviathan is in play & no execution occurs on day 5, good wins."
+msgstr ""
+
+msgctxt "leviathan monk"
+msgid "If the Leviathan is in play, the Monk-protected-player is safe from all evil abilities."
+msgstr ""
+
+msgctxt "leviathan pithag"
+msgid "After day 5, the Pit-Hag cannot choose Leviathan."
+msgstr "Az 5. nap után a Gödörboszorkány nem választhatja Leviatánt."
+
+msgctxt "leviathan ravenkeeper"
+msgid "Each night*, the Leviathan chooses an alive player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die."
+msgstr ""
+
+msgctxt "leviathan sage"
+msgid "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Sage uses their ability but does not die."
+msgstr ""
+
+msgctxt "leviathan soldier"
+msgid "If the Leviathan is in play, the Soldier is safe from all evil abilities."
+msgstr ""
+
+msgctxt "lilmonsta hatter"
+msgid "If a Demon chooses Lil' Monsta, they also choose a Minion to become and babysit Lil' Monsta tonight."
+msgstr "Ha egy Démon választja a Kis Szörnyet, egy Csatlóst is választ, aki ma este vigyáz a Kis Szörnyre."
+
+msgctxt "lilmonsta poppygrower"
+msgid "If the Poppy Grower is in play, Minions don't wake together. They are woken one by one, until one of them chooses to take the Lil' Monsta token."
+msgstr "Ha a Máktermesztő játékban van, a Csatlósok nem ébrednek együtt. Egyenként ébresztik őket, amíg egyikük nem választja a Kis Szörny tokenét."
+
+msgctxt "lilmonsta scarletwoman"
+msgid "If there are 5 or more players alive and the player holding the Lil' Monsta token dies, the Scarlet Woman is given the Lil' Monsta token tonight."
+msgstr "Ha 5 vagy több játékos él és a Kis Szörny tokenét tartó játékos meghal, a Vörös Asszony kapja meg a Kis Szörny tokenét ma este."
+
+msgctxt "lilmonsta vizier"
+msgid "The Vizier can die by execution if they are babysitting Lil' Monsta."
+msgstr "A Vezír kivégzés által meghalhat, ha a Kis Szörnyre vigyáz."
+
+msgctxt "lleech mastermind"
+msgid "If the Mastermind is alive and the Lleech's host dies by execution, the Lleech lives but loses their ability."
+msgstr "Ha a Mesterelme él és a Leech gazdatestét kivégzik, a Leech él, de elveszíti képességét."
+
+msgctxt "lleech slayer"
+msgid "If the Slayer slays the Lleech's host, the host dies."
+msgstr "Ha a Gyilkos megöli a Leech gazdatestét, a gazdatest meghal."
+
+msgctxt "magician wraith"
+msgid "Each day, after the execution phase, the living Magician may publicly guess a living player as the Wraith: if correct, the Demon must choose the Wraith tonight."
+msgstr ""
+
+msgctxt "magician spy"
+msgid "When the Spy sees the Grimoire, the Demon and Magician's character tokens are removed."
+msgstr "Amikor a Kém meglátja a Grimoárt, a Démon és a Mágus karakter tokenjei eltávolításra kerülnek."
+
+msgctxt "magician vizier"
+msgid "If the Vizier and Magician are both in play, the Demon does not learn the Minions."
+msgstr ""
+
+msgctxt "magician widow"
+msgid "When the Widow sees the Grimoire, the Demon and Magician's character tokens are removed."
+msgstr "Amikor az Özvegy meglátja a Grimoárt, a Démon és a Mágus karakter tokenjei eltávolításra kerülnek."
+
+msgctxt "magician lilmonsta"
+msgid "Each night, the Magician chooses a Minion: if that Minion & Lil' Monsta are alive, that Minion babysits Lil’ Monsta."
+msgstr ""
+
+msgctxt "marionette balloonist"
+msgid "If the Marionette thinks that they are the Balloonist, +1 Outsider might have been added."
+msgstr "Ha a Marionett azt hiszi, hogy ő a Léghajós, akkor +1 Kívülálló lehetett hozzáadva."
+
+msgctxt "marionette damsel"
+msgid "The Marionette does not learn that a Damsel is in play."
+msgstr "A Marionett nem tudja meg, hogy egy Leányka játékban van."
+
+msgctxt "marionette huntsman"
+msgid "If the Marionette thinks that they are the Huntsman, the Damsel was added."
+msgstr "Ha a Marionett azt hiszi, hogy ő a Vadász, akkor a Leányka hozzá lett adva."
+
+msgctxt "marionette lilmonsta"
+msgid "The Marionette neighbors a Minion, not the Demon. The Marionette is not woken to choose who takes the Lil' Monsta token, and does not learn they are the Marionette if they have the Lil' Monsta token."
+msgstr "A Marionett egy Csatlós szomszédja, nem a Démoné. A Marionettet nem ébresztik fel, hogy kiválassza, ki veszi el a Kis Szörny tokenét, és nem tudja meg, hogy ő a Marionett, ha nála van a Kis Szörny token."
+
+msgctxt "marionette poppygrower"
+msgid "When the Poppy Grower dies, the Demon learns the Marionette but the Marionette learns nothing."
+msgstr "Amikor a Máktermesztő meghal, a Démon megtudja, ki a Marionett, de a Marionett nem tanul semmit."
+
+msgctxt "marionette snitch"
+msgid "The Marionette does not learn 3 not in-play characters. The Demon learns an extra 3 instead."
+msgstr "A Marionett nem tanul meg 3 nem játékban lévő karaktert. A Démon helyette tanul meg további 3-at."
+
+msgctxt "marionette wraith"
+msgid "The Wraith does not wake with the Marionette."
+msgstr ""
+
+msgctxt "mastermind alhadikhia"
+msgid "If the Al-Hadikhia dies by execution, and the Mastermind is alive, the Al-Hadikhia chooses 3 good players tonight: if all 3 choose to live, evil wins. Otherwise, good wins."
+msgstr "Ha az Al-Hadikhia kivégzés által meghal, és a Mesterelme él, az Al-Hadikhia ma este 3 jó játékost választ: ha mind a 3 élni akar, a gonosz nyer. Máskülönben a jók nyernek."
+
+msgctxt "mathematician chambermaid"
+msgid "The Chambermaid learns if the Mathematician wakes tonight or not, even though the Chambermaid wakes first."
+msgstr "A Szobalány megtudja, hogy a Matematikus ma este felébred-e vagy sem, még akkor is, ha a Szobalány előbb ébred."
+
+msgctxt "mathematician lunatic"
+msgid "The Mathematician learns if the Lunatic attacks a different player(s) than the real Demon attacked."
+msgstr "A Matematikus megtudja, ha az Őrült más játékosokat támad meg, mint akiket a valódi Démon támadott."
+
+msgctxt "ogre recluse"
+msgid "If the Recluse registers as evil to the Ogre, the Ogre learns that they are evil."
+msgstr "Ha a Remete gonoszként regisztrálódik az Ogrénál, az Ogre megtudja, hogy gonosz."
+
+msgctxt "pithag cultleader"
+msgid "If the Pit-Hag turns an evil player into the Cult Leader, they can't turn good due to their own ability."
+msgstr "Ha a Gödörboszorkány egy gonosz játékost Kultuszvezetővé változtat, nem válhatnak jóvá saját képességük miatt."
+
+msgctxt "pithag damsel"
+msgid "If a Pit-Hag creates a Damsel, the Storyteller chooses which player it is."
+msgstr "Ha a Gödörboszorkány létrehoz egy Leánykát, a Mesélő választja ki, melyik játékos az."
+
+msgctxt "pithag goon"
+msgid "If the Pit-Hag turns an evil player into the Goon, they can't turn good due to their own ability."
+msgstr "Ha a Gödörboszorkány egy gonosz játékost Goonná változtat, nem válhatnak jóvá saját képességük miatt."
+
+msgctxt "pithag ogre"
+msgid "If the Pit-Hag turns an evil player into the Ogre, they can't turn good due to their own ability."
+msgstr ""
+
+msgctxt "pithag politician"
+msgid "If the Pit-Hag turns an evil player into the Politician, they can't turn good due to their own ability."
+msgstr "A Gödörboszorkány nem hozhat létre gonosz Politikus."
+
+msgctxt "pithag villageidiot"
+msgid "If there is a spare token, the Pit-Hag can create an extra Village Idiot. If so, the drunk Village Idiot might change."
+msgstr "Ha van egy tartalék token, a Gödörboszorkány létrehozhat egy extra Falu Bolondját. Ha igen, a részeg Falu Bolondja megváltozhat."
+
+msgctxt "plaguedoctor baron"
+msgid "If the Storyteller gains the Baron ability, up to two players become not-in-play Outsiders."
+msgstr ""
+
+msgctxt "plaguedoctor boomdandy"
+msgid "If the Plague Doctor is executed and the Storyteller would gain the Boomdandy ability, the Boomdandy ability triggers immediately."
+msgstr "Ha a Mesélő megszerzi a Báró képességet, legfeljebb két játékos válik nem játékban lévő Kívülállóvá."
+
+msgctxt "plaguedoctor eviltwin"
+msgid "The Storyteller cannot gain the Evil Twin ability if the Plague Doctor dies."
+msgstr "A Mesélő nem szerezheti meg a Gonosz Iker képességet, ha a Pestisdoktor meghal."
+
+msgctxt "plaguedoctor fearmonger"
+msgid "If the Plague Doctor dies, a living Minion gains the Fearmonger ability in addition to their own ability, and learns this."
+msgstr "Ha az Ördögűző a Yaggababble-t választja, a Yaggababble képesség ma este nem öl."
+
+msgctxt "plaguedoctor goblin"
+msgid "If the Plague Doctor dies, a living Minion gains the Goblin ability in addition to their own ability, and learns this."
+msgstr "Ha a Pestisdoktor meghal, egy élő Csatlós megszerzi a Kobold képességet saját képessége mellett, és ezt megtudja."
+
+msgctxt "plaguedoctor marionette"
+msgid "If the Demon has a neighbor who is alive and a Townsfolk or Outsider when the Plague Doctor dies, that player becomes an evil Marionette. If there is already an extra evil player, this does not happen."
+msgstr ""
+
+msgctxt "plaguedoctor scarletwoman"
+msgid "If the Plague Doctor dies, a living Minion gains the Scarlet Woman ability in addition to their own ability, and learns this."
+msgstr "Ha a Pestisdoktort kivégzik és a Mesélő megszerezné a Boomdandy képességet, a Boomdandy képesség azonnal aktiválódik."
+
+msgctxt "plaguedoctor spy"
+msgid "If the Plague Doctor dies, a living Minion gains the Spy ability in addition to their own ability, and learns this."
+msgstr "Ha a Pestisdoktor meghal, egy élő Csatlós megszerzi a Kém képességet saját képessége mellett, és ezt megtudja."
+
+msgctxt "plaguedoctor wraith"
+msgid "If the Plague Doctor dies, a living Minion gains the Wraith ability in addition to their own ability, and learns this."
+msgstr ""
+
+msgctxt "riot banshee"
+msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability."
+msgstr ""
+
+msgctxt "riot exorcist"
+msgid "If the Exorcist chooses Riot on the 3rd night, Minions do not become Riot."
+msgstr ""
+
+msgctxt "riot farmer"
+msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Farmer uses their ability but does not die."
+msgstr ""
+
+msgctxt "riot grandmother"
+msgid "If Riot is in play and the Grandchild dies during the day, the Grandmother dies too."
+msgstr ""
+
+msgctxt "riot innkeeper"
+msgid "If Riot is in play, the Innkeeper-protected player is safe from all evil abilities."
+msgstr ""
+
+msgctxt "riot king"
+msgid "If Riot is in play, and at least 1 player is dead, the King learns an alive character each night."
+msgstr ""
+
+msgctxt "riot mayor"
+msgid "The Mayor may choose to stop nominations. If they do so when only 1 Riot is alive, good wins. Otherwise, evil wins."
+msgstr ""
+
+msgctxt "riot monk"
+msgid "If Riot is in play, the Monk-protected player is safe from all evil abilities."
+msgstr ""
+
+msgctxt "riot ravenkeeper"
+msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die."
+msgstr ""
+
+msgctxt "riot sage"
+msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Sage uses their ability but does not die."
+msgstr ""
+
+msgctxt "riot soldier"
+msgid "If Riot is in play, the Soldier is safe from all evil abilities."
+msgstr ""
+
+msgctxt "scarletwoman alhadikhia"
+msgid "If there are two living Al-Hadikhias, the Scarlet Woman Al-Hadikhia becomes the Scarlet Woman again."
+msgstr "Ha a Nyomozó megtudja, hogy a Vezír játékban van, a Vezír létezését a Mesélő nem jelenti be."
+
+msgctxt "scarletwoman fanggu"
+msgid "If the Fang Gu chooses an Outsider and dies, the Scarlet Woman does not become the Fang Gu."
+msgstr "Ha a Fang Gu egy Kívülállót választ és meghal, a Vörös Asszony nem válik Fang Gu-vá."
+
+msgctxt "spy damsel"
+msgid "If the Spy is (or has been) in play, the Damsel is poisoned."
+msgstr "Ha a Kém játékban van (vagy volt), a Leányka meg van mérgezve."
+
+msgctxt "spy ogre"
+msgid "The Spy registers as evil to the Ogre."
+msgstr "A Kém gonosznak regisztrál az Ogrénál."
+
+msgctxt "spy poppygrower"
+msgid "If the Poppy Grower is in play, the Spy does not see the Grimoire until the Poppy Grower dies."
+msgstr "Ha a Máktermesztő játékban van, a Kém nem látja a Grimoárt, amíg a Máktermesztő meg nem hal."
+
+msgctxt "summoner clockmaker"
+msgid "If the Summoner is in play, the Clockmaker does not receive their information until a Demon is created."
+msgstr "Ha van egy Alkimista-Idéző játékban, a játék normál módon kezdődik egy Démonnal. Ha az Alkimista-Idéző választ egy játékost, Démonná teszi azt, de nem változtatja meg annak beállítottságát."
+
+msgctxt "summoner courtier"
+msgid "If the Summoner is drunk on the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+msgstr "Ha az Idéző egy halott játékost Zombuullá változtat, a Mesélő úgy kezeli azt a játékost, mint egy egyszer már meghalt Zombuult."
+
+msgctxt "summoner engineer"
+msgid "If the Engineer removes a Summoner from play before that Summoner uses their ability, the Summoner uses their ability immediately."
+msgstr "Ha a Mérnök eltávolít egy Idézőt a játékból, mielőtt az Idéző használja képességét, az Idéző azonnal használja képességét."
+
+msgctxt "summoner hatter"
+msgid "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+msgstr "Ha a Mérnök eltávolít egy Idézőt a játékból, mielőtt az Idéző használja képességét, az Idéző azonnal használja képességét."
+
+msgctxt "summoner kazali"
+msgid "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+msgstr "Az Idéző nem hozhat létre játékban lévő Démon. Ha az Idéző nem játékban lévő Démon hoz létre, a mai éjszakai halálesetek önkényesek."
+
+msgctxt "summoner legion"
+msgid "If the Summoner creates Legion, most players (including all evil players) become evil Legion."
+msgstr "Ha az Idéző Légiót hoz létre, a legtöbb játékos (beleértve az összes gonosz játékost) gonosz Légióvá válik."
+
+msgctxt "summoner lordoftyphon"
+msgid "If the Summoner creates a Lord of Typhon, the Lord of Typhon must neighbor a Minion. The other neighbor becomes a not-in-play evil Minion."
+msgstr "Ha az Idéző létrehoz egy Tüfon Urát, a Tüfon Ura egy Csatlós szomszédja kell legyen. A másik szomszéd egy nem játékban lévő gonosz Csatlós lesz."
+
+msgctxt "summoner marionette"
+msgid "The Marionette neighbors the Summoner. The Summoner knows who the Marionette is."
+msgstr ""
+
+msgctxt "summoner pithag"
+msgid "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+msgstr "Ha az Idéző részeg a 3. éjszakán, az Idéző választja ki, melyik Démon, de a Mesélő választja ki, melyik játékos."
+
+msgctxt "summoner poppygrower"
+msgid "If the Poppy Grower is alive when the Summoner acts, the Summoner chooses which Demon, but the Storyteller chooses which player."
+msgstr "A Marionett az Idéző szomszédja. Az Idéző tudja, ki a Marionett."
+
+msgctxt "summoner preacher"
+msgid "If the Preacher chose the Summoner on or before the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+msgstr "Ha a Prédikátor az Idézőt választotta a 3. éjszakán vagy előtte, az Idéző választja ki, melyik Démon, de a Mesélő választja ki, melyik játékos."
+
+msgctxt "summoner pukka"
+msgid "The Summoner may choose a player to become the Pukka on the 2nd night."
+msgstr "Az Idéző kiválaszthat egy játékost, hogy Pukka legyen a második éjszakán."
+
+msgctxt "summoner zombuul"
+msgid "If the Summoner turns a dead player into the Zombuul, the Storyteller treats that player as a Zombuul that has died once."
+msgstr "Ha az Idéző egy halott játékost Zombuullá változtat, a Mesélő úgy kezeli azt a játékost, mint egy egyszer már meghalt Zombuult."
+
+msgctxt "vizier alsaahir"
+msgid "If the Vizier is in play, the Alsaahir must also guess which Demon(s) are in play."
+msgstr "Ha a Vezír játékban van, az Alsaahirnak is meg kell tippelnie, melyik Démon(ok) van(nak) játékban."
+
+msgctxt "vizier courtier"
+msgid "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+msgstr ""
+
+msgctxt "vizier fearmonger"
+msgid "The Vizier wakes with the Fearmonger, learns who they choose and cannot choose to immediately execute that player."
+msgstr ""
+
+msgctxt "vizier investigator"
+msgid "If the Investigator learns that the Vizier is in play, the existence of the Vizier is not announced by the Storyteller."
+msgstr "Ha az Alkimista a Vezír képesség birtokában van, csak akkor választhatják az azonnali kivégzést, ha három vagy több játékos szavazott."
+
+msgctxt "vizier politician"
+msgid "The Politician might register as evil to the Vizier."
+msgstr "A Politikus gonoszként regisztrálódhat a Vezír számára."
+
+msgctxt "vizier preacher"
+msgid "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+msgstr ""
+
+msgctxt "vizier zealot"
+msgid "The Zealot might register as evil to the Vizier."
+msgstr "A Fanatikus gonoszként regisztrálódhat a Vezír számára."
+
+msgctxt "vortox banshee"
+msgid "If the Vortox is in play and the Demon kills the Banshee, the players still learn that the Banshee has died."
+msgstr "Ha a Vortox játékban van és a Démon megöli a Banshee-t, a játékosok mégis megtudják, hogy a Banshee meghalt."
+
+msgctxt "widow damsel"
+msgid "If the Widow is (or has been) in play, the Damsel is poisoned."
+msgstr "Ha az Özvegy játékban van (vagy volt), a Leányka meg van mérgezve."
+
+msgctxt "widow poppygrower"
+msgid "If the Poppy Grower is in play, the Widow does not see the Grimoire until the Poppy Grower dies."
+msgstr "Ha a Máktermesztő játékban van, az Özvegy nem látja a Grimoárt, amíg a Máktermesztő meg nem hal."
+
+msgctxt "yaggababble exorcist"
+msgid "If the Exorcist chooses the Yaggababble, the Yaggababble ability does not kill tonight."
+msgstr "Ha az Idéző játékban van, az Órásmester nem kap információt, amíg egy Démon létre nem jön."

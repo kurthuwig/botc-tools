@@ -1,0 +1,536 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+msgctxt "alchemist boffin"
+msgid "If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has."
+msgstr ""
+
+msgctxt "alchemist marionette"
+msgid "An Alchemist-Marionette has no Marionette ability & the Marionette is in play."
+msgstr ""
+
+msgctxt "alchemist mastermind"
+msgid "An Alchemist-Mastermind has no Mastermind ability & the Mastermind is not-in-play."
+msgstr ""
+
+msgctxt "alchemist organgrinder"
+msgid "If the Alchemist has the Organ Grinder ability, the Organ Grinder is in play & if both the Alchemist and Organ Grinder are sober, both are drunk."
+msgstr ""
+
+msgctxt "alchemist spy"
+msgid "If the Alchemist has the Spy ability, they do not, and a Spy is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Spy. If correct, the Demon must choose the Spy tonight."
+msgstr ""
+
+msgctxt "alchemist summoner"
+msgid "The Alchemist-Summoner does not get bluffs, and chooses which Demon but not which player. If they die before this happens, evil wins. [No Demon]"
+msgstr ""
+
+msgctxt "alchemist widow"
+msgid "If the Alchemist has the Widow ability, they do not, and a Widow is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Widow. If correct, the Demon must choose the Widow tonight."
+msgstr ""
+
+msgctxt "alchemist wraith"
+msgid "If the Alchemist has the Wraith ability, they do not, and a Wraith is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Wraith. If correct, the Demon must choose the Wraith tonight."
+msgstr "If the Alchemist has the Wraith ability, they do not, and a Wraith is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Wraith: if correct, the Demon must choose the Wraith tonight."
+
+msgctxt "alhadikhia princess"
+msgid "If the Princess nominated & executed a player on their 1st day, no one dies to the Al-Hadikhia ability tonight."
+msgstr ""
+
+msgctxt "boffin cultleader"
+msgid "If the Demon has the Cult Leader ability, they can’t turn good due to this ability."
+msgstr ""
+
+msgctxt "boffin drunk"
+msgid "If the Demon would have the Drunk ability, the Boffin chooses a Townsfolk player to have this ability instead."
+msgstr ""
+
+msgctxt "boffin goon"
+msgid "If the Demon has the Goon ability, they can’t turn good due to this ability."
+msgstr ""
+
+msgctxt "boffin ogre"
+msgid "The Demon cannot have the Ogre ability."
+msgstr ""
+
+msgctxt "boffin politician"
+msgid "The Demon cannot have the Politician ability."
+msgstr ""
+
+msgctxt "boffin villageidiot"
+msgid "If there is a spare token, the Boffin can give the Demon the Village Idiot ability."
+msgstr ""
+
+msgctxt "bountyhunter kazali"
+msgid "An evil Townsfolk is only created if the Bounty Hunter is still in play after the Kazali acts."
+msgstr "พลังของนักล่าค่าหัวจะเปลี่ยนชาวบ้านหนึ่งคนเป็นฝ่ายร้ายก็ต่อเมื่อนักล่าค่าหัวยังอยู่ในเกมหลังจากคาซาลิทำงาน"
+
+msgctxt "bountyhunter philosopher"
+msgid "If the Philosopher gains the Bounty Hunter ability, a Townsfolk might turn evil."
+msgstr "ถ้าพหูสูตได้พลังของนักล่าค่าหัว ชาวบ้านหนึ่งคนอาจจะกลายเป็นฝ่ายร้าย"
+
+msgctxt "butler organgrinder"
+msgid "If the Organ Grinder is causing eyes closed voting, the Butler may raise their hand to vote but their vote is only counted if their master voted too."
+msgstr "ถ้านักแสดงเรี่ยไรทำให้ทุกคนต้องหลับตาโหวต พ่อบ้านจะยกมือโหวตเมื่อไหร่ก็ได้ แต่โหวตของเขาจะถูกนับถ้าเจ้านายโหวตด้วย"
+
+msgctxt "cannibal butler"
+msgid "If the Cannibal gains the Butler ability, the Cannibal learns this."
+msgstr "ถ้ามนุษย์กินคนได้พลังของพ่อบ้าน มนุษย์กินคนจะรู้"
+
+msgctxt "cannibal juggler"
+msgid "If the Juggler guesses on their first day and dies by execution, tonight the living Cannibal learns how many guesses the Juggler got correct."
+msgstr ""
+
+msgctxt "cannibal poppygrower"
+msgid "If the Cannibal eats the Poppy Grower, then dies or loses the Poppy Grower ability, the Demon and Minions learn each other that night."
+msgstr ""
+
+msgctxt "cannibal princess"
+msgid "If the Cannibal nominated & executed the Princess today, the Demon doesn’t kill tonight."
+msgstr ""
+
+msgctxt "cannibal zealot"
+msgid "If the Cannibal gains the Zealot ability, the Cannibal learns this."
+msgstr "ถ้ามนุษย์กินคนได้พลังของหัวรุนแรง มนุษย์กินคนจะรู้"
+
+msgctxt "cerenovus goblin"
+msgid "The Cerenovus may choose to make a player mad that they are the Goblin."
+msgstr "นักสะกดจิตสามารถเลือกให้ผู้เล่นเพ้อว่าเขาเป็นก็อบลิน"
+
+msgctxt "heretic baron"
+msgid "The Baron might only add 1 Outsider, not 2."
+msgstr "ถ้ามีทั้ง อำมาตย์ และ คนนอกรีต ในเกมนี้ พลังของอำมาตย์เพิ่มคนนอกแค่หนึ่งคน"
+
+msgctxt "heretic boffin"
+msgid "The Demon cannot have the Heretic ability."
+msgstr ""
+
+msgctxt "heretic godfather"
+msgid "Only 1 jinxed character can be in play."
+msgstr "เจ้าพ่อ และ คนนอกรีต จะถูกใช้อยู่ในเกมเดียวกันไม่ได้"
+
+msgctxt "heretic lleech"
+msgid "If the Lleech has poisoned the Heretic then the Lleech dies, the Heretic remains poisoned."
+msgstr "ถ้าปลิงปีศาจทำให้คนนอกรีตติดพิษแล้วปลิงปีศาจตาย คนนอกรีตจะยังติดพิษอยู่"
+
+msgctxt "heretic pithag"
+msgid "A Pit-Hag can not create a Heretic."
+msgstr "ผีพรายแปลงกายสร้างคนนอกรีตไม่ได้"
+
+msgctxt "heretic spy"
+msgid "Only 1 jinxed character can be in play."
+msgstr "ไส้ศึก และ คนนอกรีต จะถูกใช้อยู่ในเกมเดียวกันไม่ได้"
+
+msgctxt "heretic widow"
+msgid "Only 1 jinxed character can be in play."
+msgstr "แม่ม่ายดำ และ คนนอกรีต จะถูกใช้อยู่ในเกมเดียวกันไม่ได้"
+
+msgctxt "kazali choirboy"
+msgid "The Kazali can not choose the King to become a Minion if a Choirboy is in play."
+msgstr "คาซาลิไม่สามารถเปลี่ยนพระราชาเป็นลูกสมุนได้ ถ้านักดนตรีหลวงอยู่ในเกม"
+
+msgctxt "kazali goon"
+msgid "The Kazali can choose that the Goon player is one of their evil Minions."
+msgstr ""
+
+msgctxt "kazali huntsman"
+msgid "If the Kazali chooses the Damsel to become a Minion, and a Huntsman is in play, a good player becomes the Damsel."
+msgstr "ถ้าคาซาลิเลือกเปลี่ยนเจ้าหญิงเป็นลูกสมุน และนายพรานยังอยู่ในเกม ผู้เล่นฝ่ายดีหนึ่งคนจะกลายเป็นเจ้าหญิง"
+
+msgctxt "kazali marionette"
+msgid "If the Kazali chooses to create a Marionette, they must choose one of their neighbors."
+msgstr ""
+
+msgctxt "kazali soldier"
+msgid "The Kazali can choose that the Soldier player is one of their evil Minions."
+msgstr ""
+
+msgctxt "legion engineer"
+msgid "Legion and the Engineer can not both be in play at the start of the game. If the Engineer creates Legion, most players (including all evil players) become evil Legion."
+msgstr "ลีเจี้ยน และ วิศวกร จะอยู่ในเกมเดียวกันไม่ได้ตั้งแต่เริ่ม แต่ถ้าวิศวกรสร้างลีเจี้ยน ผู้เล่นโดนมาก (รวมทั้งฝ่ายร้ายทั้งหมด) จะกลายเป็นลีเจี้ยนฝ่ายร้าย"
+
+msgctxt "legion hatter"
+msgid "If the Hatter dies and Legion is in play, nothing happens. If the Hatter dies and an evil player chooses Legion, all current evil players become Legion."
+msgstr "ถ้าทั้ง คนบ้าสานหมวก และ ลีเจี้ยน เริ่มเกมพร้อมกันจะไม่มีอะไรเกิดขึ้นช่วงปาร์ตี้น้ำชา, ถ้าคนบ้าสานหมวกตายแล้วฝ่ายร้ายเลือกลีเจี้ยน ผู้เล่นฝ่ายร้ายทุกคนกลายเป็นลีเจี้ยน"
+
+msgctxt "legion minstrel"
+msgid "If Legion died by execution today, Legion keeps their ability, but the Minstrel might learn they are Legion."
+msgstr "ถ้าลีเจี้ยนถูกประหารวันนี้, ลีเจี้ยนยังมีพลังอยู่, แต่กวีพเนจรอาจจะรู้ว่าคนนั้นเป็นลีเจี้ยน"
+
+msgctxt "legion preacher"
+msgid "If the Preacher chooses Legion, Legion keeps their ability, but the Preacher might learn they are Legion."
+msgstr "ถ้านักเทศน์เลือกลีเจี้ยน, ลีเจี้ยนยังมีพลังอยู่, แต่นักเทศน์อาจจะรู้ว่าคนนั้นเป็นลีเจี้ยน"
+
+msgctxt "legion zealot"
+msgid "The Zealot might register as evil to Legion's ability."
+msgstr ""
+
+msgctxt "leviathan banshee"
+msgid "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability."
+msgstr ""
+
+msgctxt "leviathan exorcist"
+msgid "Evil does not win when more than 1 good player has been executed, if the Exorcist is alive and has ever successfully chosen the Leviathan."
+msgstr ""
+
+msgctxt "leviathan farmer"
+msgid "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Farmer uses their ability but does not die."
+msgstr ""
+
+msgctxt "leviathan grandmother"
+msgid "If Leviathan is in play and the Grandchild dies by execution, evil wins."
+msgstr ""
+
+msgctxt "leviathan hatter"
+msgid "If the Hatter dies on or after day 5, the Demon cannot choose Leviathan."
+msgstr "ถ้าคนบ้าสานหมวกตายในวันที่ 5 หรือหลังจากนั้น ปีศาจไม่สามารถเลือกเปลี่ยนเป็นเลวีอาธาน."
+
+msgctxt "leviathan innkeeper"
+msgid "If the Leviathan is in play, the Innkeeper-protected-players are safe from all evil abilities."
+msgstr ""
+
+msgctxt "leviathan king"
+msgid "If the Leviathan is in play, and at least 1 player is dead, the King learns an alive character each night."
+msgstr ""
+
+msgctxt "leviathan mayor"
+msgid "If the Leviathan is in play & no execution occurs on day 5, good wins."
+msgstr ""
+
+msgctxt "leviathan monk"
+msgid "If the Leviathan is in play, the Monk-protected-player is safe from all evil abilities."
+msgstr ""
+
+msgctxt "leviathan pithag"
+msgid "After day 5, the Pit-Hag cannot choose Leviathan."
+msgstr "หลังจากวันที่ 5 ผีพรายแปลงกายจะเลือกเปลี่ยนคนเป็นเลวีอาธานไม่ได้"
+
+msgctxt "leviathan ravenkeeper"
+msgid "Each night*, the Leviathan chooses an alive player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die."
+msgstr ""
+
+msgctxt "leviathan sage"
+msgid "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Sage uses their ability but does not die."
+msgstr ""
+
+msgctxt "leviathan soldier"
+msgid "If the Leviathan is in play, the Soldier is safe from all evil abilities."
+msgstr ""
+
+msgctxt "lilmonsta hatter"
+msgid "If a Demon chooses Lil' Monsta, they also choose a Minion to become and babysit Lil' Monsta tonight."
+msgstr "ถ้าปีศาจเลือกมอนสเตอร์น้อยในปาร์ตี้น้ำชา เขาจะต้องเลือกลูกสมุนมาเลี้ยงมอนสเตอร์น้อยคืนนี้"
+
+msgctxt "lilmonsta poppygrower"
+msgid "If the Poppy Grower is in play, Minions don't wake together. They are woken one by one, until one of them chooses to take the Lil' Monsta token."
+msgstr "ถ้าคนปลูกฝิ่นอยู่ในเกมนี้ ลูกสมุนจะไม่ตื่นพร้อมๆกันมาเลือกคนเลี้ยงมอนสเตอร์น้อย, ลูกสมุนจะถูกปลุกทีละคนจนกว่าจะมีหนึ่งคนที่เลือกเอาโทเคนมอนสเตอร์น้อยไปเลี้ยง"
+
+msgctxt "lilmonsta scarletwoman"
+msgid "If there are 5 or more players alive and the player holding the Lil' Monsta token dies, the Scarlet Woman is given the Lil' Monsta token tonight."
+msgstr "ถ้ามีคนมีชีวิตอยู่ตั้งแต่ห้าคนขึ้นไปและลูกสมุนที่ถือโทเคนมอนสเตอร์น้อยอยู่ตาย นางคณิกาจะได้โทเคนมอนสเตอร์น้อยในคืนนี้"
+
+msgctxt "lilmonsta vizier"
+msgid "The Vizier can die by execution if they are babysitting Lil' Monsta."
+msgstr "เสนาบดีสามารถตายได้ด้วยการประหาร ถ้าเขาเลี้ยงมอนสเตอร์น้อยอยู่"
+
+msgctxt "lleech mastermind"
+msgid "If the Mastermind is alive and the Lleech's host dies by execution, the Lleech lives but loses their ability."
+msgstr "ถ้าจอมบงการยังมีชีวิตและโฮสต์ของปลิงปีศาจถูกประหาร ปลิงปีศาจจะยังมีชีวิตแต่สูญเสียพลัง"
+
+msgctxt "lleech slayer"
+msgid "If the Slayer slays the Lleech's host, the host dies."
+msgstr "ถ้านักล่าอสูรเลือกใช้พลังกับโฮสต์ของปลิงปีศาจ โฮสต์จะตาย"
+
+msgctxt "magician wraith"
+msgid "Each day, after the execution phase, the living Magician may publicly guess a living player as the Wraith: if correct, the Demon must choose the Wraith tonight."
+msgstr ""
+
+msgctxt "magician spy"
+msgid "When the Spy sees the Grimoire, the Demon and Magician's character tokens are removed."
+msgstr "เวลาที่ไส้ศึกดูกรีมัวร์ โทเคนของปีศาจและนักมายากลจะถูกเอาออกชั่วคราว"
+
+msgctxt "magician vizier"
+msgid "If the Vizier and Magician are both in play, the Demon does not learn the Minions."
+msgstr ""
+
+msgctxt "magician widow"
+msgid "When the Widow sees the Grimoire, the Demon and Magician's character tokens are removed."
+msgstr "เวลาที่แม่ม่ายดำดูกรีมัวร์ โทเคนของปีศาจและนักมายากลจะถูกเอาออกชั่วคราว"
+
+msgctxt "magician lilmonsta"
+msgid "Each night, the Magician chooses a Minion: if that Minion & Lil' Monsta are alive, that Minion babysits Lil’ Monsta."
+msgstr ""
+
+msgctxt "marionette balloonist"
+msgid "If the Marionette thinks that they are the Balloonist, +1 Outsider might have been added."
+msgstr "ถ้าหุ่นเชิดถูกบอกว่าเขาเป็นนักบินบอลลูน เพิ่มคนนอกหนึ่งคน"
+
+msgctxt "marionette damsel"
+msgid "The Marionette does not learn that a Damsel is in play."
+msgstr "หุ่นเชิดจะไม่ถูกบอกว่าเจ้าหญิงอยู่ในเกมนี้"
+
+msgctxt "marionette huntsman"
+msgid "If the Marionette thinks that they are the Huntsman, the Damsel was added."
+msgstr "ถ้าหุ่นเชิดถูกบอกว่าเขาเป็นนายพราน เพิ่มเจ้าหญิงเข้ามาในเกม"
+
+msgctxt "marionette lilmonsta"
+msgid "The Marionette neighbors a Minion, not the Demon. The Marionette is not woken to choose who takes the Lil' Monsta token, and does not learn they are the Marionette if they have the Lil' Monsta token."
+msgstr "หุ่นเชิดจะเป็นเพื่อนบ้านกับลูกสมุนหนึ่งคน ไม่ใช่ปีศาจ, หุ่นเชิดจะไม่ถูกปลุกขึ้นมาเลือกคนเลี้ยงโทเคนมอนสเตอร์น้อย, และจะไม่รู้ว่าตัวเองเป็นหุ่นเชิดแม้ว่าเขาจะเลี้ยงมอนสเตอร์น้อยอยู่ก็ตาม"
+
+msgctxt "marionette poppygrower"
+msgid "When the Poppy Grower dies, the Demon learns the Marionette but the Marionette learns nothing."
+msgstr "เมื่อคนปลูกฝิ่นตาย ปีศาจจะรู้ว่าใครเป็นหุ่นเชิด แต่หุ่นเชิดจะไม่ได้ข้อมูลอะไร"
+
+msgctxt "marionette snitch"
+msgid "The Marionette does not learn 3 not in-play characters. The Demon learns an extra 3 instead."
+msgstr "หุ่นเชิดจะไม่ได้ 3 บลัปจากคนปากพล่อย แต่ว่าปีศาจจะได้บลัฟเพิ่มอีก 3 ตัวละครแทน"
+
+msgctxt "marionette wraith"
+msgid "The Wraith does not wake with the Marionette."
+msgstr ""
+
+msgctxt "mastermind alhadikhia"
+msgid "If the Al-Hadikhia dies by execution, and the Mastermind is alive, the Al-Hadikhia chooses 3 good players tonight: if all 3 choose to live, evil wins. Otherwise, good wins."
+msgstr "ถ้าอัล-ฮาดิเคียถูกประหารและจอมบงการยังมีชีวิตอยู่, ให้อัล-ฮาดิเคียเลือกผู้เล่นฝ่ายดีสามคนในคืนนี้: ถ้าทั้งสามคนเลือกที่จะมีชีวิต, ฝ่ายร้ายชนะทันที. มิฉะนั้น, ฝ่ายดีชนะ."
+
+msgctxt "mathematician chambermaid"
+msgid "The Chambermaid learns if the Mathematician wakes tonight or not, even though the Chambermaid wakes first."
+msgstr "นางต้นห้องรู้ว่านักคณิตจะตื่นหรือไม่ แม้ว่านางต้นห้องตื่นก่อนก็ตาม"
+
+msgctxt "mathematician lunatic"
+msgid "The Mathematician learns if the Lunatic attacks a different player(s) than the real Demon attacked."
+msgstr "นักคณิตจะได้เลขเพิ่ม ถ้าปีศาจเลือกฆ่าคนละคนกับที่คนบ้าเลือก"
+
+msgctxt "ogre recluse"
+msgid "If the Recluse registers as evil to the Ogre, the Ogre learns that they are evil."
+msgstr "ถ้ายักษ์เพื่อนรักเลือกฤษี แล้วพลังของยักษ์เพื่อนรักนับว่าฤษีเป็นฝ่ายร้าย ยักษ์เพื่อนรักจะรู้ว่าเป็นฝ่ายร้าย"
+
+msgctxt "pithag cultleader"
+msgid "If the Pit-Hag turns an evil player into the Cult Leader, they can't turn good due to their own ability."
+msgstr "ถ้าผีพรายแปลงกายเปลี่ยนผู้เล่นฝ่ายร้ายเป็นเจ้าลัทธิ เจ้าลัทธิจะไม่สามารถเปลี่ยนเป็นฝ่ายดีได้ด้วยพลังตัวเอง"
+
+msgctxt "pithag damsel"
+msgid "If a Pit-Hag creates a Damsel, the Storyteller chooses which player it is."
+msgstr "ถ้าผีพรายแปลงกายสร้างเจ้าหญิง นักเล่าเรื่องจะเป็นคนเลือกผู้เล่นที่จะกลายเป็นเจ้าหญิง"
+
+msgctxt "pithag goon"
+msgid "If the Pit-Hag turns an evil player into the Goon, they can't turn good due to their own ability."
+msgstr "ถ้าผีพรายแปลงกายเปลี่ยนผู้เล่นฝ่ายร้ายเป็นลูกกระจ๊อก ลูกกระจ๊อกจะไม่สามารถเปลี่ยนเป็นฝ่ายดีได้ด้วยพลังตัวเอง"
+
+msgctxt "pithag ogre"
+msgid "If the Pit-Hag turns an evil player into the Ogre, they can't turn good due to their own ability."
+msgstr ""
+
+msgctxt "pithag politician"
+msgid "If the Pit-Hag turns an evil player into the Politician, they can't turn good due to their own ability."
+msgstr "ผีพรายแปลงกายสร้างนักการเมืองฝ่ายร้ายไม่ได้"
+
+msgctxt "pithag villageidiot"
+msgid "If there is a spare token, the Pit-Hag can create an extra Village Idiot. If so, the drunk Village Idiot might change."
+msgstr "ถ้ายังมีโทเคนตัวละครบักสิเด๋อเหลือ ผีพรายแปลงกายสามารถสร้างบักสิเด๋อได้, ถ้าสร้าง บักสิเด๋อที่เมาอาจจะเปลี่ยนคน"
+
+msgctxt "plaguedoctor baron"
+msgid "If the Storyteller gains the Baron ability, up to two players become not-in-play Outsiders."
+msgstr ""
+
+msgctxt "plaguedoctor boomdandy"
+msgid "If the Plague Doctor is executed and the Storyteller would gain the Boomdandy ability, the Boomdandy ability triggers immediately."
+msgstr "ถ้าหมอกาฬโรคถูกประหาร และนักเล่าเรื่องจะได้พลังของมือระเบิดพลีชีพ พลังของมือระเบิดพลีชีพจะถูกใช้ทันที"
+
+msgctxt "plaguedoctor eviltwin"
+msgid "The Storyteller cannot gain the Evil Twin ability if the Plague Doctor dies."
+msgstr "นักเล่าเรื่องไม่สามารถรับพลังของแฝดนรกได้ ถ้าหมอกาฬโรคตาย"
+
+msgctxt "plaguedoctor fearmonger"
+msgid "If the Plague Doctor dies, a living Minion gains the Fearmonger ability in addition to their own ability, and learns this."
+msgstr "ถ้าหมอกาฬโรคตาย ลูกสมุนหนึ่งคนที่มีชีวิตจะได้พลังของนักปลุกปั่น และรู้เรื่องนี้"
+
+msgctxt "plaguedoctor goblin"
+msgid "If the Plague Doctor dies, a living Minion gains the Goblin ability in addition to their own ability, and learns this."
+msgstr "ถ้าหมอกาฬโรคตาย ลูกสมุนที่ยังมีชีวิตคนหนึ่งได้พลังก็อบลินเพิ่มเติมจากพลังที่มีอยู่ แล้วรู้สิ่งนี้"
+
+msgctxt "plaguedoctor marionette"
+msgid "If the Demon has a neighbor who is alive and a Townsfolk or Outsider when the Plague Doctor dies, that player becomes an evil Marionette. If there is already an extra evil player, this does not happen."
+msgstr ""
+
+msgctxt "plaguedoctor scarletwoman"
+msgid "If the Plague Doctor dies, a living Minion gains the Scarlet Woman ability in addition to their own ability, and learns this."
+msgstr "ถ้าหมอกาฬโรคตาย ลูกสมุนหนึ่งคนที่มีชีวิตจะได้พลังของนางคณิกา และรู้เรื่องนี้"
+
+msgctxt "plaguedoctor spy"
+msgid "If the Plague Doctor dies, a living Minion gains the Spy ability in addition to their own ability, and learns this."
+msgstr "ถ้าหมอกาฬโรคตาย ลูกสมุนหนึ่งคนที่มีชีวิตจะได้พลังของไส้ศึก และรู้เรื่องนี้"
+
+msgctxt "plaguedoctor wraith"
+msgid "If the Plague Doctor dies, a living Minion gains the Wraith ability in addition to their own ability, and learns this."
+msgstr ""
+
+msgctxt "riot banshee"
+msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability."
+msgstr ""
+
+msgctxt "riot exorcist"
+msgid "If the Exorcist chooses Riot on the 3rd night, Minions do not become Riot."
+msgstr ""
+
+msgctxt "riot farmer"
+msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Farmer uses their ability but does not die."
+msgstr ""
+
+msgctxt "riot grandmother"
+msgid "If Riot is in play and the Grandchild dies during the day, the Grandmother dies too."
+msgstr ""
+
+msgctxt "riot innkeeper"
+msgid "If Riot is in play, the Innkeeper-protected player is safe from all evil abilities."
+msgstr ""
+
+msgctxt "riot king"
+msgid "If Riot is in play, and at least 1 player is dead, the King learns an alive character each night."
+msgstr ""
+
+msgctxt "riot mayor"
+msgid "The Mayor may choose to stop nominations. If they do so when only 1 Riot is alive, good wins. Otherwise, evil wins."
+msgstr ""
+
+msgctxt "riot monk"
+msgid "If Riot is in play, the Monk-protected player is safe from all evil abilities."
+msgstr ""
+
+msgctxt "riot ravenkeeper"
+msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die."
+msgstr ""
+
+msgctxt "riot sage"
+msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Sage uses their ability but does not die."
+msgstr ""
+
+msgctxt "riot soldier"
+msgid "If Riot is in play, the Soldier is safe from all evil abilities."
+msgstr ""
+
+msgctxt "scarletwoman alhadikhia"
+msgid "If there are two living Al-Hadikhias, the Scarlet Woman Al-Hadikhia becomes the Scarlet Woman again."
+msgstr "ถ้ามีอัล-ฮาดิเคียที่มีชีวิตสองคน นางคณิกาที่กลายเป็นอัล-ฮาดิเคีย จะกลับมาเป็นนางคณิกาเหมือนเดิม"
+
+msgctxt "scarletwoman fanggu"
+msgid "If the Fang Gu chooses an Outsider and dies, the Scarlet Woman does not become the Fang Gu."
+msgstr "ถ้าฟางกู่เลือกคนนอกแล้วตาย นางคณิกาจะไม่กลายเป็นฟางกู่"
+
+msgctxt "spy damsel"
+msgid "If the Spy is (or has been) in play, the Damsel is poisoned."
+msgstr "ถ้าไส้ศึกอยู่ในเกมนี้หรือเคยอยู่ในเกมนี้ เจ้าหญิงจะติดพิษ"
+
+msgctxt "spy ogre"
+msgid "The Spy registers as evil to the Ogre."
+msgstr "ไส้ศึกนับเป็นฝ่ายร้ายหากถูกเลือกด้วยพลังยักษ์เพื่อนรัก"
+
+msgctxt "spy poppygrower"
+msgid "If the Poppy Grower is in play, the Spy does not see the Grimoire until the Poppy Grower dies."
+msgstr "ถ้าคนปลูกฝิ่นอยู่ในเกม ไส้ศึกจะไม่สามารถดูกรีมัวร์ได้ จนกว่าคนปลูกฝิ่นจะตาย"
+
+msgctxt "summoner clockmaker"
+msgid "If the Summoner is in play, the Clockmaker does not receive their information until a Demon is created."
+msgstr "ถ้าผู้อัญเชิญอยู่ในเกมนี้ ช่างนาฬิกาจะไม่ได้ข้อมูลจนกว่าปีศาจจะถูกอัญเชิญ"
+
+msgctxt "summoner courtier"
+msgid "If the Summoner is drunk on the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+msgstr "ถ้าผู้อัญเชิญเมาในคืนที่สาม ผู้อัญเชิญเลือกตัวละครปีศาจ แต่นักเล่าเรื่องเลือกผู้เล่นที่จะกลายเป็นปีศาจ"
+
+msgctxt "summoner engineer"
+msgid "If the Engineer removes a Summoner from play before that Summoner uses their ability, the Summoner uses their ability immediately."
+msgstr "ถ้าวิศวกรเอาผู้อัญเชิญออกจากเกมก่อนที่ผู้อัญเชิญจะใช้พลัง ให้ผู้อัญเชิญใช้พลังทันที"
+
+msgctxt "summoner hatter"
+msgid "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+msgstr "ผู้อัญเชิญไม่สามารถอัญเชิญปีศาจที่ถูกใช้อยู่ในเกมนี้ได้ ถ้าผู้อัญเชิญเรียกปีศาจตัวอื่น การตายในคืนนี้จะเป็นไปตามอำเภอใจผู้เล่าเรื่อง"
+
+msgctxt "summoner kazali"
+msgid "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+msgstr "ผู้อัญเชิญไม่สามารถอัญเชิญปีศาจที่ถูกใช้อยู่ในเกมนี้ได้ ถ้าผู้อัญเชิญเรียกปีศาจตัวอื่น การตายในคืนนี้จะเป็นไปตามอำเภอใจผู้เล่าเรื่อง"
+
+msgctxt "summoner legion"
+msgid "If the Summoner creates Legion, most players (including all evil players) become evil Legion."
+msgstr "ถ้าผู้อัญเชิญเรียกลีเจี้ยน ผู้เล่นโดนมาก (รวมทั้งฝ่ายร้ายทั้งหมด) จะกลายเป็นลีเจี้ยนฝ่ายร้าย"
+
+msgctxt "summoner lordoftyphon"
+msgid "If the Summoner creates a Lord of Typhon, the Lord of Typhon must neighbor a Minion. The other neighbor becomes a not-in-play evil Minion."
+msgstr ""
+
+msgctxt "summoner marionette"
+msgid "The Marionette neighbors the Summoner. The Summoner knows who the Marionette is."
+msgstr ""
+
+msgctxt "summoner pithag"
+msgid "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+msgstr "ผู้อัญเชิญไม่สามารถอัญเชิญปีศาจที่ถูกใช้อยู่ในเกมนี้ได้ ถ้าผู้อัญเชิญเรียกปีศาจตัวอื่น การตายในคืนนี้จะเป็นไปตามอำเภอใจผู้เล่าเรื่อง"
+
+msgctxt "summoner poppygrower"
+msgid "If the Poppy Grower is alive when the Summoner acts, the Summoner chooses which Demon, but the Storyteller chooses which player."
+msgstr "ถ้าคนปลูกฝิ่นยังมีชีวิตอยู่ตอนที่ผู้อัญเชิญเรียกปีศาจ ผู้อัญเชิญเลือกตัวละครปีศาจ แต่นักเล่าเรื่องเลือกผู้เล่นที่จะกลายเป็นปีศาจ"
+
+msgctxt "summoner preacher"
+msgid "If the Preacher chose the Summoner on or before the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+msgstr "ถ้านักเทศน์เลือกผู้อัญเชิญในคืนที่สามหรือก่อนนั้น ให้ผู้อัญเชิญเลือกว่าจะอัญเชิญปีศาจตัวไหน, แต่ให้นักเล่าเรื่องเลือกว่าใครจะเป็นปีศาจตัวนั้น"
+
+msgctxt "summoner pukka"
+msgid "The Summoner may choose a player to become the Pukka on the 2nd night."
+msgstr "ผู้อัญเชิญสามารถเลือกที่จะอัญเชิญพุกก้าได้ในคืนที่สอง แทนที่จะเป็นคืนที่สาม"
+
+msgctxt "summoner zombuul"
+msgid "If the Summoner turns a dead player into the Zombuul, the Storyteller treats that player as a Zombuul that has died once."
+msgstr "ถ้าผู้อัญเชิญเปลี่ยนคนตายแล้วเป็นซอมบูล ให้นักเล่าเรื่องนับว่าซอมบูลตายแล้วหนึ่งครั้ง"
+
+msgctxt "vizier alsaahir"
+msgid "If the Vizier is in play, the Alsaahir must also guess which Demon(s) are in play."
+msgstr "ถ้าเสนาบดีอยู่ในเกมนี้, อัลซาเฮียต้องเดาด้วยว่าผู้เล่นที่เป็นปีศาจได้บทเป็นปีศาจตัวไหน"
+
+msgctxt "vizier courtier"
+msgid "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+msgstr ""
+
+msgctxt "vizier fearmonger"
+msgid "The Vizier wakes with the Fearmonger, learns who they choose and cannot choose to immediately execute that player."
+msgstr ""
+
+msgctxt "vizier investigator"
+msgid "If the Investigator learns that the Vizier is in play, the existence of the Vizier is not announced by the Storyteller."
+msgstr "ถ้านักสืบรู้ว่าเสนาบดีอยู่ในเกมนี้ นักเล่าเรื่องจะไม่ประกาศว่าเสนาบดีอยู่ในเกมให้ทุกคนรู้"
+
+msgctxt "vizier politician"
+msgid "The Politician might register as evil to the Vizier."
+msgstr "เสนาบดีอาจจะเห็นนักการเมืองเป็นฝ่ายร้าย"
+
+msgctxt "vizier preacher"
+msgid "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+msgstr ""
+
+msgctxt "vizier zealot"
+msgid "The Zealot might register as evil to the Vizier."
+msgstr "หัวรุนแรงอาจจะถูกนับเป็นฝ่ายร้ายสำหรับเสนาบดี"
+
+msgctxt "vortox banshee"
+msgid "If the Vortox is in play and the Demon kills the Banshee, the players still learn that the Banshee has died."
+msgstr "ถ้าวอร์ท็อกซ์อยู่ในเกมนี้และปีศาจฆ่าแบนชี ผู้เล่นทุกคนจะยังได้รับข้อมูลที่ถูกว่าแบนชีตาย"
+
+msgctxt "widow damsel"
+msgid "If the Widow is (or has been) in play, the Damsel is poisoned."
+msgstr "ถ้าแม่ม่ายดำอยู่ในเกมนี้หรือเคยอยู่ในเกมนี้ เจ้าหญิงจะติดพิษ"
+
+msgctxt "widow poppygrower"
+msgid "If the Poppy Grower is in play, the Widow does not see the Grimoire until the Poppy Grower dies."
+msgstr "ถ้าคนปลูกฝิ่นอยู่ในเกม แม่ม่ายดำจะไม่สามารถดูกรีมัวร์ได้ จนกว่าคนปลูกฝิ่นจะตาย"
+
+msgctxt "yaggababble exorcist"
+msgid "If the Exorcist chooses the Yaggababble, the Yaggababble ability does not kill tonight."
+msgstr "ถ้าหมอผีเลือกยักกาบับเบิล พลังของยักกาบับเบิลไม่ฆ่าใครในคืนนี้"

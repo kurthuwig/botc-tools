@@ -1,0 +1,536 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+msgctxt "alchemist boffin"
+msgid "If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has."
+msgstr "Om Alkemisten har Vetenskaparens förmåga så får Alkemisten inte veta vilken förmåga Demonen har."
+
+msgctxt "alchemist marionette"
+msgid "An Alchemist-Marionette has no Marionette ability & the Marionette is in play."
+msgstr ""
+
+msgctxt "alchemist mastermind"
+msgid "An Alchemist-Mastermind has no Mastermind ability & the Mastermind is not-in-play."
+msgstr ""
+
+msgctxt "alchemist organgrinder"
+msgid "If the Alchemist has the Organ Grinder ability, the Organ Grinder is in play & if both the Alchemist and Organ Grinder are sober, both are drunk."
+msgstr ""
+
+msgctxt "alchemist spy"
+msgid "If the Alchemist has the Spy ability, they do not, and a Spy is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Spy. If correct, the Demon must choose the Spy tonight."
+msgstr ""
+
+msgctxt "alchemist summoner"
+msgid "The Alchemist-Summoner does not get bluffs, and chooses which Demon but not which player. If they die before this happens, evil wins. [No Demon]"
+msgstr ""
+
+msgctxt "alchemist widow"
+msgid "If the Alchemist has the Widow ability, they do not, and a Widow is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Widow. If correct, the Demon must choose the Widow tonight."
+msgstr ""
+
+msgctxt "alchemist wraith"
+msgid "If the Alchemist has the Wraith ability, they do not, and a Wraith is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Wraith. If correct, the Demon must choose the Wraith tonight."
+msgstr "If the Alchemist has the Wraith ability, they do not, and a Wraith is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Wraith: if correct, the Demon must choose the Wraith tonight."
+
+msgctxt "alhadikhia princess"
+msgid "If the Princess nominated & executed a player on their 1st day, no one dies to the Al-Hadikhia ability tonight."
+msgstr "Om Prinsessan nominerade och avrättade en spelare på sin första dag så dör ingen av al Hadikhias förmåga inatt."
+
+msgctxt "boffin cultleader"
+msgid "If the Demon has the Cult Leader ability, they can’t turn good due to this ability."
+msgstr "Om Demonen har Kultledarens förmåga så kan hen inte bli god av den förmågan."
+
+msgctxt "boffin drunk"
+msgid "If the Demon would have the Drunk ability, the Boffin chooses a Townsfolk player to have this ability instead."
+msgstr "Om Demonen skulle ha Fyllots förmåga så väljer Vetenskaparen en spelare som är Bybo; hen får Fyllots förmåga istället."
+
+msgctxt "boffin goon"
+msgid "If the Demon has the Goon ability, they can’t turn good due to this ability."
+msgstr "Om Demonen har Hejdukens förmåga så kan hen inte bli god av den förmågan."
+
+msgctxt "boffin ogre"
+msgid "The Demon cannot have the Ogre ability."
+msgstr "Demonen kan inte ha Trollets förmåga."
+
+msgctxt "boffin politician"
+msgid "The Demon cannot have the Politician ability."
+msgstr "Demonen kan inte ha Politikerns förmåga."
+
+msgctxt "boffin villageidiot"
+msgid "If there is a spare token, the Boffin can give the Demon the Village Idiot ability."
+msgstr "Om det finns en ledig bricka så kan Vetenskaparen ge Demonen Byfånens förmåga."
+
+msgctxt "bountyhunter kazali"
+msgid "An evil Townsfolk is only created if the Bounty Hunter is still in play after the Kazali acts."
+msgstr "En ond Bybo skapas bara om Prisjägaren fortfarande är i spel efter att Kazali har agerat."
+
+msgctxt "bountyhunter philosopher"
+msgid "If the Philosopher gains the Bounty Hunter ability, a Townsfolk might turn evil."
+msgstr "Om Filosofen får Prisjägarens förmåga så kan en Bybo bli ond."
+
+msgctxt "butler organgrinder"
+msgid "If the Organ Grinder is causing eyes closed voting, the Butler may raise their hand to vote but their vote is only counted if their master voted too."
+msgstr "Om Positivhalaren gör att alla blundar när de röstar så får Butlern rösta, men hens röst räknas bara om hens husbonde också röstade."
+
+msgctxt "cannibal butler"
+msgid "If the Cannibal gains the Butler ability, the Cannibal learns this."
+msgstr "Kannibalen får veta om hen får Butlerns förmåga."
+
+msgctxt "cannibal juggler"
+msgid "If the Juggler guesses on their first day and dies by execution, tonight the living Cannibal learns how many guesses the Juggler got correct."
+msgstr "Om Jonglören gissar på första dagen och dör av avrättning så får den levande Kannibalen inatt veta hur många rätt Jonglören hade."
+
+msgctxt "cannibal poppygrower"
+msgid "If the Cannibal eats the Poppy Grower, then dies or loses the Poppy Grower ability, the Demon and Minions learn each other that night."
+msgstr "Om Kannibalen äter Vallmoodlaren och därefter dör eller förlorar Vallmoodlarens förmåga så får Demonen och Kumpanerna veta om varandra den natten."
+
+msgctxt "cannibal princess"
+msgid "If the Cannibal nominated & executed the Princess today, the Demon doesn’t kill tonight."
+msgstr "Om Kannibalen nominerade och avrättade Prinsessan idag så kan Demonen inte döda inatt."
+
+msgctxt "cannibal zealot"
+msgid "If the Cannibal gains the Zealot ability, the Cannibal learns this."
+msgstr "Om Kannibalen får Fanatikerns förmåga så får Kannibalen veta det."
+
+msgctxt "cerenovus goblin"
+msgid "The Cerenovus may choose to make a player mad that they are the Goblin."
+msgstr "Cerenovus får välja att en spelare ska låtsas vara Vätten."
+
+msgctxt "heretic baron"
+msgid "The Baron might only add 1 Outsider, not 2."
+msgstr "Baronen kanske bara lägger till 1 Utböling, inte 2."
+
+msgctxt "heretic boffin"
+msgid "The Demon cannot have the Heretic ability."
+msgstr "Demonen kan inte ha Kättarens förmåga."
+
+msgctxt "heretic godfather"
+msgid "Only 1 jinxed character can be in play."
+msgstr "Endast 1 av rollerna får vara i spel."
+
+msgctxt "heretic lleech"
+msgid "If the Lleech has poisoned the Heretic then the Lleech dies, the Heretic remains poisoned."
+msgstr "Om Lleech har förgiftat Kättaren och Kättaren dör, så dör Lleech och Kättaren förblir förgiftad."
+
+msgctxt "heretic pithag"
+msgid "A Pit-Hag can not create a Heretic."
+msgstr "Trollpackan kan inte skapa en Kättare."
+
+msgctxt "heretic spy"
+msgid "Only 1 jinxed character can be in play."
+msgstr "Endast 1 av rollerna får vara i spel."
+
+msgctxt "heretic widow"
+msgid "Only 1 jinxed character can be in play."
+msgstr "Endast 1 av rollerna får vara i spel."
+
+msgctxt "kazali choirboy"
+msgid "The Kazali can not choose the King to become a Minion if a Choirboy is in play."
+msgstr "Kazali kan inte välja att Kungen ska bli Kumpan om en Korgosse är i spel."
+
+msgctxt "kazali goon"
+msgid "The Kazali can choose that the Goon player is one of their evil Minions."
+msgstr "Kazali kan välja att göra Hejduken till en ond Kumpan."
+
+msgctxt "kazali huntsman"
+msgid "If the Kazali chooses the Damsel to become a Minion, and a Huntsman is in play, a good player becomes the Damsel."
+msgstr "Om Kazali väljer att Ungmön ska bli Kumpan och Jägaren är i spel så blir en god spelare till Ungmön."
+
+msgctxt "kazali marionette"
+msgid "If the Kazali chooses to create a Marionette, they must choose one of their neighbors."
+msgstr "Om Kazali väljer att skapa en Marionett så måste hen välja en av sina grannar."
+
+msgctxt "kazali soldier"
+msgid "The Kazali can choose that the Soldier player is one of their evil Minions."
+msgstr "Kazali kan välja att göra Soldaten till en ond Kumpan."
+
+msgctxt "legion engineer"
+msgid "Legion and the Engineer can not both be in play at the start of the game. If the Engineer creates Legion, most players (including all evil players) become evil Legion."
+msgstr "Legionen och Ingenjören kan inte vara i spel samtidigt när spelet börjar. Om Ingenjören skapar Legionen så blir de flesta spelare (inklusive alla onda spelare) till den onda Legionen."
+
+msgctxt "legion hatter"
+msgid "If the Hatter dies and Legion is in play, nothing happens. If the Hatter dies and an evil player chooses Legion, all current evil players become Legion."
+msgstr "Om Hattmakaren dör och Legionen är i spel så händer ingenting. Om Hattmakaren dör och en ond spelare väljer Legionen så blir alla då onda spelare till Legionen."
+
+msgctxt "legion minstrel"
+msgid "If Legion died by execution today, Legion keeps their ability, but the Minstrel might learn they are Legion."
+msgstr "Om Legionen dog av avrättning idag så behåller Legionen sin förmåga, men Trubaden kanske får veta att hen är Legionen."
+
+msgctxt "legion preacher"
+msgid "If the Preacher chooses Legion, Legion keeps their ability, but the Preacher might learn they are Legion."
+msgstr "Om Predikanten väljer Legionen så får Legionen behålla sin förmåga, men Predikanten kanske får veta att hen är Legionen."
+
+msgctxt "legion zealot"
+msgid "The Zealot might register as evil to Legion's ability."
+msgstr "Fanatikern kan registreras som ond för Legionens förmåga."
+
+msgctxt "leviathan banshee"
+msgid "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability."
+msgstr "Varje natt* väljer Leviatan en levande god spelare (en ny varje natt); en vald Banshee dör och får sin förmåga."
+
+msgctxt "leviathan exorcist"
+msgid "Evil does not win when more than 1 good player has been executed, if the Exorcist is alive and has ever successfully chosen the Leviathan."
+msgstr "Om Exorcisten lever och har valt Leviatan någon gång under spelet så kan det onda laget inte vinna av att mer än 1 god spelare avrättas."
+
+msgctxt "leviathan farmer"
+msgid "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Farmer uses their ability but does not die."
+msgstr "Varje natt* väljer Leviatan en levande god spelare (en ny varje natt); en vald Bonde använder sin förmåga men dör inte."
+
+msgctxt "leviathan grandmother"
+msgid "If Leviathan is in play and the Grandchild dies by execution, evil wins."
+msgstr "Om Leviatan är i spel och barnbarnet dör av avrättning så vinner det onda laget."
+
+msgctxt "leviathan hatter"
+msgid "If the Hatter dies on or after day 5, the Demon cannot choose Leviathan."
+msgstr "Om Hattmakaren dör dag 5 eller senare så kan Demonen inte välja Leviatan."
+
+msgctxt "leviathan innkeeper"
+msgid "If the Leviathan is in play, the Innkeeper-protected-players are safe from all evil abilities."
+msgstr "Om Leviatan är i spel så är Gästgivarens valda spelare skyddade från alla onda förmågor."
+
+msgctxt "leviathan king"
+msgid "If the Leviathan is in play, and at least 1 player is dead, the King learns an alive character each night."
+msgstr "Om Leviatan är i spel och minst 1 spelare är död så får Kungen veta om en levande karaktär varje natt."
+
+msgctxt "leviathan mayor"
+msgid "If the Leviathan is in play & no execution occurs on day 5, good wins."
+msgstr "Om Leviatan är i spel och ingen avrättas dag 5 så vinner det goda laget."
+
+msgctxt "leviathan monk"
+msgid "If the Leviathan is in play, the Monk-protected-player is safe from all evil abilities."
+msgstr "Om Leviatan är i spel så är Munkens valda spelare skyddad från alla onda förmågor."
+
+msgctxt "leviathan pithag"
+msgid "After day 5, the Pit-Hag cannot choose Leviathan."
+msgstr "Efter dag 5 kan Trollpackan inte välja Leviatan."
+
+msgctxt "leviathan ravenkeeper"
+msgid "Each night*, the Leviathan chooses an alive player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die."
+msgstr "Varje natt* väljer Leviatan en levande god spelare (en ny varje natt); en vald Korpskötare använder sin förmåga men dör inte."
+
+msgctxt "leviathan sage"
+msgid "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Sage uses their ability but does not die."
+msgstr "Varje natt* väljer Leviatan en levande god spelare (en ny varje natt); en vald Guru använder sin förmåga men dör inte."
+
+msgctxt "leviathan soldier"
+msgid "If the Leviathan is in play, the Soldier is safe from all evil abilities."
+msgstr "Om Leviatan är i spel så är Soldaten skyddad från alla onda förmågor."
+
+msgctxt "lilmonsta hatter"
+msgid "If a Demon chooses Lil' Monsta, they also choose a Minion to become and babysit Lil' Monsta tonight."
+msgstr "Om Demonen väljer Lillmonstret så väljer hen också en Kumpan. Hen blir till den Kumpanen och tar hand om Lillmonstret inatt."
+
+msgctxt "lilmonsta poppygrower"
+msgid "If the Poppy Grower is in play, Minions don't wake together. They are woken one by one, until one of them chooses to take the Lil' Monsta token."
+msgstr "Om Vallmoodlaren är i spel så vaknar Kumpanerna inte tillsammans; de vaknar en och en tills någon väljer att ta hand om Lillmonstret."
+
+msgctxt "lilmonsta scarletwoman"
+msgid "If there are 5 or more players alive and the player holding the Lil' Monsta token dies, the Scarlet Woman is given the Lil' Monsta token tonight."
+msgstr "Om 5 eller fler spelare lever och spelaren som tar hand om Lillmonstret dör så får Röda Damen Lillmonstret inatt."
+
+msgctxt "lilmonsta vizier"
+msgid "The Vizier can die by execution if they are babysitting Lil' Monsta."
+msgstr "Vesiren kan avrättas och dö när hen har hand om Lillmonstret."
+
+msgctxt "lleech mastermind"
+msgid "If the Mastermind is alive and the Lleech's host dies by execution, the Lleech lives but loses their ability."
+msgstr "Om Mästaren lever och Lleechs värd avrättas och dör så överlever Lleech men förlorar sin förmåga."
+
+msgctxt "lleech slayer"
+msgid "If the Slayer slays the Lleech's host, the host dies."
+msgstr "Om Dråparen dräper Lleechs värd så dör värden."
+
+msgctxt "magician wraith"
+msgid "Each day, after the execution phase, the living Magician may publicly guess a living player as the Wraith: if correct, the Demon must choose the Wraith tonight."
+msgstr ""
+
+msgctxt "magician spy"
+msgid "When the Spy sees the Grimoire, the Demon and Magician's character tokens are removed."
+msgstr "När Spionen ser Spelboken så tas Demonens och Magikerns rollbrickor bort."
+
+msgctxt "magician vizier"
+msgid "If the Vizier and Magician are both in play, the Demon does not learn the Minions."
+msgstr "Om både Vesiren och Magikern är i spel så får Demonen inte veta om sina Kumpaner."
+
+msgctxt "magician widow"
+msgid "When the Widow sees the Grimoire, the Demon and Magician's character tokens are removed."
+msgstr "När Änkan ser Spelboken så tas Demonens och Magikerns rollbrickor bort."
+
+msgctxt "magician lilmonsta"
+msgid "Each night, the Magician chooses a Minion: if that Minion & Lil' Monsta are alive, that Minion babysits Lil’ Monsta."
+msgstr "Varje natt väljer Magikern en Kumpan; om den Kumpanen och Lillmonstret lever så får den Kumpanen ta hand om Lillmonstret."
+
+msgctxt "marionette balloonist"
+msgid "If the Marionette thinks that they are the Balloonist, +1 Outsider might have been added."
+msgstr "Om Marionetten tror sig vara Ballongfararen så kan 1 extra Utböling ha lagts till."
+
+msgctxt "marionette damsel"
+msgid "The Marionette does not learn that a Damsel is in play."
+msgstr "Marionetten får inte veta att Ungmön är i spel."
+
+msgctxt "marionette huntsman"
+msgid "If the Marionette thinks that they are the Huntsman, the Damsel was added."
+msgstr "Om Marionetten tror sig vara Jägaren så har Ungmön lagts till."
+
+msgctxt "marionette lilmonsta"
+msgid "The Marionette neighbors a Minion, not the Demon. The Marionette is not woken to choose who takes the Lil' Monsta token, and does not learn they are the Marionette if they have the Lil' Monsta token."
+msgstr "Marionetten sitter bredvid en Kumpan, inte Demonen. Marionetten vaknar inte för att välja vem som tar Lillmonstrets bricka, och får inte veta att hen är Marionetten om hen har Lillmonstrets bricka."
+
+msgctxt "marionette poppygrower"
+msgid "When the Poppy Grower dies, the Demon learns the Marionette but the Marionette learns nothing."
+msgstr "När Vallmoodlaren dör får Demonen veta vem Marionetten är, men Marionetten får inte veta något."
+
+msgctxt "marionette snitch"
+msgid "The Marionette does not learn 3 not in-play characters. The Demon learns an extra 3 instead."
+msgstr "Marionetten får inte 3 bluffar; istället får Demonen ytterligare 3."
+
+msgctxt "marionette wraith"
+msgid "The Wraith does not wake with the Marionette."
+msgstr ""
+
+msgctxt "mastermind alhadikhia"
+msgid "If the Al-Hadikhia dies by execution, and the Mastermind is alive, the Al-Hadikhia chooses 3 good players tonight: if all 3 choose to live, evil wins. Otherwise, good wins."
+msgstr "Om al Hadikhia dör av avrättning och Mästaren lever så väljer al Hadikhia 3 goda spelare inatt; om alla 3 väljer att leva så vinner de onda, annars vinner de goda."
+
+msgctxt "mathematician chambermaid"
+msgid "The Chambermaid learns if the Mathematician wakes tonight or not, even though the Chambermaid wakes first."
+msgstr "Husan får veta om Matematikern vaknar inatt eller inte, trots att Husan vaknar först."
+
+msgctxt "mathematician lunatic"
+msgid "The Mathematician learns if the Lunatic attacks a different player(s) than the real Demon attacked."
+msgstr "Matematikern får veta om Galningen attackerar någon annan än den riktiga Demonen."
+
+msgctxt "ogre recluse"
+msgid "If the Recluse registers as evil to the Ogre, the Ogre learns that they are evil."
+msgstr "Om Enstöringen registreras som ond för Trollet får Trollet veta att hen är ond."
+
+msgctxt "pithag cultleader"
+msgid "If the Pit-Hag turns an evil player into the Cult Leader, they can't turn good due to their own ability."
+msgstr "Om Trollpackan gör en ond spelare till Kultledaren så kan den spelaren inte bli god av sin egen förmåga."
+
+msgctxt "pithag damsel"
+msgid "If a Pit-Hag creates a Damsel, the Storyteller chooses which player it is."
+msgstr "Om Trollpackan skapar en Ungmö så bestämmer Berättaren vilken spelare det blir."
+
+msgctxt "pithag goon"
+msgid "If the Pit-Hag turns an evil player into the Goon, they can't turn good due to their own ability."
+msgstr "Om Trollpackan gör en ond spelare till Hejduken så kan den spelaren inte bli god av sin egen förmåga."
+
+msgctxt "pithag ogre"
+msgid "If the Pit-Hag turns an evil player into the Ogre, they can't turn good due to their own ability."
+msgstr "Om Trollpackan gör en ond spelare till Trollet så kan den spelaren inte bli god av sin egen förmåga."
+
+msgctxt "pithag politician"
+msgid "If the Pit-Hag turns an evil player into the Politician, they can't turn good due to their own ability."
+msgstr "Om Trollpackan gör en ond spelare till Politikern så kan den spelaren inte bli god av sin egen förmåga."
+
+msgctxt "pithag villageidiot"
+msgid "If there is a spare token, the Pit-Hag can create an extra Village Idiot. If so, the drunk Village Idiot might change."
+msgstr "Om det finns en ledig bricka så kan Trollpackan skapa en extra Byfåne. Detta kan ändra vilken av Byfånarna som är full."
+
+msgctxt "plaguedoctor baron"
+msgid "If the Storyteller gains the Baron ability, up to two players become not-in-play Outsiders."
+msgstr "Om Berättaren får Baronens förmåga så blir upp till två spelare till Utbölingar som inte redan är i spel."
+
+msgctxt "plaguedoctor boomdandy"
+msgid "If the Plague Doctor is executed and the Storyteller would gain the Boomdandy ability, the Boomdandy ability triggers immediately."
+msgstr "Om Pestläkaren avrättas och Berättaren skulle få Krutdandyns förmåga så aktiveras Krutdandyns förmåga direkt."
+
+msgctxt "plaguedoctor eviltwin"
+msgid "The Storyteller cannot gain the Evil Twin ability if the Plague Doctor dies."
+msgstr "Berättaren kan inte få Onda Tvillingens förmåga om Pestläkaren dör."
+
+msgctxt "plaguedoctor fearmonger"
+msgid "If the Plague Doctor dies, a living Minion gains the Fearmonger ability in addition to their own ability, and learns this."
+msgstr "Om Pestläkaren dör så får en levande Kumpan Skräckspridarens förmåga utöver sin egen, och får veta detta."
+
+msgctxt "plaguedoctor goblin"
+msgid "If the Plague Doctor dies, a living Minion gains the Goblin ability in addition to their own ability, and learns this."
+msgstr "Om Pestläkaren dör så får en levande Kumpan Vättens förmåga utöver sin egen, och får veta detta."
+
+msgctxt "plaguedoctor marionette"
+msgid "If the Demon has a neighbor who is alive and a Townsfolk or Outsider when the Plague Doctor dies, that player becomes an evil Marionette. If there is already an extra evil player, this does not happen."
+msgstr "Om Demonen har en granne som lever och är Bybo eller Utböling när Pestläkaren dör så blir den spelaren en ond Marionett. Om det redan finns en extra ond spelare händer detta inte."
+
+msgctxt "plaguedoctor scarletwoman"
+msgid "If the Plague Doctor dies, a living Minion gains the Scarlet Woman ability in addition to their own ability, and learns this."
+msgstr "Om Pestläkaren dör så får en levande Kumpan Röda Damens förmåga utöver sin egen, och får veta detta."
+
+msgctxt "plaguedoctor spy"
+msgid "If the Plague Doctor dies, a living Minion gains the Spy ability in addition to their own ability, and learns this."
+msgstr "Om Pestläkaren dör så får en levande Kumpan Spionens förmåga utöver sin egen, och får veta detta."
+
+msgctxt "plaguedoctor wraith"
+msgid "If the Plague Doctor dies, a living Minion gains the Wraith ability in addition to their own ability, and learns this."
+msgstr ""
+
+msgctxt "riot banshee"
+msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability."
+msgstr "Varje natt* väljer Kravallen en levande god spelare (en ny varje natt); en vald Banshee dör och får sin förmåga."
+
+msgctxt "riot exorcist"
+msgid "If the Exorcist chooses Riot on the 3rd night, Minions do not become Riot."
+msgstr "Om Exorcisten väljer Kravallen den tredje natten så blir Kumpanerna inte till Kravaller."
+
+msgctxt "riot farmer"
+msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Farmer uses their ability but does not die."
+msgstr "Varje natt* väljer Kravallen en levande god spelare (en ny varje natt); en vald Bonde använder sin förmåga men dör inte."
+
+msgctxt "riot grandmother"
+msgid "If Riot is in play and the Grandchild dies during the day, the Grandmother dies too."
+msgstr "Om Kravallen är i spel och barnbarnet dör på dagen så dör Farmorn också."
+
+msgctxt "riot innkeeper"
+msgid "If Riot is in play, the Innkeeper-protected player is safe from all evil abilities."
+msgstr "Om Kravallen är i spel så är Gästgivarens valda spelare skyddade från alla onda förmågor."
+
+msgctxt "riot king"
+msgid "If Riot is in play, and at least 1 player is dead, the King learns an alive character each night."
+msgstr "Om Kravallen är i spel och minst 1 spelare är död så får Kungen veta om en levande karaktär varje natt."
+
+msgctxt "riot mayor"
+msgid "The Mayor may choose to stop nominations. If they do so when only 1 Riot is alive, good wins. Otherwise, evil wins."
+msgstr "Borgmästaren kan välja att sätta stopp för nomineringar. Om hen gör det när bara 1 Kravall lever så vinner det goda laget, annars vinner det onda laget."
+
+msgctxt "riot monk"
+msgid "If Riot is in play, the Monk-protected player is safe from all evil abilities."
+msgstr "Om Kravallen är i spel så är Munkens valda spelare skyddad från alla onda förmågor."
+
+msgctxt "riot ravenkeeper"
+msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die."
+msgstr "Varje natt* väljer Kravallen en levande god spelare (en ny varje natt); en vald Korpskötare använder sin förmåga men dör inte."
+
+msgctxt "riot sage"
+msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Sage uses their ability but does not die."
+msgstr "Varje natt* väljer Kravallen en levande god spelare (en ny varje natt); en vald Guru använder sin förmåga men dör inte."
+
+msgctxt "riot soldier"
+msgid "If Riot is in play, the Soldier is safe from all evil abilities."
+msgstr "Om Kravallen är i spel så är Soldaten skyddad från alla onda förmågor."
+
+msgctxt "scarletwoman alhadikhia"
+msgid "If there are two living Al-Hadikhias, the Scarlet Woman Al-Hadikhia becomes the Scarlet Woman again."
+msgstr "Om det finns två levande al Hadikhia så slutar Röda Damen att vara al Hadikhia och blir Röda Damen igen."
+
+msgctxt "scarletwoman fanggu"
+msgid "If the Fang Gu chooses an Outsider and dies, the Scarlet Woman does not become the Fang Gu."
+msgstr "Om Fang Gu väljer en Utböling och dör så blir Röda Damen inte till Fang Gu."
+
+msgctxt "spy damsel"
+msgid "If the Spy is (or has been) in play, the Damsel is poisoned."
+msgstr "Om Spionen är (eller har varit) i spel så är Ungmön förgiftad."
+
+msgctxt "spy ogre"
+msgid "The Spy registers as evil to the Ogre."
+msgstr "Spionen registreras som ond för Trollet."
+
+msgctxt "spy poppygrower"
+msgid "If the Poppy Grower is in play, the Spy does not see the Grimoire until the Poppy Grower dies."
+msgstr "Om Vallmoodlaren är i spel så får Spionen inte se Spelboken förrän Vallmoodlaren dör."
+
+msgctxt "summoner clockmaker"
+msgid "If the Summoner is in play, the Clockmaker does not receive their information until a Demon is created."
+msgstr "Om Åkallaren är i spel så får Urmakaren inte sin information förrän en Demon har skapats."
+
+msgctxt "summoner courtier"
+msgid "If the Summoner is drunk on the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+msgstr "Om Åkallaren är full den tredje natten så får Åkallaren välja Demon, men Berättaren väljer spelare."
+
+msgctxt "summoner engineer"
+msgid "If the Engineer removes a Summoner from play before that Summoner uses their ability, the Summoner uses their ability immediately."
+msgstr "Om Ingenjören tar Åkallaren ur spel innan Åkallaren använt sin förmåga så använder Åkallaren sin förmåga omedelbart."
+
+msgctxt "summoner hatter"
+msgid "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+msgstr "Åkallaren kan inte skapa en Demon som redan är i spel. Om Åkallaren skapar en Demon som inte är i spel så dör spelare godtyckligt inatt."
+
+msgctxt "summoner kazali"
+msgid "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+msgstr "Åkallaren kan inte skapa en Demon som redan är i spel. Om Åkallaren skapar en Demon som inte är i spel så dör spelare godtyckligt inatt."
+
+msgctxt "summoner legion"
+msgid "If the Summoner creates Legion, most players (including all evil players) become evil Legion."
+msgstr "Om Åkallaren skapar Legionen så blir de flesta spelarna (inklusive alla onda spelare) till den onda Legionen."
+
+msgctxt "summoner lordoftyphon"
+msgid "If the Summoner creates a Lord of Typhon, the Lord of Typhon must neighbor a Minion. The other neighbor becomes a not-in-play evil Minion."
+msgstr "Om Åkallaren skapar Tyfons Herre så måste Tyfons Herre sitta granne med en Kumpan. Den andra grannen blir en ond Kumpan som inte redan är i spel."
+
+msgctxt "summoner marionette"
+msgid "The Marionette neighbors the Summoner. The Summoner knows who the Marionette is."
+msgstr "Marionetten sitter bredvid Åkallaren. Åkallaren vet vem Marionetten är."
+
+msgctxt "summoner pithag"
+msgid "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+msgstr "Åkallaren kan inte skapa en Demon som redan är i spel. Om Åkallaren skapar en Demon som inte är i spel så dör spelare godtyckligt inatt."
+
+msgctxt "summoner poppygrower"
+msgid "If the Poppy Grower is alive when the Summoner acts, the Summoner chooses which Demon, but the Storyteller chooses which player."
+msgstr "Om Vallmoodlaren lever när Åkallaren agerar så får Åkallaren välja Demon, men Berättaren väljer spelare."
+
+msgctxt "summoner preacher"
+msgid "If the Preacher chose the Summoner on or before the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+msgstr "Om Predikanten har valt Åkallaren senast den tredje natten så får Åkallaren välja Demon, men Berättaren väljer spelare."
+
+msgctxt "summoner pukka"
+msgid "The Summoner may choose a player to become the Pukka on the 2nd night."
+msgstr "Åkallaren får göra en spelare till Pukka den andra natten."
+
+msgctxt "summoner zombuul"
+msgid "If the Summoner turns a dead player into the Zombuul, the Storyteller treats that player as a Zombuul that has died once."
+msgstr "Om Åkallaren gör en död spelare till Zombuul så behandlas den spelaren som en Zombuul som dött en gång."
+
+msgctxt "vizier alsaahir"
+msgid "If the Vizier is in play, the Alsaahir must also guess which Demon(s) are in play."
+msgstr "Om Vesiren är i spel så måste al Saahir också gissa vilken Demon (eller vilka Demoner) som är i spel."
+
+msgctxt "vizier courtier"
+msgid "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+msgstr "Om Vesiren förlorar sin förmåga så får hen veta det. Om Vesiren avrättas medan hen har sin förmåga så vinner hens lag."
+
+msgctxt "vizier fearmonger"
+msgid "The Vizier wakes with the Fearmonger, learns who they choose and cannot choose to immediately execute that player."
+msgstr "Vesiren vaknar med Skräckspridaren, får veta vem Skräckspridaren väljer och får inte välja att avrätta den spelaren."
+
+msgctxt "vizier investigator"
+msgid "If the Investigator learns that the Vizier is in play, the existence of the Vizier is not announced by the Storyteller."
+msgstr "Om Detektiven får veta att Vesiren är i spel så tillkännager Berättaren inte att Vesiren är i spel för övriga spelare."
+
+msgctxt "vizier politician"
+msgid "The Politician might register as evil to the Vizier."
+msgstr "Politikern kan registreras som ond för Vesiren."
+
+msgctxt "vizier preacher"
+msgid "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+msgstr "Om Vesiren förlorar sin förmåga så får hen veta det. Om Vesiren avrättas medan hen har sin förmåga så vinner hens lag."
+
+msgctxt "vizier zealot"
+msgid "The Zealot might register as evil to the Vizier."
+msgstr "Fanatikern kan registreras som ond för Vesiren."
+
+msgctxt "vortox banshee"
+msgid "If the Vortox is in play and the Demon kills the Banshee, the players still learn that the Banshee has died."
+msgstr "Om Vortox är i spel och Demonen dödar Bansheen så får spelarna fortfarande veta att Bansheen har dött."
+
+msgctxt "widow damsel"
+msgid "If the Widow is (or has been) in play, the Damsel is poisoned."
+msgstr "Om Änkan är (eller har varit) i spel så är Ungmön förgiftad."
+
+msgctxt "widow poppygrower"
+msgid "If the Poppy Grower is in play, the Widow does not see the Grimoire until the Poppy Grower dies."
+msgstr "Om Vallmoodlaren är i spel så får Änkan inte se spelboken förrän Vallmoodlaren dör."
+
+msgctxt "yaggababble exorcist"
+msgid "If the Exorcist chooses the Yaggababble, the Yaggababble ability does not kill tonight."
+msgstr "Om Exorcisten väljer Yaggababbel kan Yaggababbels förmåga inte döda någon inatt."

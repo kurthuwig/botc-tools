@@ -1,0 +1,536 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+msgctxt "alchemist boffin"
+msgid "If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has."
+msgstr "Simyacı Alim yeteneğine sahipse, Simyacı İblis'in hangi yeteneğe sahip olduğunu öğrenmez."
+
+msgctxt "alchemist marionette"
+msgid "An Alchemist-Marionette has no Marionette ability & the Marionette is in play."
+msgstr ""
+
+msgctxt "alchemist mastermind"
+msgid "An Alchemist-Mastermind has no Mastermind ability & the Mastermind is not-in-play."
+msgstr ""
+
+msgctxt "alchemist organgrinder"
+msgid "If the Alchemist has the Organ Grinder ability, the Organ Grinder is in play & if both the Alchemist and Organ Grinder are sober, both are drunk."
+msgstr ""
+
+msgctxt "alchemist spy"
+msgid "If the Alchemist has the Spy ability, they do not, and a Spy is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Spy. If correct, the Demon must choose the Spy tonight."
+msgstr ""
+
+msgctxt "alchemist summoner"
+msgid "The Alchemist-Summoner does not get bluffs, and chooses which Demon but not which player. If they die before this happens, evil wins. [No Demon]"
+msgstr ""
+
+msgctxt "alchemist widow"
+msgid "If the Alchemist has the Widow ability, they do not, and a Widow is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Widow. If correct, the Demon must choose the Widow tonight."
+msgstr ""
+
+msgctxt "alchemist wraith"
+msgid "If the Alchemist has the Wraith ability, they do not, and a Wraith is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Wraith. If correct, the Demon must choose the Wraith tonight."
+msgstr "If the Alchemist has the Wraith ability, they do not, and a Wraith is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Wraith: if correct, the Demon must choose the Wraith tonight."
+
+msgctxt "alhadikhia princess"
+msgid "If the Princess nominated & executed a player on their 1st day, no one dies to the Al-Hadikhia ability tonight."
+msgstr "Eğer Prenses ilk gününde bir oynucuyu aday gösterip idam ettirirdiyse, bu gece kimse Al-Hadikhia yeteneğine ölmez."
+
+msgctxt "boffin cultleader"
+msgid "If the Demon has the Cult Leader ability, they can’t turn good due to this ability."
+msgstr "İblis, Tarikat Lideri yeteneğine sahipse, bu yetenek nedeniyle iyi olamaz."
+
+msgctxt "boffin drunk"
+msgid "If the Demon would have the Drunk ability, the Boffin chooses a Townsfolk player to have this ability instead."
+msgstr "İblis Sarhoş yeteneğine sahip olacaksa, Alim bunun yerine bu yeteneğe sahip olacak bir Kasabalı oyuncu seçer."
+
+msgctxt "boffin goon"
+msgid "If the Demon has the Goon ability, they can’t turn good due to this ability."
+msgstr "İblis, Serseri yeteneğine sahipse, bu yetenek nedeniyle iyi olamaz."
+
+msgctxt "boffin ogre"
+msgid "The Demon cannot have the Ogre ability."
+msgstr "İblis, Ogre yeteneğine sahip olamaz."
+
+msgctxt "boffin politician"
+msgid "The Demon cannot have the Politician ability."
+msgstr "İblis, Politikacı yeteneğine sahip olamaz."
+
+msgctxt "boffin villageidiot"
+msgid "If there is a spare token, the Boffin can give the Demon the Village Idiot ability."
+msgstr "Yedek bir simge varsa, Alim İblis'e Köyün Delisi yeteneğini verebilir."
+
+msgctxt "bountyhunter kazali"
+msgid "An evil Townsfolk is only created if the Bounty Hunter is still in play after the Kazali acts."
+msgstr "Kötü bir Kasabalı, sadece Kelle Avcısı Kazali harekete geçtikten sonra hala oyundaysa yaratılır."
+
+msgctxt "bountyhunter philosopher"
+msgid "If the Philosopher gains the Bounty Hunter ability, a Townsfolk might turn evil."
+msgstr "Filozof, Kelle Avcısı yeteneğini kazanırsa, bir Kasabalı kötü olabilir."
+
+msgctxt "butler organgrinder"
+msgid "If the Organ Grinder is causing eyes closed voting, the Butler may raise their hand to vote but their vote is only counted if their master voted too."
+msgstr "Orgcu gözleri kapalı oylamaya neden oluyorsa, Uşak oy vermek için elini kaldırabilir ancak oyları sadece efendisi de oy verdi ise sayılır."
+
+msgctxt "cannibal butler"
+msgid "If the Cannibal gains the Butler ability, the Cannibal learns this."
+msgstr "Yamyam, Uşak yeteneğini kazanırsa, bunu öğrenir."
+
+msgctxt "cannibal juggler"
+msgid "If the Juggler guesses on their first day and dies by execution, tonight the living Cannibal learns how many guesses the Juggler got correct."
+msgstr ""
+
+msgctxt "cannibal poppygrower"
+msgid "If the Cannibal eats the Poppy Grower, then dies or loses the Poppy Grower ability, the Demon and Minions learn each other that night."
+msgstr ""
+
+msgctxt "cannibal princess"
+msgid "If the Cannibal nominated & executed the Princess today, the Demon doesn’t kill tonight."
+msgstr ""
+
+msgctxt "cannibal zealot"
+msgid "If the Cannibal gains the Zealot ability, the Cannibal learns this."
+msgstr "Yamyam, Bağnaz yeteneğini kazanırsa, bunu öğrenir."
+
+msgctxt "cerenovus goblin"
+msgid "The Cerenovus may choose to make a player mad that they are the Goblin."
+msgstr "Akılçelen, bir oyuncuyu Goblin oldukları konusunda delirtmeyi seçebilir."
+
+msgctxt "heretic baron"
+msgid "The Baron might only add 1 Outsider, not 2."
+msgstr "Baron sadece 1 Yabancı ekleyebilir, 2 değil."
+
+msgctxt "heretic boffin"
+msgid "The Demon cannot have the Heretic ability."
+msgstr "İblis, Kafir yeteneğine sahip olamaz."
+
+msgctxt "heretic godfather"
+msgid "Only 1 jinxed character can be in play."
+msgstr "Oyunda sadece 1 uğursuz karakter olabilir."
+
+msgctxt "heretic lleech"
+msgid "If the Lleech has poisoned the Heretic then the Lleech dies, the Heretic remains poisoned."
+msgstr "Eğer Lleech Kafir'i zehirlediyse ve sonra Lleech ölürse, Kafir zehirli kalır."
+
+msgctxt "heretic pithag"
+msgid "A Pit-Hag can not create a Heretic."
+msgstr "Çukur Cadısı bir Kafir yaratamaz."
+
+msgctxt "heretic spy"
+msgid "Only 1 jinxed character can be in play."
+msgstr "Oyunda sadece 1 uğursuz karakter olabilir."
+
+msgctxt "heretic widow"
+msgid "Only 1 jinxed character can be in play."
+msgstr "Oyunda sadece 1 uğursuz karakter olabilir."
+
+msgctxt "kazali choirboy"
+msgid "The Kazali can not choose the King to become a Minion if a Choirboy is in play."
+msgstr "Eğer bir Koro Oğlanı oyundaysa, Kazali Kral'ın Minyon olmasını seçemez."
+
+msgctxt "kazali goon"
+msgid "The Kazali can choose that the Goon player is one of their evil Minions."
+msgstr ""
+
+msgctxt "kazali huntsman"
+msgid "If the Kazali chooses the Damsel to become a Minion, and a Huntsman is in play, a good player becomes the Damsel."
+msgstr "Eğer Kazali, Küçük Hanım'ın bir Minyon olmasını seçerse ve bir Avcı oyundaysa, iyi bir oyuncu Küçük Hanım olur."
+
+msgctxt "kazali marionette"
+msgid "If the Kazali chooses to create a Marionette, they must choose one of their neighbors."
+msgstr ""
+
+msgctxt "kazali soldier"
+msgid "The Kazali can choose that the Soldier player is one of their evil Minions."
+msgstr ""
+
+msgctxt "legion engineer"
+msgid "Legion and the Engineer can not both be in play at the start of the game. If the Engineer creates Legion, most players (including all evil players) become evil Legion."
+msgstr "Lejyon ve Mühendis oyunun başında aynı anda oyunda olamazlar. Eğer Mühendis Lejyon yaratırsa, çoğu oyuncu (tüm kötü oyuncular dahil) kötü Lejyon olur."
+
+msgctxt "legion hatter"
+msgid "If the Hatter dies and Legion is in play, nothing happens. If the Hatter dies and an evil player chooses Legion, all current evil players become Legion."
+msgstr "Eğer Şapkacı ölürse ve Lejyon oyundaysa, hiçbir şey olmaz. Eğer Şapkacı ölürse ve kötü bir oyuncu Lejyon'u seçerse, mevcut tüm kötü oyuncular Lejyon olur."
+
+msgctxt "legion minstrel"
+msgid "If Legion died by execution today, Legion keeps their ability, but the Minstrel might learn they are Legion."
+msgstr "Eğer Lejyon bugün idam edilerek öldüyse, Lejyon yeteneğini korur, ancak Ozan Lejyon olduklarını öğrenebilir."
+
+msgctxt "legion preacher"
+msgid "If the Preacher chooses Legion, Legion keeps their ability, but the Preacher might learn they are Legion."
+msgstr "Eğer Vaiz Lejyon'u seçerse, Lejyon yeteneğini korur, ancak Vaiz Lejyon olduklarını öğrenebilir."
+
+msgctxt "legion zealot"
+msgid "The Zealot might register as evil to Legion's ability."
+msgstr ""
+
+msgctxt "leviathan banshee"
+msgid "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability."
+msgstr ""
+
+msgctxt "leviathan exorcist"
+msgid "Evil does not win when more than 1 good player has been executed, if the Exorcist is alive and has ever successfully chosen the Leviathan."
+msgstr ""
+
+msgctxt "leviathan farmer"
+msgid "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Farmer uses their ability but does not die."
+msgstr ""
+
+msgctxt "leviathan grandmother"
+msgid "If Leviathan is in play and the Grandchild dies by execution, evil wins."
+msgstr ""
+
+msgctxt "leviathan hatter"
+msgid "If the Hatter dies on or after day 5, the Demon cannot choose Leviathan."
+msgstr "Şapkacı 5. gün veya daha sonra ölürse, İblis Leviathan'ı seçemez."
+
+msgctxt "leviathan innkeeper"
+msgid "If the Leviathan is in play, the Innkeeper-protected-players are safe from all evil abilities."
+msgstr ""
+
+msgctxt "leviathan king"
+msgid "If the Leviathan is in play, and at least 1 player is dead, the King learns an alive character each night."
+msgstr ""
+
+msgctxt "leviathan mayor"
+msgid "If the Leviathan is in play & no execution occurs on day 5, good wins."
+msgstr ""
+
+msgctxt "leviathan monk"
+msgid "If the Leviathan is in play, the Monk-protected-player is safe from all evil abilities."
+msgstr ""
+
+msgctxt "leviathan pithag"
+msgid "After day 5, the Pit-Hag cannot choose Leviathan."
+msgstr "5. günden sonra, Çukur Cadısı Leviathan'ı seçemez."
+
+msgctxt "leviathan ravenkeeper"
+msgid "Each night*, the Leviathan chooses an alive player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die."
+msgstr ""
+
+msgctxt "leviathan sage"
+msgid "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Sage uses their ability but does not die."
+msgstr ""
+
+msgctxt "leviathan soldier"
+msgid "If the Leviathan is in play, the Soldier is safe from all evil abilities."
+msgstr ""
+
+msgctxt "lilmonsta hatter"
+msgid "If a Demon chooses Lil' Monsta, they also choose a Minion to become and babysit Lil' Monsta tonight."
+msgstr "Bir İblis Lil' Monsta'yı seçerse, bu gece olmak ve Lil' Monsta'ya bakmak için bir Minyon da seçer."
+
+msgctxt "lilmonsta poppygrower"
+msgid "If the Poppy Grower is in play, Minions don't wake together. They are woken one by one, until one of them chooses to take the Lil' Monsta token."
+msgstr "Gelincikçi oyundaysa, Minyonlar birlikte uyanmaz. Biri Lil' Monsta simgesini almayı seçene kadar teker teker uyandırılırlar."
+
+msgctxt "lilmonsta scarletwoman"
+msgid "If there are 5 or more players alive and the player holding the Lil' Monsta token dies, the Scarlet Woman is given the Lil' Monsta token tonight."
+msgstr "5 veya daha fazla oyuncu hayattaysa ve Lil' Monsta simgesini tutan oyuncu ölürse, Kızıl Kraliçe'ye bu gece Lil' Monsta simgesi verilir."
+
+msgctxt "lilmonsta vizier"
+msgid "The Vizier can die by execution if they are babysitting Lil' Monsta."
+msgstr "Vezir, Lil' Monsta'ya bakıyorsa idam edilerek ölebilir."
+
+msgctxt "lleech mastermind"
+msgid "If the Mastermind is alive and the Lleech's host dies by execution, the Lleech lives but loses their ability."
+msgstr "Eğer Deha hayattaysa ve Lleech'in konağı idam edilerek ölürse, Lleech yaşar ancak yeteneğini kaybeder."
+
+msgctxt "lleech slayer"
+msgid "If the Slayer slays the Lleech's host, the host dies."
+msgstr "Eğer Cellat Lleech'in konağını öldürürse, konak ölür."
+
+msgctxt "magician wraith"
+msgid "Each day, after the execution phase, the living Magician may publicly guess a living player as the Wraith: if correct, the Demon must choose the Wraith tonight."
+msgstr ""
+
+msgctxt "magician spy"
+msgid "When the Spy sees the Grimoire, the Demon and Magician's character tokens are removed."
+msgstr "Casus Grimoire'ı gördüğünde, İblis ve Büyücü'nün karakter simgeleri kaldırılır."
+
+msgctxt "magician vizier"
+msgid "If the Vizier and Magician are both in play, the Demon does not learn the Minions."
+msgstr ""
+
+msgctxt "magician widow"
+msgid "When the Widow sees the Grimoire, the Demon and Magician's character tokens are removed."
+msgstr "Dul Grimoire'ı gördüğünde, İblis ve Büyücü'nün karakter simgeleri kaldırılır."
+
+msgctxt "magician lilmonsta"
+msgid "Each night, the Magician chooses a Minion: if that Minion & Lil' Monsta are alive, that Minion babysits Lil’ Monsta."
+msgstr ""
+
+msgctxt "marionette balloonist"
+msgid "If the Marionette thinks that they are the Balloonist, +1 Outsider might have been added."
+msgstr "Kukla kendisinin Baloncu olduğunu düşünüyorsa, +1 Yabancı eklenmiş olabilir."
+
+msgctxt "marionette damsel"
+msgid "The Marionette does not learn that a Damsel is in play."
+msgstr "Kukla, oyunda bir Küçük Hanım olduğunu öğrenmez."
+
+msgctxt "marionette huntsman"
+msgid "If the Marionette thinks that they are the Huntsman, the Damsel was added."
+msgstr "Kukla kendisinin Avcı olduğunu düşünüyorsa, Küçük Hanım eklenmiştir."
+
+msgctxt "marionette lilmonsta"
+msgid "The Marionette neighbors a Minion, not the Demon. The Marionette is not woken to choose who takes the Lil' Monsta token, and does not learn they are the Marionette if they have the Lil' Monsta token."
+msgstr "Kukla, İblis'in değil, bir Minyon'un komşusudur. Kukla, Lil' Monsta simgesini kimin alacağını seçmek için uyandırılmaz ve Lil' Monsta simgesine sahiplerse Kukla olduklarını öğrenmezler."
+
+msgctxt "marionette poppygrower"
+msgid "When the Poppy Grower dies, the Demon learns the Marionette but the Marionette learns nothing."
+msgstr "Gelincikçi öldüğünde, İblis Kukla'yı öğrenir ancak Kukla hiçbir şey öğrenmez."
+
+msgctxt "marionette snitch"
+msgid "The Marionette does not learn 3 not in-play characters. The Demon learns an extra 3 instead."
+msgstr "Kukla oyunda olmayan 3 karakteri öğrenmez. İblis onun yerine fazladan 3 tane öğrenir."
+
+msgctxt "marionette wraith"
+msgid "The Wraith does not wake with the Marionette."
+msgstr ""
+
+msgctxt "mastermind alhadikhia"
+msgid "If the Al-Hadikhia dies by execution, and the Mastermind is alive, the Al-Hadikhia chooses 3 good players tonight: if all 3 choose to live, evil wins. Otherwise, good wins."
+msgstr "Kader Ağları idam edilerek ölürse ve Deha hayattaysa, Kader Ağları bu gece 3 iyi oyuncu seçer: eğer 3'ü de yaşamayı seçerse, kötüler kazanır. Aksi takdirde, iyiler kazanır."
+
+msgctxt "mathematician chambermaid"
+msgid "The Chambermaid learns if the Mathematician wakes tonight or not, even though the Chambermaid wakes first."
+msgstr "Hizmetçi, Matematikçi'nin bu gece uyanıp uyanmadığını öğrenir, Hizmetçi önce uyansa bile."
+
+msgctxt "mathematician lunatic"
+msgid "The Mathematician learns if the Lunatic attacks a different player(s) than the real Demon attacked."
+msgstr "Matematikçi, Akıl Hastası'nın gerçek İblis'in saldırdığından farklı bir oyuncuya/oyunculara saldırdığını öğrenir."
+
+msgctxt "ogre recluse"
+msgid "If the Recluse registers as evil to the Ogre, the Ogre learns that they are evil."
+msgstr "Münzevi, Ogre'ye kötü olarak görünürse, Ogre kötü olduklarını öğrenir."
+
+msgctxt "pithag cultleader"
+msgid "If the Pit-Hag turns an evil player into the Cult Leader, they can't turn good due to their own ability."
+msgstr "Çukur Cadısı kötü bir oyuncuyu Tarikat Lideri'ne çevirirse, kendi yetenekleri nedeniyle iyi olamazlar."
+
+msgctxt "pithag damsel"
+msgid "If a Pit-Hag creates a Damsel, the Storyteller chooses which player it is."
+msgstr "Çukur Cadısı bir Küçük Hanım yaratırsa, Hikaye Anlatıcısı hangi oyuncu olduğunu seçer."
+
+msgctxt "pithag goon"
+msgid "If the Pit-Hag turns an evil player into the Goon, they can't turn good due to their own ability."
+msgstr "Çukur Cadısı kötü bir oyuncuyu Serseri'ye çevirirse, kendi yetenekleri nedeniyle iyi olamazlar."
+
+msgctxt "pithag ogre"
+msgid "If the Pit-Hag turns an evil player into the Ogre, they can't turn good due to their own ability."
+msgstr ""
+
+msgctxt "pithag politician"
+msgid "If the Pit-Hag turns an evil player into the Politician, they can't turn good due to their own ability."
+msgstr "Çukur Cadısı kötü bir Politikacı yaratamaz."
+
+msgctxt "pithag villageidiot"
+msgid "If there is a spare token, the Pit-Hag can create an extra Village Idiot. If so, the drunk Village Idiot might change."
+msgstr "Yedek bir simge varsa, Çukur Cadısı ekstra bir Köyün Delisi yaratabilir. Eğer öyleyse, sarhoş Köyün Delisi değişebilir."
+
+msgctxt "plaguedoctor baron"
+msgid "If the Storyteller gains the Baron ability, up to two players become not-in-play Outsiders."
+msgstr ""
+
+msgctxt "plaguedoctor boomdandy"
+msgid "If the Plague Doctor is executed and the Storyteller would gain the Boomdandy ability, the Boomdandy ability triggers immediately."
+msgstr "Veba Doktoru idam edilirse ve Hikaye Anlatıcısı Bombacı Mülayim yeteneğini kazanırsa, Bombacı Mülayim yeteneği hemen tetiklenir."
+
+msgctxt "plaguedoctor eviltwin"
+msgid "The Storyteller cannot gain the Evil Twin ability if the Plague Doctor dies."
+msgstr "Hikaye Anlatıcısı, Veba Doktoru ölürse Şeytani İkiz yeteneğini kazanamaz."
+
+msgctxt "plaguedoctor fearmonger"
+msgid "If the Plague Doctor dies, a living Minion gains the Fearmonger ability in addition to their own ability, and learns this."
+msgstr "Veba Doktoru ölürse, hayatta kalan bir Minyon kendi yeteneğine ek olarak Korku Tacırı yeteneğini kazanır ve bunu öğrenir."
+
+msgctxt "plaguedoctor goblin"
+msgid "If the Plague Doctor dies, a living Minion gains the Goblin ability in addition to their own ability, and learns this."
+msgstr "Veba Doktoru ölürse, hayatta kalan bir Minyon kendi yeteneğine ek olarak Goblin yeteneğini kazanır ve bunu öğrenir."
+
+msgctxt "plaguedoctor marionette"
+msgid "If the Demon has a neighbor who is alive and a Townsfolk or Outsider when the Plague Doctor dies, that player becomes an evil Marionette. If there is already an extra evil player, this does not happen."
+msgstr ""
+
+msgctxt "plaguedoctor scarletwoman"
+msgid "If the Plague Doctor dies, a living Minion gains the Scarlet Woman ability in addition to their own ability, and learns this."
+msgstr "Veba Doktoru ölürse, hayatta kalan bir Minyon kendi yeteneğine ek olarak Kızıl Kraliçe yeteneğini kazanır ve bunu öğrenir."
+
+msgctxt "plaguedoctor spy"
+msgid "If the Plague Doctor dies, a living Minion gains the Spy ability in addition to their own ability, and learns this."
+msgstr "Veba Doktoru ölürse, hayatta kalan bir Minyon kendi yeteneğine ek olarak Casus yeteneğini kazanır ve bunu öğrenir."
+
+msgctxt "plaguedoctor wraith"
+msgid "If the Plague Doctor dies, a living Minion gains the Wraith ability in addition to their own ability, and learns this."
+msgstr ""
+
+msgctxt "riot banshee"
+msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability."
+msgstr ""
+
+msgctxt "riot exorcist"
+msgid "If the Exorcist chooses Riot on the 3rd night, Minions do not become Riot."
+msgstr ""
+
+msgctxt "riot farmer"
+msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Farmer uses their ability but does not die."
+msgstr ""
+
+msgctxt "riot grandmother"
+msgid "If Riot is in play and the Grandchild dies during the day, the Grandmother dies too."
+msgstr ""
+
+msgctxt "riot innkeeper"
+msgid "If Riot is in play, the Innkeeper-protected player is safe from all evil abilities."
+msgstr ""
+
+msgctxt "riot king"
+msgid "If Riot is in play, and at least 1 player is dead, the King learns an alive character each night."
+msgstr ""
+
+msgctxt "riot mayor"
+msgid "The Mayor may choose to stop nominations. If they do so when only 1 Riot is alive, good wins. Otherwise, evil wins."
+msgstr ""
+
+msgctxt "riot monk"
+msgid "If Riot is in play, the Monk-protected player is safe from all evil abilities."
+msgstr ""
+
+msgctxt "riot ravenkeeper"
+msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die."
+msgstr ""
+
+msgctxt "riot sage"
+msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Sage uses their ability but does not die."
+msgstr ""
+
+msgctxt "riot soldier"
+msgid "If Riot is in play, the Soldier is safe from all evil abilities."
+msgstr ""
+
+msgctxt "scarletwoman alhadikhia"
+msgid "If there are two living Al-Hadikhias, the Scarlet Woman Al-Hadikhia becomes the Scarlet Woman again."
+msgstr "Eğer iki hayatta olan Kader Ağları varsa, Kızıl Kraliçe Kader Ağları tekrar Kızıl Kraliçe olur."
+
+msgctxt "scarletwoman fanggu"
+msgid "If the Fang Gu chooses an Outsider and dies, the Scarlet Woman does not become the Fang Gu."
+msgstr "Eğer Fang Gu bir Yabancı seçer ve ölürse, Kızıl Kraliçe Fang Gu olmaz."
+
+msgctxt "spy damsel"
+msgid "If the Spy is (or has been) in play, the Damsel is poisoned."
+msgstr "Eğer Casus oyundaysa (veya olmuşsa), Küçük Hanım zehirlenir."
+
+msgctxt "spy ogre"
+msgid "The Spy registers as evil to the Ogre."
+msgstr "Casus, Ogre'ye kötü olarak görünür."
+
+msgctxt "spy poppygrower"
+msgid "If the Poppy Grower is in play, the Spy does not see the Grimoire until the Poppy Grower dies."
+msgstr "Gelincikçi oyundaysa, Casus, Gelincikçi ölene kadar Grimoire'ı görmez."
+
+msgctxt "summoner clockmaker"
+msgid "If the Summoner is in play, the Clockmaker does not receive their information until a Demon is created."
+msgstr "Çağırıcı oyundaysa, Saatçi bir İblis yaratılana kadar bilgisini almaz."
+
+msgctxt "summoner courtier"
+msgid "If the Summoner is drunk on the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+msgstr "Çağırıcı 3. gece sarhoşsa, Çağırıcı hangi İblis'i seçeceğini seçer, ancak Hikaye Anlatıcısı hangi oyuncuyu seçeceğini seçer."
+
+msgctxt "summoner engineer"
+msgid "If the Engineer removes a Summoner from play before that Summoner uses their ability, the Summoner uses their ability immediately."
+msgstr "Mühendis, Çağırıcı yeteneğini kullanmadan önce onu oyundan çıkarırsa, Çağırıcı yeteneğini hemen kullanır."
+
+msgctxt "summoner hatter"
+msgid "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+msgstr "Çağırıcı oyunda olan bir İblis yaratamaz. Eğer Çağırıcı oyunda olmayan bir İblis yaratırsa, bu geceki ölümler rastgeledir."
+
+msgctxt "summoner kazali"
+msgid "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+msgstr "Çağırıcı oyunda olan bir İblis yaratamaz. Eğer Çağırıcı oyunda olmayan bir İblis yaratırsa, bu geceki ölümler rastgeledir."
+
+msgctxt "summoner legion"
+msgid "If the Summoner creates Legion, most players (including all evil players) become evil Legion."
+msgstr "Çağırıcı Lejyon yaratırsa, çoğu oyuncu (tüm kötü oyuncular dahil) kötü Lejyon olur."
+
+msgctxt "summoner lordoftyphon"
+msgid "If the Summoner creates a Lord of Typhon, the Lord of Typhon must neighbor a Minion. The other neighbor becomes a not-in-play evil Minion."
+msgstr "Eğer Çağırıcı bir Typhon Lordu yaratırsa, Typhon Lordu bir Minyon'un komşusu olmalıdır. Diğer komşu, oyunda olmayan kötü bir Minyon olur."
+
+msgctxt "summoner marionette"
+msgid "The Marionette neighbors the Summoner. The Summoner knows who the Marionette is."
+msgstr ""
+
+msgctxt "summoner pithag"
+msgid "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+msgstr "Çağırıcı oyunda olan bir İblis yaratamaz. Eğer Çağırıcı oyunda olmayan bir İblis yaratırsa, bu geceki ölümler rastgeledir."
+
+msgctxt "summoner poppygrower"
+msgid "If the Poppy Grower is alive when the Summoner acts, the Summoner chooses which Demon, but the Storyteller chooses which player."
+msgstr "Çağırıcı harekete geçtiğinde Gelincikçi hayattaysa, Çağırıcı hangi İblis'i seçeceğini seçer, ancak Hikaye Anlatıcısı hangi oyuncuyu seçeceğini seçer."
+
+msgctxt "summoner preacher"
+msgid "If the Preacher chose the Summoner on or before the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+msgstr "Eğer Vaiz 3. gece veya öncesinde Çağırıcı'yı seçerse, Çağırıcı hangi İblis'i seçeceğini seçer, ancak Hikaye Anlatıcısı hangi oyuncuyu seçeceğini seçer."
+
+msgctxt "summoner pukka"
+msgid "The Summoner may choose a player to become the Pukka on the 2nd night."
+msgstr "Çağırıcı, 2. gece bir oyuncunun Pukka olmasını seçebilir."
+
+msgctxt "summoner zombuul"
+msgid "If the Summoner turns a dead player into the Zombuul, the Storyteller treats that player as a Zombuul that has died once."
+msgstr "Çağırıcı ölü bir oyuncuyu Zombuul'a çevirirse, Hikaye Anlatıcısı o oyuncuyu bir kez ölmüş bir Zombuul olarak ele alır."
+
+msgctxt "vizier alsaahir"
+msgid "If the Vizier is in play, the Alsaahir must also guess which Demon(s) are in play."
+msgstr "Vezir oyundaysa, Hakikatgörür hangi İblis(ler)in oyunda olduğunu da tahmin etmelidir."
+
+msgctxt "vizier courtier"
+msgid "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+msgstr ""
+
+msgctxt "vizier fearmonger"
+msgid "The Vizier wakes with the Fearmonger, learns who they choose and cannot choose to immediately execute that player."
+msgstr ""
+
+msgctxt "vizier investigator"
+msgid "If the Investigator learns that the Vizier is in play, the existence of the Vizier is not announced by the Storyteller."
+msgstr "Eğer Araştırmacı Vezir'in oyunda olduğunu öğrenirse, Vezir'in varlığı Hikaye Anlatıcısı tarafından duyurulmaz."
+
+msgctxt "vizier politician"
+msgid "The Politician might register as evil to the Vizier."
+msgstr "Politikacı, Vezir'e kötü olarak görünebilir."
+
+msgctxt "vizier preacher"
+msgid "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+msgstr ""
+
+msgctxt "vizier zealot"
+msgid "The Zealot might register as evil to the Vizier."
+msgstr "Bağnaz, Vezir'e kötü olarak görünebilir."
+
+msgctxt "vortox banshee"
+msgid "If the Vortox is in play and the Demon kills the Banshee, the players still learn that the Banshee has died."
+msgstr "Hortum oyundaysa ve İblis Ölüm Çığlığı'nı öldürürse, oyuncular yine de Ölüm Çığlığı'nın öldüğünü öğrenirler."
+
+msgctxt "widow damsel"
+msgid "If the Widow is (or has been) in play, the Damsel is poisoned."
+msgstr "Eğer Dul oyundaysa (veya olmuşsa), Küçük Hanım zehirlenir."
+
+msgctxt "widow poppygrower"
+msgid "If the Poppy Grower is in play, the Widow does not see the Grimoire until the Poppy Grower dies."
+msgstr "Gelincikçi oyundaysa, Dul, Gelincikçi ölene kadar Grimoire'ı görmez."
+
+msgctxt "yaggababble exorcist"
+msgid "If the Exorcist chooses the Yaggababble, the Yaggababble ability does not kill tonight."
+msgstr "Üfürükçü Yasak Kelime'yi seçerse, Yasak Kelime yeteneği bu gece öldürmez."

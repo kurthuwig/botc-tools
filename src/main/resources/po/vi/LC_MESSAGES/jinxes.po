@@ -1,0 +1,536 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+msgctxt "alchemist boffin"
+msgid "If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has."
+msgstr "Nếu Nhà giả kim có chức năng của Nhà nghiên cứu, Nhà giả kim không biết chức năng của Quỷ."
+
+msgctxt "alchemist marionette"
+msgid "An Alchemist-Marionette has no Marionette ability & the Marionette is in play."
+msgstr "Nhà giả kim là Con rối không có chức năng của Con rối và có Con rối trong game."
+
+msgctxt "alchemist mastermind"
+msgid "An Alchemist-Mastermind has no Mastermind ability & the Mastermind is not-in-play."
+msgstr "Nhà giả kim là Chủ mưu không có chức năng của Chủ mưu và có Chủ mưu trong game."
+
+msgctxt "alchemist organgrinder"
+msgid "If the Alchemist has the Organ Grinder ability, the Organ Grinder is in play & if both the Alchemist and Organ Grinder are sober, both are drunk."
+msgstr "Nếu Nhà giả kim có chức năng của Nhạc công đường phố, có Nhạc công đường phố trong game và nếu cả Nhà giả kim và Nhạc công cùng tỉnh, cả 2 đều say."
+
+msgctxt "alchemist spy"
+msgid "If the Alchemist has the Spy ability, they do not, and a Spy is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Spy. If correct, the Demon must choose the Spy tonight."
+msgstr "Nếu Nhà giả kim có chức năng của Gián điệp, họ không có và có Gián điệp trong game. Mỗi ngày, sau giai đoạn hành quyết, Nhà giả kim còn sống có thể công khai đoán ai là Gián điệp. Nếu đúng, Quỷ phải chọn Gián điệp tối nay."
+
+msgctxt "alchemist summoner"
+msgid "The Alchemist-Summoner does not get bluffs, and chooses which Demon but not which player. If they die before this happens, evil wins. [No Demon]"
+msgstr "Nhà giả kim là Kẻ triệu hồi không biết 3 bluff nhưng được chọn Quỷ là gì nhưng không biết là ai. Nếu họ chết trước thời điểm đó, phe xấu thắng. [Không có Quỷ]"
+
+msgctxt "alchemist widow"
+msgid "If the Alchemist has the Widow ability, they do not, and a Widow is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Widow. If correct, the Demon must choose the Widow tonight."
+msgstr "Nếu Nhà giả kim có chức năng của Góa phụ, họ không có và có Góa phụ trong game. Mỗi ngày, sau giai đoạn hành quyết, Nhà giả kim còn sống có thể công khai đoán ai là Góa phụ. Nếu đúng, Quỷ phải chọn Góa phụ tối nay."
+
+msgctxt "alchemist wraith"
+msgid "If the Alchemist has the Wraith ability, they do not, and a Wraith is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Wraith. If correct, the Demon must choose the Wraith tonight."
+msgstr "Nếu Nhà giả kim có chức năng của Hồn ma, họ không có và có Hồn ma trong game. Mỗi ngày, sau giai đoạn hành quyết, Nhà giả kim có thể công khai đoán ai là Hồn ma. Nếu đúng, Quỷ phải chọn Hồn ma tối nay."
+
+msgctxt "alhadikhia princess"
+msgid "If the Princess nominated & executed a player on their 1st day, no one dies to the Al-Hadikhia ability tonight."
+msgstr "Nếu công chúa biểu quyết và hành quyết 1 người, không có ai chết vì chức năng của Al-hadikhia tối nay."
+
+msgctxt "boffin cultleader"
+msgid "If the Demon has the Cult Leader ability, they can’t turn good due to this ability."
+msgstr "Nếu Quỷ có chức năng của Trưởng giáo phải, họ không thể biến thành người tốt bằng chức năng này."
+
+msgctxt "boffin drunk"
+msgid "If the Demon would have the Drunk ability, the Boffin chooses a Townsfolk player to have this ability instead."
+msgstr "Nếu Quỷ có chức năng của Say rượu, Nhà nghiên cứu thay vào đó chọn 1 người Townfolk nhận chức năng đó."
+
+msgctxt "boffin goon"
+msgid "If the Demon has the Goon ability, they can’t turn good due to this ability."
+msgstr "Nếu Quỷ có chức năng của Bất lương, họ không thể trở thành người tốt vì chức năng của họ."
+
+msgctxt "boffin ogre"
+msgid "The Demon cannot have the Ogre ability."
+msgstr "Quỷ không được có chức năng của Thần rừng."
+
+msgctxt "boffin politician"
+msgid "The Demon cannot have the Politician ability."
+msgstr "Quỷ không được có chức năng của Chính trị gia."
+
+msgctxt "boffin villageidiot"
+msgid "If there is a spare token, the Boffin can give the Demon the Village Idiot ability."
+msgstr "Nều còn thừa token, Nhà nghiên cứu có thể cho chức năng của Ngố lang."
+
+msgctxt "bountyhunter kazali"
+msgid "An evil Townsfolk is only created if the Bounty Hunter is still in play after the Kazali acts."
+msgstr "Dân làng ác chỉ được tạo ra khi Thợ săn tiền thưởng còn trong game sau lượt của Kazali"
+
+msgctxt "bountyhunter philosopher"
+msgid "If the Philosopher gains the Bounty Hunter ability, a Townsfolk might turn evil."
+msgstr "Nếu Triết gia nhận chức năng của Thợ săn tiền thưởng, 1 Dân làng có thể trở thành người xấu."
+
+msgctxt "butler organgrinder"
+msgid "If the Organ Grinder is causing eyes closed voting, the Butler may raise their hand to vote but their vote is only counted if their master voted too."
+msgstr "Nếu Nhạc công đường phố tạo ra bỏ phiếu ẩn, Quản gia có thể bỏ phiếu nhưng phiếu của họ được đếm khi chủ nhân của họ bỏ phiếu."
+
+msgctxt "cannibal butler"
+msgid "If the Cannibal gains the Butler ability, the Cannibal learns this."
+msgstr "Nếu Ăn thịt người có chức năng của Quản gia, Ăn thịt người biết điều này."
+
+msgctxt "cannibal juggler"
+msgid "If the Juggler guesses on their first day and dies by execution, tonight the living Cannibal learns how many guesses the Juggler got correct."
+msgstr "Nếu Tung hứng đoán trong ngày đầu tiên của họ rồi chết vì hành quyết, tối nay Ăn thịt người được biết bao nhiêu nhân vật được Tung hứng đoán đúng."
+
+msgctxt "cannibal poppygrower"
+msgid "If the Cannibal eats the Poppy Grower, then dies or loses the Poppy Grower ability, the Demon and Minions learn each other that night."
+msgstr "Nếu Ăn thịt người ăn Người trồng hoa, rồi chết hoặc mất chức năng của Người trồng hoa, Quỷ và Tay sai được biết nhau."
+
+msgctxt "cannibal princess"
+msgid "If the Cannibal nominated & executed the Princess today, the Demon doesn’t kill tonight."
+msgstr "Nếu Ăn thịt người biểu quyết và hành quyết Công chúa, Quỷ không được giết người tối nay."
+
+msgctxt "cannibal zealot"
+msgid "If the Cannibal gains the Zealot ability, the Cannibal learns this."
+msgstr "Nếu Ăn thịt người có chức năng của Kẻ quá khích, Ăn thịt người biết điều này."
+
+msgctxt "cerenovus goblin"
+msgid "The Cerenovus may choose to make a player mad that they are the Goblin."
+msgstr "Tẩy não có thể khiến 1 người chơi điên rằng họ là Yêu tinh."
+
+msgctxt "heretic baron"
+msgid "The Baron might only add 1 Outsider, not 2."
+msgstr "Có thể Nam tước chỉ thêm 1 Lữ khách, không phải 2."
+
+msgctxt "heretic boffin"
+msgid "The Demon cannot have the Heretic ability."
+msgstr "Quỷ không được có chức năng của Vô thần"
+
+msgctxt "heretic godfather"
+msgid "Only 1 jinxed character can be in play."
+msgstr "Chỉ có 1 nhân vật jinx trong cuộc."
+
+msgctxt "heretic lleech"
+msgid "If the Lleech has poisoned the Heretic then the Lleech dies, the Heretic remains poisoned."
+msgstr "Nếu Lleech đầu độc Dị giáo và Lleech chết, Dị giáo vẫn bị trúng độc."
+
+msgctxt "heretic pithag"
+msgid "A Pit-Hag can not create a Heretic."
+msgstr "Mụ phù phép không tạo ra Dị giáo."
+
+msgctxt "heretic spy"
+msgid "Only 1 jinxed character can be in play."
+msgstr "Chỉ có 1 nhân vật jinx trong cuộc."
+
+msgctxt "heretic widow"
+msgid "Only 1 jinxed character can be in play."
+msgstr "Chỉ có 1 nhân vật jinx trong cuộc."
+
+msgctxt "kazali choirboy"
+msgid "The Kazali can not choose the King to become a Minion if a Choirboy is in play."
+msgstr "Kazali không được chọn Ông vua trở thành Tay sai nếu có Ca đoàn trong game."
+
+msgctxt "kazali goon"
+msgid "The Kazali can choose that the Goon player is one of their evil Minions."
+msgstr "Kazali có thể biến Bất lương thành một trong những Tay sai xấu của họ."
+
+msgctxt "kazali huntsman"
+msgid "If the Kazali chooses the Damsel to become a Minion, and a Huntsman is in play, a good player becomes the Damsel."
+msgstr "Nếu Kazali biến Thiếu nữ thành Tay sai, và có Thợ săn trong game, người tốt trở thành Thiếu nữ."
+
+msgctxt "kazali marionette"
+msgid "If the Kazali chooses to create a Marionette, they must choose one of their neighbors."
+msgstr "Nếu Kazali chọn tạo ra Con rối, họ phải chọn hàng xóm của họ."
+
+msgctxt "kazali soldier"
+msgid "The Kazali can choose that the Soldier player is one of their evil Minions."
+msgstr "Kazali có thể biến Chiến sĩ thành một trong những Tay sai xấu của họ."
+
+msgctxt "legion engineer"
+msgid "Legion and the Engineer can not both be in play at the start of the game. If the Engineer creates Legion, most players (including all evil players) become evil Legion."
+msgstr "Legion và Kĩ sư không thể tồn tại cùng nhau khi bắt đầu game. Nếu Kĩ sư tạo ra Legion, đa số người chơi (tính cả người chơi ác) trở thành Legion ác."
+
+msgctxt "legion hatter"
+msgid "If the Hatter dies and Legion is in play, nothing happens. If the Hatter dies and an evil player chooses Legion, all current evil players become Legion."
+msgstr "Nếu Thợ làm mũ chết mà có Legion trong game, không có gì xảy ra. Nếu Thợ làm mũ chết và người xấu chon Legion, tất cả người xấu hiện tại trở thành Legion."
+
+msgctxt "legion minstrel"
+msgid "If Legion died by execution today, Legion keeps their ability, but the Minstrel might learn they are Legion."
+msgstr "Nếu Legion chết vì hành quyết hôm nay, Legion được giữ chức năng, nhưng Người hát rong có thể biết họ là Legion."
+
+msgctxt "legion preacher"
+msgid "If the Preacher chooses Legion, Legion keeps their ability, but the Preacher might learn they are Legion."
+msgstr "Nếu Mục sư chọn trúng Legion, Legion được giữ chức năng, nhưng Mục sư có thể biết họ là Legion."
+
+msgctxt "legion zealot"
+msgid "The Zealot might register as evil to Legion's ability."
+msgstr "Kẻ quá khích có thể thấy là người xấu với chức năng của Legion."
+
+msgctxt "leviathan banshee"
+msgid "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability."
+msgstr "Mỗi đêm*, Leviathan chọn 1 người tốt còn sống (khác với tất cả đêm trước): Quỷ báo tử, nếu được chọn, chết và được nhận chức năng."
+
+msgctxt "leviathan exorcist"
+msgid "Evil does not win when more than 1 good player has been executed, if the Exorcist is alive and has ever successfully chosen the Leviathan."
+msgstr "Phe xấu không thể thắng nếu hơn 1 người tốt bị hành quyết, nếu Thầy trừ tà còn sống và đã từng chọn trúng Leviathan."
+
+msgctxt "leviathan farmer"
+msgid "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Farmer uses their ability but does not die."
+msgstr "Mỗi đêm*, Leviathan chọn 1 người tốt còn sống (khác với tất cả đêm trước): Nông dân, nếu được chọn, được dùng chức năng nhưng không chết."
+
+msgctxt "leviathan grandmother"
+msgid "If Leviathan is in play and the Grandchild dies by execution, evil wins."
+msgstr "Nếu Leviathan có trong game và Cháu chết, phe xấu thắng."
+
+msgctxt "leviathan hatter"
+msgid "If the Hatter dies on or after day 5, the Demon cannot choose Leviathan."
+msgstr "Nếu Thợ làm mũ chết trong hoặc sau ngày thứ 5, Quỷ không được chọn Leviathan."
+
+msgctxt "leviathan innkeeper"
+msgid "If the Leviathan is in play, the Innkeeper-protected-players are safe from all evil abilities."
+msgstr "Nếu Leviathan có trong game, người được Chủ quán trọ bảo vệ được an toàn khỏi chức năng của người xấu."
+
+msgctxt "leviathan king"
+msgid "If the Leviathan is in play, and at least 1 player is dead, the King learns an alive character each night."
+msgstr "Nếu Leviathan có trong game và ít nhất có 1 người chết, mỗi đêm, Ông vua được biết một nhân vật còn sống."
+
+msgctxt "leviathan mayor"
+msgid "If the Leviathan is in play & no execution occurs on day 5, good wins."
+msgstr "Nếu Leviathan có trong game và không có hành quyết vào ngày 5, phe tốt thắng."
+
+msgctxt "leviathan monk"
+msgid "If the Leviathan is in play, the Monk-protected-player is safe from all evil abilities."
+msgstr "Nếu Leviathan có trong game, người được Nhà sư bảo vệ được an toàn khỏi chức năng của người xấu."
+
+msgctxt "leviathan pithag"
+msgid "After day 5, the Pit-Hag cannot choose Leviathan."
+msgstr "Sau ngày thứ 5, Mụ phù phép không được chọn Leviathan."
+
+msgctxt "leviathan ravenkeeper"
+msgid "Each night*, the Leviathan chooses an alive player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die."
+msgstr "Mỗi đêm*, Leviathan chọn 1 người tốt còn sống (khác với tất cả đêm trước): Người nuôi quạ, nếu được chọn, được dùng chức năng nhưng không chết."
+
+msgctxt "leviathan sage"
+msgid "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Sage uses their ability but does not die."
+msgstr "Mỗi đêm*, Leviathan chọn 1 người tốt còn sống (khác với tất cả đêm trước): Hiền nhân, nếu được chọn, được dùng chức năng nhưng không chết."
+
+msgctxt "leviathan soldier"
+msgid "If the Leviathan is in play, the Soldier is safe from all evil abilities."
+msgstr "Nếu Leviathan có trong game, Chiến sĩ được an toàn khỏi chức năng của người xấu"
+
+msgctxt "lilmonsta hatter"
+msgid "If a Demon chooses Lil' Monsta, they also choose a Minion to become and babysit Lil' Monsta tonight."
+msgstr "Nếu Quỷ chọn Lil' Monsta, họ cũng được chọn một Tay sai để trở thành và trông Lil' Monsta tối nay."
+
+msgctxt "lilmonsta poppygrower"
+msgid "If the Poppy Grower is in play, Minions don't wake together. They are woken one by one, until one of them chooses to take the Lil' Monsta token."
+msgstr "Nếu có Người trồng hoa trong cuộc, Tay sai không dậy cùng nhau. Họ được gọi dậy lần lượt, cho đến khi một người chấp nhận trông Lil' Monsta."
+
+msgctxt "lilmonsta scarletwoman"
+msgid "If there are 5 or more players alive and the player holding the Lil' Monsta token dies, the Scarlet Woman is given the Lil' Monsta token tonight."
+msgstr "Nếu còn 5 người sống trở lên và người giữ Lil' Monsta chết, Phụ nữ đỏ được giữ Lil' Monsta tối nay."
+
+msgctxt "lilmonsta vizier"
+msgid "The Vizier can die by execution if they are babysitting Lil' Monsta."
+msgstr "Tể tướng có thể chết vì hành quyết nếu họ đang trông Lil' Monsta."
+
+msgctxt "lleech mastermind"
+msgid "If the Mastermind is alive and the Lleech's host dies by execution, the Lleech lives but loses their ability."
+msgstr "Nếu Chủ mưu còn sống và vật chủ của Lleech chết vì hành quyết, Lleech sống nhưng mất chức năng."
+
+msgctxt "lleech slayer"
+msgid "If the Slayer slays the Lleech's host, the host dies."
+msgstr "Nếu Người diệt quỷ giết vật chủ của Lleech, vật chủ chết."
+
+msgctxt "magician wraith"
+msgid "Each day, after the execution phase, the living Magician may publicly guess a living player as the Wraith: if correct, the Demon must choose the Wraith tonight."
+msgstr "Mỗi ngày, sau giai đoạn hành quyết, Ảo thuật gia còn sống có thể công khai đoán ai là Hồn ma. Nếu đúng, Quỷ phải chọn Hồn ma tối nay."
+
+msgctxt "magician spy"
+msgid "When the Spy sees the Grimoire, the Demon and Magician's character tokens are removed."
+msgstr "Khi Gián điệp nhìn Sách ma thuật, token nhân vật của Quỷ và Ảo thuật gia được lấy ra."
+
+msgctxt "magician vizier"
+msgid "If the Vizier and Magician are both in play, the Demon does not learn the Minions."
+msgstr "Nếu Tể tướng và Ảo thuật gia cùng có trong game, Quỷ không được biết Tay sai là ai."
+
+msgctxt "magician widow"
+msgid "When the Widow sees the Grimoire, the Demon and Magician's character tokens are removed."
+msgstr "Khi Góa phụ nhìn Sách ma thuật, token nhân vật của Quỷ và Ảo thuật gia được lấy ra."
+
+msgctxt "magician lilmonsta"
+msgid "Each night, the Magician chooses a Minion: if that Minion & Lil' Monsta are alive, that Minion babysits Lil’ Monsta."
+msgstr "Mỗi đêm, Ảo thuật gia chọn 1 Tay sai, nếu Tay sai đó và Lil' Monsta còn sống, Tay sai đó trông Lil' Monsta."
+
+msgctxt "marionette balloonist"
+msgid "If the Marionette thinks that they are the Balloonist, +1 Outsider might have been added."
+msgstr "Nếu Con rối nghĩ mình là Khinh khí cầu, vẫn thêm +1 Lữ khách."
+
+msgctxt "marionette damsel"
+msgid "The Marionette does not learn that a Damsel is in play."
+msgstr "Con rối không biết có Thiếu nữ trong cuộc."
+
+msgctxt "marionette huntsman"
+msgid "If the Marionette thinks that they are the Huntsman, the Damsel was added."
+msgstr "Nếu Con rối nghĩ mình là Thợ săn, game vẫn có thêm Thiếu nữ."
+
+msgctxt "marionette lilmonsta"
+msgid "The Marionette neighbors a Minion, not the Demon. The Marionette is not woken to choose who takes the Lil' Monsta token, and does not learn they are the Marionette if they have the Lil' Monsta token."
+msgstr "Con rối ngồi cạnh Tay sai, không phải Quỷ. Con rối không được gọi dậy để chọn người trông non Lil' Monsta, và không biết họ là Con rối khi họ nhân token Lil' Monsta."
+
+msgctxt "marionette poppygrower"
+msgid "When the Poppy Grower dies, the Demon learns the Marionette but the Marionette learns nothing."
+msgstr "Khi Người trồng hoa chết, Quỷ biết Con rối nhưng Con rối không biết gì."
+
+msgctxt "marionette snitch"
+msgid "The Marionette does not learn 3 not in-play characters. The Demon learns an extra 3 instead."
+msgstr "Con rối không biết 3 nhân vật ngoài cuộc. Thay vào đó, Quỷ biết thêm 3."
+
+msgctxt "marionette wraith"
+msgid "The Wraith does not wake with the Marionette."
+msgstr "Hồn ma không dậy cùng Con rối."
+
+msgctxt "mastermind alhadikhia"
+msgid "If the Al-Hadikhia dies by execution, and the Mastermind is alive, the Al-Hadikhia chooses 3 good players tonight: if all 3 choose to live, evil wins. Otherwise, good wins."
+msgstr "Nếu Al-Hadikhia chết vì hành quyết, và Kẻ chủ mưu còn sống, Al-Hadikhia chọn 3 người tốt đêm nay: nếu cả 3 cùng chọn sống, phe xấu thắng. Ngược lại, phe tốt thắng."
+
+msgctxt "mathematician chambermaid"
+msgid "The Chambermaid learns if the Mathematician wakes tonight or not, even though the Chambermaid wakes first."
+msgstr "Nữ phục vụ biết Nhà toán học dậy tối nay hay không, ngay cả khi Nữ phục vụ dậy trước."
+
+msgctxt "mathematician lunatic"
+msgid "The Mathematician learns if the Lunatic attacks a different player(s) than the real Demon attacked."
+msgstr "Nhà toán học biết khi Người điên tấn công (những) người khác với người Quỷ thật tấn công."
+
+msgctxt "ogre recluse"
+msgid "If the Recluse registers as evil to the Ogre, the Ogre learns that they are evil."
+msgstr "Nếu Người ẩn dật được thấy là người xấu với Thần rừng, Thần rừng được thông báo họ là người xấu"
+
+msgctxt "pithag cultleader"
+msgid "If the Pit-Hag turns an evil player into the Cult Leader, they can't turn good due to their own ability."
+msgstr "Nếu Mụ phù phép biến người xấu thành Trưởng giáo phái, họ không thể trờ thành người tốt bằng chức năng của họ."
+
+msgctxt "pithag damsel"
+msgid "If a Pit-Hag creates a Damsel, the Storyteller chooses which player it is."
+msgstr "Nếu Mụ phù phép tạo ra Thiếu nữ, Người kể chuyện quyết định người đó là ai."
+
+msgctxt "pithag goon"
+msgid "If the Pit-Hag turns an evil player into the Goon, they can't turn good due to their own ability."
+msgstr "Nếu Mụ phù phép biến người xấu thành Bất lương, họ không thể trờ thành người tốt bằng chức năng của họ."
+
+msgctxt "pithag ogre"
+msgid "If the Pit-Hag turns an evil player into the Ogre, they can't turn good due to their own ability."
+msgstr "Nếu Mụ phù phép biến người xấu thành Thần rừng, họ không thể biến thành người tốt bằng chức năng của họ."
+
+msgctxt "pithag politician"
+msgid "If the Pit-Hag turns an evil player into the Politician, they can't turn good due to their own ability."
+msgstr "Mụ phù phép không thể tạo ra Chính trị gia ác."
+
+msgctxt "pithag villageidiot"
+msgid "If there is a spare token, the Pit-Hag can create an extra Village Idiot. If so, the drunk Village Idiot might change."
+msgstr "Nếu còn thừa token, Mụ phù phép có thể tạo ra Ngố làng. Nếu làm vậy, Ngố làng say có thể đổi."
+
+msgctxt "plaguedoctor baron"
+msgid "If the Storyteller gains the Baron ability, up to two players become not-in-play Outsiders."
+msgstr "Nếu Người kể chuyện nhận chức năng của Nam tước, tối đa 2 người chơi biến thành Lữ khách ngoài game."
+
+msgctxt "plaguedoctor boomdandy"
+msgid "If the Plague Doctor is executed and the Storyteller would gain the Boomdandy ability, the Boomdandy ability triggers immediately."
+msgstr "Nếu Bác sĩ dịch hạch bị hành quyết và Người kể chuyện sẽ có chức năng của Kẻ giữ bom, chức năng của Kẻ giữ bom sẽ được kích hoạt ngay lập tức."
+
+msgctxt "plaguedoctor eviltwin"
+msgid "The Storyteller cannot gain the Evil Twin ability if the Plague Doctor dies."
+msgstr "Người kể chuyện không thể có chức năng của Sinh đôi xấu nếu Bác sĩ dịch hạch chết."
+
+msgctxt "plaguedoctor fearmonger"
+msgid "If the Plague Doctor dies, a living Minion gains the Fearmonger ability in addition to their own ability, and learns this."
+msgstr "Nếu Bác sĩ dịch hạch chết, một Minion còn sống sẽ có chức năng của Kẻ gây hãi ngoài chức năng của họ và biết được điều này."
+
+msgctxt "plaguedoctor goblin"
+msgid "If the Plague Doctor dies, a living Minion gains the Goblin ability in addition to their own ability, and learns this."
+msgstr "Nếu Bác sĩ dịch hạch chết, một Tay sai còn sống sẽ nhận được chức năng của Goblin ngoài chức năng của họ và biết được điều này."
+
+msgctxt "plaguedoctor marionette"
+msgid "If the Demon has a neighbor who is alive and a Townsfolk or Outsider when the Plague Doctor dies, that player becomes an evil Marionette. If there is already an extra evil player, this does not happen."
+msgstr "Nếu Quỷ có hàng xóm còn sống và là Dân làng hoặc Lữ khách khi Bác sĩ dịch hạch chết, người đó trở thành Con rối xấu. Nếu đã có thêm người xấu, điều này không xảy ra."
+
+msgctxt "plaguedoctor scarletwoman"
+msgid "If the Plague Doctor dies, a living Minion gains the Scarlet Woman ability in addition to their own ability, and learns this."
+msgstr "Nếu Bác sĩ dịch hạch chết, một Minion còn sống sẽ có chức năng của Phụ nữ đỏ ngoài chức năng của họ và biết được điều này."
+
+msgctxt "plaguedoctor spy"
+msgid "If the Plague Doctor dies, a living Minion gains the Spy ability in addition to their own ability, and learns this."
+msgstr "Nếu Bác sĩ dịch hạch chết, một Minion còn sống sẽ có chức năng của Gián điệp ngoài chức năng của họ và biết được điều này."
+
+msgctxt "plaguedoctor wraith"
+msgid "If the Plague Doctor dies, a living Minion gains the Wraith ability in addition to their own ability, and learns this."
+msgstr "Nếu Bác sĩ dịch hạch chết, một Minion còn sống sẽ có chức năng của Hồn ma ngoài chức năng của họ và biết được điều này."
+
+msgctxt "riot banshee"
+msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability."
+msgstr "Mỗi đêm*, Nổi loạn chọn 1 người tốt còn sống (khác với tất cả đêm trước): Quỷ báo tử, nếu được chọn, chết và được dùng chức năng."
+
+msgctxt "riot exorcist"
+msgid "If the Exorcist chooses Riot on the 3rd night, Minions do not become Riot."
+msgstr "Nếu Thầy trừ tà chọn Nổi loạn vào đêm 3, Tay sai không được trở thành Nổi loạn."
+
+msgctxt "riot farmer"
+msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Farmer uses their ability but does not die."
+msgstr "Mỗi đêm*, Nổi loạn chọn 1 người tốt còn sống (khác với tất cả đêm trước): Nông dân, nếu được chọn, được dùng chức năng nhưng không chết."
+
+msgctxt "riot grandmother"
+msgid "If Riot is in play and the Grandchild dies during the day, the Grandmother dies too."
+msgstr "Nếu Nổi loạn có trong game và Cháu chết trong ngày, Bà ngoại chết theo."
+
+msgctxt "riot innkeeper"
+msgid "If Riot is in play, the Innkeeper-protected player is safe from all evil abilities."
+msgstr "Nếu Nổi loạn có trong game, người được Chủ quán trọ bảo vệ được an toàn khỏi chức năng của người xấu."
+
+msgctxt "riot king"
+msgid "If Riot is in play, and at least 1 player is dead, the King learns an alive character each night."
+msgstr "Nếu Nổi loạn có trong game và ít nhất có 1 người chết, mỗi đêm, Ông vua được biết một nhân vật còn sống."
+
+msgctxt "riot mayor"
+msgid "The Mayor may choose to stop nominations. If they do so when only 1 Riot is alive, good wins. Otherwise, evil wins."
+msgstr "Thị trưởng có thể dừng biểu quyết, Nếu chỉ còn 1 Riot còn sống, phe tốt thắng. Ngược lại, phe xấu thắng."
+
+msgctxt "riot monk"
+msgid "If Riot is in play, the Monk-protected player is safe from all evil abilities."
+msgstr "Nếu Nổi loạn có trong game, người được Nhà sư bảo vệ được an toàn khỏi chức năng của người xấu."
+
+msgctxt "riot ravenkeeper"
+msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die."
+msgstr "Mỗi đêm*, Nổi loạn chọn 1 người tốt còn sống (khác với tất cả đêm trước): Người nuôi quạ, nếu được chọn, được dùng chức năng nhưng không chết."
+
+msgctxt "riot sage"
+msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Sage uses their ability but does not die."
+msgstr "Mỗi đêm*, Nổi loạn chọn 1 người tốt còn sống (khác với tất cả đêm trước): Hiền nhân, nếu được chọn, được dùng chức năng nhưng không chết."
+
+msgctxt "riot soldier"
+msgid "If Riot is in play, the Soldier is safe from all evil abilities."
+msgstr "Nếu Nổi loạn có trong game, Chiến sĩ được an toàn khỏi chức năng của người xấu"
+
+msgctxt "scarletwoman alhadikhia"
+msgid "If there are two living Al-Hadikhias, the Scarlet Woman Al-Hadikhia becomes the Scarlet Woman again."
+msgstr "Nếu có 2 Al-Hadikhia còn sống, Phụ nữ đỏ là Al-Hadikhia trở về thành Phụ nữ đỏ bình thường."
+
+msgctxt "scarletwoman fanggu"
+msgid "If the Fang Gu chooses an Outsider and dies, the Scarlet Woman does not become the Fang Gu."
+msgstr "Nếu Fang Gu chọn Lữ khách và chết, Phụ nữ đỏ chưa được trở thành Fang Gu."
+
+msgctxt "spy damsel"
+msgid "If the Spy is (or has been) in play, the Damsel is poisoned."
+msgstr "Nếu Gián điệp đang (hoặc đã) có trong game, Thiếu nữ bị trúng độc."
+
+msgctxt "spy ogre"
+msgid "The Spy registers as evil to the Ogre."
+msgstr "Gián điệp tính là người xấu với Thần rừng."
+
+msgctxt "spy poppygrower"
+msgid "If the Poppy Grower is in play, the Spy does not see the Grimoire until the Poppy Grower dies."
+msgstr "Nếu có Người trồng hoa trong cuộc, Gián điệp không được nhìn Sách ma thuật cho tới khi Người trồng hoa chết."
+
+msgctxt "summoner clockmaker"
+msgid "If the Summoner is in play, the Clockmaker does not receive their information until a Demon is created."
+msgstr "Nếu có Kẻ triệu hồi trong game, Thợ đồng hồ sẽ không nhận thông tin cho đến khi Quỷ được tạo ra."
+
+msgctxt "summoner courtier"
+msgid "If the Summoner is drunk on the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+msgstr "Nếu Kẻ triệu hồi bị say vào đêm thứ 3, Kẻ triệu hồi chọn Quỷ, nhưng Người kể chuyện chọn người là Quỷ."
+
+msgctxt "summoner engineer"
+msgid "If the Engineer removes a Summoner from play before that Summoner uses their ability, the Summoner uses their ability immediately."
+msgstr "Nếu Kĩ sư loại bỏ Kẻ triệu hồi khỏi game trước khi họ được dùng chức năng, Kẻ triệu hồi được dùng chức năng ngay lập tức."
+
+msgctxt "summoner hatter"
+msgid "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+msgstr "Kẻ triệu hồi không thể tạo ra Quỷ trong game. Nếu Kẻ triệu hồi tạo ra Quỷ ngoài game, cái chết đêm nay là ngẫu nhiên."
+
+msgctxt "summoner kazali"
+msgid "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+msgstr "Kẻ triệu hồi không thể tạo ra Quỷ trong game. Nếu Kẻ triệu hồi tạo ra Quỷ ngoài game, cái chết đêm nay là ngẫu nhiên."
+
+msgctxt "summoner legion"
+msgid "If the Summoner creates Legion, most players (including all evil players) become evil Legion."
+msgstr "Nếu Kẻ triệu hồi chọn Legion, đa số người chơi (trong đó có tất cả người xấu) trở thành Legion xấu."
+
+msgctxt "summoner lordoftyphon"
+msgid "If the Summoner creates a Lord of Typhon, the Lord of Typhon must neighbor a Minion. The other neighbor becomes a not-in-play evil Minion."
+msgstr "Nếu Kẻ triệu hồi tạo ra Thần Typhon, Thần Typhon phải ngồi cạnh 1 Tay Sai. Hàng xóm còn lại trở thành Minion ngoài game."
+
+msgctxt "summoner marionette"
+msgid "The Marionette neighbors the Summoner. The Summoner knows who the Marionette is."
+msgstr "Con rối ngồi cạnh Kẻ triệu hổi. Kẻ triệu hồi biết ai là Con rối."
+
+msgctxt "summoner pithag"
+msgid "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+msgstr "Kẻ triệu hồi không thể tạo ra Quỷ trong game. Nếu Kẻ triệu hồi tạo ra Quỷ ngoài game, cái chết đêm nay là ngẫu nhiên."
+
+msgctxt "summoner poppygrower"
+msgid "If the Poppy Grower is alive when the Summoner acts, the Summoner chooses which Demon, but the Storyteller chooses which player."
+msgstr "Nếu Người trồng hoa còn sống khi Kẻ triệu hồi hoạt động, Kẻ triệu hồi chỉ được chọn nhân vật, Người kẻ chuyện sẽ chọn người."
+
+msgctxt "summoner preacher"
+msgid "If the Preacher chose the Summoner on or before the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+msgstr "Nếu Mục sư chọn trúng Kẻ triệu hồi trong hoặc trước ngày 3, Kẻ triệu hồi chọn 1 Quỷ, Người kể chuyện chọn người làm Quỷ."
+
+msgctxt "summoner pukka"
+msgid "The Summoner may choose a player to become the Pukka on the 2nd night."
+msgstr "Kẻ triệu hồi có thể biến 1 người thành Pukka từ đêm thứ 2."
+
+msgctxt "summoner zombuul"
+msgid "If the Summoner turns a dead player into the Zombuul, the Storyteller treats that player as a Zombuul that has died once."
+msgstr "Nếu Kẻ triệu hồi biến người chết thành Zombuul, Người kể chuyện sẽ coi người đó là Zombuul đã chết lần đầu."
+
+msgctxt "vizier alsaahir"
+msgid "If the Vizier is in play, the Alsaahir must also guess which Demon(s) are in play."
+msgstr "Nếu có Tể tướng trong game, Alsaahir phải đoán đúng vai trò của Quỷ."
+
+msgctxt "vizier courtier"
+msgid "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+msgstr "Nếu Tể tướng mất chức năng, họ được biết điều này. Nếu Tể tướng bị hành quyết khi họ còn chức năng, phe họ thắng."
+
+msgctxt "vizier fearmonger"
+msgid "The Vizier wakes with the Fearmonger, learns who they choose and cannot choose to immediately execute that player."
+msgstr "Tể tướng cùng dậy với Kẻ gây hãi, biết họ chọn ai và không được hành quyết người chơi đó ngay lập tức."
+
+msgctxt "vizier investigator"
+msgid "If the Investigator learns that the Vizier is in play, the existence of the Vizier is not announced by the Storyteller."
+msgstr "Nếu Điều tra viên biết có Tể tướng trong cuộc, sự tồn tại của Tể tướng sẽ không được Người kể chuyện thông báo."
+
+msgctxt "vizier politician"
+msgid "The Politician might register as evil to the Vizier."
+msgstr "Chính trị gia có thể thấy là người xấu với Tể tướng."
+
+msgctxt "vizier preacher"
+msgid "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+msgstr "Nếu Tể tướng mất chức năng, họ được biết điều này. Nếu Tể tướng bị hành quyết khi họ còn chức năng, phe họ thắng."
+
+msgctxt "vizier zealot"
+msgid "The Zealot might register as evil to the Vizier."
+msgstr "Kẻ quá khích có thể thấy là người xấu với chức năng của Tể tướng"
+
+msgctxt "vortox banshee"
+msgid "If the Vortox is in play and the Demon kills the Banshee, the players still learn that the Banshee has died."
+msgstr "Nếu có Vortox trong game và Quỷ giết Quỷ báo tử, người chơi vẫn được thông báo là Quỷ báo tử đã chết."
+
+msgctxt "widow damsel"
+msgid "If the Widow is (or has been) in play, the Damsel is poisoned."
+msgstr "Nếu Góa phụ đang (hoặc đã) có trong game, Thiếu nữ bị trúng độc."
+
+msgctxt "widow poppygrower"
+msgid "If the Poppy Grower is in play, the Widow does not see the Grimoire until the Poppy Grower dies."
+msgstr "Nếu có Người trồng hoa trong cuộc, Góa phụ không được nhìn Sách ma thuật cho tới khi Người trồng hoa chết."
+
+msgctxt "yaggababble exorcist"
+msgid "If the Exorcist chooses the Yaggababble, the Yaggababble ability does not kill tonight."
+msgstr "Nếu Thầy trừ tà chọn Yaggababble, chức năng của Yaggababble không thẻ giết người đêm nay."
