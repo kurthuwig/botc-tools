@@ -1,15 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: sv\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.6\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-08-11 15:18+0000\nLast-Translator: Eliderad <aki12@live.se>\nLanguage-Team: Swedish <https://hosted.weblate.org/projects/botc/jinxes/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13-dev\n"
 
 msgctxt "alchemist boffin"
 msgid "If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has."
@@ -17,31 +7,31 @@ msgstr "Om Alkemisten har Vetenskaparens förmåga så får Alkemisten inte veta
 
 msgctxt "alchemist marionette"
 msgid "An Alchemist-Marionette has no Marionette ability & the Marionette is in play."
-msgstr ""
+msgstr "En Alkemist-Marionett har inte Marionettens förmåga och Marionetten är i spel."
 
 msgctxt "alchemist mastermind"
 msgid "An Alchemist-Mastermind has no Mastermind ability & the Mastermind is not-in-play."
-msgstr ""
+msgstr "En Alkemist-Mästare har inte Mästarens förmåga och Mästaren är inte i spel."
 
 msgctxt "alchemist organgrinder"
 msgid "If the Alchemist has the Organ Grinder ability, the Organ Grinder is in play & if both the Alchemist and Organ Grinder are sober, both are drunk."
-msgstr ""
+msgstr "Om Alkemisten har Positivhalarens förmåga så är Positivhalaren i spel och om både Alkemisten och Positivhalaren är nyktra så är båda fulla."
 
 msgctxt "alchemist spy"
 msgid "If the Alchemist has the Spy ability, they do not, and a Spy is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Spy. If correct, the Demon must choose the Spy tonight."
-msgstr ""
+msgstr "En Alkemist-Spion har inte Spionens förmåga och Spionen är i spel. Varje dag efter avrättningsfasen kan den levande Alkemisten öppet gissa vilken levande spelare som är Spionen. Om hen gissar rätt måste Demonen välja Spionen inatt."
 
 msgctxt "alchemist summoner"
 msgid "The Alchemist-Summoner does not get bluffs, and chooses which Demon but not which player. If they die before this happens, evil wins. [No Demon]"
-msgstr ""
+msgstr "En Alkemist-Åkallare får inga bluffar, och väljer Demon men inte spelare. Om hen dör innan det händer så vinner det onda laget. [Ingen Demon]"
 
 msgctxt "alchemist widow"
 msgid "If the Alchemist has the Widow ability, they do not, and a Widow is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Widow. If correct, the Demon must choose the Widow tonight."
-msgstr ""
+msgstr "En Alkemist-Änka har inte Änkans förmåga och Änkan är i spel. Varje dag efter avrättningsfasen kan den levande Alkemisten öppet gissa vilken levande spelare som är Änkan. Om hen gissar rätt måste Demonen välja Änkan inatt."
 
 msgctxt "alchemist wraith"
 msgid "If the Alchemist has the Wraith ability, they do not, and a Wraith is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Wraith. If correct, the Demon must choose the Wraith tonight."
-msgstr "If the Alchemist has the Wraith ability, they do not, and a Wraith is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Wraith: if correct, the Demon must choose the Wraith tonight."
+msgstr "En Alkemist-Vålnad har inte Vålnadens förmåga och Vålnaden är i spel. Varje dag efter avrättningsfasen kan den levande Alkemisten öppet gissa vilken levande spelare som är Vålnaden. Om hen gissar rätt måste Demonen välja Vålnaden inatt."
 
 msgctxt "alhadikhia princess"
 msgid "If the Princess nominated & executed a player on their 1st day, no one dies to the Al-Hadikhia ability tonight."
@@ -253,7 +243,7 @@ msgstr "Om Dråparen dräper Lleechs värd så dör värden."
 
 msgctxt "magician wraith"
 msgid "Each day, after the execution phase, the living Magician may publicly guess a living player as the Wraith: if correct, the Demon must choose the Wraith tonight."
-msgstr ""
+msgstr "Varje dag efter avrättningsfasen får den levande Magikern öppet gissa vilken levande spelare som är Vålnaden: om hen har rätt måste Demonen välja Vålnaden inatt."
 
 msgctxt "magician spy"
 msgid "When the Spy sees the Grimoire, the Demon and Magician's character tokens are removed."
@@ -297,7 +287,7 @@ msgstr "Marionetten får inte 3 bluffar; istället får Demonen ytterligare 3."
 
 msgctxt "marionette wraith"
 msgid "The Wraith does not wake with the Marionette."
-msgstr ""
+msgstr "Vålnaden vaknar inte med Marionetten."
 
 msgctxt "mastermind alhadikhia"
 msgid "If the Al-Hadikhia dies by execution, and the Mastermind is alive, the Al-Hadikhia chooses 3 good players tonight: if all 3 choose to live, evil wins. Otherwise, good wins."
@@ -373,7 +363,7 @@ msgstr "Om Pestläkaren dör så får en levande Kumpan Spionens förmåga utöv
 
 msgctxt "plaguedoctor wraith"
 msgid "If the Plague Doctor dies, a living Minion gains the Wraith ability in addition to their own ability, and learns this."
-msgstr ""
+msgstr "Om Pestläkaren för så får en levande Kumpan Vålnadens förmåga utöver sin egen, och får veta detta."
 
 msgctxt "riot banshee"
 msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability."
