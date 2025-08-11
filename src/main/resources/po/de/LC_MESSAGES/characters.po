@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-08-10 18:36+0000\nLast-Translator: Oliver <oli_b@yahoo.com>\nLanguage-Team: German <https://hosted.weblate.org/projects/botc/characters/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13-dev\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-08-11 15:18+0000\nLast-Translator: Kurt Huwig <kurthuwig@gmail.com>\nLanguage-Team: German <https://hosted.weblate.org/projects/botc/characters/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13-dev\n"
 
 msgctxt "acrobat name"
 msgid "Acrobat"
@@ -665,7 +665,7 @@ msgstr "Wecke alle Schergen und zeige ihnen die 'Dieser Charakter hat Dich ausge
 
 msgctxt "damsel otherNightReminder"
 msgid "If selected by the Huntsman, wake the Damsel, show 'You are' card and a not-in-play Townsfolk token."
-msgstr "Wecke die Holde Maid, wenn Sie vom Jäger ausgewählt wurde und zeige ihr die 'Du bist' Karte und einen Token eines Bürgers, der sich nicht im Spiel befindet."
+msgstr "Wenn durch den Jäger gewählt, wecke die Unschuld, zeige die \"Du bist\"-Karte und einen nicht im Spiel befindlichen Bürger-Charakter."
 
 msgctxt "damsel reminders"
 msgid "Guess used"
@@ -1417,15 +1417,15 @@ msgstr "Einmal im Spiel, in der Nacht, wähle 1 lebendigen Spieler: Falls er die
 
 msgctxt "huntsman flavor"
 msgid "My cabin is warm and sturdy. My axe by the door, my boots drying by the fire, and elk stew a-simmering… Hark! A scream echoes through the valley! The rain and the mud and the cold, cold wind mask the scent of the wolves, but I know the path and my pace is steady. I am coming."
-msgstr "My cabin is warm and sturdy. My axe by the door, my boots drying by the fire, and elk stew a-simmering… Hark! A scream echoes through the valley! The rain and the mud and the cold, cold wind mask the scent of the wolves, but I know the path and my pace is steady. I am coming."
+msgstr ""
 
 msgctxt "huntsman firstNightReminder"
 msgid "The Huntsman shakes their head 'no' or points to a player. If they point to the Damsel, wake that player, show the 'You are' card and a not-in-play character token."
-msgstr "Der Jäger schüttelt den Kopf für Nein oder zeigt auf einen Spieler. Wenn er auf die Maid zeigt, wecke diesen Spieler, zeige ihm die 'Du bist' Karte und einen neuen Token eines guten Charakters, der sich nicht im Spiel befindet."
+msgstr "Der Jäger schüttelt den Kopf für Nein oder zeigt auf einen Spieler. Wenn er auf die Unschuld zeigt, wecke diesen Spieler, zeige ihm die 'Du bist' Karte und einen neuen Token eines guten Charakters, der sich nicht im Spiel befindet."
 
 msgctxt "huntsman otherNightReminder"
 msgid "The Huntsman shakes their head 'no' or points to a player. If they point to the Damsel, wake that player, show the 'You are' card and a not-in-play character token."
-msgstr "Der Jäger schüttelt den Kopf für Nein oder zeigt auf einen Spieler. Wenn er auf die Maid zeigt, wecke diesen Spieler, zeige ihm die 'Du bist' Karte und einen neuen Token eines guten Charakters, der sich nicht im Spiel befindet."
+msgstr "Der Jäger schüttelt den Kopf für Nein oder zeigt auf einen Spieler. Wenn er auf die Unschuld zeigt, wecke diesen Spieler, zeige ihm die 'Du bist' Karte und einen neuen Token eines guten Charakters, der sich nicht im Spiel befindet."
 
 msgctxt "huntsman reminders"
 msgid "No ability"
