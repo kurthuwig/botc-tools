@@ -1,15 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: vi\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.6\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-08-11 20:28+0000\nLast-Translator: tuanhuyng <tuanhuynguyen806@gmail.com>\nLanguage-Team: Vietnamese <https://hosted.weblate.org/projects/botc/jinxes/vi/>\nLanguage: vi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.13-dev\n"
 
 msgctxt "alchemist boffin"
 msgid "If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has."
@@ -53,7 +43,7 @@ msgstr "Nếu Quỷ có chức năng của Trưởng giáo phải, họ không t
 
 msgctxt "boffin drunk"
 msgid "If the Demon would have the Drunk ability, the Boffin chooses a Townsfolk player to have this ability instead."
-msgstr "Nếu Quỷ có chức năng của Say rượu, Nhà nghiên cứu thay vào đó chọn 1 người Townfolk nhận chức năng đó."
+msgstr "Nếu Quỷ có chức năng của Say rượu, Nhà nghiên cứu thay vào đó chọn 1 người Dân làng nhận chức năng đó."
 
 msgctxt "boffin goon"
 msgid "If the Demon has the Goon ability, they can’t turn good due to this ability."
@@ -69,11 +59,11 @@ msgstr "Quỷ không được có chức năng của Chính trị gia."
 
 msgctxt "boffin villageidiot"
 msgid "If there is a spare token, the Boffin can give the Demon the Village Idiot ability."
-msgstr "Nều còn thừa token, Nhà nghiên cứu có thể cho chức năng của Ngố lang."
+msgstr "Nều còn thừa token, Nhà nghiên cứu có thể cho Quỷ chức năng của Ngố lang."
 
 msgctxt "bountyhunter kazali"
 msgid "An evil Townsfolk is only created if the Bounty Hunter is still in play after the Kazali acts."
-msgstr "Dân làng ác chỉ được tạo ra khi Thợ săn tiền thưởng còn trong game sau lượt của Kazali"
+msgstr "Dân làng xấu chỉ được tạo ra khi Thợ săn tiền thưởng còn trong game sau hành động của Kazali."
 
 msgctxt "bountyhunter philosopher"
 msgid "If the Philosopher gains the Bounty Hunter ability, a Townsfolk might turn evil."
@@ -113,7 +103,7 @@ msgstr "Có thể Nam tước chỉ thêm 1 Lữ khách, không phải 2."
 
 msgctxt "heretic boffin"
 msgid "The Demon cannot have the Heretic ability."
-msgstr "Quỷ không được có chức năng của Vô thần"
+msgstr "Quỷ không được có chức năng của Dị giáo."
 
 msgctxt "heretic godfather"
 msgid "Only 1 jinxed character can be in play."
@@ -157,7 +147,7 @@ msgstr "Kazali có thể biến Chiến sĩ thành một trong những Tay sai x
 
 msgctxt "legion engineer"
 msgid "Legion and the Engineer can not both be in play at the start of the game. If the Engineer creates Legion, most players (including all evil players) become evil Legion."
-msgstr "Legion và Kĩ sư không thể tồn tại cùng nhau khi bắt đầu game. Nếu Kĩ sư tạo ra Legion, đa số người chơi (tính cả người chơi ác) trở thành Legion ác."
+msgstr "Legion và Kĩ sư không thể tồn tại cùng nhau khi bắt đầu game. Nếu Kĩ sư tạo ra Legion, đa số người chơi (tính cả người xấu) trở thành Legion xấu."
 
 msgctxt "legion hatter"
 msgid "If the Hatter dies and Legion is in play, nothing happens. If the Hatter dies and an evil player chooses Legion, all current evil players become Legion."
@@ -197,7 +187,7 @@ msgstr "Nếu Thợ làm mũ chết trong hoặc sau ngày thứ 5, Quỷ không
 
 msgctxt "leviathan innkeeper"
 msgid "If the Leviathan is in play, the Innkeeper-protected-players are safe from all evil abilities."
-msgstr "Nếu Leviathan có trong game, người được Chủ quán trọ bảo vệ được an toàn khỏi chức năng của người xấu."
+msgstr "Nếu Leviathan có trong game, người được Chủ quán trọ bảo vệ được an toàn khỏi mọi chức năng của người xấu."
 
 msgctxt "leviathan king"
 msgid "If the Leviathan is in play, and at least 1 player is dead, the King learns an alive character each night."
@@ -209,7 +199,7 @@ msgstr "Nếu Leviathan có trong game và không có hành quyết vào ngày 5
 
 msgctxt "leviathan monk"
 msgid "If the Leviathan is in play, the Monk-protected-player is safe from all evil abilities."
-msgstr "Nếu Leviathan có trong game, người được Nhà sư bảo vệ được an toàn khỏi chức năng của người xấu."
+msgstr "Nếu Leviathan có trong game, người được Nhà sư bảo vệ được an toàn khỏi mọi chức năng của người xấu."
 
 msgctxt "leviathan pithag"
 msgid "After day 5, the Pit-Hag cannot choose Leviathan."
@@ -225,7 +215,7 @@ msgstr "Mỗi đêm*, Leviathan chọn 1 người tốt còn sống (khác với
 
 msgctxt "leviathan soldier"
 msgid "If the Leviathan is in play, the Soldier is safe from all evil abilities."
-msgstr "Nếu Leviathan có trong game, Chiến sĩ được an toàn khỏi chức năng của người xấu"
+msgstr "Nếu Leviathan có trong game, Chiến sĩ được an toàn khỏi mọi chức năng của người xấu."
 
 msgctxt "lilmonsta hatter"
 msgid "If a Demon chooses Lil' Monsta, they also choose a Minion to become and babysit Lil' Monsta tonight."
@@ -277,7 +267,7 @@ msgstr "Nếu Con rối nghĩ mình là Khinh khí cầu, vẫn thêm +1 Lữ kh
 
 msgctxt "marionette damsel"
 msgid "The Marionette does not learn that a Damsel is in play."
-msgstr "Con rối không biết có Thiếu nữ trong cuộc."
+msgstr "Con rối không biết có Thiếu nữ trong game."
 
 msgctxt "marionette huntsman"
 msgid "If the Marionette thinks that they are the Huntsman, the Damsel was added."
@@ -313,7 +303,7 @@ msgstr "Nhà toán học biết khi Người điên tấn công (những) ngư�
 
 msgctxt "ogre recluse"
 msgid "If the Recluse registers as evil to the Ogre, the Ogre learns that they are evil."
-msgstr "Nếu Người ẩn dật được thấy là người xấu với Thần rừng, Thần rừng được thông báo họ là người xấu"
+msgstr "Nếu Người ẩn dật được thấy là người xấu với Thần rừng, Thần rừng được thông báo họ là người xấu."
 
 msgctxt "pithag cultleader"
 msgid "If the Pit-Hag turns an evil player into the Cult Leader, they can't turn good due to their own ability."
@@ -333,7 +323,7 @@ msgstr "Nếu Mụ phù phép biến người xấu thành Thần rừng, họ k
 
 msgctxt "pithag politician"
 msgid "If the Pit-Hag turns an evil player into the Politician, they can't turn good due to their own ability."
-msgstr "Mụ phù phép không thể tạo ra Chính trị gia ác."
+msgstr "Mụ phù phép không thể tạo ra Chính trị gia xấu."
 
 msgctxt "pithag villageidiot"
 msgid "If there is a spare token, the Pit-Hag can create an extra Village Idiot. If so, the drunk Village Idiot might change."
@@ -393,7 +383,7 @@ msgstr "Nếu Nổi loạn có trong game và Cháu chết trong ngày, Bà ngo�
 
 msgctxt "riot innkeeper"
 msgid "If Riot is in play, the Innkeeper-protected player is safe from all evil abilities."
-msgstr "Nếu Nổi loạn có trong game, người được Chủ quán trọ bảo vệ được an toàn khỏi chức năng của người xấu."
+msgstr "Nếu Nổi loạn có trong game, người được Chủ quán trọ bảo vệ được an toàn khỏi mọi chức năng của người xấu."
 
 msgctxt "riot king"
 msgid "If Riot is in play, and at least 1 player is dead, the King learns an alive character each night."
@@ -405,7 +395,7 @@ msgstr "Thị trưởng có thể dừng biểu quyết, Nếu chỉ còn 1 Riot
 
 msgctxt "riot monk"
 msgid "If Riot is in play, the Monk-protected player is safe from all evil abilities."
-msgstr "Nếu Nổi loạn có trong game, người được Nhà sư bảo vệ được an toàn khỏi chức năng của người xấu."
+msgstr "Nếu Nổi loạn có trong game, người được Nhà sư bảo vệ được an toàn khỏi mọi chức năng của người xấu."
 
 msgctxt "riot ravenkeeper"
 msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die."
@@ -417,7 +407,7 @@ msgstr "Mỗi đêm*, Nổi loạn chọn 1 người tốt còn sống (khác v�
 
 msgctxt "riot soldier"
 msgid "If Riot is in play, the Soldier is safe from all evil abilities."
-msgstr "Nếu Nổi loạn có trong game, Chiến sĩ được an toàn khỏi chức năng của người xấu"
+msgstr "Nếu Nổi loạn có trong game, Chiến sĩ được an toàn khỏi mọi chức năng của người xấu."
 
 msgctxt "scarletwoman alhadikhia"
 msgid "If there are two living Al-Hadikhias, the Scarlet Woman Al-Hadikhia becomes the Scarlet Woman again."
@@ -517,7 +507,7 @@ msgstr "Nếu Tể tướng mất chức năng, họ được biết điều nà
 
 msgctxt "vizier zealot"
 msgid "The Zealot might register as evil to the Vizier."
-msgstr "Kẻ quá khích có thể thấy là người xấu với chức năng của Tể tướng"
+msgstr "Kẻ quá khích có thể thấy là người xấu với chức năng của Tể tướng."
 
 msgctxt "vortox banshee"
 msgid "If the Vortox is in play and the Demon kills the Banshee, the players still learn that the Banshee has died."
