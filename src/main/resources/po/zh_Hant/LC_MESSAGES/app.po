@@ -3,63 +3,51 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: 1.0\n"
-"Report-Msgid-Bugs-To: Kurt Huwig\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: zh_Hant\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.6\n"
+msgstr "Project-Id-Version: 1.0\nReport-Msgid-Bugs-To: Kurt Huwig\nPOT-Creation-Date: \nPO-Revision-Date: 2025-08-16 11:57+0000\nLast-Translator: MiKureeper <jhson930416@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/projects/botc/sheet-printer/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.13\n"
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:152
 msgid "First night order"
-msgstr ""
+msgstr "第一晚行動順序"
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:154
 msgid "Other night order"
-msgstr ""
+msgstr "其他夜晚行動順序"
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:153
 msgid "* not in the first night"
-msgstr ""
+msgstr "* 第一晚不生效"
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:138
 msgctxt "section"
 msgid "Townsfolk"
-msgstr ""
+msgstr "鎮民"
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:140
 msgctxt "section"
 msgid "Outsiders"
-msgstr ""
+msgstr "城外人"
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:142
 msgctxt "section"
 msgid "Minions"
-msgstr ""
+msgstr "僕從"
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:144
 msgctxt "section"
 msgid "Demons"
-msgstr ""
+msgstr "惡魔"
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:146
 msgctxt "section"
 msgid "Fabled"
-msgstr ""
+msgstr "傳奇角色"
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:148
 msgctxt "section"
 msgid "Travellers"
-msgstr ""
+msgstr "旅行者"
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:133
 #, java-format
 msgid "by {{author}}"
-msgstr ""
+msgstr "by {{author}}"
