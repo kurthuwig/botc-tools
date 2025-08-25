@@ -1,16 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-08-25 20:07+0000\n"
-"Last-Translator: Loukas Dimitropoulos <louxdimi@gmail.com>\n"
-"Language-Team: Greek <https://hosted.weblate.org/projects/botc/characters/el/>\n"
-"Language: el\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-08-26 22:02+0000\nLast-Translator: Loukas Dimitropoulos <louxdimi@gmail.com>\nLanguage-Team: Greek <https://hosted.weblate.org/projects/botc/characters/el/>\nLanguage: el\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13\n"
 
 msgctxt "acrobat name"
 msgid "Acrobat"
@@ -342,7 +331,7 @@ msgstr "Οστεοσυλλέκτης"
 
 msgctxt "bonecollector ability"
 msgid "Once per game, at night, choose a dead player: they regain their ability until dusk."
-msgstr ""
+msgstr "Μια φορά ανά παιχνίδι, τη νύχτα, επίλεξε έναν νεκρό παίκτη: επαναποκτεί την ικανότητά του ως το σούρουπο."
 
 msgctxt "bonecollector flavor"
 msgid "I collect many things. Hair. Teeth. Clothes. Fragments of poems. The dreams of lost lovers. My secret arts are not for you to know but my fee is a mere pittance. Bring me the blood of a noblewoman who died of heartbreak under a full moon, and you shall have your answers."
@@ -356,13 +345,14 @@ msgctxt "bonecollector reminders"
 msgid "No ability,Has ability"
 msgstr ""
 
+#, fuzzy
 msgctxt "boomdandy name"
 msgid "Boomdandy"
-msgstr ""
+msgstr "Βομβιστής"
 
 msgctxt "boomdandy ability"
 msgid "If you are executed, all but 3 players die. After a 10 to 1 countdown, the player with the most players pointing at them, dies."
-msgstr ""
+msgstr "Αν εκτελεστείς, όλοι οι παίκτες, πλην 3, πεθαίνουν. Μετά από αντίστροφη μέτρηση από το 10, ο παίκτης που οι περισσότεροι δείχνουν με το δάχτυλο πεθαίνει."
 
 msgctxt "boomdandy flavor"
 msgid "Tick... Tick... Tick... TOCK."
@@ -370,11 +360,11 @@ msgstr ""
 
 msgctxt "bootlegger name"
 msgid "Bootlegger"
-msgstr ""
+msgstr "Λαθρέμπορος"
 
 msgctxt "bootlegger ability"
 msgid "This script has homebrew characters or rules."
-msgstr ""
+msgstr "Το σενάριο περιλαμβάνει αυτοσχέδιους χαρακτήρες."
 
 msgctxt "bootlegger flavor"
 msgid "I've got the latest shipment from home, a brew I'd like to call 'Barrowfog'. Wanna try?"
@@ -386,11 +376,11 @@ msgstr ""
 
 msgctxt "bountyhunter name"
 msgid "Bounty Hunter"
-msgstr ""
+msgstr "Κυνηγός Κεφαλών"
 
 msgctxt "bountyhunter ability"
 msgid "You start knowing 1 evil player. If the player you know dies, you learn another evil player tonight. [1 Townsfolk is evil]"
-msgstr ""
+msgstr "Αρχίζεις γνωρίζοντας 1 κακό παίκτη. Αν ο παίκτης που γνωρίζεις πεθάνει, μαθαίνεις έναν νέο κακό παίκτη απόψε. [1 Κάτοικος είναι κακός]"
 
 msgctxt "bountyhunter flavor"
 msgid "Alone, I walk these streets, paved with the sick stench of corruption. Its thickness worms its way into my nostrils, unbidden, burning with revulsion. And anticipation. The illness of this wretched place grows each night. And I... I am the cure."
@@ -410,11 +400,11 @@ msgstr ""
 
 msgctxt "buddhist name"
 msgid "Buddhist"
-msgstr ""
+msgstr "Βουδιστής"
 
 msgctxt "buddhist ability"
 msgid "For the first 2 minutes of each day, veteran players may not talk."
-msgstr ""
+msgstr "Για τα 2 πρώτα λεπτά κάθε μέρας, οι έμπειροι παίκτες δεν μπορούν να μιλήσουν."
 
 msgctxt "buddhist flavor"
 msgid "You throw thorns. Falling in my silence, they become flowers."
@@ -422,11 +412,11 @@ msgstr ""
 
 msgctxt "bureaucrat name"
 msgid "Bureaucrat"
-msgstr ""
+msgstr "Γραφειοκράτης"
 
 msgctxt "bureaucrat ability"
 msgid "Each night, choose a player (not yourself): their vote counts as 3 votes tomorrow."
-msgstr ""
+msgstr "Κάθε νύχτα, επίλεξε έναν παίκτη (όχι τον εαυτό σου): η ψήφος τους πιάνει για 3 αύριο."
 
 msgctxt "bureaucrat flavor"
 msgid "Sign here please. And here. And here. Aaaaaaaaand here. This should all be sorted and tallied by the end of the day, assuming everyone's signatures are legible. We haven't had a mix-up in the paperwork for ages. Yesterday noon, if memory serves..."
@@ -446,11 +436,11 @@ msgstr ""
 
 msgctxt "butcher name"
 msgid "Butcher"
-msgstr ""
+msgstr "Χασάπης"
 
 msgctxt "butcher ability"
 msgid "Each day, after the 1st execution, you may nominate again."
-msgstr ""
+msgstr "Κάθε μέρα, μετά την 1η εκτέλεση, μπορείς να ξανακατηγορήσεις."
 
 msgctxt "butcher flavor"
 msgid "It tastes like chicken. More please."
@@ -458,11 +448,11 @@ msgstr ""
 
 msgctxt "butler name"
 msgid "Butler"
-msgstr ""
+msgstr "Μπάτλερ"
 
 msgctxt "butler ability"
 msgid "Each night, choose a player (not yourself): tomorrow, you may only vote if they are voting too."
-msgstr ""
+msgstr "Κάθε βράδυ, επίλεξε έναν παίκτη (όχι τον εαυτό σου): αύριο, μπορείς να ψηφίσεις μόνο αν αυτός ψηφίσει."
 
 msgctxt "butler flavor"
 msgid ""
@@ -485,11 +475,11 @@ msgstr ""
 
 msgctxt "cacklejack name"
 msgid "Cacklejack"
-msgstr ""
+msgstr "Χαχανοφυΐα"
 
 msgctxt "cacklejack ability"
 msgid "Each day, choose a player: a different player changes character tonight."
-msgstr ""
+msgstr "Κάθε μέρα, επίλεξε έναν παίκτη: απόψε ένας άλλος παίκτης αλλάζει χαρακτήρα."
 
 msgctxt "cacklejack flavor"
 msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!"
@@ -505,11 +495,11 @@ msgstr ""
 
 msgctxt "cannibal name"
 msgid "Cannibal"
-msgstr ""
+msgstr "Κανίβαλος"
 
 msgctxt "cannibal ability"
 msgid "You have the ability of the recently killed executee. If they are evil, you are poisoned until a good player dies by execution."
-msgstr ""
+msgstr "Έχεις την ικανότητα του πιο πρόσφατου σκοτωμένου εκτελεσμένου παίκτη. Αν είναι κακός, είσαι δηλητηριασμένος μέχρι ένας καλός παίκτης να πεθάνει από εκτέλεση."
 
 msgctxt "cannibal flavor"
 msgid "I don’t like clowns. They taste funny."
@@ -525,7 +515,7 @@ msgstr ""
 
 msgctxt "cerenovus ability"
 msgid "Each night, choose a player & a good character: they are “mad” they are this character tomorrow, or might be executed."
-msgstr ""
+msgstr "Κάθε νύχτα, επίλεξε 1 παίκτη & 1 καλο χαρακτήρα: είναι «τρελός» ως αυτός ο χαρακτήρας αύριο, ή ίσως εκτελεστεί."
 
 msgctxt "cerenovus flavor"
 msgid "Reality is merely an opinion. Specifically, my opinion."
@@ -545,11 +535,11 @@ msgstr ""
 
 msgctxt "chambermaid name"
 msgid "Chambermaid"
-msgstr ""
+msgstr "Καμαριέρα"
 
 msgctxt "chambermaid ability"
 msgid "Each night, choose 2 alive players (not yourself): you learn how many woke tonight due to their ability."
-msgstr ""
+msgstr "Κάθε βράδυ, επίλεξε 2 ζωντανούς παίκτες (όχι τον εαυτό σου): μαθαίνεις πόσοι ξύπνησαν λόγω της ικανότητάς τους απόψε."
 
 msgctxt "chambermaid flavor"
 msgid "I aint seen nothin' untoward, Milady. Begging your pardon, but if I did see somethin', it certainly weren't the master o' the house sneaking into the professor's laboratory 'round eleven o'clock and mixing up fancy potions, just like you said, Miss."
@@ -565,11 +555,11 @@ msgstr ""
 
 msgctxt "chef name"
 msgid "Chef"
-msgstr ""
+msgstr "Σεφ"
 
 msgctxt "chef ability"
 msgid "You start knowing how many pairs of evil players there are."
-msgstr ""
+msgstr "Αρχίζεις γνωρίζοντας πόσα ζεύγη κακών παικτών υπάρχουν."
 
 msgctxt "chef flavor"
 msgid "This evening's reservations seem odd. Never before has Mrs Mayweather kept company with that scamp from Hudson Lane. Yet, tonight, they have a table for two. Strange."
@@ -581,11 +571,11 @@ msgstr ""
 
 msgctxt "choirboy name"
 msgid "Choirboy"
-msgstr ""
+msgstr "Παπαδοπαίδι"
 
 msgctxt "choirboy ability"
 msgid "If the Demon kills the King, you learn which player is the Demon. [+ the King]"
-msgstr ""
+msgstr "Αν ο Δαίμονας σκοτώσει τον Βασιλιά, μαθαίνεις ποιος παίκτης είναι ο Δαίμονας. [+ τον Βασιλιά]"
 
 msgctxt "choirboy flavor"
 msgid "I saw it, I did. I was in the pews, tidying the hymn books, when a dreadful tune started from the pipe organ. The organist had a long cloak, and long fingers on the keys. And a hat that looked… just like… yours."
@@ -597,11 +587,11 @@ msgstr ""
 
 msgctxt "clockmaker name"
 msgid "Clockmaker"
-msgstr ""
+msgstr "Ωρολογοποιός"
 
 msgctxt "clockmaker ability"
 msgid "You start knowing how many steps from the Demon to its nearest Minion."
-msgstr ""
+msgstr "Αρχίζεις γνωρίζοντας πόσα βήματα από τον Δαίμονα προς το κοντινότερο Πιόνι του."
 
 msgctxt "clockmaker flavor"
 msgid "Do not disturb me. The tick must continue, for the circle is a symbol of life and contains all things - all answers - in its divine machinery. I must work."
@@ -613,11 +603,11 @@ msgstr ""
 
 msgctxt "courtier name"
 msgid "Courtier"
-msgstr ""
+msgstr "Αυλικός"
 
 msgctxt "courtier ability"
 msgid "Once per game, at night, choose a character: they are drunk for 3 nights & 3 days."
-msgstr ""
+msgstr "Μια φορά ανά παιχνίδι, τη νύχτα, επίλεξε έναν χαρακτήρα: είναι μεθυσμένος για 3 μερόνυχτα."
 
 msgctxt "courtier flavor"
 msgid "I am more afraid of an army of one hundred sheep led by a lion than an army of one hundred lions led by a sheep."
@@ -637,11 +627,12 @@ msgstr ""
 
 msgctxt "cultleader name"
 msgid "Cult Leader"
-msgstr ""
+msgstr "Αρχηγός Αίρεσης"
 
+#, fuzzy
 msgctxt "cultleader ability"
 msgid "Each night, you become the alignment of an alive neighbour. If all good players choose to join your cult, your team wins."
-msgstr ""
+msgstr "Κάθε νύχτα, γίνεσαι μέλος της ομάδας ενός ζωντανού γείτονα. Αν όλοι οι καλοί επιλέξουν να μπουν στην αίρεσή σου, η ομάδα σου νικάει."
 
 msgctxt "cultleader flavor"
 msgid "Thinking themselves wise, they became fools."
@@ -657,11 +648,11 @@ msgstr ""
 
 msgctxt "damsel name"
 msgid "Damsel"
-msgstr ""
+msgstr "Δεσποινίδα"
 
 msgctxt "damsel ability"
 msgid "All Minions know you are in play. If a Minion publicly guesses you (once), your team loses."
-msgstr ""
+msgstr "Όλα τα Πιόνια ξέρουν ότι είσαι εντός παιχνιδιού. Αν 1 Πιόνι μαντέψει (μια φορά) ποια είσαι, η ομάδα σου χάνει."
 
 msgctxt "damsel flavor"
 msgid "Don't touch the hair, honey."
@@ -681,11 +672,11 @@ msgstr ""
 
 msgctxt "deusexfiasco name"
 msgid "Deus ex Fiasco"
-msgstr ""
+msgstr "Απ' αμηχανίας Θεός"
 
 msgctxt "deusexfiasco ability"
 msgid "At least once per game, the Storyteller will make a mistake, correct it and publicly admit to it."
-msgstr ""
+msgstr "Τουλάχιστον 1 φορά ανά παιχνίδι, ο Αφηγητής θα κάνει ένα λάθος, θα το διορθώσει και θα το παραδεχτεί δημόσια."
 
 msgctxt "deusexfiasco flavor"
 msgid "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
@@ -697,11 +688,11 @@ msgstr ""
 
 msgctxt "deviant name"
 msgid "Deviant"
-msgstr ""
+msgstr "Ανώμαλος"
 
 msgctxt "deviant ability"
 msgid "If you were funny today, you cannot die by exile."
-msgstr ""
+msgstr "Αν είχες πλάκα σήμερα, δεν μπορείς να πεθάνεις από εξορία."
 
 msgctxt "deviant flavor"
 msgid "Twas the lady's quip, forsooth."
@@ -709,11 +700,11 @@ msgstr ""
 
 msgctxt "devilsadvocate name"
 msgid "Devil's Advocate"
-msgstr ""
+msgstr "Συνήγορος του Διαβόλου"
 
 msgctxt "devilsadvocate ability"
 msgid "Each night, choose a living player (different to last night): if executed tomorrow, they don't die."
-msgstr ""
+msgstr "Κάθε νύχτα, επίλεξε 1 ζωντανό παίκτη (διαφορετικό από χθες): αν εκτελεστεί αύριο, δεν πεθαίνει."
 
 msgctxt "devilsadvocate flavor"
 msgid "My client, should the objection be overruled, pleads innocent by virtue of the prosecution's non-observance of statute 27.B - incorrect or misleading conjugation of a verb. The fact that nine of the jury died last night is simply prima facie, which is, as Wills vs Thule set precedent for, further reason to acquit."
@@ -733,11 +724,11 @@ msgstr ""
 
 msgctxt "djinn name"
 msgid "Djinn"
-msgstr ""
+msgstr "Τζίνι"
 
 msgctxt "djinn ability"
 msgid "Use the Djinn's special rule. All players know what it is."
-msgstr ""
+msgstr "Χρησιμοποίησε τον ειδικό κανόνα του Τζινι. Όλοι οι παίκτες γνωρίζουν ποιος είναι αυτός ο κανόνας."
 
 msgctxt "djinn flavor"
 msgid ""
@@ -749,11 +740,11 @@ msgstr ""
 
 msgctxt "doomsayer name"
 msgid "Doomsayer"
-msgstr ""
+msgstr "Γκαντέμης"
 
 msgctxt "doomsayer ability"
 msgid "If 4 or more players live, each living player may publicly choose (once per game) that a player of their own alignment dies."
-msgstr ""
+msgstr "Αν τουλάχιστον 4 παίκτες χουν, κάθε ζωντανός παίκτης μπορεί να επιλέξει δημόσια (μια φορά ανά παιχνίδι) να πεθάνει ένας παίκτης της πλευράς τους."
 
 msgctxt "doomsayer flavor"
 msgid "And on the Seventh Day, there shall be a great flood and a pestilence upon the People of the Village of the Ravens! The dead shall rise and the living shall repent! O Woe! O Unholy day! Only by great sacrifice shall they prevail! So sayeth the Sages of Nostros and so sayeth I."
@@ -761,11 +752,11 @@ msgstr ""
 
 msgctxt "dreamer name"
 msgid "Dreamer"
-msgstr ""
+msgstr "Ονειροπόλος"
 
 msgctxt "dreamer ability"
 msgid "Each night, choose a player (not yourself or Travellers): you learn 1 good and 1 evil character, 1 of which is correct."
-msgstr ""
+msgstr "Κάθε νύχτα, επίλεξε 1 πάικτη (όχι τον εαυτό σου ή Ταξιδιώτη): μαθαίνεις 1 καλό & 1 κακό χαρακτήρα, 1 εκ των οποίων είναι σωστός."
 
 msgctxt "dreamer flavor"
 msgid "I remember the Clockmaker. The sky was red and it was raining fractal triangles. There was a smell of violets and a bubbling sound. A woman with glowing eyes and a scraggly beard was hissing at the sky. Then, I awoke."
@@ -781,11 +772,11 @@ msgstr ""
 
 msgctxt "drunk name"
 msgid "Drunk"
-msgstr ""
+msgstr "Μπεκρής"
 
 msgctxt "drunk ability"
 msgid "You do not know you are the Drunk. You think you are a Townsfolk character, but you are not."
-msgstr ""
+msgstr "Δεν ξέρεις ότι είσαι ο Μπεκρής. Νομίζεις ότι είσαι ένας συγκεκριμένος Κάτοικος, αλλά δεν είσαι."
 
 msgctxt "drunk flavor"
 msgid "I’m only a *hic* social drinker, my dear. Admittedly, I am a heavy *burp* socializer."
@@ -797,11 +788,11 @@ msgstr ""
 
 msgctxt "duchess name"
 msgid "Duchess"
-msgstr ""
+msgstr "Δούκισσα"
 
 msgctxt "duchess ability"
 msgid "Each day, 3 players may choose to visit you. At night*, each visitor learns how many visitors are evil, but 1 gets false info."
-msgstr ""
+msgstr "Κάθε μέρα, 3 παίκτες μπορούν να επιλέξουν να σε επισκεφτούν. Τη νύχτα*, κάθε επισκέπτης μαθαίνει πόσοι επισκέπτες είναι κακοί, αλλά 1 μαθαίνει λάθος πληροφορίες."
 
 msgctxt "duchess flavor"
 msgid "We shall entertain between the hours of 6 and 7 precisely. Tea at 6:15. Scones at 6:45. Do not be late. Formal wear applies, as always."
@@ -813,11 +804,11 @@ msgstr ""
 
 msgctxt "empath name"
 msgid "Empath"
-msgstr ""
+msgstr "Ενσυναίσθητος"
 
 msgctxt "empath ability"
 msgid "Each night, you learn how many of your 2 alive neighbours are evil."
-msgstr ""
+msgstr "Κάθε νύχτα, μάθε πόσοι από τους 2 ζωντανούς σου γείτονες είναι κακοί."
 
 msgctxt "empath flavor"
 msgid "My skin prickles. Something is not right here. I can feel it."
@@ -833,11 +824,11 @@ msgstr ""
 
 msgctxt "engineer name"
 msgid "Engineer"
-msgstr ""
+msgstr "Μηχανικός"
 
 msgctxt "engineer ability"
 msgid "Once per game, at night, choose which Minions or which Demon is in play."
-msgstr ""
+msgstr "Μια φορά ανά παιχνίδι, τη νύχτα, επίλεξε ποια Πιόνια ή ποιος Δαίμονας είναι εντός παιχνιδιού."
 
 msgctxt "engineer flavor"
 msgid "If it bends, great. If it breaks, well, it probably needed fixing anyway."
@@ -857,11 +848,11 @@ msgstr ""
 
 msgctxt "eviltwin name"
 msgid "Evil Twin"
-msgstr ""
+msgstr "Κακός Δίδυμος"
 
 msgctxt "eviltwin ability"
 msgid "You & an opposing player know each other. If the good player is executed, evil wins. Good can't win if you both live."
-msgstr ""
+msgstr "Εσύ & 1 αντίμαχος παίκτης γνωρίζεστε. Αν ο καλός παίκτης εκτελεστεί, νικούν οι κακοί. Οι καλοί δεν μπορούν να νικήσουν αν ζείτε και οι 2."
 
 msgctxt "eviltwin flavor"
 msgid "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!"
@@ -877,11 +868,11 @@ msgstr ""
 
 msgctxt "exorcist name"
 msgid "Exorcist"
-msgstr ""
+msgstr "Εξορκιστής"
 
 msgctxt "exorcist ability"
 msgid "Each night*, choose a player (different to last night): the Demon, if chosen, learns who you are then doesn't wake tonight."
-msgstr ""
+msgstr "Κάθε νύχτα*, επίλεξε 1 παίκτη (διαφορετικό από χθες): ο Δαίμονας, αν επιλχθεί, μαθαίνει ποιος είσαι και δεν ξυπνά απόψε."
 
 msgctxt "exorcist flavor"
 msgid "We cast you out, every unclean spirit, every satanic power, every onslaught of the infernal adversary, every legion, every diabolical group and sect, in the name and by the power of Our Lord Jesus Christ. We command you, begone and fly far from the Church of God, from the souls made by God in His image and redeemed by the precious blood of the divine Lamb."
@@ -897,11 +888,11 @@ msgstr ""
 
 msgctxt "fanggu name"
 msgid "Fang Gu"
-msgstr ""
+msgstr "Φανγκ Γκου"
 
 msgctxt "fanggu ability"
 msgid "Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu & you die instead. [+1 Outsider]"
-msgstr ""
+msgstr "Κάθε νύχτα*, επίλεξε 1 παίκτη: πεθαίνει. Ο 1ος Ξένος που σκοτώνεις γίνεται κακό Φανγκ Γκου & πεθαίνεις εσύ. [+1 Ξένος]"
 
 msgctxt "fanggu flavor"
 msgid "Your walls and your weapons are but smoke in dreams."
@@ -917,11 +908,11 @@ msgstr ""
 
 msgctxt "farmer name"
 msgid "Farmer"
-msgstr ""
+msgstr "Αγρότης"
 
 msgctxt "farmer ability"
 msgid "If you die at night, an alive good player becomes a Farmer."
-msgstr ""
+msgstr "Αν πεθάνεις τη νύχτα, 1 ζωντανός καλός παίκτης γίνεται Αγρότης."
 
 msgctxt "farmer flavor"
 msgid "Even the high and mighty need food on the table. Without us, the city starves."
@@ -933,11 +924,12 @@ msgstr ""
 
 msgctxt "fearmonger name"
 msgid "Fearmonger"
-msgstr ""
+msgstr "Κινδυνολόγος"
 
+#, fuzzy
 msgctxt "fearmonger ability"
 msgid "Each night, choose a player. If you nominate & execute them, their team loses. All players know if you choose a new player."
-msgstr ""
+msgstr "Κάθε νύχτα, επίλεξε 1 παίκτη. Αν τον κατηγορήσεις & εκτελέσεις, η ομάδα του χάνει. Όλοι οι παίκτες ξέρουν πότε επιλέγεις νέο παίκτη."
 
 msgctxt "fearmonger flavor"
 msgid "Beware of gazing long into the Abyss, lest the Abyss also gaze into you."
@@ -957,11 +949,11 @@ msgstr ""
 
 msgctxt "ferryman name"
 msgid "Ferryman"
-msgstr ""
+msgstr "Πορθμέας"
 
 msgctxt "ferryman ability"
 msgid "On the final day, all dead players regain their vote token."
-msgstr ""
+msgstr "Την τελευταία μέρα, όλοι οι νεκροί επαναποκτούν την ψήφο τους."
 
 msgctxt "ferryman flavor"
 msgid "When righteous dreams come, they have the weight of truth."
@@ -969,11 +961,11 @@ msgstr ""
 
 msgctxt "fibbin name"
 msgid "Fibbin"
-msgstr ""
+msgstr "Ψευταράς"
 
 msgctxt "fibbin ability"
 msgid "Once per game, 1 good player might get false information."
-msgstr ""
+msgstr "Μια φορά ανά παιχνίδι, 1 καλός παίκτης ίσως λάβει λάθος πληροφορίες."
 
 msgctxt "fibbin flavor"
 msgid ""
@@ -987,11 +979,11 @@ msgstr ""
 
 msgctxt "fiddler name"
 msgid "Fiddler"
-msgstr ""
+msgstr "Λυριτζής"
 
 msgctxt "fiddler ability"
 msgid "Once per game, the Demon secretly chooses an opposing player: all players choose which of these 2 players win."
-msgstr ""
+msgstr "1 φορά ανά παιχνίδι, ο Δαίμονας επιλέγει κρυφά έναν αντίμαχο παίκτη: όλοι οι παίκτες διαλέγουν ποιος απ' τους 2 κερδίζει."
 
 msgctxt "fiddler flavor"
 msgid "I'll wager mi lyef ye cannae best me in a fiddle contest, ye boss-eyed snook! We'll go out on the lash, get the pub jammers an' have a right craic. I'll be layin' ma boots into ya come mornin' ye rumbly muppet."
@@ -999,11 +991,11 @@ msgstr ""
 
 msgctxt "fisherman name"
 msgid "Fisherman"
-msgstr ""
+msgstr "Ψαράς"
 
 msgctxt "fisherman ability"
 msgid "Once per game, during the day, visit the Storyteller for some advice to help you win."
-msgstr ""
+msgstr "1 φορά ανά παιχνίδι, κατά την διάρκεια της μέρας, επισκέψου τον Αφηγητή για μια συμβουλή για το πως να νικήσεις."
 
 msgctxt "fisherman flavor"
 msgid "This was my favourite part of the river... see how the sunlight makes a rainbow from the monastery to the market? This was the best place for big fish. And the older I get, the bigger they were."
@@ -1015,11 +1007,11 @@ msgstr ""
 
 msgctxt "flowergirl name"
 msgid "Flowergirl"
-msgstr ""
+msgstr "Ανθοπώλισσα"
 
 msgctxt "flowergirl ability"
 msgid "Each night*, you learn if a Demon voted today."
-msgstr ""
+msgstr "Κάθε νύχτα*, μάθε αν ο Δαίμονας ψήφισε σήμερα."
 
 msgctxt "flowergirl flavor"
 msgid "Yesterday's violets have withered and died, but today my poppies bloom."
@@ -1035,11 +1027,11 @@ msgstr ""
 
 msgctxt "fool name"
 msgid "Fool"
-msgstr ""
+msgstr "Τρελός"
 
 msgctxt "fool ability"
 msgid "The first time you die, you don't."
-msgstr ""
+msgstr "Την πρώτη φορά που πεθαίνεις, δεν πεθαίνεις."
 
 msgctxt "fool flavor"
 msgid "...and the King said 'What?! I've never even owned a pair of rubber pantaloons, let alone a custard cannon!' Ho-ho! Jolly day!"
@@ -1051,11 +1043,11 @@ msgstr ""
 
 msgctxt "fortuneteller name"
 msgid "Fortune Teller"
-msgstr ""
+msgstr "Μάντισσα"
 
 msgctxt "fortuneteller ability"
 msgid "Each night, choose 2 players: you learn if either is a Demon. There is a good player that registers as a Demon to you."
-msgstr ""
+msgstr "Κάθε νύχτα, επίλεξε 2 παίκτες: μάθε αν κάποιος είναι ο Δαίμονας. Ένας καλός παίκτης σου φαίνεται για Δαίμονας."
 
 msgctxt "fortuneteller flavor"
 msgid "I sense great evil in your soul! But... that could just be your perfume. I am allergic to Elderberry."
@@ -1075,11 +1067,11 @@ msgstr ""
 
 msgctxt "gardener name"
 msgid "Gardener"
-msgstr ""
+msgstr "Κηπουρός"
 
 msgctxt "gardener ability"
 msgid "The Storyteller assigns 1 or more players' characters."
-msgstr ""
+msgstr "Ο Αφηγητής επιλέγει τον χαρακτήρα 1 ή περισσότερων παικτών."
 
 msgctxt "gardener flavor"
 msgid "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
@@ -1087,11 +1079,11 @@ msgstr ""
 
 msgctxt "gambler name"
 msgid "Gambler"
-msgstr ""
+msgstr "Τζογαδόρος"
 
 msgctxt "gambler ability"
 msgid "Each night*, choose a player & guess their character: if you guess wrong, you die."
-msgstr ""
+msgstr "Κάθε νύχτα*, επίλεξε 1 παίκτη & μάντεψε τον χαρακτήρα του: αν μαντέψεις λάθος, πεθαίνεις."
 
 msgctxt "gambler flavor"
 msgid "Heads, I win. Tails, you lose."
@@ -1107,11 +1099,11 @@ msgstr ""
 
 msgctxt "gangster name"
 msgid "Gangster"
-msgstr ""
+msgstr "Γκάνγκστερ"
 
 msgctxt "gangster ability"
 msgid "Once per day, you may choose to kill an alive neighbour, if your other alive neighbour agrees."
-msgstr ""
+msgstr "1 φορά ανά μέρα, μπορείς να επιλέξεις να σκοτώσεις 1 ζωντανό γείτονα, αν ο άλλος ζωντανός σου γείτονας συμφωνεί."
 
 msgctxt "gangster flavor"
 msgid "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
@@ -1119,11 +1111,11 @@ msgstr ""
 
 msgctxt "general name"
 msgid "General"
-msgstr ""
+msgstr "Στρατηγός"
 
 msgctxt "general ability"
 msgid "Each night, you learn which alignment the Storyteller believes is winning: good, evil, or neither."
-msgstr ""
+msgstr "Κάθε νύχτα, μάθε ποια πλευρά ο Αφηγητής πιστεύει ότι νικά: οι καλοί, οι κακοί, ή κανένας."
 
 msgctxt "general flavor"
 msgid "I don’t have time for quotes."
@@ -1139,11 +1131,11 @@ msgstr ""
 
 msgctxt "gnome name"
 msgid "Gnome"
-msgstr ""
+msgstr "Νάνος"
 
 msgctxt "gnome ability"
 msgid "All players start knowing a player of your alignment. You may choose to kill anyone who nominates them."
-msgstr ""
+msgstr "Όλοι οι παίκτες ξέρουν έναν παίκτη της ομάδας σου. Μπορείς να σκοτώσεις όποιον τον κατηγορήσει."
 
 msgctxt "gnome flavor"
 msgid "Four the score or seven beers, no shows are goes for me and my. A prank to crack the cranks and planks o' the floor foundation length, so incontravertabubbilly mini. The large essays down streams of joyce, no greater than is scene, not inherdt, Ha-urrumph.o."
@@ -1155,11 +1147,11 @@ msgstr ""
 
 msgctxt "goblin name"
 msgid "Goblin"
-msgstr ""
+msgstr "Καλικάντζαρος"
 
 msgctxt "goblin ability"
 msgid "If you publicly claim to be the Goblin when nominated & are executed that day, your team wins."
-msgstr ""
+msgstr "Αν ισχυριστείς δημόσια ότι είσαι ο Καλικάντζαρος όταν κατηγορηθείς & εκτελεστείς εκείνη την μέρα, η ομάδα σου νικά."
 
 msgctxt "goblin flavor"
 msgid "You don’t want to insult the goblins. You really, really don’t. On a completely different note… can I have another piece of cake?"
@@ -1171,11 +1163,11 @@ msgstr ""
 
 msgctxt "godfather name"
 msgid "Godfather"
-msgstr ""
+msgstr "Νονός"
 
 msgctxt "godfather ability"
 msgid "You start knowing which Outsiders are in play. If 1 died today, choose a player tonight: they die. [−1 or +1 Outsider]"
-msgstr ""
+msgstr "Αρχίζεις ξέροντας ποιοι Ξένοι είναι εντός παιχνιδιού. Αν 1 πέθανε σήμερα, επίλεξε έναν παίκτη απόψε: πεθαίνει. [−1 ή +1 Ξένος]"
 
 msgctxt "godfather flavor"
 msgid "Normally, it's just business. But when you insult my daughter, you insult me. And when you insult me, you insult my family. You really should be more careful - it would be a shame if you had an unfortunate accident."
@@ -1195,11 +1187,11 @@ msgstr ""
 
 msgctxt "golem name"
 msgid "Golem"
-msgstr ""
+msgstr "Γκόλεμ"
 
 msgctxt "golem ability"
 msgid "You may only nominate once per game. When you do, if the nominee is not the Demon, they die."
-msgstr ""
+msgstr "Μπορείς να κατηγορήσεις 1 φορά ανά παιχνίδι. Όταν το κάνεις, αν ο κατηγορούμενος δεν είναι ο Δαίμονας, πεθαίνει."
 
 msgctxt "golem flavor"
 msgid "Golem help? Golem smash! Golem help."
@@ -1211,11 +1203,11 @@ msgstr ""
 
 msgctxt "goon name"
 msgid "Goon"
-msgstr ""
+msgstr "Τσιράκι"
 
 msgctxt "goon ability"
 msgid "Each night, the 1st player to choose you with their ability is drunk until dusk. You become their alignment."
-msgstr ""
+msgstr "Κάθε νύχτα, ο 1ος παίκτης που σε επιλέγει με την ικανότητά του είναι μεθυσμένος ως το σούρουπο. Γίνεσαι μέλος της ομάδας του."
 
 msgctxt "goon flavor"
 msgid "Yes boss. I explained fings real good to dat geezer. He don't want me explain it again. Nah boss, I don't need no doctor - it's only a knife wound. Be right come mornin'"
@@ -1227,11 +1219,11 @@ msgstr ""
 
 msgctxt "gossip name"
 msgid "Gossip"
-msgstr ""
+msgstr "Κουτσομπόλης"
 
 msgctxt "gossip ability"
 msgid "Each day, you may make a public statement. Tonight, if it was true, a player dies."
-msgstr ""
+msgstr "Κάθε μέρα, δήλωσε κάτι δημόσια. Απόψε, αν αληθεύει, 1 παίκτης πεθαίνει."
 
 msgctxt "gossip flavor"
 msgid "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah."
@@ -1247,11 +1239,11 @@ msgstr ""
 
 msgctxt "grandmother name"
 msgid "Grandmother"
-msgstr ""
+msgstr "Γιαγιά"
 
 msgctxt "grandmother ability"
 msgid "You start knowing a good player & their character. If the Demon kills them, you die too."
-msgstr ""
+msgstr "Αρχίζεις ξέροντας 1 καλό παίκτη & τον χαρακτήρα του. Αν ο Δαίμονας τον σκοτώσει, πεθαίνεις κι εσύ."
 
 msgctxt "grandmother flavor"
 msgid "Take a jacket if you go outside, dearie. And your thermos. And your scarf. I have a weak heart, you know. Whatever would I do if you caught cold...or worse?"
