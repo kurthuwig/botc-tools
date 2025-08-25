@@ -1,5 +1,16 @@
 msgid ""
-msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-08-10 06:24+0000\nLast-Translator: Eliderad <aki12@live.se>\nLanguage-Team: Swedish <https://hosted.weblate.org/projects/botc/characters/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13-dev\n"
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2025-08-10 06:24+0000\n"
+"Last-Translator: Eliderad <aki12@live.se>\n"
+"Language-Team: Swedish <https://hosted.weblate.org/projects/botc/characters/sv/>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 msgctxt "acrobat name"
 msgid "Acrobat"
@@ -504,9 +515,10 @@ msgctxt "cannibal flavor"
 msgid "I don’t like clowns. They taste funny."
 msgstr "Jag tyckte mycket om din make. Han var en god man."
 
+#, fuzzy
 msgctxt "cannibal reminders"
-msgid "Poisoned,Died today"
-msgstr "Förgiftad,Middag"
+msgid "Poisoned,Lunch"
+msgstr "Förgiftad"
 
 msgctxt "cerenovus name"
 msgid "Cerenovus"
@@ -3222,3 +3234,7 @@ msgstr "Om ingen dog på dagen så pekar Zombuul på en spelare. Den spelaren d�
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "Dog idag,Död"
+
+#~ msgctxt "cannibal reminders"
+#~ msgid "Poisoned,Died today"
+#~ msgstr "Förgiftad,Middag"

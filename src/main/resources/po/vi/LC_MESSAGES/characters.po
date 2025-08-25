@@ -1,5 +1,16 @@
 msgid ""
-msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-08-11 15:18+0000\nLast-Translator: tuanhuyng <tuanhuynguyen806@gmail.com>\nLanguage-Team: Vietnamese <https://hosted.weblate.org/projects/botc/characters/vi/>\nLanguage: vi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.13-dev\n"
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2025-08-11 15:18+0000\n"
+"Last-Translator: tuanhuyng <tuanhuynguyen806@gmail.com>\n"
+"Language-Team: Vietnamese <https://hosted.weblate.org/projects/botc/characters/vi/>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 msgctxt "acrobat name"
 msgid "Acrobat"
@@ -507,9 +518,10 @@ msgctxt "cannibal flavor"
 msgid "I don’t like clowns. They taste funny."
 msgstr "I don’t like clowns. They taste funny."
 
+#, fuzzy
 msgctxt "cannibal reminders"
-msgid "Poisoned,Died today"
-msgstr "Trúng độc,Chết hôm nay"
+msgid "Poisoned,Lunch"
+msgstr "Trúng độc"
 
 msgctxt "cerenovus name"
 msgid "Cerenovus"
@@ -3250,3 +3262,7 @@ msgstr "Nếu không ai chết trong ngày: Zombuul chỉ 1 người. Người �
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "Chết hôm nay,Chết"
+
+#~ msgctxt "cannibal reminders"
+#~ msgid "Poisoned,Died today"
+#~ msgstr "Trúng độc,Chết hôm nay"

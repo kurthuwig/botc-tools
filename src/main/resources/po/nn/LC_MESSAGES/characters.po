@@ -518,9 +518,10 @@ msgctxt "cannibal flavor"
 msgid "I don’t like clowns. They taste funny."
 msgstr "I don’t like clowns. They taste funny."
 
+#, fuzzy
 msgctxt "cannibal reminders"
-msgid "Poisoned,Died today"
-msgstr "Forgifta,Døydde i dag"
+msgid "Poisoned,Lunch"
+msgstr "Forgifta"
 
 msgctxt "cerenovus name"
 msgid "Cerenovus"
@@ -3261,3 +3262,7 @@ msgstr "Om ingen døydde om dagen: Dauguulen peiker mot ein spelar. Spelaren dø
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "Døydde i dag,Daud"
+
+#~ msgctxt "cannibal reminders"
+#~ msgid "Poisoned,Died today"
+#~ msgstr "Forgifta,Døydde i dag"

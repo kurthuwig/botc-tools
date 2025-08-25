@@ -518,9 +518,10 @@ msgctxt "cannibal flavor"
 msgid "I don’t like clowns. They taste funny."
 msgstr "I don’t like clowns. They taste funny."
 
+#, fuzzy
 msgctxt "cannibal reminders"
-msgid "Poisoned,Died today"
-msgstr "ติดพิษ,ตายวันนี้"
+msgid "Poisoned,Lunch"
+msgstr "ติดพิษ"
 
 msgctxt "cerenovus name"
 msgid "Cerenovus"
@@ -3262,3 +3263,7 @@ msgstr "ถ้าวันนี้ไม่มีใครตาย ซอม�
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "ตายวันนี้,ตาย"
+
+#~ msgctxt "cannibal reminders"
+#~ msgid "Poisoned,Died today"
+#~ msgstr "ติดพิษ,ตายวันนี้"

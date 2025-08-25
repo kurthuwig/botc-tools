@@ -518,9 +518,10 @@ msgctxt "cannibal flavor"
 msgid "I don’t like clowns. They taste funny."
 msgstr "Saya tidak suka badut. Mereka rasanya aneh."
 
+#, fuzzy
 msgctxt "cannibal reminders"
-msgid "Poisoned,Died today"
-msgstr "Poisoned,Died today"
+msgid "Poisoned,Lunch"
+msgstr "Poisoned"
 
 msgctxt "cerenovus name"
 msgid "Cerenovus"
@@ -3260,3 +3261,7 @@ msgstr "Jika tidak ada yang mati selama hari itu: Zombuul menunjuk ke seorang pe
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "Died today,Dead"
+
+#~ msgctxt "cannibal reminders"
+#~ msgid "Poisoned,Died today"
+#~ msgstr "Poisoned,Died today"
