@@ -515,7 +515,7 @@ msgid "I don’t like clowns. They taste funny."
 msgstr ""
 
 msgctxt "cannibal reminders"
-msgid "Poisoned,Died today"
+msgid "Poisoned,Lunch"
 msgstr ""
 
 msgctxt "cerenovus name"
