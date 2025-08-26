@@ -1,16 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-08-11 15:18+0000\n"
-"Last-Translator: tuanhuyng <tuanhuynguyen806@gmail.com>\n"
-"Language-Team: Vietnamese <https://hosted.weblate.org/projects/botc/characters/vi/>\n"
-"Language: vi\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13-dev\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-08-26 22:02+0000\nLast-Translator: tuanhuyng <tuanhuynguyen806@gmail.com>\nLanguage-Team: Vietnamese <https://hosted.weblate.org/projects/botc/characters/vi/>\nLanguage: vi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.13\n"
 
 msgctxt "acrobat name"
 msgid "Acrobat"
@@ -378,7 +367,7 @@ msgstr "Kịch bản này có nhân vật hoặc luật tự chế."
 
 msgctxt "bootlegger flavor"
 msgid "I've got the latest shipment from home, a brew I'd like to call 'Barrowfog'. Wanna try?"
-msgstr "I've got the latest shipment from home, a brew I'd like to call 'Barrowfog'. Wanna try?"
+msgstr "Tôi gửi gói hàng mới nhất rồi, một thứ tôi gọi là 'Barrowfog'. Có thử không?"
 
 msgctxt "bootlegger firstNightReminder"
 msgid "Announce the Bootlegger is in play and inform the group of all homebrew characters and/or rules you are using in this game."
@@ -418,7 +407,7 @@ msgstr "Trong 2 phút đầu tiên mỗi ngày, người kỳ cựu không đư�
 
 msgctxt "buddhist flavor"
 msgid "You throw thorns. Falling in my silence, they become flowers."
-msgstr "You throw thorns. Falling in my silence, they become flowers."
+msgstr "Người ném gai. Rơi vào sự tĩnh lặng của ta, nó sẽ biến thành bông hoa."
 
 msgctxt "bureaucrat name"
 msgid "Bureaucrat"
@@ -454,7 +443,7 @@ msgstr "Mỗi ngày, sau hành quyết đầu tiên, bạn có thể biểu quy�
 
 msgctxt "butcher flavor"
 msgid "It tastes like chicken. More please."
-msgstr "It tastes like chicken. More please."
+msgstr "Nó có vị như gà. Cho thêm cái nữa."
 
 msgctxt "butler name"
 msgid "Butler"
@@ -469,10 +458,7 @@ msgid ""
 "Yes, sir...\n"
 "No, sir...\n"
 "Certainly, sir."
-msgstr ""
-"Yes, sir...\n"
-"No, sir...\n"
-"Certainly, sir."
+msgstr "Đúng rồi, thưa ngài...\nKhông, thưa ngài...\nChắc chắn rồi, thưa ngài."
 
 msgctxt "butler firstNightReminder"
 msgid "The Butler points to a player. Mark that player as 'Master'."
@@ -500,7 +486,7 @@ msgstr "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingE
 
 msgctxt "cacklejack otherNightReminder"
 msgid "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
-msgstr "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+msgstr "Gọi người không được đánh dấu 'Không phải tôi', cho họ thấy thẻ 'Bạn là', và nhân vật mới của họ."
 
 msgctxt "cacklejack reminders"
 msgid "Not me"
@@ -516,12 +502,11 @@ msgstr "Bạn có chức năng của người chết vì hành quyết gần nh�
 
 msgctxt "cannibal flavor"
 msgid "I don’t like clowns. They taste funny."
-msgstr "I don’t like clowns. They taste funny."
+msgstr "Tôi không thích hề. Bọn họ vị hơi hài hài."
 
-#, fuzzy
 msgctxt "cannibal reminders"
 msgid "Poisoned,Lunch"
-msgstr "Trúng độc"
+msgstr "Trúng độc, Ăn nhẹ"
 
 msgctxt "cerenovus name"
 msgid "Cerenovus"
@@ -533,7 +518,7 @@ msgstr "Mỗi đêm, chọn 1 người & nhân vật tốt: ngày mai họ phả
 
 msgctxt "cerenovus flavor"
 msgid "Reality is merely an opinion. Specifically, my opinion."
-msgstr "Reality is merely an opinion. Specifically, my opinion."
+msgstr "Thực tế chỉ là một ý kiến. Chính xác hơn là ý kiến của ta."
 
 msgctxt "cerenovus firstNightReminder"
 msgid "The Cerenovus points to a player, then to a character on their sheet. Wake that player. Show the 'This character selected you' card, then the Cerenovus token. Show the selected character token. If the player is not mad about being that character tomorrow, they can be executed."
@@ -577,7 +562,7 @@ msgstr "Đêm đầu tiên, bạn biết có bao nhiêu cặp người xấu ng�
 
 msgctxt "chef flavor"
 msgid "This evening's reservations seem odd. Never before has Mrs Mayweather kept company with that scamp from Hudson Lane. Yet, tonight, they have a table for two. Strange."
-msgstr "This evening's reservations seem odd. Never before has Mrs Mayweather kept company with that scamp from Hudson Lane. Yet, tonight, they have a table for two. Strange."
+msgstr "Bàn đặt tối nay trông hơi lạ. Chưa bao giờ thấy bà Mayweather đi cùng với gã đến từ Hudson Lane. Vậy mà tối nay, bọn họ lại đặt bàn đôi. Lạ thật."
 
 msgctxt "chef firstNightReminder"
 msgid "Show the finger signal (0, 1, 2, …) for the number of pairs of neighbouring evil players."
@@ -625,7 +610,7 @@ msgstr "Một lần trong game, trong đêm, chọn 1 nhân vật: họ bị say
 
 msgctxt "courtier flavor"
 msgid "I am more afraid of an army of one hundred sheep led by a lion than an army of one hundred lions led by a sheep."
-msgstr "I am more afraid of an army of one hundred sheep led by a lion than an army of one hundred lions led by a sheep."
+msgstr "Tôi sợ con hổ cầm đầu đội quân trăm cừu hơn con cừu cầm đầu đội quân trăm hổ."
 
 msgctxt "courtier firstNightReminder"
 msgid "The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk."
@@ -649,7 +634,7 @@ msgstr "Mỗi đêm, bạn có phe của 1 người hàng xóm còn sống. Nế
 
 msgctxt "cultleader flavor"
 msgid "Thinking themselves wise, they became fools."
-msgstr "Thinking themselves wise, they became fools."
+msgstr "Họ tự nghĩ mình khôn rồi khắc họ sẽ tự biến thành thằng ngốc."
 
 msgctxt "cultleader firstNightReminder"
 msgid "If the cult leader changed alignment, show them the thumbs up good signal of the thumbs down evil signal accordingly."
@@ -669,7 +654,7 @@ msgstr "Tất cả tay sai biết có Thiếu nữ trong game. Nếu Tay sai cô
 
 msgctxt "damsel flavor"
 msgid "Don't touch the hair, honey."
-msgstr "Don't touch the hair, honey."
+msgstr "Đừng chạm vào tóc chị nhé em."
 
 msgctxt "damsel firstNightReminder"
 msgid "Wake all the Minions, show them the 'This character selected you' card and the Damsel token."
@@ -693,7 +678,7 @@ msgstr "Một lần trong game, Người kể chuyện sẽ \"mắc lỗi\", s�
 
 msgctxt "deusexfiasco flavor"
 msgid "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
-msgstr "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
+msgstr "Đây không phải là bug, đấy là tính năng. Đây không phải là lỗi, đẩy là kế hoạch có sẵn. Chỗ này không hỏng, nó là cái đặc biệt."
 
 msgctxt "deusexfiasco reminders"
 msgid "Whoopsie"
@@ -777,7 +762,7 @@ msgstr "Mỗi đêm, chọn 1 người (không phải mình hay Lữ Khách): đ
 
 msgctxt "dreamer flavor"
 msgid "I remember the Clockmaker. The sky was red and it was raining fractal triangles. There was a smell of violets and a bubbling sound. A woman with glowing eyes and a scraggly beard was hissing at the sky. Then, I awoke."
-msgstr "I remember the Clockmaker. The sky was red and it was raining fractal triangles. There was a smell of violets and a bubbling sound. A woman with glowing eyes and a scraggly beard was hissing at the sky. Then, I awoke."
+msgstr "Tôi mơ thấy Thợ đồng hồ. Trời đỏ và mưa lác đác rơi. Ở đó có mùi cây đồng thảo cùng với tiếng sôi sùng sục. Một cụ bà với 2 đôi bắt đỏ và râu lởm chởm nhìn lên bầu trời. Và rồi, tôi tỉnh dậy."
 
 msgctxt "dreamer firstNightReminder"
 msgid "The Dreamer points to a player. Show 1 good and 1 evil character token; one of these is correct."
@@ -797,7 +782,7 @@ msgstr "Bạn không biết bạn là Say rượu. Bạn nghĩ bạn là nhân v
 
 msgctxt "drunk flavor"
 msgid "I’m only a *hic* social drinker, my dear. Admittedly, I am a heavy *burp* socializer."
-msgstr "I’m only a *hic* social drinker, my dear. Admittedly, I am a heavy *burp* socializer."
+msgstr "Tôi chỉ *hic* uống để giao lưu thôi. Nói thật, tôi *ợ* giao lưu cũng hơi nhiều chút."
 
 msgctxt "drunk remindersGlobal"
 msgid "Drunk"
@@ -813,7 +798,7 @@ msgstr "Mỗi ngày, 3 người có thể thăm bạn. Trong đêm*, mỗi ngư�
 
 msgctxt "duchess flavor"
 msgid "We shall entertain between the hours of 6 and 7 precisely. Tea at 6:15. Scones at 6:45. Do not be late. Formal wear applies, as always."
-msgstr "We shall entertain between the hours of 6 and 7 precisely. Tea at 6:15. Scones at 6:45. Do not be late. Formal wear applies, as always."
+msgstr "Tôi chỉ tiếp đón trong khoảng thời gian chính xác từ 6 đến 7 giờ. Trà tiếp lúc 6h15. Bánh kẹo lúc 6h45. Đừng đến muộn. Trang phục vẫn phải lịch sự như thường lệ."
 
 msgctxt "duchess reminders"
 msgid "Visitor,False Info"
@@ -829,7 +814,7 @@ msgstr "Mỗi đêm, bạn biết số người xấu trong 2 hàng xóm sống 
 
 msgctxt "empath flavor"
 msgid "My skin prickles. Something is not right here. I can feel it."
-msgstr "My skin prickles. Something is not right here. I can feel it."
+msgstr "Tôi bắt đầu nổi da gà. Có cái gì không đúng ở đây. Tôi cảm thấy điều đó."
 
 msgctxt "empath firstNightReminder"
 msgid "Show the finger signal (0, 1, 2) for the number of evil alive neighbours of the Empath."
@@ -849,7 +834,7 @@ msgstr "Một lần trong game, trong đêm, chọn Quỷ nào hoặc những Ta
 
 msgctxt "engineer flavor"
 msgid "If it bends, great. If it breaks, well, it probably needed fixing anyway."
-msgstr "If it bends, great. If it breaks, well, it probably needed fixing anyway."
+msgstr "Nếu nó cong, được, Nếu nó gẫy, thực ra nó thể nào cũng cần phải sửa thôi."
 
 msgctxt "engineer firstNightReminder"
 msgid "The Engineer shows a 'no' head signal, or points to a Demon or points to the relevant number of Minions. If the Engineer chose characters, replace the Demon or Minions with the choices, then wake the relevant players and show them the You are card and the relevant character tokens."
@@ -873,7 +858,7 @@ msgstr "Bạn & 1 người khác phe biết nhau. Nếu người đó bị hành
 
 msgctxt "eviltwin flavor"
 msgid "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!"
-msgstr "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!"
+msgstr "Tôi không phải là Sara! Tôi là Clara! CÔ TA mới là Sara! Sara là người xấu! Không phải tôi!"
 
 msgctxt "eviltwin firstNightReminder"
 msgid "Wake the Evil Twin and their twin. Confirm that they have acknowledged each other. Point to the Evil Twin. Show their Evil Twin token to the twin player. Point to the twin. Show their character token to the Evil Twin player."
@@ -933,7 +918,7 @@ msgstr "Khi bạn chết trong đêm, 1 người tốt trở thành Nông dân."
 
 msgctxt "farmer flavor"
 msgid "Even the high and mighty need food on the table. Without us, the city starves."
-msgstr "Even the high and mighty need food on the table. Without us, the city starves."
+msgstr "Ngay cả người cấp cao cũng cần có bàn ăn. Không có chúng tôi, cả thành phố sẽ chịu đói."
 
 msgctxt "farmer otherNightReminder"
 msgid "If a Farmer died tonight, choose another good player and make them the Farmer. Wake this player, show them the 'You are' card and the Farmer character token."
@@ -973,7 +958,7 @@ msgstr "Vào ngày cuối cùng, tất cả người chết hồi lại vote ch�
 
 msgctxt "ferryman flavor"
 msgid "When righteous dreams come, they have the weight of truth."
-msgstr "When righteous dreams come, they have the weight of truth."
+msgstr "Khi ước mơ chính nghĩa đến, nó sẽ mang đến sức nặng của sự thật."
 
 msgctxt "fibbin name"
 msgid "Fibbin"
@@ -1033,7 +1018,7 @@ msgstr "Mỗi đêm*, bạn biết Quỷ có bỏ phiếu hôm nay hay không."
 
 msgctxt "flowergirl flavor"
 msgid "Yesterday's violets have withered and died, but today my poppies bloom."
-msgstr "Yesterday's violets have withered and died, but today my poppies bloom."
+msgstr "Hoa đồng thảo hôm qua đã héo và chết rồi, nhưng hôm nay hoa anh túc đã nở rộ."
 
 msgctxt "flowergirl otherNightReminder"
 msgid "Nod 'yes' or shake head 'no' for whether the Demon voted today. Place the 'Demon not voted' marker (remove 'Demon voted', if any)."
@@ -1069,7 +1054,7 @@ msgstr "Mỗi đêm, chọn 2 người: bạn biết trong đó có Quỷ hay kh
 
 msgctxt "fortuneteller flavor"
 msgid "I sense great evil in your soul! But... that could just be your perfume. I am allergic to Elderberry."
-msgstr "I sense great evil in your soul! But... that could just be your perfume. I am allergic to Elderberry."
+msgstr "Tôi có một thấy có ác cảm trong tâm hồn của ngươi! Nhưng... cũng có thể là mùi nước hoa của ngươi. Tôi bị dị ứng với Quả cơm cháy."
 
 msgctxt "fortuneteller firstNightReminder"
 msgid "The Fortune Teller points to two players. Give the head signal (nod yes, shake no) for whether one of those players is the Demon."
@@ -1091,9 +1076,10 @@ msgctxt "gardener ability"
 msgid "The Storyteller assigns 1 or more players' characters."
 msgstr "Người kể chuyện tự đưa nhân vật cho 1 hay nhiều người chơi."
 
+#, fuzzy
 msgctxt "gardener flavor"
 msgid "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
-msgstr "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
+msgstr "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
 
 msgctxt "gambler name"
 msgid "Gambler"
@@ -1105,7 +1091,7 @@ msgstr "Mỗi đêm*, chọn 1 người & đoán nhân vật của họ: nếu b
 
 msgctxt "gambler flavor"
 msgid "Heads, I win. Tails, you lose."
-msgstr "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
+msgstr "Ngửa thì tôi thắng. Úp thì anh thua."
 
 msgctxt "gambler otherNightReminder"
 msgid "The Gambler points to a player, and a character on their sheet. If incorrect, the Gambler dies."
@@ -1123,9 +1109,10 @@ msgctxt "gangster ability"
 msgid "Once per day, you may choose to kill an alive neighbour, if your other alive neighbour agrees."
 msgstr "Một lần trong ngày, bạn có thể chọn giết 1 hàng xóm sống, nếu hàng xóm sống còn lại đồng ý."
 
+#, fuzzy
 msgctxt "gangster flavor"
 msgid "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
-msgstr "Heads, I win. Tails, you lose."
+msgstr "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
 
 msgctxt "general name"
 msgid "General"
@@ -1137,7 +1124,7 @@ msgstr "Mỗi đêm, bạn biết phe mà Người kể chuyện nghĩ là đang
 
 msgctxt "general flavor"
 msgid "I don’t have time for quotes."
-msgstr "I don’t have time for quotes."
+msgstr "Tôi không rảnh để trích dẫn."
 
 msgctxt "general firstNightReminder"
 msgid "Show the General thumbs up for good winning, thumbs down for evil winning or thumb to the side for neither."
@@ -1173,7 +1160,7 @@ msgstr "Nếu bạn công khai rằng mình là Yêu tinh khi bị biểu quyế
 
 msgctxt "goblin flavor"
 msgid "You don’t want to insult the goblins. You really, really don’t. On a completely different note… can I have another piece of cake?"
-msgstr "You don’t want to insult the goblins. You really, really don’t. On a completely different note… can I have another piece of cake?"
+msgstr "Ngươi không được xúc phạm yêu tinh. Ngươi thật sự không nên làm vậy. Mà đổi sang chủ để mới... ngươi có thể cho ta xin miếng bánh khác không?"
 
 msgctxt "goblin reminders"
 msgid "Claimed"
@@ -1213,7 +1200,7 @@ msgstr "Bạn chỉ được biểu quyết 1 lần trong game. Khi đó, nếu 
 
 msgctxt "golem flavor"
 msgid "Golem help? Golem smash! Golem help."
-msgstr "Golem help? Golem smash! Golem help."
+msgstr "Người đá giúp? Người đá phá! Người đá giúp."
 
 msgctxt "golem reminders"
 msgid "Can not nominate"
@@ -1265,7 +1252,7 @@ msgstr "Bạn bắt đầu biết 1 người tốt & nhân vật của họ. N�
 
 msgctxt "grandmother flavor"
 msgid "Take a jacket if you go outside, dearie. And your thermos. And your scarf. I have a weak heart, you know. Whatever would I do if you caught cold...or worse?"
-msgstr "Take a jacket if you go outside, dearie. And your thermos. And your scarf. I have a weak heart, you know. Whatever would I do if you caught cold...or worse?"
+msgstr "Cháu phải mặc áo ấm trước khi ra ngoài. Và cầm theo ấm nước. Và khăn, Tim ta yếu lắm mà cháu. Bà phải làm sao nếu cháu bị ốm... hoăc tệ hơn?"
 
 msgctxt "grandmother firstNightReminder"
 msgid "Show the marked character token. Point to the marked player."
@@ -1289,7 +1276,7 @@ msgstr "Mỗi ngày, sau khi phiếu bầu đầu tiên được đếm, bạn c
 
 msgctxt "gunslinger flavor"
 msgid "It's time someone took matters into their own hands. That someone... is me."
-msgstr "It's time someone took matters into their own hands. That someone... is me."
+msgstr "Đến lúc phải đó người trực tiếp xử lý việc này. Người đó... là ta."
 
 msgctxt "harlot name"
 msgid "Harlot"
@@ -1301,7 +1288,7 @@ msgstr "Mỗi đêm*, chọn 1 người sống: nếu họ đồng ý, bạn bi�
 
 msgctxt "harlot flavor"
 msgid "Enchanté, Sailor. You look like you need someone to really listen to your troubles. I'm a good listener. Very, very good."
-msgstr "Enchanté, Sailor. You look like you need someone to really listen to your troubles. I'm a good listener. Very, very good."
+msgstr "Enchanté, Thủy thủ. Anh trông như là người cần nói chuyện về vấn đề của chính mình. Tôi là người giỏi lắng nghe mà. Rất, rất giỏi."
 
 msgctxt "harlot otherNightReminder"
 msgid "The Harlot points at any player. Then, put the Harlot to sleep. Wake the chosen player, show them the 'This character selected you' token, then the Harlot token. That player either nods their head yes or shakes their head no. If they nodded their head yes, wake the Harlot and show them the chosen player's character token. Then, you may decide that both players die."
@@ -1345,7 +1332,7 @@ msgstr "Nếu bạn chết trong hôm nay hoặc đêm nay, Quỷ và Tay sai c�
 
 msgctxt "hatter flavor"
 msgid "One Hat. Too Hat. Three Hat. Tea Hat. Fore Hat. Thrive Hat. Six Hat. Sticks Hat."
-msgstr "One Hat. Too Hat. Three Hat. Tea Hat. Fore Hat. Thrive Hat. Six Hat. Sticks Hat."
+msgstr "Một mũ. Hai mũ. Ba mũ. Báo mũ. Tu mũ. Nam mũ. Sau mũ. Mãy bủ."
 
 msgctxt "hatter otherNightReminder"
 msgid "If the Hatter died today: Wake the Minions and Demon. Show them the 'This Character Selected You' info token, then the Hatter token. Each player either shakes their head no or points to another character of the same type as their current character.  If a second player would end up with the same character as another player, shake your head no and gesture for them to choose again. Put them to sleep. Change each player to the character they chose."
@@ -1493,7 +1480,7 @@ msgstr "Đêm đầu tiên, bạn biết chức năng của Tay Sai thuộc về
 
 msgctxt "investigator flavor"
 msgid "It is a fine night for a stroll, wouldn't you say, Mister Morozov? Or should I say... BARON Morozov?"
-msgstr "It is a fine night for a stroll, wouldn't you say, Mister Morozov? Or should I say... BARON Morozov?"
+msgstr "Đúng là một đêm tốt để đỉ dạo, đúng không, ngài Morozov? Hay ta nên nói là... NAM TƯỚC Morozov?"
 
 msgctxt "investigator firstNightReminder"
 msgid "Show the character token of a Minion in play. Point to two players, one of which is that character."
@@ -1513,7 +1500,7 @@ msgstr "Một lần trong game, nếu người khác biểu quyết, bạn có t
 
 msgctxt "judge flavor"
 msgid "I find the defendant guilty of the crimes of murder, fraud, arson, larceny, impersonating an officer of the law, practicing medicine without a license, slander, regicide, and littering."
-msgstr "I find the defendant guilty of the crimes of murder, fraud, arson, larceny, impersonating an officer of the law, practicing medicine without a license, slander, regicide, and littering."
+msgstr "Tôi xác định bị cáo phạm tội gồm giết người, lừa đảo, đốt nhà, trộm cắp, giả làm công an, làm thuốc không có bằng cấp, phỉ báng, lật đổ vua, và xả rác bừa bãi."
 
 msgctxt "judge reminders"
 msgid "No ability"
@@ -1700,10 +1687,7 @@ msgid ""
 "Step 1: Be cute.\n"
 "Step 2: World domination.\n"
 "Step 3: Bweakfast."
-msgstr ""
-"Step 1: Be cute.\n"
-"Step 2: World domination.\n"
-"Step 3: Bweakfast."
+msgstr "Bước 1: Trở nên đáng yêu.\nBước 2: Chiếm thế giới.\nBước 3: Ăn sáng."
 
 msgctxt "lilmonsta firstNightReminder"
 msgid "Wake all Minions together, allow them to vote by pointing at who they want to babysit Lil' Monsta."
@@ -1775,7 +1759,7 @@ msgstr "Bạn nghĩ bạn là Quỷ, nhưng bạn không phải. Quỷ biết b�
 
 msgctxt "lunatic flavor"
 msgid "I am the night... I think."
-msgstr "I am the night... I think."
+msgstr "Tôi là bóng đêm... hình như thế."
 
 msgctxt "lunatic firstNightReminder"
 msgid "If 7 or more players: Show the Lunatic a number of arbitrary 'Minions', players equal to the number of Minions in play. Show 3 character tokens of arbitrary good characters. If the token received by the Lunatic is a Demon that would wake tonight: Allow the Lunatic to do the Demon actions. Place their 'attack' markers. Wake the Demon. Show the Demon’s real character token. Show them the Lunatic player. If the Lunatic attacked players: Show the real demon each marked player. Remove any Lunatic 'attack' markers."
