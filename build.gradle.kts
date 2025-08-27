@@ -48,7 +48,7 @@ tasks.register("updatePoFiles") {
     description = "Updates all PO files for 'characters' and 'jinxes' in src/main/resources/po/*/LC_MESSAGES with their master POT files."
 
     doLast {
-        val filenames = listOf("characters", "jinxes")
+        val filenames = listOf("app", "characters", "jinxes")
 
         filenames.forEach { filename ->
             println("--- Starting update for '$filename' ---")

@@ -189,6 +189,7 @@ class PlayerSheetPrinter(locale: Locale) {
                     appL10n.tr("* not in the first night")
                 )
                 .replace("###OTHER_NIGHT_EXPLANATION###", appL10n.tr("Other night order"))
+                .replace("###COMMUNITY_CREATED_CONTENT###", appL10n.tr("community created content that is not affiliated with TPI"))
         )
         out.flush()
     }

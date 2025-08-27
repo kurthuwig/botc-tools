@@ -3,51 +3,67 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 msgid ""
-msgstr "Project-Id-Version: 1.0\nReport-Msgid-Bugs-To: Kurt Huwig\nPOT-Creation-Date: \nPO-Revision-Date: 2025-08-17 07:46+0000\nLast-Translator: Bulut Coşkuner <bulutc2008@gmail.com>\nLanguage-Team: Turkish <https://hosted.weblate.org/projects/botc/sheet-printer/tr/>\nLanguage: tr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13\n"
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: Kurt Huwig\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2025-08-17 07:46+0000\n"
+"Last-Translator: Bulut Coşkuner <bulutc2008@gmail.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/botc/sheet-printer/tr/>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13\n"
 
-#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:152
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:186
 msgid "First night order"
 msgstr "İlk gece sırası"
 
-#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:154
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:191
 msgid "Other night order"
 msgstr "Diğer gece sırası"
 
-#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:153
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:189
 msgid "* not in the first night"
 msgstr "* ilk gece değil"
 
-#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:138
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:154
 msgctxt "section"
 msgid "Townsfolk"
 msgstr "Kasabalılar"
 
-#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:140
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:159
 msgctxt "section"
 msgid "Outsiders"
 msgstr "Yabancılar"
 
-#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:142
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:164
 msgctxt "section"
 msgid "Minions"
 msgstr "Minyonlar"
 
-#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:144
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:169
 msgctxt "section"
 msgid "Demons"
 msgstr "İblisler"
 
-#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:146
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:174
 msgctxt "section"
 msgid "Fabled"
 msgstr "Efsaneviler"
 
-#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:148
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:179
 msgctxt "section"
 msgid "Travellers"
 msgstr "Gezginler"
 
-#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:133
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:149
 #, java-format
 msgid "by {{author}}"
 msgstr "{{author}} tarafından"
+
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:192
+msgid "community created content that is not affiliated with TPI"
+msgstr ""

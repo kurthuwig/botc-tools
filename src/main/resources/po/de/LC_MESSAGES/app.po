@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: Kurt Huwig\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-07-23 00:09+0200\n"
+"PO-Revision-Date: 2025-08-26 09:58+0200\n"
 "Last-Translator: \n"
 "Language-Team: GitHub\n"
 "Language: de_DE\n"
@@ -17,49 +17,53 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.6\n"
 
-#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:152
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:186
 msgid "First night order"
 msgstr "Reihenfolge in der ersten Nacht"
 
-#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:154
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:191
 msgid "Other night order"
 msgstr "Reihenfolge in den weiteren Nächten"
 
-#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:153
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:189
 msgid "* not in the first night"
 msgstr "* nicht in der ersten Nacht"
 
-#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:138
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:154
 msgctxt "section"
 msgid "Townsfolk"
 msgstr "Bürger"
 
-#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:140
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:159
 msgctxt "section"
 msgid "Outsiders"
 msgstr "Außenseiter"
 
-#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:142
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:164
 msgctxt "section"
 msgid "Minions"
 msgstr "Schergen"
 
-#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:144
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:169
 msgctxt "section"
 msgid "Demons"
 msgstr "Dämonen"
 
-#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:146
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:174
 msgctxt "section"
 msgid "Fabled"
 msgstr "Legendäre"
 
-#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:148
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:179
 msgctxt "section"
 msgid "Travellers"
 msgstr "Reisende"
 
-#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:133
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:149
 #, java-format
 msgid "by {{author}}"
 msgstr "von {{author}}"
+
+#: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:192
+msgid "community created content that is not affiliated with TPI"
+msgstr "von der Gemeinschaft geschaffener Inhalt, der nicht mit TPI verbunden ist"

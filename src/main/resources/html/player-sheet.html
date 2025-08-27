@@ -41,6 +41,13 @@
       margin-left: auto;
     }
 
+    .community_created_content {
+      margin-left: 4px;
+      height: 24px;
+      object-fit: contain;
+      align-self: flex-start;
+    }
+
     .section-header {
       transform: rotate(-90deg);
       white-space: nowrap;
@@ -178,6 +185,7 @@
 <div class="title-container">
   <div class="title">###SCRIPT_NAME###</div>
   <div class="author">###AUTHOR###</div>
+  <img class="community_created_content" src="/community_created_content_parchment.png" alt="Community created content"/>
 </div>
 <div class="character-grid">
   <div class="section-column townsfolk-section">
@@ -211,7 +219,7 @@
   </div>
 </div>
 <div class="copyright">
-  &copy; Steven Medway | unofficial community created content that is not affiliated with TPI
+  &copy; Steven Medway | ###COMMUNITY_CREATED_CONTENT###
 </div>
 </body>
 <script>
