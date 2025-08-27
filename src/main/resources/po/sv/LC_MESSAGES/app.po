@@ -3,19 +3,7 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: 1.0\n"
-"Report-Msgid-Bugs-To: Kurt Huwig\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-08-09 07:53+0000\n"
-"Last-Translator: Eliderad <aki12@live.se>\n"
-"Language-Team: Swedish <https://hosted.weblate.org/projects/botc/sheet-printer/sv/>\n"
-"Language: sv\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13-dev\n"
+msgstr "Project-Id-Version: 1.0\nReport-Msgid-Bugs-To: Kurt Huwig\nPOT-Creation-Date: \nPO-Revision-Date: 2025-08-28 09:01+0000\nLast-Translator: Eliderad <aki12@live.se>\nLanguage-Team: Swedish <https://hosted.weblate.org/projects/botc/sheet-printer/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13\n"
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:186
 msgid "First night order"
@@ -66,4 +54,4 @@ msgstr "av {{author}}"
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:192
 msgid "community created content that is not affiliated with TPI"
-msgstr ""
+msgstr "communityinnehåll ej skapat i samarbete med TPI"
