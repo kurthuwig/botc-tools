@@ -1,9 +1,9 @@
 msgid ""
-msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-08-11 15:18+0000\nLast-Translator: Eliderad <aki12@live.se>\nLanguage-Team: Swedish <https://hosted.weblate.org/projects/botc/jinxes/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13-dev\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-08-28 09:01+0000\nLast-Translator: Eliderad <aki12@live.se>\nLanguage-Team: Swedish <https://hosted.weblate.org/projects/botc/jinxes/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13\n"
 
 msgctxt "alchemist boffin"
 msgid "If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has."
-msgstr "Om Alkemisten har Vetenskaparens förmåga så får Alkemisten inte veta vilken förmåga Demonen har."
+msgstr "Om Alkemisten har Labbråttans förmåga så får Alkemisten inte veta vilken förmåga Demonen har."
 
 msgctxt "alchemist marionette"
 msgid "An Alchemist-Marionette has no Marionette ability & the Marionette is in play."
@@ -11,7 +11,7 @@ msgstr "En Alkemist-Marionett har inte Marionettens förmåga och Marionetten ä
 
 msgctxt "alchemist mastermind"
 msgid "An Alchemist-Mastermind has no Mastermind ability & the Mastermind is not-in-play."
-msgstr "En Alkemist-Mästare har inte Mästarens förmåga och Mästaren är inte i spel."
+msgstr "En Alkemist-Konspiratör har inte Konspiratörens förmåga och Konspiratören är inte i spel."
 
 msgctxt "alchemist organgrinder"
 msgid "If the Alchemist has the Organ Grinder ability, the Organ Grinder is in play & if both the Alchemist and Organ Grinder are sober, both are drunk."
@@ -235,7 +235,7 @@ msgstr "Vesiren kan avrättas och dö när hen har hand om Lillmonstret."
 
 msgctxt "lleech mastermind"
 msgid "If the Mastermind is alive and the Lleech's host dies by execution, the Lleech lives but loses their ability."
-msgstr "Om Mästaren lever och Lleechs värd avrättas och dör så överlever Lleech men förlorar sin förmåga."
+msgstr "Om Konspiratören lever och Lleechs värd avrättas och dör så överlever Lleech men förlorar sin förmåga."
 
 msgctxt "lleech slayer"
 msgid "If the Slayer slays the Lleech's host, the host dies."
@@ -291,7 +291,7 @@ msgstr "Vålnaden vaknar inte med Marionetten."
 
 msgctxt "mastermind alhadikhia"
 msgid "If the Al-Hadikhia dies by execution, and the Mastermind is alive, the Al-Hadikhia chooses 3 good players tonight: if all 3 choose to live, evil wins. Otherwise, good wins."
-msgstr "Om al Hadikhia dör av avrättning och Mästaren lever så väljer al Hadikhia 3 goda spelare inatt; om alla 3 väljer att leva så vinner de onda, annars vinner de goda."
+msgstr "Om al Hadikhia dör av avrättning och Konspiratören lever så väljer al Hadikhia 3 goda spelare inatt; om alla 3 väljer att leva så vinner de onda, annars vinner de goda."
 
 msgctxt "mathematician chambermaid"
 msgid "The Chambermaid learns if the Mathematician wakes tonight or not, even though the Chambermaid wakes first."
