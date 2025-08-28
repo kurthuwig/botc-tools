@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-08-28 09:02+0000\nLast-Translator: Mihajlo Dmitrasinovic <gormiti428@gmail.com>\nLanguage-Team: Serbian <https://hosted.weblate.org/projects/botc/characters/sr/>\nLanguage: sr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\nX-Generator: Weblate 5.13\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-08-28 21:26+0000\nLast-Translator: Mihajlo Dmitrasinovic <gormiti428@gmail.com>\nLanguage-Team: Serbian <https://hosted.weblate.org/projects/botc/characters/sr/>\nLanguage: sr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\nX-Generator: Weblate 5.13.1-dev\n"
 
 msgctxt "acrobat name"
 msgid "Acrobat"
@@ -490,7 +490,7 @@ msgstr ""
 
 msgctxt "cacklejack reminders"
 msgid "Not me"
-msgstr ""
+msgstr "Ne mene"
 
 msgctxt "cannibal name"
 msgid "Cannibal"
@@ -1620,11 +1620,11 @@ msgstr "Mrtav,Treba da umre"
 
 msgctxt "leviathan name"
 msgid "Leviathan"
-msgstr ""
+msgstr "Levijatan"
 
 msgctxt "leviathan ability"
 msgid "If more than 1 good player is executed, you win. All players know you are in play. After day 5, evil wins."
-msgstr ""
+msgstr "Ako se pogubi više od 1 dobrog igrača, zli pobede. Svi igrači znaju da si u igri. Posle petog dana, zli pobede."
 
 msgctxt "leviathan flavor"
 msgid "To the last, I grapple with thee. From Hell’s heart, I stab at thee. For hate’s sake, I spit my last breath at thee."
@@ -1640,15 +1640,15 @@ msgstr ""
 
 msgctxt "leviathan reminders"
 msgid "Day 1,Day 2,Day 3,Day 4,Day 5,Good player executed"
-msgstr ""
+msgstr "Dan 1, Dan 2, Dan 3, Dan 4, Dan 5, Dobar igrač pogubljen"
 
 msgctxt "librarian name"
 msgid "Librarian"
-msgstr ""
+msgstr "Bibliotekar"
 
 msgctxt "librarian ability"
 msgid "You start knowing that 1 of 2 players is a particular Outsider. (Or that zero are in play.)"
-msgstr ""
+msgstr "Na početku znaš da je 1 od 2 igrača određeni Stranac. (Ili da ih je nula u igri)"
 
 msgctxt "librarian flavor"
 msgid "Certainly madam, under normal circumstances, you may borrow the Codex Malificarium from the library vaults. However, you do not seem to be a member."
@@ -1660,15 +1660,15 @@ msgstr ""
 
 msgctxt "librarian reminders"
 msgid "Outsider,Wrong"
-msgstr ""
+msgstr "Stranac, Netačno"
 
 msgctxt "lilmonsta name"
 msgid "Lil' Monsta"
-msgstr ""
+msgstr "Malo čudovište"
 
 msgctxt "lilmonsta ability"
 msgid "Each night, Minions choose who babysits Lil' Monsta's token & \"is the Demon\". Each night*, a player might die. [+1 Minion]"
-msgstr ""
+msgstr "Svake noći Sluge izaberu ko će da čuva Malo čudovište i ujedno ko „je Demon“. Neki igrač umre svake noći*. [+1 Sluga]"
 
 msgctxt "lilmonsta flavor"
 msgid ""
@@ -1687,15 +1687,15 @@ msgstr ""
 
 msgctxt "lilmonsta remindersGlobal"
 msgid "Is the Demon,Dead"
-msgstr ""
+msgstr "Demon je, Mrtav"
 
 msgctxt "lleech name"
 msgid "Lleech"
-msgstr ""
+msgstr "Pijavica"
 
 msgctxt "lleech ability"
 msgid "Each night*, choose a player: they die. You start by choosing a player: they are poisoned. You die if & only if they are dead."
-msgstr ""
+msgstr "Svake noći* izabereš igrača: on umre. Na početku izabereš igrača: on je otrovan. Ti umreš ako i samo ako je on mrtav."
 
 msgctxt "lleech flavor"
 msgid "Tasty, tasty, tasty, tasty, tasty, tasty, tasty, tasty brai- I mean pie! Yes. Tasty pie. That’s what I meant to say."
@@ -1711,15 +1711,15 @@ msgstr ""
 
 msgctxt "lleech reminders"
 msgid "Dead,Poisoned"
-msgstr ""
+msgstr "Mrtav, Otrovan"
 
 msgctxt "lordoftyphon name"
 msgid "Lord of Typhon"
-msgstr ""
+msgstr "Gospodar Tifon"
 
 msgctxt "lordoftyphon ability"
 msgid "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? To +? Outsiders]"
-msgstr ""
+msgstr "Svake noći* izabereš igrača: on umre. [Zli igrači sede zajedno. Ti si u sredini. +1 Sluga. -? do +? Stranaca]"
 
 msgctxt "lordoftyphon flavor"
 msgid "In the shadowed and forgotten corners of the cosmos, where the stars whisper secrets to the void, lies a truth so profound that the merest glimpse of it unravels the sanity of mortal minds."
@@ -1735,15 +1735,15 @@ msgstr ""
 
 msgctxt "lordoftyphon reminders"
 msgid "Dead"
-msgstr ""
+msgstr "Mrtav"
 
 msgctxt "lunatic name"
 msgid "Lunatic"
-msgstr ""
+msgstr "Ludak"
 
 msgctxt "lunatic ability"
 msgid "You think you are a Demon, but you are not. The Demon knows who you are & who you choose at night."
-msgstr ""
+msgstr "Misliš da si neki Demon, ali nisi. Demon zna ko si i zna koga izabereš noću."
 
 msgctxt "lunatic flavor"
 msgid "I am the night... I think."
@@ -1759,15 +1759,15 @@ msgstr ""
 
 msgctxt "lunatic reminders"
 msgid "Attack 1,Attack 2,Attack 3"
-msgstr ""
+msgstr "Napao 1, Napao 2, Napao 3"
 
 msgctxt "lycanthrope name"
 msgid "Lycanthrope"
-msgstr ""
+msgstr "Vukodlak"
 
 msgctxt "lycanthrope ability"
 msgid "Each night*, choose an alive player. If good, they die & the Demon doesn’t kill tonight. One good player registers as evil."
-msgstr ""
+msgstr "Svake noći* izabereš živog igrača. Ako je dobar, on umre i Demon ne ubija noćas. Jedan dobar igrač se registruje kao zao."
 
 msgctxt "lycanthrope flavor"
 msgid "Beneath the thin veneer of civilisation lies a howling madness."
@@ -1779,15 +1779,15 @@ msgstr ""
 
 msgctxt "lycanthrope reminders"
 msgid "Dead,Faux Paw"
-msgstr ""
+msgstr "Mrtav, Mrka šapa"
 
 msgctxt "magician name"
 msgid "Magician"
-msgstr ""
+msgstr "Mađioničar"
 
 msgctxt "magician ability"
 msgid "The Demon thinks you are a Minion. Minions think you are a Demon."
-msgstr ""
+msgstr "Demon misli da si Sluga. Sluge misle da si Demon."
 
 msgctxt "magician flavor"
 msgid ""
@@ -1801,11 +1801,11 @@ msgstr ""
 
 msgctxt "marionette name"
 msgid "Marionette"
-msgstr ""
+msgstr "Marioneta"
 
 msgctxt "marionette ability"
 msgid "You think you are a good character but you are not. The Demon knows who you are. [You neighbour the Demon]"
-msgstr ""
+msgstr "Misliš da si neki dobar lik, ali nisi. Demon zna ko si. [Ti si Demonu komšija]"
 
 msgctxt "marionette flavor"
 msgid "Words, words. They're all we have to go on."
@@ -1817,15 +1817,15 @@ msgstr ""
 
 msgctxt "marionette remindersGlobal"
 msgid "Is the Marionette"
-msgstr ""
+msgstr "Marioneta je"
 
 msgctxt "mastermind name"
 msgid "Mastermind"
-msgstr ""
+msgstr "Zli genije"
 
 msgctxt "mastermind ability"
 msgid "If the Demon dies by execution (ending the game), play for 1 more day. If a player is then executed, their team loses."
-msgstr ""
+msgstr "Ako Demon umre pogubljenjem (što bi završilo partiju), igra se nastavlja još 1 dan. Ako je igrač pogubljen tog dana, njegova ekipa izgubi."
 
 msgctxt "mastermind flavor"
 msgid "The tentacles of that monster are nailed to the doors of the church. Mothers and children are dancing in the street. Excellent. Everything is proceeding exactly as I have planned."
@@ -1833,11 +1833,11 @@ msgstr ""
 
 msgctxt "mathematician name"
 msgid "Mathematician"
-msgstr ""
+msgstr "Matematičar"
 
 msgctxt "mathematician ability"
 msgid "Each night, you learn how many players’ abilities worked abnormally (since dawn) due to another character's ability."
-msgstr ""
+msgstr "Svake noći saznaš koliko je sposobnosti igrača radilo napravilno (od zore) zbog sposobnosti nekog drugog igrača."
 
 msgctxt "mathematician flavor"
 msgid "Any consistent formal system x, within which a certain amount of elementary arithmetic can be carried out is incomplete; that is, there are statements of the language of x which can neither be proved nor disproved in x. Ergo, you are drunk."
@@ -1853,15 +1853,15 @@ msgstr ""
 
 msgctxt "mathematician reminders"
 msgid "Abnormal"
-msgstr ""
+msgstr "Nepravilno"
 
 msgctxt "matron name"
 msgid "Matron"
-msgstr ""
+msgstr "Matrijarh"
 
 msgctxt "matron ability"
 msgid "Each day, you may choose up to 3 sets of 2 players to swap seats. Players may not leave their seats to talk in private."
-msgstr ""
+msgstr "Svaki dan možeš da izabereš do 3 grupe od 2 igrača da zamene mesta. Igrači ne smeju da napuštaju mesta da vode privatne razgovore."
 
 msgctxt "matron flavor"
 msgid "Miss Featherbottom, be quiet. Master Rutherford, a teacup needs just the four fingers, please. I know you are a father of nine, but age, or lack there-of as the case may be, is never an excuse for poor manners."
@@ -1869,11 +1869,11 @@ msgstr ""
 
 msgctxt "mayor name"
 msgid "Mayor"
-msgstr ""
+msgstr "Gradonačelnik"
 
 msgctxt "mayor ability"
 msgid "If only 3 players live & no execution occurs, your team wins. If you die at night, another player might die instead."
-msgstr ""
+msgstr "Ako su samo 3 igrača živa i ne desi se pogubljenje, tvoja ekipa pobedi. Ako umreš tokom noći, neki drugi igrač možda umre umesto tebe."
 
 msgctxt "mayor flavor"
 msgid "We must put our differences aside, and cease this senseless killing. We are all taxpayers after all. Well, most of us."
@@ -1881,11 +1881,11 @@ msgstr ""
 
 msgctxt "mezepheles name"
 msgid "Mezepheles"
-msgstr ""
+msgstr "Mefistofeles"
 
 msgctxt "mezepheles ability"
 msgid "You start knowing a secret word. The 1st good player to say this word becomes evil that night."
-msgstr ""
+msgstr "Na početku znaš tajnu reč. Prvi dobar igrač koji kaže tu reč postane zao te noći."
 
 msgctxt "mezepheles flavor"
 msgid "That which issues from the heart alone, will bend the hearts of others to your own."
@@ -1901,15 +1901,15 @@ msgstr ""
 
 msgctxt "mezepheles reminders"
 msgid "Turns evil,No ability"
-msgstr ""
+msgstr "Postaje zao, Nema sposobnost"
 
 msgctxt "minstrel name"
 msgid "Minstrel"
-msgstr ""
+msgstr "Guslar"
 
 msgctxt "minstrel ability"
 msgid "When a Minion dies by execution, all other players (except Travellers) are drunk until dusk tomorrow."
-msgstr ""
+msgstr "Kada Sluga umre pogubljenjem, svi ostali igrači (osim Putnika) su pijani do sutrašnjeg sumraka."
 
 msgctxt "minstrel flavor"
 msgid "And I shall hear, tho' soft you tread above me... And all my dreams will warm and sweeter be... If you'll not fail to tell me that you love me... I simply sleep in peace until you come to me."
@@ -1917,15 +1917,15 @@ msgstr ""
 
 msgctxt "minstrel reminders"
 msgid "Everyone drunk"
-msgstr ""
+msgstr "Svi pijani"
 
 msgctxt "monk name"
 msgid "Monk"
-msgstr ""
+msgstr "Monah"
 
 msgctxt "monk ability"
 msgid "Each night*, choose a player (not yourself): they are safe from the Demon tonight."
-msgstr ""
+msgstr "Svake noći* izabereš igrača (ne sebe): on je zaštićen od Demona noćas."
 
 msgctxt "monk flavor"
 msgid "Tis an ill and deathly wind that blows tonight. Come, my brother, take shelter in the abbey while the storm rages. By my word, or by my life, you will be safe."
@@ -1937,15 +1937,15 @@ msgstr ""
 
 msgctxt "monk reminders"
 msgid "Protected"
-msgstr ""
+msgstr "Zaštićen"
 
 msgctxt "moonchild name"
 msgid "Moonchild"
-msgstr ""
+msgstr "Mesečevo dete"
 
 msgctxt "moonchild ability"
 msgid "When you learn that you died, publicly choose 1 alive player. Tonight, if it was a good player, they die."
-msgstr ""
+msgstr "Kada saznaš da si umrla, javno izabereš 1 živog igrača. Noćas, ako si izabrala dobrog igrača, on umre."
 
 msgctxt "moonchild flavor"
 msgid "Scorpio looks sideways at the lovers, and you have a choice to make. With silver cross my palm, and your fate shall be revealed. With steel cross my throat, and by the stars you shall regret it."
@@ -1957,15 +1957,15 @@ msgstr ""
 
 msgctxt "moonchild reminders"
 msgid "Dead"
-msgstr ""
+msgstr "Mrtav"
 
 msgctxt "mutant name"
 msgid "Mutant"
-msgstr ""
+msgstr "Nakaza"
 
 msgctxt "mutant ability"
 msgid "If you are “mad” about being an Outsider, you might be executed."
-msgstr ""
+msgstr "Ne smeš da se praviš da si Stranac, inače ćeš možda biti pogubljen."
 
 msgctxt "mutant flavor"
 msgid "I am not a freak! I am a human being! Have mercy!"
@@ -1973,11 +1973,11 @@ msgstr ""
 
 msgctxt "nightwatchman name"
 msgid "Nightwatchman"
-msgstr ""
+msgstr "Fenjerdžija"
 
 msgctxt "nightwatchman ability"
 msgid "Once per game, at night, choose a player: they learn who you are."
-msgstr ""
+msgstr "Jednom po partiji, tokom noći, izabereš igrača: on sazna ko si."
 
 msgctxt "nightwatchman flavor"
 msgid "The night is cold and lonely, but I have the moon, the stars, the crisp wind and the soft thud of leather boots on cobbled stone for company. Yonder, candlelight flickers behind a murky window..."
@@ -1993,15 +1993,15 @@ msgstr ""
 
 msgctxt "nightwatchman reminders"
 msgid "No ability"
-msgstr ""
+msgstr "Nema sposobnost"
 
 msgctxt "noble name"
 msgid "Noble"
-msgstr ""
+msgstr "Plemić"
 
 msgctxt "noble ability"
 msgid "You start knowing 3 players, 1 and only 1 of which is evil."
-msgstr ""
+msgstr "Na početku znaš 3 igrača, od kojih je tačno 1 zao."
 
 msgctxt "noble flavor"
 msgid "Sarcasm is indeed the lowest form of wit. But speaking in response to your criticism, Sir, it is, nevertheless, a form of wit."
@@ -2013,15 +2013,15 @@ msgstr ""
 
 msgctxt "noble reminders"
 msgid "Seen"
-msgstr ""
+msgstr "Viđen"
 
 msgctxt "nodashii name"
 msgid "No Dashii"
-msgstr ""
+msgstr "No Daši"
 
 msgctxt "nodashii ability"
 msgid "Each night*, choose a player: they die. Your 2 Townsfolk neighbours are poisoned."
-msgstr ""
+msgstr "Svake noći* izabereš igrača: on umre. Tvoje 2 komšije Građani su otrovani."
 
 msgctxt "nodashii flavor"
 msgid "By the sins of Arnoch, I feel thy laden stench. By the curs-ed sun and her foul legion of tiny grinning gods, I corrupt thee. By the blessed night and the hidden depths of the horrid and unholy sea, I end thy squalid life upon this plane."
@@ -2033,15 +2033,15 @@ msgstr ""
 
 msgctxt "nodashii reminders"
 msgid "Dead,Poisoned"
-msgstr ""
+msgstr "Mrtav, Otrovan"
 
 msgctxt "ogre name"
 msgid "Ogre"
-msgstr ""
+msgstr "Ogr"
 
 msgctxt "ogre ability"
 msgid "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned."
-msgstr ""
+msgstr "Svoje prve noći izabereš igrača (ne sebe): pređeš na njegovu ekipu (ne znaš koju) čak i ako si pijan ili otrovan."
 
 msgctxt "ogre flavor"
 msgid "<grunt><grin></grunt>"
@@ -2053,15 +2053,15 @@ msgstr ""
 
 msgctxt "ogre reminders"
 msgid "Friend"
-msgstr ""
+msgstr "Drug"
 
 msgctxt "ojo name"
 msgid "Ojo"
-msgstr ""
+msgstr "Oko"
 
 msgctxt "ojo ability"
 msgid "Each night*, choose a character: they die. If they are not in play, the Storyteller chooses who dies."
-msgstr ""
+msgstr "Svake noći* izabereš lika: on umre. Ako nije u igri, Narator bira ko umre."
 
 msgctxt "ojo flavor"
 msgid "Like a bonfire on a moonless night… I see you, mortal."
@@ -2073,15 +2073,15 @@ msgstr ""
 
 msgctxt "ojo reminders"
 msgid "Dead"
-msgstr ""
+msgstr "Mrtav"
 
 msgctxt "oracle name"
 msgid "Oracle"
-msgstr ""
+msgstr "Prorok"
 
 msgctxt "oracle ability"
 msgid "Each night*, you learn how many dead players are evil."
-msgstr ""
+msgstr "Svake noći* saznaš koliko je mrtvih igrača zlo."
 
 msgctxt "oracle flavor"
 msgid "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
@@ -2093,11 +2093,11 @@ msgstr ""
 
 msgctxt "organgrinder name"
 msgid "Organ Grinder"
-msgstr ""
+msgstr "Ulični svirač"
 
 msgctxt "organgrinder ability"
 msgid "All players keep their eyes closed when voting and the vote tally is secret. Each night, choose if you are drunk or not."
-msgstr ""
+msgstr "Svi igrači drže oči zatvorene tokom glasanja i broj glasova je skriven. Svake noći biraš da li si pijan do sumraka."
 
 msgctxt "organgrinder flavor"
 msgid "Round and round the handles go. The more you dance the less you know."
@@ -2105,15 +2105,15 @@ msgstr ""
 
 msgctxt "organgrinder reminders"
 msgid "Drunk,About to die"
-msgstr ""
+msgstr "Pijan, Treba da umre"
 
 msgctxt "pacifist name"
 msgid "Pacifist"
-msgstr ""
+msgstr "Pacifista"
 
 msgctxt "pacifist ability"
 msgid "Executed good players might not die."
-msgstr ""
+msgstr "Pogubljeni dobri igrači možda neće umreti."
 
 msgctxt "pacifist flavor"
 msgid "Distrust all in whom the impulse to punish is powerful."
@@ -2121,11 +2121,11 @@ msgstr ""
 
 msgctxt "philosopher name"
 msgid "Philosopher"
-msgstr ""
+msgstr "Filozof"
 
 msgctxt "philosopher ability"
 msgid "Once per game, at night, choose a good character: gain that ability. If this character is in play, they are drunk."
-msgstr ""
+msgstr "Jednom po partiji, tokom noći, izabereš dobrog lika: dobiješ njegovu sposobnost. Ako je taj lik već u igri, postane pijan."
 
 msgctxt "philosopher flavor"
 msgid "If anything is real, beer is real. Drink, for tomorrow we may die."
@@ -2141,15 +2141,15 @@ msgstr ""
 
 msgctxt "philosopher remindersGlobal"
 msgid "Is the Philosopher,Drunk"
-msgstr ""
+msgstr "Filozof je, Pijan"
 
 msgctxt "pithag name"
 msgid "Pit-Hag"
-msgstr ""
+msgstr "Baba Jaga"
 
 msgctxt "pithag ability"
 msgid "Each night*, choose a player & a character they become (if not-in-play). If a Demon is made, deaths tonight are arbitrary."
-msgstr ""
+msgstr "Svake noći* izabereš igrača i lika koji će on da postane (ako nije već u igri). Ako na ovaj način stvoriš Demona, smrti su noćas proizvoljne."
 
 msgctxt "pithag flavor"
 msgid "Round about the cauldron go; In the poison'd entrails throw; Toad, that under cold stone; Days and nights has thirty-one; Sweated venom sleeping got; Boil thou first in the charmed pot."
@@ -2161,11 +2161,11 @@ msgstr ""
 
 msgctxt "pixie name"
 msgid "Pixie"
-msgstr ""
+msgstr "Vila"
 
 msgctxt "pixie ability"
 msgid "You start knowing 1 in-play Townsfolk. If you were mad that you were this character, you gain their ability when they die."
-msgstr ""
+msgstr "Na početku znaš 1 lika Građana koji je u igri. Ako si se pravila da si taj lik, dobiješ njegovu sposobnost kad on umre."
 
 msgctxt "pixie flavor"
 msgid ""
@@ -2185,15 +2185,15 @@ msgstr ""
 
 msgctxt "pixie reminders"
 msgid "Mad,Has ability"
-msgstr ""
+msgstr "Lud, Ima sposobnost"
 
 msgctxt "plaguedoctor name"
 msgid "Plague Doctor"
-msgstr ""
+msgstr "Lekar kuge"
 
 msgctxt "plaguedoctor ability"
 msgid "If you die, the Storyteller gains a Minion ability."
-msgstr ""
+msgstr "Ako umreš, Narator dobije sposobnost Sluge."
 
 msgctxt "plaguedoctor flavor"
 msgid "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh."
@@ -2201,15 +2201,15 @@ msgstr ""
 
 msgctxt "plaguedoctor reminders"
 msgid "Storyteller Ability"
-msgstr ""
+msgstr "Naratorova sposobnost"
 
 msgctxt "po name"
 msgid "Po"
-msgstr ""
+msgstr "Po"
 
 msgctxt "po ability"
 msgid "Each night*, you may choose a player: they die. If your last choice was no-one, choose 3 players tonight."
-msgstr ""
+msgstr "Svake noći* smeš da izabereš igrača: on umre. Ako prethodno nisi izabrao nikoga, izabereš 3 igrača noćas."
 
 msgctxt "po flavor"
 msgid "Would you like a flower? I'm so lonely."
@@ -2221,15 +2221,15 @@ msgstr ""
 
 msgctxt "po reminders"
 msgid "Dead,3 attacks"
-msgstr ""
+msgstr "Mrtav, 3 napada"
 
 msgctxt "poisoner name"
 msgid "Poisoner"
-msgstr ""
+msgstr "Trovač"
 
 msgctxt "poisoner ability"
 msgid "Each night, choose a player: they are poisoned tonight and tomorrow day."
-msgstr ""
+msgstr "Svake noći izabereš igrača: otrovan je noćas i sutra tokom dana."
 
 msgctxt "poisoner flavor"
 msgid "Add compound Alpha to compound Beta... NOT TOO MUCH!"
@@ -2245,15 +2245,15 @@ msgstr ""
 
 msgctxt "poisoner reminders"
 msgid "Poisoned"
-msgstr ""
+msgstr "Otrovan"
 
 msgctxt "politician name"
 msgid "Politician"
-msgstr ""
+msgstr "Političar"
 
 msgctxt "politician ability"
 msgid "If you were the player most responsible for your team losing, you change alignment & win, even if dead."
-msgstr ""
+msgstr "Ako si ti bio najviše zaslužan za gubitak svoje ekipe, pređeš na drugu ekipu i pobediš, čak i ako si mrtav."
 
 msgctxt "politician flavor"
 msgid "I'm glad you asked that question. Truly, I am. But I think the REAL question here is..."
@@ -2261,11 +2261,11 @@ msgstr ""
 
 msgctxt "poppygrower name"
 msgid "Poppy Grower"
-msgstr ""
+msgstr "Uzgajač maka"
 
 msgctxt "poppygrower ability"
 msgid "Minions & Demons do not know each other. If you die, they learn who each other are that night."
-msgstr ""
+msgstr "Sluge i Demoni se ne znaju. Ako umreš, oni se međusobno saznaju te noći."
 
 msgctxt "poppygrower flavor"
 msgid "In the hidden groves of the deep forest, the black poppy dwells. To see its revelry is to be enchanted. To smell its thick aroma is to be lost forever, a slave to the gods of light and dark."
@@ -2281,15 +2281,15 @@ msgstr ""
 
 msgctxt "poppygrower reminders"
 msgid "Evil wakes"
-msgstr ""
+msgstr "Zli se bude"
 
 msgctxt "preacher name"
 msgid "Preacher"
-msgstr ""
+msgstr "Sveštenik"
 
 msgctxt "preacher ability"
 msgid "Each night, choose a player: a Minion, if chosen, learns this. All chosen Minions have no ability."
-msgstr ""
+msgstr "Svake noći izabereš igrača: Sluga, ako je izabran, saznaje da si ga izabrao. Sve izabrane Sluge nemaju sposobnost."
 
 msgctxt "preacher flavor"
 msgid "It is better to be rich and healthy than poor and sick."
@@ -2305,15 +2305,15 @@ msgstr ""
 
 msgctxt "preacher reminders"
 msgid "At a sermon"
-msgstr ""
+msgstr "Na liturgiji"
 
 msgctxt "princess name"
 msgid "Princess"
-msgstr ""
+msgstr "Princeza"
 
 msgctxt "princess ability"
 msgid "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight."
-msgstr ""
+msgstr "Svog prvog dana, ako si nominovala i pogubila nekog igrača, Demon ne ubija noćas."
 
 msgctxt "princess flavor"
 msgid "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
@@ -2325,15 +2325,15 @@ msgstr ""
 
 msgctxt "princess reminders"
 msgid "Doesn't Kill"
-msgstr ""
+msgstr "Ne ubija"
 
 msgctxt "professor name"
 msgid "Professor"
-msgstr ""
+msgstr "Profesor"
 
 msgctxt "professor ability"
 msgid "Once per game, at night*, choose a dead player: if they are a Townsfolk, they are resurrected."
-msgstr ""
+msgstr "Jednom po partiji, tokom noći*, izabereš mrtvog igrača: ako je Građanin, on oživi."
 
 msgctxt "professor flavor"
 msgid "The process is simple. Attach the hydraulic confabulator to the modified chi matrix amplifier, add 20 CCs of pseudodorafine, keep his Z levels above 20%, and your husband will be fine. Now, all we need is a lightning strike."
@@ -2345,7 +2345,7 @@ msgstr ""
 
 msgctxt "professor reminders"
 msgid "Alive,No ability"
-msgstr ""
+msgstr "Živ, Nema sposobnost"
 
 msgctxt "psychopath name"
 msgid "Psychopath"
