@@ -1786,8 +1786,8 @@ msgid "Allow the Lunatic to do the actions of the Demon. Place their 'attack' ma
 msgstr "Allow the Lunatic to do the actions of the Demon. Place their 'attack' markers. If the Lunatic selected players: Wake the Demon. Show the 'attack' marker, then point to each marked player. Remove any Lunatic 'attack' markers."
 
 msgctxt "lunatic reminders"
-msgid "Attack 1,Attack 2,Attack 3"
-msgstr "Omsettyans 1,Omsettyans 2,Omsettyans 3"
+msgid "Chosen,Chosen,Chosen"
+msgstr ""
 
 msgctxt "lycanthrope name"
 msgid "Lycanthrope"
@@ -3262,6 +3262,10 @@ msgstr "If no-one died during the day: The Zombuul points to a player. That play
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "Marow,Marow hedhyw"
+
+#~ msgctxt "lunatic reminders"
+#~ msgid "Attack 1,Attack 2,Attack 3"
+#~ msgstr "Omsettyans 1,Omsettyans 2,Omsettyans 3"
 
 #~ msgctxt "cannibal reminders"
 #~ msgid "Poisoned,Died today"

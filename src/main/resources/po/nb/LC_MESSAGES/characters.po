@@ -1786,8 +1786,8 @@ msgid "Allow the Lunatic to do the actions of the Demon. Place their 'attack' ma
 msgstr "Tillat den Sinnssyke å gjøre handlingene til Demonen. Plasser \"Angrep\"-markører. Om den Sinnssyke valgte spillere: Vekk Demonen. Vis dem \"Angrep\"-markøren, pek så mot hver markerte spiller. Ta bort alle den Sinnssykes \"Angrep\"-markører."
 
 msgctxt "lunatic reminders"
-msgid "Attack 1,Attack 2,Attack 3"
-msgstr "Angrep 1,Angrep 2,Angrep 3"
+msgid "Chosen,Chosen,Chosen"
+msgstr ""
 
 msgctxt "lycanthrope name"
 msgid "Lycanthrope"
@@ -3262,6 +3262,10 @@ msgstr "Om ingen døde om dagen: Dauguulen peker mot en spiller. Spilleren dør.
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "Døde i dag,Død"
+
+#~ msgctxt "lunatic reminders"
+#~ msgid "Attack 1,Attack 2,Attack 3"
+#~ msgstr "Angrep 1,Angrep 2,Angrep 3"
 
 #~ msgctxt "cannibal reminders"
 #~ msgid "Poisoned,Died today"

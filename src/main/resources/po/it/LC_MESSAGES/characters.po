@@ -1787,8 +1787,8 @@ msgid "Allow the Lunatic to do the actions of the Demon. Place their 'attack' ma
 msgstr "Permetti al Lunatico di svolgere le azioni del Demone. Posiziona i suoi promemoria \"attacco\". Sveglia il Demone. Mostra il vero gettone personaggio del Demone. Indica il giocatore Lunatico. Se il Lunatico attacca dei giocatori: indica al vero Demone ogni giocatore scelto dal Lunatico. Rimuovi ogni promemoria \"attacco\" del Lunatico."
 
 msgctxt "lunatic reminders"
-msgid "Attack 1,Attack 2,Attack 3"
-msgstr "Attacco 1,Attacco 2,Attacco 3"
+msgid "Chosen,Chosen,Chosen"
+msgstr ""
 
 msgctxt "lycanthrope name"
 msgid "Lycanthrope"
@@ -3263,6 +3263,10 @@ msgstr "Se oggi non è morto nessuno: Zombuul indica un giocatore. Quel giocator
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "Morto,Morto oggi"
+
+#~ msgctxt "lunatic reminders"
+#~ msgid "Attack 1,Attack 2,Attack 3"
+#~ msgstr "Attacco 1,Attacco 2,Attacco 3"
 
 #~ msgctxt "cannibal reminders"
 #~ msgid "Poisoned,Died today"

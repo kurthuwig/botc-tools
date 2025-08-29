@@ -1787,8 +1787,8 @@ msgid "Allow the Lunatic to do the actions of the Demon. Place their 'attack' ma
 msgstr "إذا اختار المعتوه لاعب في الليل لقتله ضع علامة على اللاعب المختار، وأخبر رئيس الأشرار الحقيقي باختيار المعتوه، ثم أزل العلامة من اللاعب المختار"
 
 msgctxt "lunatic reminders"
-msgid "Attack 1,Attack 2,Attack 3"
-msgstr "اعتداء 1,اعتداء 2,اعتداء 3"
+msgid "Chosen,Chosen,Chosen"
+msgstr ""
 
 msgctxt "lycanthrope name"
 msgid "Lycanthrope"
@@ -3266,6 +3266,10 @@ msgstr "إذا لم يمت أي لاعب في النهار يختار الزوم
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "مات اليوم,ميت"
+
+#~ msgctxt "lunatic reminders"
+#~ msgid "Attack 1,Attack 2,Attack 3"
+#~ msgstr "اعتداء 1,اعتداء 2,اعتداء 3"
 
 #~ msgctxt "cannibal reminders"
 #~ msgid "Poisoned,Died today"

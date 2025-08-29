@@ -1768,7 +1768,7 @@ msgid "Allow the Lunatic to do the actions of the Demon. Place their 'attack' ma
 msgstr ""
 
 msgctxt "lunatic reminders"
-msgid "Attack 1,Attack 2,Attack 3"
+msgid "Chosen,Chosen,Chosen"
 msgstr ""
 
 msgctxt "lycanthrope name"

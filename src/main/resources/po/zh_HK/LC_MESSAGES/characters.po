@@ -1786,8 +1786,8 @@ msgid "Allow the Lunatic to do the actions of the Demon. Place their 'attack' ma
 msgstr "讓瘋子進行惡魔的動作，以「攻擊」標記他的目標，如果瘋子有攻擊玩家，喚醒惡魔並指向每個被標記的目標，移除所有「攻擊」標記。"
 
 msgctxt "lunatic reminders"
-msgid "Attack 1,Attack 2,Attack 3"
-msgstr "攻擊1,攻擊2,攻擊3"
+msgid "Chosen,Chosen,Chosen"
+msgstr ""
 
 msgctxt "lycanthrope name"
 msgid "Lycanthrope"
@@ -3262,6 +3262,10 @@ msgstr "如果今天沒有人死亡，殭屍指向一位玩家，該玩家死亡
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "今天死亡,死亡"
+
+#~ msgctxt "lunatic reminders"
+#~ msgid "Attack 1,Attack 2,Attack 3"
+#~ msgstr "攻擊1,攻擊2,攻擊3"
 
 #~ msgctxt "cannibal reminders"
 #~ msgid "Poisoned,Died today"

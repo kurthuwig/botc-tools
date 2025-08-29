@@ -1787,8 +1787,8 @@ msgid "Allow the Lunatic to do the actions of the Demon. Place their 'attack' ma
 msgstr "Izinkan Lunatic untuk melakukan aksi Demon. Tempatkan marker 'attack' mereka. Jika Lunatic memilih pemain: Bangunkan Demon. Tunjukkan marker 'attack', kemudian tunjukkan setiap pemain yang diberi tanda. Hapus semua marker 'attack' Lunatic."
 
 msgctxt "lunatic reminders"
-msgid "Attack 1,Attack 2,Attack 3"
-msgstr "Attack 1,Attack 2,Attack 3"
+msgid "Chosen,Chosen,Chosen"
+msgstr ""
 
 msgctxt "lycanthrope name"
 msgid "Lycanthrope"
@@ -3261,6 +3261,10 @@ msgstr "Jika tidak ada yang mati selama hari itu: Zombuul menunjuk ke seorang pe
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "Died today,Dead"
+
+#~ msgctxt "lunatic reminders"
+#~ msgid "Attack 1,Attack 2,Attack 3"
+#~ msgstr "Attack 1,Attack 2,Attack 3"
 
 #~ msgctxt "cannibal reminders"
 #~ msgid "Poisoned,Died today"

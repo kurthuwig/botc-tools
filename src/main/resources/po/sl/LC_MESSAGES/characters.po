@@ -1786,8 +1786,8 @@ msgid "Allow the Lunatic to do the actions of the Demon. Place their 'attack' ma
 msgstr "Prebudi Blazneža, da izvede svojo \"moč\". Označi, koga Blaznež napade. Če je Blaznež koga napadel, Demonu pokaži vsakega označenega igralca. Nado odstrani opomnike \"Napad\"."
 
 msgctxt "lunatic reminders"
-msgid "Attack 1,Attack 2,Attack 3"
-msgstr "Napad 1,Napad 2,Napad 3"
+msgid "Chosen,Chosen,Chosen"
+msgstr ""
 
 msgctxt "lycanthrope name"
 msgid "Lycanthrope"
@@ -3263,6 +3263,10 @@ msgstr "Če nihče ni umrl podnevi, Zombuul izbere enega igralca, ki umre."
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "Umrl danes,Mrtev"
+
+#~ msgctxt "lunatic reminders"
+#~ msgid "Attack 1,Attack 2,Attack 3"
+#~ msgstr "Napad 1,Napad 2,Napad 3"
 
 #~ msgctxt "cannibal reminders"
 #~ msgid "Poisoned,Died today"

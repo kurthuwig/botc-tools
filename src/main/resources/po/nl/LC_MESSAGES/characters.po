@@ -1786,8 +1786,8 @@ msgid "Allow the Lunatic to do the actions of the Demon. Place their 'attack' ma
 msgstr "Laat de Lunatic de acties van de Demon uitvoeren. Plaats hun 'Attack' token. Nadat de Lunatic spelers gekozen heeft: Maak de Demon wakker, toon het 'Attack' token en wijs naar elke gemarkeerde speler. Verwijder de 'Attack' tokens van de Lunatic."
 
 msgctxt "lunatic reminders"
-msgid "Attack 1,Attack 2,Attack 3"
-msgstr "Attack 1,Attack 2,Attack 3"
+msgid "Chosen,Chosen,Chosen"
+msgstr ""
 
 msgctxt "lycanthrope name"
 msgid "Lycanthrope"
@@ -3262,6 +3262,10 @@ msgstr "Als er niemand gestorven is vandaag, dan duid de Zombuul een speler aan,
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "Dead,Died today"
+
+#~ msgctxt "lunatic reminders"
+#~ msgid "Attack 1,Attack 2,Attack 3"
+#~ msgstr "Attack 1,Attack 2,Attack 3"
 
 #~ msgctxt "cannibal reminders"
 #~ msgid "Poisoned,Died today"

@@ -1786,8 +1786,8 @@ msgid "Allow the Lunatic to do the actions of the Demon. Place their 'attack' ma
 msgstr "Akıl Hastası'nın İblis'in eylemlerini yapmasına izin verin. 'Saldırı' işaretleyicilerini yerleştirin. Eğer Akıl Hastası oyuncular seçtiyse: İblis'i uyandırın. 'Saldırı' işaretleyicisini gösterin, ardından işaretli her oyuncuyu işaret edin. Tüm Akıl Hastası 'saldırı' işaretleyicilerini kaldırın."
 
 msgctxt "lunatic reminders"
-msgid "Attack 1,Attack 2,Attack 3"
-msgstr "Saldırı 1,Saldırı 2,Saldırı 3"
+msgid "Chosen,Chosen,Chosen"
+msgstr ""
 
 msgctxt "lycanthrope name"
 msgid "Lycanthrope"
@@ -3262,6 +3262,10 @@ msgstr "Eğer gün içinde kimse ölmediyse: Zombuul bir oyuncuyu işaret eder. 
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "Ölü,Bugün Öldü"
+
+#~ msgctxt "lunatic reminders"
+#~ msgid "Attack 1,Attack 2,Attack 3"
+#~ msgstr "Saldırı 1,Saldırı 2,Saldırı 3"
 
 #~ msgctxt "cannibal reminders"
 #~ msgid "Poisoned,Died today"

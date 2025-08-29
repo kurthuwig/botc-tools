@@ -1786,8 +1786,8 @@ msgid "Allow the Lunatic to do the actions of the Demon. Place their 'attack' ma
 msgstr "Permet al Llunàtic que realitzi les accions del dimoni. Col·loca els seus recordatoris d'atac. Si el Llunàtic ha atacat a algun jugador: desperta al dimoni. Mostra-li els recordatoris d'atac i assenyala a cada jugador atacat. Retira tots els recordatoris d'atac del Llunàtic."
 
 msgctxt "lunatic reminders"
-msgid "Attack 1,Attack 2,Attack 3"
-msgstr "Atac 1, atac 2, atac 3"
+msgid "Chosen,Chosen,Chosen"
+msgstr ""
 
 msgctxt "lycanthrope name"
 msgid "Lycanthrope"
@@ -3262,6 +3262,10 @@ msgstr "Si ningú ha mort durant el dia: El Zombuul assenyala a un jugador. El
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "Mort avui, mort"
+
+#~ msgctxt "lunatic reminders"
+#~ msgid "Attack 1,Attack 2,Attack 3"
+#~ msgstr "Atac 1, atac 2, atac 3"
 
 #~ msgctxt "cannibal reminders"
 #~ msgid "Poisoned,Died today"

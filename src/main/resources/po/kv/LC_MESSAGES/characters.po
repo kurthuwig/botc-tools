@@ -1786,8 +1786,8 @@ msgid "Allow the Lunatic to do the actions of the Demon. Place their 'attack' ma
 msgstr "Позвольте Безумцу совершить действия Демона. Разместите жетоны \"Атака\" соответствующим образом. Если Безумец атаковал игроков: разбудите Демона, покажите ему жетон \"Атака\", затем укажите на атакованных игроков. Уберите жетоны \"Атака\"."
 
 msgctxt "lunatic reminders"
-msgid "Attack 1,Attack 2,Attack 3"
-msgstr "Атака 1,Атака 2,Атака 3"
+msgid "Chosen,Chosen,Chosen"
+msgstr ""
 
 msgctxt "lycanthrope name"
 msgid "Lycanthrope"
@@ -3262,6 +3262,10 @@ msgstr "Если никто не умер днем: Зомбул указыва�
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "Мертв,Умер сегодня"
+
+#~ msgctxt "lunatic reminders"
+#~ msgid "Attack 1,Attack 2,Attack 3"
+#~ msgstr "Атака 1,Атака 2,Атака 3"
 
 #~ msgctxt "cannibal reminders"
 #~ msgid "Poisoned,Died today"

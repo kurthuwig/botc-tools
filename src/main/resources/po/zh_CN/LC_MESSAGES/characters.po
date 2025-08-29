@@ -1788,8 +1788,8 @@ msgid "Allow the Lunatic to do the actions of the Demon. Place their 'attack' ma
 msgstr "做任何需要做的事情来模拟一位恶魔的行动。让疯子重新入睡。唤醒恶魔。对恶魔展示疯子角色标记，并指向疯子玩家，随后是疯子的攻击目标。"
 
 msgctxt "lunatic reminders"
-msgid "Attack 1,Attack 2,Attack 3"
-msgstr "攻击1,攻击2,攻击3"
+msgid "Chosen,Chosen,Chosen"
+msgstr ""
 
 msgctxt "lycanthrope name"
 msgid "Lycanthrope"
@@ -3264,6 +3264,10 @@ msgstr "如果今天白天没有人死亡，让僵怖选择一名玩家。标记
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "死于今日,死亡"
+
+#~ msgctxt "lunatic reminders"
+#~ msgid "Attack 1,Attack 2,Attack 3"
+#~ msgstr "攻击1,攻击2,攻击3"
 
 #~ msgctxt "cannibal reminders"
 #~ msgid "Poisoned,Died today"

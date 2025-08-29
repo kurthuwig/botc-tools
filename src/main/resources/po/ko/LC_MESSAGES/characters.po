@@ -1786,8 +1786,8 @@ msgid "Allow the Lunatic to do the actions of the Demon. Place their 'attack' ma
 msgstr "미치광이에게 악마처럼 행동하게 합니다. 그들에게 \"공격\" 마커를 표시합니다. 그 후 악마를 깨워, 공격 마커를 보여주고, 공격받은 캐릭터를 가리킵니다.(미치광이가 죽이려한 플레이어를 알게합니다). 미치광이의 공격 토큰을 치웁니다"
 
 msgctxt "lunatic reminders"
-msgid "Attack 1,Attack 2,Attack 3"
-msgstr "공격1, 공격2, 공격3"
+msgid "Chosen,Chosen,Chosen"
+msgstr ""
 
 msgctxt "lycanthrope name"
 msgid "Lycanthrope"
@@ -3262,6 +3262,10 @@ msgstr "만약 오늘 낮에 아무도 죽지 않았다면, 좀부울은 플레�
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "오늘 사망함,사망"
+
+#~ msgctxt "lunatic reminders"
+#~ msgid "Attack 1,Attack 2,Attack 3"
+#~ msgstr "공격1, 공격2, 공격3"
 
 #~ msgctxt "cannibal reminders"
 #~ msgid "Poisoned,Died today"

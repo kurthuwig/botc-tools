@@ -1786,8 +1786,8 @@ msgid "Allow the Lunatic to do the actions of the Demon. Place their 'attack' ma
 msgstr "ถ้าคนบ้าได้บทปีศาจที่จะต้องตื่นมาฆ่า ให้คนตื่นมาเลือกคน บันทึกด้วยโทเคน 'ฆ่า' ปลุกปีศาจแล้วแสดงป้าย 'คุณเป็นปีศาจ' แสดงให้เขาดูว่าคนบ้าเป็นใคร ถ้าคนบ้าเลือกฆ่าคน แสดงให้เขาดูว่าคนบ้าเลือกใคร เอาโทเคน'ฆ่า'ออก"
 
 msgctxt "lunatic reminders"
-msgid "Attack 1,Attack 2,Attack 3"
-msgstr "ฆ่า 1,ฆ่า 2,ฆ่า 3"
+msgid "Chosen,Chosen,Chosen"
+msgstr ""
 
 msgctxt "lycanthrope name"
 msgid "Lycanthrope"
@@ -3263,6 +3263,10 @@ msgstr "ถ้าวันนี้ไม่มีใครตาย ซอม�
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
 msgstr "ตายวันนี้,ตาย"
+
+#~ msgctxt "lunatic reminders"
+#~ msgid "Attack 1,Attack 2,Attack 3"
+#~ msgstr "ฆ่า 1,ฆ่า 2,ฆ่า 3"
 
 #~ msgctxt "cannibal reminders"
 #~ msgid "Poisoned,Died today"

@@ -1785,8 +1785,8 @@ msgid "Allow the Lunatic to do the actions of the Demon. Place their 'attack' ma
 msgstr "Erlaube der Verrückten Dämonenaktionen durchzuführen. Platziere den 'Attacke' Marker. Wenn die Verrückte einen Spieler auswählt: Wecke den Dämon. Zeige ihm den 'Attackiere' Marker, dann zeige auf jeden von der Verrückten markierten Spieler. Entferne die Attacke Marker der Verrückten."
 
 msgctxt "lunatic reminders"
-msgid "Attack 1,Attack 2,Attack 3"
-msgstr "Angriff 1,Angriff 2,Angriff 3"
+msgid "Chosen,Chosen,Chosen"
+msgstr "Gewählt,Gewählt,Gewählt"
 
 msgctxt "lycanthrope name"
 msgid "Lycanthrope"
