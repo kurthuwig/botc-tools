@@ -1,15 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: uk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.6\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-09-03 07:02+0000\nLast-Translator: Shevko More <shevkomore@gmail.com>\nLanguage-Team: Ukrainian <https://hosted.weblate.org/projects/botc/jinxes/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.13.1-dev\n"
 
 msgctxt "alchemist boffin"
 msgid "If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has."
@@ -17,19 +7,19 @@ msgstr "Якщо Алхімік має здібність вченого, той
 
 msgctxt "alchemist marionette"
 msgid "An Alchemist-Marionette has no Marionette ability & the Marionette is in play."
-msgstr ""
+msgstr "Алхімік-Маріонетка не має здібності Маріонетки і Маріонетка в грі."
 
 msgctxt "alchemist mastermind"
 msgid "An Alchemist-Mastermind has no Mastermind ability & the Mastermind is not-in-play."
-msgstr ""
+msgstr "Алхімік-Геній не має здібності Генія і Геній не в грі."
 
 msgctxt "alchemist organgrinder"
 msgid "If the Alchemist has the Organ Grinder ability, the Organ Grinder is in play & if both the Alchemist and Organ Grinder are sober, both are drunk."
-msgstr ""
+msgstr "Якщо Алхімік має здібність Катеринщика, то Катеринщик в грі, і якщо обидва тверезі, обидва п'яні."
 
 msgctxt "alchemist spy"
 msgid "If the Alchemist has the Spy ability, they do not, and a Spy is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Spy. If correct, the Demon must choose the Spy tonight."
-msgstr ""
+msgstr "Якщо Алхімік отримує здібність Шпигуна, натомість Шпигун в грі, і щодня, після страти, Алхімік може публічно вгадати, що живий гравець - Шпигун: якщо вгадає вірно, вночі Демон має обрати Шпигуна."
 
 msgctxt "alchemist summoner"
 msgid "The Alchemist-Summoner does not get bluffs, and chooses which Demon but not which player. If they die before this happens, evil wins. [No Demon]"
@@ -341,7 +331,7 @@ msgstr "Якщо ще лишились жетони, Чар-Зіллярка м�
 
 msgctxt "plaguedoctor baron"
 msgid "If the Storyteller gains the Baron ability, up to two players become not-in-play Outsiders."
-msgstr "Якщо Оповідач отримує здібність Барона, до двох гравців стають Приїжджими не в грі"
+msgstr "Якщо Оповідач отримує здібність Барона, до двох гравців стають Приїжджими не в грі."
 
 msgctxt "plaguedoctor boomdandy"
 msgid "If the Plague Doctor is executed and the Storyteller would gain the Boomdandy ability, the Boomdandy ability triggers immediately."
@@ -353,11 +343,11 @@ msgstr "Оповідач не може отримати здібність Зл�
 
 msgctxt "plaguedoctor fearmonger"
 msgid "If the Plague Doctor dies, a living Minion gains the Fearmonger ability in addition to their own ability, and learns this."
-msgstr "Якщо Чумний Доктор помирає, живий Міньон отримує здібність Страховія разом зі своєю і дізнається про це"
+msgstr "Якщо Чумний Доктор помирає, живий Міньон отримує здібність Страховія разом зі своєю і дізнається про це."
 
 msgctxt "plaguedoctor goblin"
 msgid "If the Plague Doctor dies, a living Minion gains the Goblin ability in addition to their own ability, and learns this."
-msgstr "Якщо Чумний Доктор помирає, живий Міньон отримує здібність Гобліна разом зі своєю і дізнається про це"
+msgstr "Якщо Чумний Доктор помирає, живий Міньон отримує здібність Гобліна разом зі своєю і дізнається про це."
 
 msgctxt "plaguedoctor marionette"
 msgid "If the Demon has a neighbor who is alive and a Townsfolk or Outsider when the Plague Doctor dies, that player becomes an evil Marionette. If there is already an extra evil player, this does not happen."
@@ -365,15 +355,15 @@ msgstr "Якщо Демон має сусіда що жив і Міщан/При
 
 msgctxt "plaguedoctor scarletwoman"
 msgid "If the Plague Doctor dies, a living Minion gains the Scarlet Woman ability in addition to their own ability, and learns this."
-msgstr "Якщо Чумний Доктор помирає, живий Міньон отримує здібність Багряної Дами разом зі своєю і дізнається про це"
+msgstr "Якщо Чумний Доктор помирає, живий Міньон отримує здібність Багряної Дами разом зі своєю і дізнається про це."
 
 msgctxt "plaguedoctor spy"
 msgid "If the Plague Doctor dies, a living Minion gains the Spy ability in addition to their own ability, and learns this."
-msgstr "Якщо Чумний Доктор помирає, живий Міньон отримує здібність Шпигуна разом зі своєю і дізнається про це"
+msgstr "Якщо Чумний Доктор помирає, живий Міньон отримує здібність Шпигуна разом зі своєю і дізнається про це."
 
 msgctxt "plaguedoctor wraith"
 msgid "If the Plague Doctor dies, a living Minion gains the Wraith ability in addition to their own ability, and learns this."
-msgstr ""
+msgstr "Якщо Чумний Доктор помирає, живий Міньон отримує здібність Тіні разом зі своєю і дізнається про це."
 
 msgctxt "riot banshee"
 msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability."
@@ -409,7 +399,7 @@ msgstr "Якщо Бунт не в грі, обраного Монахом гра
 
 msgctxt "riot ravenkeeper"
 msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die."
-msgstr "Щоночі* Бунт обирає живого доброго гравця (щоразу нового): обраний Воронар активується (але не помирає)"
+msgstr "Щоночі* Бунт обирає живого доброго гравця (щоразу нового): обраний Воронар активується (але не помирає)."
 
 msgctxt "riot sage"
 msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Sage uses their ability but does not die."
