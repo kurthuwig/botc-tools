@@ -1,15 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: uk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.6\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-09-03 07:01+0000\nLast-Translator: Shevko More <shevkomore@gmail.com>\nLanguage-Team: Ukrainian <https://hosted.weblate.org/projects/botc/characters/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.13.1-dev\n"
 
 msgctxt "acrobat name"
 msgid "Acrobat"
@@ -25,7 +15,7 @@ msgstr "Пані та панове, вітаємо вас на найвелич�
 
 msgctxt "acrobat otherNightReminder"
 msgid "The Acrobat chooses a player. If they are become drunk or poisoned tonight, the Acrobat player dies."
-msgstr "Акробат обирає гравця. Якщо цей гравець стає п'ян чи отруєн вночі, Акробат помирає"
+msgstr "Акробат обирає гравця. Якщо цей гравець стає п'ян чи отруєн вночі, Акробат помирає."
 
 msgctxt "acrobat reminders"
 msgid "Dead"
@@ -461,7 +451,7 @@ msgstr "Дворецький"
 
 msgctxt "butler ability"
 msgid "Each night, choose a player (not yourself): tomorrow, you may only vote if they are voting too."
-msgstr "Щоночі обирай гравця (не себе); ти можетш голосувати тільки якщо вони теж голосують."
+msgstr "Щоночі обирай гравця (не себе); ти можеш голосувати тільки якщо вони теж голосують."
 
 msgctxt "butler flavor"
 msgid ""
@@ -518,10 +508,9 @@ msgctxt "cannibal flavor"
 msgid "I don’t like clowns. They taste funny."
 msgstr "I don’t like clowns. They taste funny."
 
-#, fuzzy
 msgctxt "cannibal reminders"
 msgid "Poisoned,Lunch"
-msgstr "Отруєно"
+msgstr "Отруєно,Обід"
 
 msgctxt "cerenovus name"
 msgid "Cerenovus"
@@ -1787,7 +1776,7 @@ msgstr "Дайте Лунатику зробити дії Демона. Позн
 
 msgctxt "lunatic reminders"
 msgid "Chosen,Chosen,Chosen"
-msgstr ""
+msgstr "Обрано,Обрано,Обрано"
 
 msgctxt "lycanthrope name"
 msgid "Lycanthrope"
@@ -1827,7 +1816,7 @@ msgstr ""
 
 msgctxt "magician firstNightReminder"
 msgid "Point to the Magician when showing the Demon their Minions. Point to the Demon and the Magician when showing the Minions their Demon."
-msgstr ""
+msgstr "Вкажи на Чарівника як показуєш Міньонів Демону. Вкажи на Демона і Чарівника як показуєш Міньонам Демона."
 
 msgctxt "marionette name"
 msgid "Marionette"
