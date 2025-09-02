@@ -1,16 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-08-28 09:01+0000\n"
-"Last-Translator: Eliderad <aki12@live.se>\n"
-"Language-Team: Swedish <https://hosted.weblate.org/projects/botc/characters/sv/>\n"
-"Language: sv\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-09-03 07:02+0000\nLast-Translator: Eliderad <aki12@live.se>\nLanguage-Team: Swedish <https://hosted.weblate.org/projects/botc/characters/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13.1-dev\n"
 
 msgctxt "acrobat name"
 msgid "Acrobat"
@@ -996,7 +985,7 @@ msgstr "Förbrukad"
 
 msgctxt "fiddler name"
 msgid "Fiddler"
-msgstr "Violinisten"
+msgstr "Felegnidaren"
 
 msgctxt "fiddler ability"
 msgid "Once per game, the Demon secretly chooses an opposing player: all players choose which of these 2 players win."
@@ -1786,7 +1775,7 @@ msgstr "Låt Galningen utföra Demonens handling och sätt ut Galningens ”Vald
 
 msgctxt "lunatic reminders"
 msgid "Chosen,Chosen,Chosen"
-msgstr ""
+msgstr "Vald,Vald,Vald"
 
 msgctxt "lycanthrope name"
 msgid "Lycanthrope"
