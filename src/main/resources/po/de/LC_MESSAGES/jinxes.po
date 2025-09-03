@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-08-13 06:02+0000\nLast-Translator: Kurt Huwig <kurthuwig@gmail.com>\nLanguage-Team: German <https://hosted.weblate.org/projects/botc/jinxes/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13-dev\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-09-04 08:02+0000\nLast-Translator: Kurt Huwig <kurthuwig@gmail.com>\nLanguage-Team: German <https://hosted.weblate.org/projects/botc/jinxes/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13.1-rc\n"
 
 msgctxt "alchemist boffin"
 msgid "If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has."
@@ -7,31 +7,31 @@ msgstr "Wenn der Alchemist die Laborratten-Fähigkeit hat, erfährt der Alchemis
 
 msgctxt "alchemist marionette"
 msgid "An Alchemist-Marionette has no Marionette ability & the Marionette is in play."
-msgstr ""
+msgstr "Eine Alchemist-Marionette hat nicht die Marionetten-Fähigkeit & die Marionette ist im Spiel."
 
 msgctxt "alchemist mastermind"
 msgid "An Alchemist-Mastermind has no Mastermind ability & the Mastermind is not-in-play."
-msgstr ""
+msgstr "Ein Alchemist-Strippenzieher hat keine Strippenzieher-Fähigkeit & der Strippenzieher ist nicht im Spiel."
 
 msgctxt "alchemist organgrinder"
 msgid "If the Alchemist has the Organ Grinder ability, the Organ Grinder is in play & if both the Alchemist and Organ Grinder are sober, both are drunk."
-msgstr ""
+msgstr "Wenn der Alchemist die Fähigkeit des Drehorgelspielers hat, ist der Drehorgelspieler im Spiel & wenn der Alchemist und der Drehorgelspieler nüchtern sind, sind beide betrunken."
 
 msgctxt "alchemist spy"
 msgid "If the Alchemist has the Spy ability, they do not, and a Spy is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Spy. If correct, the Demon must choose the Spy tonight."
-msgstr ""
+msgstr "Wenn der Alchemist die Spion-Fähigkeit hat, hat er sie nicht, und der Spion ist im Spiel. Jeden Tag, nach der Hinrichtung, darf der lebendige Alchemist öffentlich einen lebendigen Spieler als Spion raten. Falls korrekt, muss der Dämon heute Nacht den Spion wählen."
 
 msgctxt "alchemist summoner"
 msgid "The Alchemist-Summoner does not get bluffs, and chooses which Demon but not which player. If they die before this happens, evil wins. [No Demon]"
-msgstr ""
+msgstr "Der Alchemist-Beschwörer erhält keine Bluffs, and wählt welchen Dämon, aber nicht welcher Spieler. Wenn er stirbt bevor dies passiert, gewinnt Böse. [Kein Dämon]"
 
 msgctxt "alchemist widow"
 msgid "If the Alchemist has the Widow ability, they do not, and a Widow is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Widow. If correct, the Demon must choose the Widow tonight."
-msgstr ""
+msgstr "Falls der Alchemist die Witwen-Fähigkeit hat, hat er sie nicht, und eine Witwe ist im Spiel. Jeden Tag, nach der Hinrichtung, darf der lebendige Alchemist öffentlich einen lebendigen Spieler als Witwe raten. Falls korrekt, muss der Dämon heute Nacht die Witwe wählen."
 
 msgctxt "alchemist wraith"
 msgid "If the Alchemist has the Wraith ability, they do not, and a Wraith is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Wraith. If correct, the Demon must choose the Wraith tonight."
-msgstr "Wenn der Alchemist die Geist-Fähigkeit hat, hat er diese nicht, und ein Geist ist im Spiel. Jeden Tag, nach der Hinrichtung, darf ein lebendiger Alchemist öffentlich einen lebendigen Spieler als Geist wählen. Wenn er korrekt lag, muss der Dämon diese Nacht den Geist wählen."
+msgstr "Wenn der Alchemist die Geist-Fähigkeit hat, hat er diese nicht, und ein Geist ist im Spiel. Jeden Tag, nach der Hinrichtung, darf ein lebendiger Alchemist öffentlich einen lebendigen Spieler als Geist wählen. Falls korrekt, muss der Dämon diese Nacht den Geist wählen."
 
 msgctxt "alhadikhia princess"
 msgid "If the Princess nominated & executed a player on their 1st day, no one dies to the Al-Hadikhia ability tonight."
@@ -39,23 +39,23 @@ msgstr "Wenn die Prinzessin an ihrem 1. Tag einen Spieler nominiert und hingeric
 
 msgctxt "boffin cultleader"
 msgid "If the Demon has the Cult Leader ability, they can’t turn good due to this ability."
-msgstr ""
+msgstr "Falls der Dämon die Kultführer-Fähigkeit hat, kann er nicht auf Grund seiner Fähigkeit gut werden."
 
 msgctxt "boffin drunk"
 msgid "If the Demon would have the Drunk ability, the Boffin chooses a Townsfolk player to have this ability instead."
-msgstr ""
+msgstr "Falls der Dämon die Trunkenbold-Fähigkeit hätte, wählt die Laborratte einen Bürger, der stattdessen diese Fähigkeit hat."
 
 msgctxt "boffin goon"
 msgid "If the Demon has the Goon ability, they can’t turn good due to this ability."
-msgstr ""
+msgstr "Falls der Dämon die Schläger-Fähigkeit hat, kann er nicht auf Grund seiner Fähigkeit gut werden."
 
 msgctxt "boffin ogre"
 msgid "The Demon cannot have the Ogre ability."
-msgstr ""
+msgstr "Der Dämon kann nicht die Oger-Fähigkeit haben."
 
 msgctxt "boffin politician"
 msgid "The Demon cannot have the Politician ability."
-msgstr ""
+msgstr "Der Dämon kann nicht die Politiker-Fähigkeit haben."
 
 msgctxt "boffin villageidiot"
 msgid "If there is a spare token, the Boffin can give the Demon the Village Idiot ability."
@@ -63,7 +63,7 @@ msgstr "Wenn es ausreichend Plättchen gibt, kann die Laborratte dem Dämon die 
 
 msgctxt "bountyhunter kazali"
 msgid "An evil Townsfolk is only created if the Bounty Hunter is still in play after the Kazali acts."
-msgstr ""
+msgstr "Ein böser Bürger wird nur erzeugt, falls der Kopfgeldjäger immer noch im Spiel ist, nachdem der Kazali gehandelt hat."
 
 msgctxt "bountyhunter philosopher"
 msgid "If the Philosopher gains the Bounty Hunter ability, a Townsfolk might turn evil."
@@ -71,7 +71,7 @@ msgstr "Wenn der Philosoph die Kopfgeldjäger-Fähigkeit bekommt, könnte ein B�
 
 msgctxt "butler organgrinder"
 msgid "If the Organ Grinder is causing eyes closed voting, the Butler may raise their hand to vote but their vote is only counted if their master voted too."
-msgstr ""
+msgstr "Falls der Drehorgelspieler eine Abstimmung mit geschlossenen Augen verursacht, darf der Butler seine Hand zur Abstimmung heben, aber seine Stimme wird nur gezählt, wenn sein Meister auch abgestimmt hat."
 
 msgctxt "cannibal butler"
 msgid "If the Cannibal gains the Butler ability, the Cannibal learns this."
@@ -79,15 +79,15 @@ msgstr "Wenn der Kannibale die Butler-Fähigkeit erlangt, erfährt dies der Kann
 
 msgctxt "cannibal juggler"
 msgid "If the Juggler guesses on their first day and dies by execution, tonight the living Cannibal learns how many guesses the Juggler got correct."
-msgstr ""
+msgstr "Falls der Jongler am ersten Tag rät und durch Hinrichtung stirbt, erfährt heute Nacht der lebendige Kannibale, wie viele Rateversuche korrekt waren."
 
 msgctxt "cannibal poppygrower"
 msgid "If the Cannibal eats the Poppy Grower, then dies or loses the Poppy Grower ability, the Demon and Minions learn each other that night."
-msgstr ""
+msgstr "Falls der Kannibale den Opiumzüchter isst, dann stirbst oder die Opiumzüchter-Fähigkeit verliert, erfahren der Dämon und Schergen heute Nacht, wer die anderen sind."
 
 msgctxt "cannibal princess"
 msgid "If the Cannibal nominated & executed the Princess today, the Demon doesn’t kill tonight."
-msgstr ""
+msgstr "Falls der Kannibale die Prinzessin heute nominiert & hingerichtet hat, tötet der Dämon heute Nacht nicht."
 
 msgctxt "cannibal zealot"
 msgid "If the Cannibal gains the Zealot ability, the Cannibal learns this."
@@ -103,7 +103,7 @@ msgstr "Der Baron fügt möglicherweise nur 1 statt 2 Außenseiter zum Spiel hin
 
 msgctxt "heretic boffin"
 msgid "The Demon cannot have the Heretic ability."
-msgstr ""
+msgstr "Der Dämon kann nicht die Fähigkeit des Ketzers haben."
 
 msgctxt "heretic godfather"
 msgid "Only 1 jinxed character can be in play."
@@ -111,7 +111,7 @@ msgstr "Nur 1 verhexter Charakter kann gleichzeitig im Spiel sein."
 
 msgctxt "heretic lleech"
 msgid "If the Lleech has poisoned the Heretic then the Lleech dies, the Heretic remains poisoned."
-msgstr ""
+msgstr "Falls der Lleech den Ketzer vergiftet hat, dann der Lleech stirbt, bleibt der Ketzer vergiftet."
 
 msgctxt "heretic pithag"
 msgid "A Pit-Hag can not create a Heretic."
@@ -127,19 +127,19 @@ msgstr "Nur 1 verhexter Charakter kann gleichzeitig im Spiel sein."
 
 msgctxt "kazali choirboy"
 msgid "The Kazali can not choose the King to become a Minion if a Choirboy is in play."
-msgstr ""
+msgstr "Der Kazali kann nicht wählen, das der König ein Scherge wird, falls ein Chorknabe im Spiel ist."
 
 msgctxt "kazali goon"
 msgid "The Kazali can choose that the Goon player is one of their evil Minions."
-msgstr ""
+msgstr "Der Kazali kann wählen, dass der Schläger-Spieler einer seiner bösen Schergen ist."
 
 msgctxt "kazali huntsman"
 msgid "If the Kazali chooses the Damsel to become a Minion, and a Huntsman is in play, a good player becomes the Damsel."
-msgstr ""
+msgstr "Falls der Kazali wählte, das die Unschuld ein Scherge wird, und ein Jäger im Spiel ist, wird ein guter Spieler zur Unschuld."
 
 msgctxt "kazali marionette"
 msgid "If the Kazali chooses to create a Marionette, they must choose one of their neighbors."
-msgstr ""
+msgstr "Falls der Kazali wählt eine Marionette zu erzeugen, muss er einen seiner Nachbarn wählen."
 
 msgctxt "kazali soldier"
 msgid "The Kazali can choose that the Soldier player is one of their evil Minions."
@@ -147,7 +147,7 @@ msgstr "Der Kazali kann wählen, dass der Soldat einer seiner Schergen ist."
 
 msgctxt "legion engineer"
 msgid "Legion and the Engineer can not both be in play at the start of the game. If the Engineer creates Legion, most players (including all evil players) become evil Legion."
-msgstr ""
+msgstr "Legion und der Ingenieur können zu Spielbeginn nicht beide im Spiel sein. Falls der Ingenieur Legion erzeugt, werden die meisten Spieler (inklusive allen bösen Spielern) Legion."
 
 msgctxt "legion hatter"
 msgid "If the Hatter dies and Legion is in play, nothing happens. If the Hatter dies and an evil player chooses Legion, all current evil players become Legion."
