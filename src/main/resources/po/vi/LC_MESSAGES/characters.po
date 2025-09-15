@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-08-30 15:01+0000\nLast-Translator: tuanhuyng <tuanhuynguyen806@gmail.com>\nLanguage-Team: Vietnamese <https://hosted.weblate.org/projects/botc/characters/vi/>\nLanguage: vi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.13.1-dev\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-09-16 08:11+0000\nLast-Translator: tuanhuyng <tuanhuynguyen806@gmail.com>\nLanguage-Team: Vietnamese <https://hosted.weblate.org/projects/botc/characters/vi/>\nLanguage: vi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.14-dev\n"
 
 msgctxt "acrobat name"
 msgid "Acrobat"
@@ -2943,7 +2943,7 @@ msgstr "Không tấn công"
 
 msgctxt "undertaker name"
 msgid "Undertaker"
-msgstr "Chôn cất"
+msgstr "Kẻ đào mộ"
 
 msgctxt "undertaker ability"
 msgid "Each night*, you learn which character died by execution today."
