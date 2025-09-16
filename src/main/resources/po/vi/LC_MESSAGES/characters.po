@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-09-16 08:11+0000\nLast-Translator: tuanhuyng <tuanhuynguyen806@gmail.com>\nLanguage-Team: Vietnamese <https://hosted.weblate.org/projects/botc/characters/vi/>\nLanguage: vi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.14-dev\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-09-17 11:02+0000\nLast-Translator: tuanhuyng <tuanhuynguyen806@gmail.com>\nLanguage-Team: Vietnamese <https://hosted.weblate.org/projects/botc/characters/vi/>\nLanguage: vi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.14-dev\n"
 
 msgctxt "acrobat name"
 msgid "Acrobat"
@@ -15,7 +15,7 @@ msgstr "Chào mừng quý khán giả đến với buổi diễn tuyệt vời n
 
 msgctxt "acrobat otherNightReminder"
 msgid "The Acrobat chooses a player. If they are become drunk or poisoned tonight, the Acrobat player dies."
-msgstr "Nếu bất kì hàng xóm tốt của họ trúng độc hoặc bị say, Nghệ sĩ xiếc chết."
+msgstr "Nghệ sĩ xiếc chọn 1 người. Nếu họ bị say hoặc độc tối nay, Nghệ sĩ xiếc chết."
 
 msgctxt "acrobat reminders"
 msgid "Dead"
@@ -1339,7 +1339,7 @@ msgstr "Một mũ. Hai mũ. Ba mũ. Báo mũ. Tu mũ. Nam mũ. Sau mũ. Mãy b�
 
 msgctxt "hatter otherNightReminder"
 msgid "If the Hatter died today: Wake the Minions and Demon. Show them the 'This Character Selected You' info token, then the Hatter token. Each player either shakes their head no or points to another character of the same type as their current character.  If a second player would end up with the same character as another player, shake your head no and gesture for them to choose again. Put them to sleep. Change each player to the character they chose."
-msgstr "Nếu Thợ làm mũ chết trong hôm nay: Gọi Quỷ và Tay sai dậy. Cho họ thấy token \"Nhân vật này chọn bạn\", và token Thợ làm mũ. Mỗi người có thể lắc đầu hoặc chọn 1 nhân vật cùng loại với nhân vật của họ.  Nếu đó có 2 người cùng nhân vật, lắc đầu và ra dấu cho người sau chọn lại. Cho họ đi ngủ. Đổi nhân vật của họ bằng nhân vật họ chọn."
+msgstr "Nếu Thợ làm mũ chết trong hôm nay: Gọi Quỷ và Tay sai dậy. Cho họ thấy token \"Nhân vật này chọn bạn\", và token Thợ làm mũ. Mỗi người có thể lắc đầu hoặc chọn 1 nhân vật cùng loại với nhân vật của họ. Nếu đó có 2 người cùng nhân vật, lắc đầu và ra dấu cho người sau chọn lại. Cho họ đi ngủ. Đổi nhân vật của họ bằng nhân vật họ chọn."
 
 msgctxt "hatter reminders"
 msgid "Tea Party Tonight"
@@ -1805,7 +1805,7 @@ msgstr "Ảo thuật gia"
 
 msgctxt "magician ability"
 msgid "The Demon thinks you are a Minion. Minions think you are a Demon."
-msgstr "Quỷ nghĩ bạn là Tay sau. Tay sai nghĩ bạn là Quỷ."
+msgstr "Quỷ nghĩ bạn là Tay sai. Tay sai nghĩ bạn là Quỷ."
 
 msgctxt "magician flavor"
 msgid ""
