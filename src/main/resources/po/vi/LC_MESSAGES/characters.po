@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-09-23 19:01+0000\nLast-Translator: tuanhuyng <tuanhuynguyen806@gmail.com>\nLanguage-Team: Vietnamese <https://hosted.weblate.org/projects/botc/characters/vi/>\nLanguage: vi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.14-dev\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-10-07 21:02+0000\nLast-Translator: tuanhuyng <tuanhuynguyen806@gmail.com>\nLanguage-Team: Vietnamese <https://hosted.weblate.org/projects/botc/characters/vi/>\nLanguage: vi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.14-dev\n"
 
 msgctxt "acrobat name"
 msgid "Acrobat"
@@ -139,7 +139,7 @@ msgstr "Họa sĩ"
 
 msgctxt "artist ability"
 msgid "Once per game, during the day, privately ask the Storyteller any yes/no question."
-msgstr "Một lần trong game, trong ngày, bí mật hỏi Người kể chuyện bất kỳ câu hỏi đúng/sai."
+msgstr "Một lần trong game, trong ngày, bí mật hỏi Người kể truyện bất kỳ câu hỏi đúng/sai."
 
 msgctxt "artist flavor"
 msgid "Mon Dieu! C'est lumineux! My work, she is... how you say... Magnifique! Dieu est révélé! Oui."
@@ -175,7 +175,7 @@ msgstr "Vô thần"
 
 msgctxt "atheist ability"
 msgid "The Storyteller can break the game rules & if executed, good wins, even if you are dead [No evil characters]"
-msgstr "Người kể chuyện có thể phá luật & nếu bị hành quyết, phe tốt thắng, ngay cả khi bạn chết [Không có nhân vật xấu]"
+msgstr "Người kể truyện có thể phá luật & nếu bị hành quyết, phe tốt thắng, ngay cả khi bạn chết [Không có nhân vật xấu]"
 
 msgctxt "atheist flavor"
 msgid "Let us disperse with unnecessary conjecture and silly paranoia. There is a perfectly rational explanation for everything. Yes, a teacup may indeed be orbiting the planet, too small to see, but I shall drink my tea from the very real china in my very real hands."
@@ -299,7 +299,7 @@ msgstr "Giám mục"
 
 msgctxt "bishop ability"
 msgid "Only the Storyteller can nominate. At least 1 opposite player must be nominated each day."
-msgstr "Chỉ có Người kể chuyện được biểu quyết. Mỗi ngày, ít nhất 1 người khác phe bạn bị biểu quyết."
+msgstr "Chỉ có Người kể truyện được biểu quyết. Mỗi ngày, ít nhất 1 người khác phe bạn bị biểu quyết."
 
 msgctxt "bishop flavor"
 msgid "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis."
@@ -677,7 +677,7 @@ msgstr "Mọi thứ đều ổn"
 
 msgctxt "deusexfiasco ability"
 msgid "At least once per game, the Storyteller will make a mistake, correct it and publicly admit to it."
-msgstr "Một lần trong game, Người kể chuyện sẽ \"mắc lỗi\", sửa nó và thừa nhận lỗi của mình."
+msgstr "Một lần trong game, Người kể truyện sẽ \"mắc lỗi\", sửa nó và thừa nhận lỗi của mình."
 
 msgctxt "deusexfiasco flavor"
 msgid "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
@@ -1001,7 +1001,7 @@ msgstr "Ngư dân"
 
 msgctxt "fisherman ability"
 msgid "Once per game, during the day, visit the Storyteller for some advice to help you win."
-msgstr "Một lần trong game, trong ngày, thăm Người kể chuyện để nhận tư vấn giúp bạn thắng."
+msgstr "Một lần trong game, trong ngày, thăm Người kể truyện để nhận tư vấn giúp bạn thắng."
 
 msgctxt "fisherman flavor"
 msgid "This was my favourite part of the river... see how the sunlight makes a rainbow from the monastery to the market? This was the best place for big fish. And the older I get, the bigger they were."
@@ -1077,7 +1077,7 @@ msgstr "Người trồng cây"
 
 msgctxt "gardener ability"
 msgid "The Storyteller assigns 1 or more players' characters."
-msgstr "Người kể chuyện tự đưa nhân vật cho 1 hay nhiều người chơi."
+msgstr "Người kể truyện tự đưa nhân vật cho 1 hay nhiều người chơi."
 
 #, fuzzy
 msgctxt "gardener flavor"
@@ -1123,7 +1123,7 @@ msgstr "Đại tướng"
 
 msgctxt "general ability"
 msgid "Each night, you learn which alignment the Storyteller believes is winning: good, evil, or neither."
-msgstr "Mỗi đêm, bạn biết phe mà Người kể chuyện nghĩ là đang thắng: tốt, xấu, hoặc ngang bằng."
+msgstr "Mỗi đêm, bạn biết phe mà Người kể truyện nghĩ là đang thắng: tốt, xấu, hoặc ngang bằng."
 
 msgctxt "general flavor"
 msgid "I don’t have time for quotes."
@@ -1351,7 +1351,7 @@ msgstr "Thư viện Địa ngục"
 
 msgctxt "hellslibrarian ability"
 msgid "Something bad might happen to whoever talks when the Storyteller has asked for silence."
-msgstr "Điều xấu có thể xảy ra với người nói khi Người kể chuyện cần im lặng."
+msgstr "Điều xấu có thể xảy ra với người nói khi Người kể truyện cần im lặng."
 
 msgctxt "hellslibrarian flavor"
 msgid "Shhhhhh. Please be quiet. It is best not to disturb the Librarian. I've heard it has a temper."
@@ -1395,7 +1395,7 @@ msgstr "Nữ thượng tế"
 
 msgctxt "highpriestess ability"
 msgid "Each night, learn which player the Storyteller believes you should talk to most."
-msgstr "Mỗi đêm, bạn biết Người kể chuyện nghĩ bạn nên nói chuyện với người nào nhất."
+msgstr "Mỗi đêm, bạn biết Người kể truyện nghĩ bạn nên nói chuyện với người nào nhất."
 
 msgctxt "highpriestess flavor"
 msgid "There is life behind the personality that uses personalities as masks. There are times when life puts off the mask and deep answers to deep."
@@ -2081,7 +2081,7 @@ msgstr "Ojo"
 
 msgctxt "ojo ability"
 msgid "Each night*, choose a character: they die. If they are not in play, the Storyteller chooses who dies."
-msgstr "Mỗi đêm*, chọn 1 nhân vật: họ chết. Nếu nó không có trong game, Người kể chuyện chọn người chết."
+msgstr "Mỗi đêm*, chọn 1 nhân vật: họ chết. Nếu nó không có trong game, Người kể truyện chọn người chết."
 
 msgctxt "ojo flavor"
 msgid "Like a bonfire on a moonless night… I see you, mortal."
@@ -2089,7 +2089,7 @@ msgstr "Like a bonfire on a moonless night… I see you, mortal."
 
 msgctxt "ojo otherNightReminder"
 msgid "The Ojo points to a character on the sheet; if in play, that player dies. If it is not in play, the Storyteller chooses who dies instead."
-msgstr "Mỗi ngày, bạn có thể gặp Người kể chuyện để học 2 điều: 1 đúng và 1 sai."
+msgstr "Mỗi ngày, bạn có thể gặp Người kể truyện để học 2 điều: 1 đúng và 1 sai."
 
 msgctxt "ojo reminders"
 msgid "Dead"
