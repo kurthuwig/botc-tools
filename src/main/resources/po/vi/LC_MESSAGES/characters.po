@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-10-07 21:02+0000\nLast-Translator: tuanhuyng <tuanhuynguyen806@gmail.com>\nLanguage-Team: Vietnamese <https://hosted.weblate.org/projects/botc/characters/vi/>\nLanguage: vi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.14-dev\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-10-09 14:07+0000\nLast-Translator: tuanhuyng <tuanhuynguyen806@gmail.com>\nLanguage-Team: Vietnamese <https://hosted.weblate.org/projects/botc/characters/vi/>\nLanguage: vi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.14-dev\n"
 
 msgctxt "acrobat name"
 msgid "Acrobat"
@@ -47,7 +47,7 @@ msgstr "Al-Hadikhia"
 
 msgctxt "alhadikhia ability"
 msgid "Each night*, you may choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die."
-msgstr "Mỗi đêm*, có thể chọn 3 người (mọi người biết là ai): mỗi người bí mật chọn được sống hoặc chết, nếu tất cả chọn sống, họ cùng chết."
+msgstr "Mỗi đêm*, có thể chọn 3 người (mọi người biết là ai): mỗi người bí mật chọn được sống hoặc chết, nếu tất cả sống, tất cả chết."
 
 msgctxt "alhadikhia flavor"
 msgid "Alsukut min dhahab."
@@ -111,7 +111,7 @@ msgstr "Để những kẻ vô tâm đụng tay đến người ta chọn, và t
 
 msgctxt "angel reminders"
 msgid "Protect,Something Bad"
-msgstr "Bảo vệ,Điều xấu"
+msgstr "Bảo Vệ,Điềm Xấu"
 
 msgctxt "apprentice name"
 msgid "Apprentice"
@@ -335,7 +335,7 @@ msgstr "Một lần trong game, vào buổi đêm, chọn người chết: họ 
 
 msgctxt "bonecollector flavor"
 msgid "I collect many things. Hair. Teeth. Clothes. Fragments of poems. The dreams of lost lovers. My secret arts are not for you to know but my fee is a mere pittance. Bring me the blood of a noblewoman who died of heartbreak under a full moon, and you shall have your answers."
-msgstr "I collect many things. Hair. Teeth. Clothes. Fragments of poems. The dreams of lost lovers. My secret arts are not for you to know but my fee is a mere pittance. Bring me the blood of a noblewoman who died of heartbreak under a full moon, and you shall have your answers."
+msgstr "Tôi sưu tầm nhiều thứ. Tóc. răng. Quần áo. Mảnh thơ. Ước mơ của người yêu đã mất. Nghệ thuật bí ẩn của tôi không để ngươi biết nhưng giá của nó cũng tương đối nhỏ. Mang cho tôi máu của bả quý tộc chết vì đau lòng dưới trăng tròn, và ngươi sẽ có đáp án ngươi cần."
 
 msgctxt "bonecollector otherNightReminder"
 msgid "The Bone Collector either shakes their head no or points at any dead player. If they pointed at any dead player, put the Bone Collector's 'Has Ability' reminder by the chosen player's character token. (They may need to be woken tonight to use it.)"
@@ -355,7 +355,7 @@ msgstr "Nếu bạn bị hành quyết, tất cả trừ 3 người chết. Sau 
 
 msgctxt "boomdandy flavor"
 msgid "Tick... Tick... Tick... TOCK."
-msgstr "Tick... Tick... Tick... TOCK."
+msgstr "Tíc... Tíc... Tíc... TOCK."
 
 msgctxt "bootlegger name"
 msgid "Bootlegger"
@@ -383,7 +383,7 @@ msgstr "Bạn biết 1 người xấu đầu game. Nếu người bạn biết c
 
 msgctxt "bountyhunter flavor"
 msgid "Alone, I walk these streets, paved with the sick stench of corruption. Its thickness worms its way into my nostrils, unbidden, burning with revulsion. And anticipation. The illness of this wretched place grows each night. And I... I am the cure."
-msgstr "Alone, I walk these streets, paved with the sick stench of corruption. Its thickness worms its way into my nostrils, unbidden, burning with revulsion. And anticipation. The illness of this wretched place grows each night. And I... I am the cure."
+msgstr "Cô độc, tôi đi bộ trên con đường này, bốc lên là mùi thối của tham nhũng. Mùi đặc của nó xộc lên mũi tôi, không mời, rực cháy với sự ghê tởm. Và sự mong đợi. Bệnh tật tại nơi tồi tàn này trải rộng mỗi đêm. Và ta... ta chính là thuốc giải."
 
 msgctxt "bountyhunter firstNightReminder"
 msgid "Point to 1 evil player. Wake the townsfolk who is evil and show them the 'You are' card and the thumbs down evil sign."
@@ -419,7 +419,7 @@ msgstr "Mỗi đêm, chọn 1 người (không phải bạn): phiếu của họ
 
 msgctxt "bureaucrat flavor"
 msgid "Sign here please. And here. And here. Aaaaaaaaand here. This should all be sorted and tallied by the end of the day, assuming everyone's signatures are legible. We haven't had a mix-up in the paperwork for ages. Yesterday noon, if memory serves..."
-msgstr "Sign here please. And here. And here. Aaaaaaaaand here. This should all be sorted and tallied by the end of the day, assuming everyone's signatures are legible. We haven't had a mix-up in the paperwork for ages. Yesterday noon, if memory serves..."
+msgstr "Hãy ký vào đây. Và đây. Và đây. Vààààààààà đây. Tất cả những cái này sẽ được lọc và đếm lúc cuối ngày, giả sử chữ ký của mọi người đều rõ ràng. Chúng tôi lâu nay chưa bao giờ gặp lỗi. Trưa qua, nếu tôi nhớ không nhầm..."
 
 msgctxt "bureaucrat firstNightReminder"
 msgid "The Bureaucrat points to a player. Put the Bureaucrat's '3 votes' reminder by the chosen player's character token."
@@ -509,7 +509,7 @@ msgstr "Tôi không thích hề. Bọn họ vị hơi hài hài."
 
 msgctxt "cannibal reminders"
 msgid "Poisoned,Lunch"
-msgstr "Trúng độc, Ăn nhẹ"
+msgstr "Trúng độc, Bữa Trưa"
 
 msgctxt "cerenovus name"
 msgid "Cerenovus"
@@ -545,7 +545,7 @@ msgstr "Mỗi đêm, chọn 2 người sống (không phải bạn): bạn biế
 
 msgctxt "chambermaid flavor"
 msgid "I aint seen nothin' untoward, Milady. Begging your pardon, but if I did see somethin', it certainly weren't the master o' the house sneaking into the professor's laboratory 'round eleven o'clock and mixing up fancy potions, just like you said, Miss."
-msgstr "I aint seen nothin' untoward, Milady. Begging your pardon, but if I did see somethin', it certainly weren't the master o' the house sneaking into the professor's laboratory 'round eleven o'clock and mixing up fancy potions, just like you said, Miss."
+msgstr "Tôi chưa thấy gì bất tiện, thưa Quý bà. Xin thứ lỗi nhưng nếu tôi thấy gì, nó chắc chắn không phải là chủ biệt thự này bước vào phòng thí nghiệm của giáo sư lúc tầm mười một giờ và trộn các thuốc với nhau, giống như bà nói, thưa Bà."
 
 msgctxt "chambermaid firstNightReminder"
 msgid "The Chambermaid points to two players. Show the number signal (0, 1, 2, …) for how many of those players wake tonight for their ability."
@@ -581,7 +581,7 @@ msgstr "Nếu Quỷ giết Ông vua, bạn biết người nào là Quỷ. [+ Ô
 
 msgctxt "choirboy flavor"
 msgid "I saw it, I did. I was in the pews, tidying the hymn books, when a dreadful tune started from the pipe organ. The organist had a long cloak, and long fingers on the keys. And a hat that looked… just like… yours."
-msgstr "I saw it, I did. I was in the pews, tidying the hymn books, when a dreadful tune started from the pipe organ. The organist had a long cloak, and long fingers on the keys. And a hat that looked… just like… yours."
+msgstr "Tôi đã thấy nó, đúng vậy. Tôi ở ghế dài, sắp xếp mấy cuốn thành ca, khi một âm thanh ghê rợn phát ra từ đàn ống. Người đánh đàn có một cái áo choàng dài, và ngòn tay dài trên phím. Và cái mũ trông... giống như... của ngươi."
 
 msgctxt "choirboy otherNightReminder"
 msgid "If the King was killed by the Demon, wake the Choirboy and point to the Demon player."
@@ -597,7 +597,7 @@ msgstr "Đêm đầu tiên bạn biết khoảng cách từ Quỷ cho đến Tay
 
 msgctxt "clockmaker flavor"
 msgid "Do not disturb me. The tick must continue, for the circle is a symbol of life and contains all things - all answers - in its divine machinery. I must work."
-msgstr "Do not disturb me. The tick must continue, for the circle is a symbol of life and contains all things - all answers - in its divine machinery. I must work."
+msgstr "Đừng làm phiền ta. Tiếng tíc phải tiếp diễn, vì hình tròn là biểu tượng cho sự sống và chứa tất cả mọi thứ - mọi câu trả lời - trong bộ máy thần. Ta phải làm việc."
 
 msgctxt "clockmaker firstNightReminder"
 msgid "Show the hand signal for the number (1, 2, 3, etc.) of places from Demon to closest Minion."
@@ -685,7 +685,7 @@ msgstr "Đây không phải là bug, đấy là tính năng. Đây không phải
 
 msgctxt "deusexfiasco reminders"
 msgid "Whoopsie"
-msgstr "Whoops"
+msgstr "Chết Dở"
 
 msgctxt "deviant name"
 msgid "Deviant"
@@ -709,7 +709,7 @@ msgstr "Mỗi đêm, chọn 1 người sống (khác đêm qua): nếu bị hàn
 
 msgctxt "devilsadvocate flavor"
 msgid "My client, should the objection be overruled, pleads innocent by virtue of the prosecution's non-observance of statute 27.B - incorrect or misleading conjugation of a verb. The fact that nine of the jury died last night is simply prima facie, which is, as Wills vs Thule set precedent for, further reason to acquit."
-msgstr "My client, should the objection be overruled, pleads innocent by virtue of the prosecution's non-observance of statute 27.B - incorrect or misleading conjugation of a verb. The fact that nine of the jury died last night is simply prima facie, which is, as Wills vs Thule set precedent for, further reason to acquit."
+msgstr "Thân chủ của tôi, khi phản đối được bác bỏ, được phán vô tội do bên công tố không tuân thủ điều luật 27.B - chia động từ sai hoặc gây hiểu lầm. Sự việc 9 người trong bồi thẩm đoàn chết tối qua chỉ là thoáng qua, chính là, như vụ giữa Wills và Thule đã đặt ra, lý do để được tha bổng."
 
 msgctxt "devilsadvocate firstNightReminder"
 msgid "The Devil’s Advocate points to a living player. That player survives execution tomorrow."
@@ -1797,7 +1797,7 @@ msgstr "Người sói chỉ người sống: nếu là tốt, họ chết và nh
 
 msgctxt "lycanthrope reminders"
 msgid "Dead,Faux Paw"
-msgstr "Chết, Lốt chân"
+msgstr "Chết, Vuốt Giả"
 
 msgctxt "magician name"
 msgid "Magician"
