@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-10-10 16:07+0000\nLast-Translator: tuanhuyng <tuanhuynguyen806@gmail.com>\nLanguage-Team: Vietnamese <https://hosted.weblate.org/projects/botc/characters/vi/>\nLanguage: vi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.14-dev\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-10-11 17:07+0000\nLast-Translator: tuanhuyng <tuanhuynguyen806@gmail.com>\nLanguage-Team: Vietnamese <https://hosted.weblate.org/projects/botc/characters/vi/>\nLanguage: vi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.14-dev\n"
 
 msgctxt "acrobat name"
 msgid "Acrobat"
@@ -901,7 +901,7 @@ msgstr "Mỗi đêm*, chọn 1 người: họ chết. Lữ khách đầu tiên b
 
 msgctxt "fanggu flavor"
 msgid "Your walls and your weapons are but smoke in dreams."
-msgstr "Your walls and your weapons are but smoke in dreams."
+msgstr "Bức tường và vũ khí của các ngươi cũng chỉ là làn khói trong giấc mơ thôi."
 
 msgctxt "fanggu otherNightReminder"
 msgid "The Fang Gu points to a player. That player dies. Or, if that player was an Outsider and there are no other Fang Gu in play: The Fang Gu dies instead of the chosen player. The chosen player is now an evil Fang Gu. Wake the new Fang Gu. Show the 'You are' card, then the Fang Gu token. Show the 'You are' card, then the thumb-down 'evil' hand sign."
@@ -937,7 +937,7 @@ msgstr "Mỗi đêm, chọn 1 người. nếu bạn biểu quyết & hành quy�
 
 msgctxt "fearmonger flavor"
 msgid "Beware of gazing long into the Abyss, lest the Abyss also gaze into you."
-msgstr "Beware of gazing long into the Abyss, lest the Abyss also gaze into you."
+msgstr "Cẩn thận khi nhìn chằm vào Đáy vực, kẻo Đáy vực cũng sẽ nhìn chằm vào ngươi."
 
 msgctxt "fearmonger firstNightReminder"
 msgid "The Fearmonger points to a player. Place the Fear token next to that player and announce that a new player has been selected with the Fearmonger ability."
@@ -993,7 +993,7 @@ msgstr "Một lần trong game, Quỷ chọn người khác phe: tất cả mọ
 
 msgctxt "fiddler flavor"
 msgid "I'll wager mi lyef ye cannae best me in a fiddle contest, ye boss-eyed snook! We'll go out on the lash, get the pub jammers an' have a right craic. I'll be layin' ma boots into ya come mornin' ye rumbly muppet."
-msgstr "I'll wager mi lyef ye cannae best me in a fiddle contest, ye boss-eyed snook! We'll go out on the lash, get the pub jammers an' have a right craic. I'll be layin' ma boots into ya come mornin' ye rumbly muppet."
+msgstr "Ta cá là ngươi sẽ không thể thắng ta trong cuộc thi vĩ cầm, cái thằng nhóc kia! Ta sẽ chơi tất tay, khiến cho cả quán rượu này phải nhảy múa tưng bừng. Ta sẽ đá bay ngươi khi chúng ta gặp nhau sáng mai nhé thằng nhóc."
 
 msgctxt "fisherman name"
 msgid "Fisherman"
@@ -1005,7 +1005,7 @@ msgstr "Một lần trong game, trong ngày, thăm Người kể truyện để 
 
 msgctxt "fisherman flavor"
 msgid "This was my favourite part of the river... see how the sunlight makes a rainbow from the monastery to the market? This was the best place for big fish. And the older I get, the bigger they were."
-msgstr "This was my favourite part of the river... see how the sunlight makes a rainbow from the monastery to the market? This was the best place for big fish. And the older I get, the bigger they were."
+msgstr "Đây là phần sông ta thích nhất... thấy ánh nắng tạo thành cầu vồng từ tu viện đến phiên chợ không? Đây là nơi tuyệt nhất để bắt cá lớn. Và ta càng già, cá càng lớn."
 
 msgctxt "fisherman reminders"
 msgid "No ability"
@@ -1041,7 +1041,7 @@ msgstr "Lần đầu bạn chết, bạn không."
 
 msgctxt "fool flavor"
 msgid "...and the King said 'What?! I've never even owned a pair of rubber pantaloons, let alone a custard cannon!' Ho-ho! Jolly day!"
-msgstr "...and the King said 'What?! I've never even owned a pair of rubber pantaloons, let alone a custard cannon!' Ho-ho! Jolly day!"
+msgstr "...và Nhà vua nói 'Cái gì?! Ta chưa bao giờ có cái quần cao su, nữa là một cái pháo kem!' Ho-ho! Đúng là ngày vui!"
 
 msgctxt "fool reminders"
 msgid "No ability"
@@ -1079,10 +1079,9 @@ msgctxt "gardener ability"
 msgid "The Storyteller assigns 1 or more players' characters."
 msgstr "Người kể truyện tự đưa nhân vật cho 1 hay nhiều người chơi."
 
-#, fuzzy
 msgctxt "gardener flavor"
 msgid "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
-msgstr "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
+msgstr "Ôi, thế này không ổn đâu. Hình như cây ô dầu lại lẫn với cây ban sói và cây độc cần đang che kín cây hạnh chi! Ôi trời đất tôi ơi, ta cần phải làm lại từ đầu thôi. Đưa tôi cái kéo."
 
 msgctxt "gambler name"
 msgid "Gambler"
@@ -1112,10 +1111,9 @@ msgctxt "gangster ability"
 msgid "Once per day, you may choose to kill an alive neighbour, if your other alive neighbour agrees."
 msgstr "Một lần trong ngày, bạn có thể chọn giết 1 hàng xóm sống, nếu hàng xóm sống còn lại đồng ý."
 
-#, fuzzy
 msgctxt "gangster flavor"
 msgid "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
-msgstr "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
+msgstr "Tôi thích giầy của anh, Tôi sẽ rất tiếc nếu như anh gặp một tai nạn nhỏ, và nó bị hư hỏng. Bây giờ mới để ý, tôi cũng thích cái khuy măng sét của anh."
 
 msgctxt "general name"
 msgid "General"
@@ -1147,7 +1145,7 @@ msgstr "Tất cả người chơi biết 1 người cùng phe với bạn. Bạn
 
 msgctxt "gnome flavor"
 msgid "Four the score or seven beers, no shows are goes for me and my. A prank to crack the cranks and planks o' the floor foundation length, so incontravertabubbilly mini. The large essays down streams of joyce, no greater than is scene, not inherdt, Ha-urrumph.o."
-msgstr "Four the score or seven beers, no shows are goes for me and my. A prank to crack the cranks and planks o' the floor foundation length, so incontravertabubbilly mini. The large essays down streams of joyce, no greater than is scene, not inherdt, Ha-urrumph.o."
+msgstr "Bốn điểm hay 7 cốc bia, không cái nào hay với tôi và cốc tôi. Một trò đùa để bật hết cả từng miếng gỗ sàn này, rất nhỏ. Một bài viết dài vô tật về tiếng cười, không bằng ta thật sự chứng kiến nó, không thể chối cãi. Ha-urrumph."
 
 msgctxt "gnome reminders"
 msgid "Amigo"
@@ -1179,7 +1177,7 @@ msgstr "Bạn bắt đầu biết những Lữ khách trong game. Nếu 1 trong 
 
 msgctxt "godfather flavor"
 msgid "Normally, it's just business. But when you insult my daughter, you insult me. And when you insult me, you insult my family. You really should be more careful - it would be a shame if you had an unfortunate accident."
-msgstr "Normally, it's just business. But when you insult my daughter, you insult me. And when you insult me, you insult my family. You really should be more careful - it would be a shame if you had an unfortunate accident."
+msgstr "Thông thường, nó chỉ là kinh doanh. Nhưng nếu ngươi dám xúc phạm con gái ta, thì ngươi xúc phạm ta. Và khi ngươi xúc phạm ta, ngươi xúc phạm cả gia đình ta. Ngươi nên cẩn thận - ta sẽ thấy tội nghiệp nếu như ngươi gặp tai nạn đáng tiếc."
 
 msgctxt "godfather firstNightReminder"
 msgid "Show each of the Outsider tokens in play."
@@ -1219,7 +1217,7 @@ msgstr "Mỗi đêm, người đầu tiên chọn bạn bằng chức năng củ
 
 msgctxt "goon flavor"
 msgid "Yes boss. I explained fings real good to dat geezer. He don't want me explain it again. Nah boss, I don't need no doctor - it's only a knife wound. Be right come mornin'"
-msgstr "Yes boss. I explained fings real good to dat geezer. He don't want me explain it again. Nah boss, I don't need no doctor - it's only a knife wound. Be right come mornin'"
+msgstr "Đúng vậy sếp. Tôi đã giải thích rất cẩn thận cho gã đó. Gã không muốn tôi phải nói lại. Không thưa sếp, tôi không cần bác sĩ - đây chỉ là vết dao. Sáng hôm sau sẽ ổn ngay."
 
 msgctxt "goon reminders"
 msgid "Drunk"
@@ -1311,7 +1309,7 @@ msgstr "Mỗi đêm, chọn 2 người: ngày mai, người thứ nhất điên 
 
 msgctxt "harpy flavor"
 msgid "So fair a day I never did see, nor so fowl a presence hanging over me."
-msgstr "So fair a day I never did see, nor so fowl a presence hanging over me."
+msgstr "Một ngày yên bình mà ta không bao giờ thấy, cũng như một ngày không có kẻ nào ở trên đầu ta."
 
 msgctxt "harpy firstNightReminder"
 msgid "Wake the Harpy; they point at one player, then another. Wake the 1st player the Harpy pointed to, show them the 'This character has selected you' card, show them the Harpy token, then point at the 2nd player the Harpy pointed to."
