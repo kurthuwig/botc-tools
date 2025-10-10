@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-10-09 14:07+0000\nLast-Translator: tuanhuyng <tuanhuynguyen806@gmail.com>\nLanguage-Team: Vietnamese <https://hosted.weblate.org/projects/botc/characters/vi/>\nLanguage: vi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.14-dev\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-10-10 16:07+0000\nLast-Translator: tuanhuyng <tuanhuynguyen806@gmail.com>\nLanguage-Team: Vietnamese <https://hosted.weblate.org/projects/botc/characters/vi/>\nLanguage: vi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.14-dev\n"
 
 msgctxt "acrobat name"
 msgid "Acrobat"
@@ -753,7 +753,7 @@ msgstr "Nếu có ít nhất 4 người còn sống, mỗi người sống có t
 
 msgctxt "doomsayer flavor"
 msgid "And on the Seventh Day, there shall be a great flood and a pestilence upon the People of the Village of the Ravens! The dead shall rise and the living shall repent! O Woe! O Unholy day! Only by great sacrifice shall they prevail! So sayeth the Sages of Nostros and so sayeth I."
-msgstr "And on the Seventh Day, there shall be a great flood and a pestilence upon the People of the Village of the Ravens! The dead shall rise and the living shall repent! O Woe! O Unholy day! Only by great sacrifice shall they prevail! So sayeth the Sages of Nostros and so sayeth I."
+msgstr "Và đến Ngày thứ Bảy, sẽ có một trận lũ lụt lớn và bệnh dịch bùng phát lên Người của Ngôi làng Quạ! Người chết sẽ trỗi dậy và người sống sẽ hối hận! Ơi khổ đau! Ơi những ngày trời phạt! Chỉ khi có sự hy sinh thì mới chiến thắng! Như lời các Hiền Nhân tại Nostros và lời của Ta."
 
 msgctxt "dreamer name"
 msgid "Dreamer"
@@ -837,7 +837,7 @@ msgstr "Một lần trong game, trong đêm, chọn Quỷ nào hoặc những Ta
 
 msgctxt "engineer flavor"
 msgid "If it bends, great. If it breaks, well, it probably needed fixing anyway."
-msgstr "Nếu nó cong, được, Nếu nó gẫy, thực ra nó thể nào cũng cần phải sửa thôi."
+msgstr "Nếu nó cong, được. Nếu nó gãy, thực ra nó thể nào cũng cần phải sửa thôi."
 
 msgctxt "engineer firstNightReminder"
 msgid "The Engineer shows a 'no' head signal, or points to a Demon or points to the relevant number of Minions. If the Engineer chose characters, replace the Demon or Minions with the choices, then wake the relevant players and show them the You are card and the relevant character tokens."
@@ -881,7 +881,7 @@ msgstr "Mỗi đêm*, chọn 1 người (khác đêm qua): Quỷ, nếu được
 
 msgctxt "exorcist flavor"
 msgid "We cast you out, every unclean spirit, every satanic power, every onslaught of the infernal adversary, every legion, every diabolical group and sect, in the name and by the power of Our Lord Jesus Christ. We command you, begone and fly far from the Church of God, from the souls made by God in His image and redeemed by the precious blood of the divine Lamb."
-msgstr "We cast you out, every unclean spirit, every satanic power, every onslaught of the infernal adversary, every legion, every diabolical group and sect, in the name and by the power of Our Lord Jesus Christ. We command you, begone and fly far from the Church of God, from the souls made by God in His image and redeemed by the precious blood of the divine Lamb."
+msgstr "Ta sẽ khiến ngươi rời đi, những linh hồn tà ác, những thế lực ác quỷ, những cuộc tấn công từ địa ngục, những đội quân, những giáo hội ác độc, trong tên và bằng sức mạnh của Chúa Jesus. Ta ra lệnh cho ngươi, hãy biến đi và bay xa khỏi Nhà thời của Chúa, khỏi những linh hồn tạo bởi Chúa và chuộc lại bằng máu của Cừu thần thánh."
 
 msgctxt "exorcist otherNightReminder"
 msgid "The Exorcist points to a player, different from the previous night. If that player is the Demon: Wake the Demon. Show the Exorcist token. Point to the Exorcist. The Demon does not act tonight."
