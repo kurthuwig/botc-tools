@@ -1,33 +1,33 @@
 msgid ""
-msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: \nLast-Translator: Automatically generated\nLanguage-Team: none\nLanguage: hr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Poedit 3.6\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-10-21 09:02+0000\nLast-Translator: David Motocic <david.motocic@hotmail.com>\nLanguage-Team: Croatian <https://hosted.weblate.org/projects/botc/characters/hr/>\nLanguage: hr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\nX-Generator: Weblate 5.14-dev\n"
 
 msgctxt "acrobat name"
 msgid "Acrobat"
-msgstr ""
+msgstr "Akrobat"
 
 msgctxt "acrobat ability"
 msgid "Each night*, choose a player: if they are or become drunk or poisoned tonight, you die."
-msgstr ""
+msgstr "Svake noći*, odaberi igrača: ako igrač je ili postane pijan ili otrovan večeras, ti umireš."
 
 msgctxt "acrobat flavor"
 msgid "Welcome, one and all, to the greatest show on earth."
-msgstr ""
+msgstr "Dobrodošli svi do jednog, na najveći show na svijetu."
 
 msgctxt "acrobat otherNightReminder"
 msgid "The Acrobat chooses a player. If they are become drunk or poisoned tonight, the Acrobat player dies."
-msgstr ""
+msgstr "Akrobat bira igrača. Ako igrač je ili postane pijan ili otrovan večeras, Akrobat umire."
 
 msgctxt "acrobat reminders"
 msgid "Dead"
-msgstr ""
+msgstr "Mrtav"
 
 msgctxt "alchemist name"
 msgid "Alchemist"
-msgstr ""
+msgstr "Alkemičar"
 
 msgctxt "alchemist ability"
 msgid "You have a Minion ability. When using this, the Storyteller may prompt you to choose differently."
-msgstr ""
+msgstr "Ti imaš moć Miniona. Kada ju koristiš, Pripovjedač te može usmjeriti da odabereš drugačije."
 
 msgctxt "alchemist flavor"
 msgid "Visit the interior of the Earth. By rectification thou shalt find the hidden stone. Above the gold, lieth the red. Kether in Malkuth."
@@ -35,15 +35,15 @@ msgstr ""
 
 msgctxt "alchemist firstNightReminder"
 msgid "Show the Alchemist a not-in-play Minion token"
-msgstr ""
+msgstr "Pokaži Alkemičaru žeton Miniona koji nije u igri"
 
 msgctxt "alchemist remindersGlobal"
 msgid "Is the Alchemist"
-msgstr ""
+msgstr "Je Alkemičar"
 
 msgctxt "alhadikhia name"
 msgid "Al-Hadikhia"
-msgstr ""
+msgstr "Al-Hadikhia"
 
 msgctxt "alhadikhia ability"
 msgid "Each night*, you may choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die."
