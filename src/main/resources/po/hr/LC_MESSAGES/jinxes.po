@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: \nLast-Translator: Automatically generated\nLanguage-Team: none\nLanguage: hr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: GoogleToPo 1.0\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-10-21 09:02+0000\nLast-Translator: David Motocic <david.motocic@hotmail.com>\nLanguage-Team: Croatian <https://hosted.weblate.org/projects/botc/jinxes/hr/>\nLanguage: hr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\nX-Generator: Weblate 5.14-dev\n"
 
 msgctxt "alchemist boffin"
 msgid "If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has."
@@ -7,7 +7,7 @@ msgstr ""
 
 msgctxt "alchemist marionette"
 msgid "An Alchemist-Marionette has no Marionette ability & the Marionette is in play."
-msgstr ""
+msgstr "Alkemičar- Marioneta nema moć Marionete i Marioneta je u igri."
 
 msgctxt "alchemist mastermind"
 msgid "An Alchemist-Mastermind has no Mastermind ability & the Mastermind is not-in-play."
@@ -19,15 +19,15 @@ msgstr ""
 
 msgctxt "alchemist spy"
 msgid "If the Alchemist has the Spy ability, they do not, and a Spy is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Spy. If correct, the Demon must choose the Spy tonight."
-msgstr ""
+msgstr "Ako Alkemičar ima moć Špijuna, nema, i Špijun je u igri. Svakog dana, nakon faze smaknuća, živući Alkemičar može javno pogađati živog igrača kao Špijuna. Ako je u pravu, Demon mora odabrati Špijuna večeras."
 
 msgctxt "alchemist summoner"
 msgid "The Alchemist-Summoner does not get bluffs, and chooses which Demon but not which player. If they die before this happens, evil wins. [No Demon]"
-msgstr ""
+msgstr "Alkemičar- Prizivač ne dobije blefove, i bira koji Demon, ali ne koji igrač. Ako umre prije nego se ovo dogodi, zlo pobjeđuje [Nema Demona]"
 
 msgctxt "alchemist widow"
 msgid "If the Alchemist has the Widow ability, they do not, and a Widow is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Widow. If correct, the Demon must choose the Widow tonight."
-msgstr ""
+msgstr "Ako Alkemičar ima moć Udovice, nema, i Udovica je u igri. Svakog dana, nakon faze smaknuća, živući Alkemičar može javno pogađati živog igrača kao Udovicu. Ako je u pravu, Demon mora odabrati Udovicu večeras."
 
 msgctxt "alchemist wraith"
 msgid "If the Alchemist has the Wraith ability, they do not, and a Wraith is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Wraith. If correct, the Demon must choose the Wraith tonight."
@@ -35,11 +35,11 @@ msgstr ""
 
 msgctxt "alhadikhia princess"
 msgid "If the Princess nominated & executed a player on their 1st day, no one dies to the Al-Hadikhia ability tonight."
-msgstr ""
+msgstr "Ako Princeza nominira i smakne igrača na prvi dan, nitko ne umire zbog Al-Hadikhijeve moći večeras."
 
 msgctxt "boffin cultleader"
 msgid "If the Demon has the Cult Leader ability, they can’t turn good due to this ability."
-msgstr ""
+msgstr "Ako Demon ima moć Vođe Kulta, ne mogu postati dobri zbog te moći."
 
 msgctxt "boffin drunk"
 msgid "If the Demon would have the Drunk ability, the Boffin chooses a Townsfolk player to have this ability instead."
