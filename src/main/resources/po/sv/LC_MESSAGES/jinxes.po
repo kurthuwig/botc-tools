@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-08-28 09:01+0000\nLast-Translator: Eliderad <aki12@live.se>\nLanguage-Team: Swedish <https://hosted.weblate.org/projects/botc/jinxes/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-10-25 10:02+0000\nLast-Translator: felix-hedenstrom <felix.hedenstrom@gmail.com>\nLanguage-Team: Swedish <https://hosted.weblate.org/projects/botc/jinxes/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.14.1-dev\n"
 
 msgctxt "alchemist boffin"
 msgid "If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has."
@@ -43,7 +43,7 @@ msgstr "Om Demonen har Kultledarens förmåga så kan hen inte bli god av den f�
 
 msgctxt "boffin drunk"
 msgid "If the Demon would have the Drunk ability, the Boffin chooses a Townsfolk player to have this ability instead."
-msgstr "Om Demonen skulle ha Fyllots förmåga så väljer Vetenskaparen en spelare som är Bybo; hen får Fyllots förmåga istället."
+msgstr "Om Demonen skulle ha Fyllots förmåga så väljer Labbråttan en spelare som är Bybo; hen får Fyllots förmåga istället."
 
 msgctxt "boffin goon"
 msgid "If the Demon has the Goon ability, they can’t turn good due to this ability."
@@ -59,7 +59,7 @@ msgstr "Demonen kan inte ha Politikerns förmåga."
 
 msgctxt "boffin villageidiot"
 msgid "If there is a spare token, the Boffin can give the Demon the Village Idiot ability."
-msgstr "Om det finns en ledig bricka så kan Vetenskaparen ge Demonen Byfånens förmåga."
+msgstr "Om det finns en ledig bricka så kan Labbråttan ge Demonen Byfånens förmåga."
 
 msgctxt "bountyhunter kazali"
 msgid "An evil Townsfolk is only created if the Bounty Hunter is still in play after the Kazali acts."
