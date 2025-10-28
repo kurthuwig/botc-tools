@@ -1,15 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: ca\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.6\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-10-30 04:24+0000\nLast-Translator: Ren <renestrugo+weblate@gmail.com>\nLanguage-Team: Catalan <https://hosted.weblate.org/projects/botc/characters/ca/>\nLanguage: ca\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.14.1-dev\n"
 
 msgctxt "acrobat name"
 msgid "Acrobat"
@@ -45,7 +35,7 @@ msgstr "Visit the interior of the Earth. By rectification thou shalt find the hi
 
 msgctxt "alchemist firstNightReminder"
 msgid "Show the Alchemist a not-in-play Minion token"
-msgstr "Mostra-li a l'Alquimista una fitxa de sequaç que no estigui en joc."
+msgstr "Mostra-li a l'Alquimista una fitxa de sequaç que no sigui en joc."
 
 msgctxt "alchemist remindersGlobal"
 msgid "Is the Alchemist"
@@ -217,7 +207,7 @@ msgstr "Vilatà vist, foraster vist, sequaç vist, dimoni vist, viatger vist"
 
 msgctxt "banshee name"
 msgid "Banshee"
-msgstr "Banshee"
+msgstr "Ànima en pena"
 
 msgctxt "banshee ability"
 msgid "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination."
@@ -321,19 +311,19 @@ msgstr "Acusat del bé, acusat del mal"
 
 msgctxt "boffin name"
 msgid "Boffin"
-msgstr "Boffin"
+msgstr "Setciències"
 
 msgctxt "boffin ability"
 msgid "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which."
-msgstr "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which."
+msgstr "El dimoni (fins i tot si està borratxo o emmetzinat) té l'habilitat d'un personatge bo que no sigui en joc. Tots dos sabeu quina."
 
 msgctxt "boffin flavor"
 msgid "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle."
-msgstr "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle."
+msgstr "Hidrogen estel·lar, vast, inert; gasos de carboni, oxigen, neó, tots arruïnats. Caos molecular, entropia, produeix nous fenòmens còsmics, renaixement a partir del caos atòmic, matèria densa col·lapsant. Tot en una ampolla diminuta."
 
 msgctxt "boffin firstNightReminder"
 msgid "Wake the Boffin and show them the token of the ability the Demon has. Put the Boffin back to sleep. Wake the Demon, show the Boffin token, then show the token of the good ability the Demon has."
-msgstr "Wake the Boffin and show them the token of the ability the Demon has. Put the Boffin back to sleep. Wake the Demon, show the Boffin token, then show the token of the good ability the Demon has."
+msgstr "Desperta el Setciències i mostra-li la fitxa d'habilitat que té el Dimoni. Torna a adormir el Setciències. Desperta el Dimoni, mostra-li la fitxa del Setciències i després mostra-li la fitxa de l'habilitat bona que té el Dimoni."
 
 msgctxt "bonecollector name"
 msgid "Bone Collector"
@@ -487,20 +477,19 @@ msgstr "Amo"
 
 msgctxt "cacklejack name"
 msgid "Cacklejack"
-msgstr "Cacklejack"
+msgstr "Rialler"
 
 msgctxt "cacklejack ability"
 msgid "Each day, choose a player: a different player changes character tonight."
-msgstr "Each day, choose a player: a different player changes character tonight."
+msgstr "Cada dia, tria un jugador: un jugador diferent canvia de personatge aquesta nit."
 
-#, fuzzy
 msgctxt "cacklejack flavor"
 msgid "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!"
-msgstr "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+msgstr "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!"
 
 msgctxt "cacklejack otherNightReminder"
 msgid "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
-msgstr "Wake a player not marked with 'Not me', show them the 'You are' card, then their new character token."
+msgstr "Desperta un jugador que no estigui marcat amb “No jo”, mostra-li la carta de “Tu ets” i després la fitxa del seu nou personatge."
 
 msgctxt "cacklejack reminders"
 msgid "Not me"
@@ -518,10 +507,9 @@ msgctxt "cannibal flavor"
 msgid "I don’t like clowns. They taste funny."
 msgstr "I don’t like clowns. They taste funny."
 
-#, fuzzy
 msgctxt "cannibal reminders"
 msgid "Poisoned,Lunch"
-msgstr "Emmetzinat"
+msgstr "Emmetzinat,Menjar"
 
 msgctxt "cerenovus name"
 msgid "Cerenovus"
@@ -693,7 +681,7 @@ msgstr "Una vegada per partida, el narrador cometrà un \"error\", el corregirà
 
 msgctxt "deusexfiasco flavor"
 msgid "It’s not a bug, it’s a feature. It’s not an error, it’s a tweak. It’s not broken, it’s quirky."
-msgstr ""
+msgstr "No és un defecte, és una funció. No és una errada, és un ajust. No està trencat, és peculiar."
 
 msgctxt "deusexfiasco reminders"
 msgid "Whoopsie"
@@ -965,11 +953,11 @@ msgstr "Terroritzat"
 
 msgctxt "ferryman name"
 msgid "Ferryman"
-msgstr "Ferryman"
+msgstr "Barquer de l’inframon"
 
 msgctxt "ferryman ability"
 msgid "On the final day, all dead players regain their vote token."
-msgstr "On the final day, all dead players regain their vote token."
+msgstr "El darrer dia, tots els jugadors morts recuperen la seva fitxa de vot-"
 
 msgctxt "ferryman flavor"
 msgid "When righteous dreams come, they have the weight of truth."
@@ -1085,11 +1073,11 @@ msgstr "Esquer"
 
 msgctxt "gardener name"
 msgid "Gardener"
-msgstr "Gardener"
+msgstr "Jardiner"
 
 msgctxt "gardener ability"
 msgid "The Storyteller assigns 1 or more players' characters."
-msgstr "The Storyteller assigns 1 or more players' characters."
+msgstr "El Narrador assigna el personatge d’un o més jugadors."
 
 msgctxt "gardener flavor"
 msgid "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears."
@@ -1149,11 +1137,11 @@ msgstr "Mostra-li al General el polze amunt si creus que està guanyant l'equip 
 
 msgctxt "gnome name"
 msgid "Gnome"
-msgstr "Gnome"
+msgstr "Gnom"
 
 msgctxt "gnome ability"
 msgid "All players start knowing a player of your alignment. You may choose to kill anyone who nominates them."
-msgstr "All players start knowing a player of your alignment. You may choose to kill anyone who nominates them."
+msgstr "Tots els jugadors comencen sabent un jugador del teu alineament. Pots escollir matar a qualsevol que el nomini."
 
 msgctxt "gnome flavor"
 msgid "Four the score or seven beers, no shows are goes for me and my. A prank to crack the cranks and planks o' the floor foundation length, so incontravertabubbilly mini. The large essays down streams of joyce, no greater than is scene, not inherdt, Ha-urrumph.o."
@@ -1161,7 +1149,7 @@ msgstr "Four the score or seven beers, no shows are goes for me and my. A prank 
 
 msgctxt "gnome reminders"
 msgid "Amigo"
-msgstr "Amigo"
+msgstr "Amic"
 
 msgctxt "goblin name"
 msgid "Goblin"
@@ -1787,7 +1775,7 @@ msgstr "Permet al Llunàtic que realitzi les accions del dimoni. Col·loca els s
 
 msgctxt "lunatic reminders"
 msgid "Chosen,Chosen,Chosen"
-msgstr ""
+msgstr "Escollit,Escollit,Escollit"
 
 msgctxt "lycanthrope name"
 msgid "Lycanthrope"
@@ -1827,7 +1815,7 @@ msgstr ""
 
 msgctxt "magician firstNightReminder"
 msgid "Point to the Magician when showing the Demon their Minions. Point to the Demon and the Magician when showing the Minions their Demon."
-msgstr ""
+msgstr "Apunta al mag quan mostris al dimoni els seus sequaços. Apunta al dimoni i al mag quan mostris als sequaços llur dimoni."
 
 msgctxt "marionette name"
 msgid "Marionette"
@@ -2083,7 +2071,7 @@ msgstr "L'Ogre assenyala a un jugador (no a si mateix) i passa a ser del mateix 
 
 msgctxt "ogre reminders"
 msgid "Friend"
-msgstr ""
+msgstr "Amic"
 
 msgctxt "ojo name"
 msgid "Ojo"
