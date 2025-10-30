@@ -1,87 +1,77 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: ca\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.6\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-10-31 09:04+0000\nLast-Translator: Ren <renestrugo+weblate@gmail.com>\nLanguage-Team: Catalan <https://hosted.weblate.org/projects/botc/jinxes/ca/>\nLanguage: ca\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.14.1-dev\n"
 
 msgctxt "alchemist boffin"
 msgid "If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has."
-msgstr ""
+msgstr "Si l'Alquimista té l'habilitat del Setciències, l'Alquimista no sap quina habilitat té el dimoni."
 
 msgctxt "alchemist marionette"
 msgid "An Alchemist-Marionette has no Marionette ability & the Marionette is in play."
-msgstr ""
+msgstr "Un Alquimista-Marioneta no té l'habilitat de la Marioneta i la Marioneta és al joc."
 
 msgctxt "alchemist mastermind"
 msgid "An Alchemist-Mastermind has no Mastermind ability & the Mastermind is not-in-play."
-msgstr ""
+msgstr "Un Alquimista-Conspirador no té l'habilitat del Conspirador i el Conspirador no és al joc."
 
 msgctxt "alchemist organgrinder"
 msgid "If the Alchemist has the Organ Grinder ability, the Organ Grinder is in play & if both the Alchemist and Organ Grinder are sober, both are drunk."
-msgstr ""
+msgstr "Si l'Alquimista té l'habilitat del Tocador d'orguenet, el Tocador d'orguenet està en el joc i si tant l'Alquimista com el Tocador d'orguenet són sobris, tots dos estan borratxos."
 
 msgctxt "alchemist spy"
 msgid "If the Alchemist has the Spy ability, they do not, and a Spy is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Spy. If correct, the Demon must choose the Spy tonight."
-msgstr ""
+msgstr "Un Alquimista-Espia no té l'habilitat de l'Espia i l'Espia és al joc. Cada dia, després de la fase d'execució, l'Alquimista viu pot intentar encertar públicament si un jugador viu és l'Espia. Si encerta, el Dimoni ha d'escollir a l'Espia aquesta nit."
 
 msgctxt "alchemist summoner"
 msgid "The Alchemist-Summoner does not get bluffs, and chooses which Demon but not which player. If they die before this happens, evil wins. [No Demon]"
-msgstr ""
+msgstr "Un Alquimista-Invocador no obtè coartades i tria quin dimoni però no quin jugador. Si mor abans que això passi, guanyen els malvats. [No hi ha dimoni]"
 
 msgctxt "alchemist widow"
 msgid "If the Alchemist has the Widow ability, they do not, and a Widow is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Widow. If correct, the Demon must choose the Widow tonight."
-msgstr ""
+msgstr "Un Alquimista-Vídua no té l'habilitat de la Vídua i la Vídua és al joc. Cada dia, després de la fase d'execució, l'Alquimista pot intentar encertar públicament si un jugador viu és la Vídua. Si encerta, el Dimoni ha d'escollir a la Vídua aquesta nit."
 
 msgctxt "alchemist wraith"
 msgid "If the Alchemist has the Wraith ability, they do not, and a Wraith is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Wraith. If correct, the Demon must choose the Wraith tonight."
-msgstr ""
+msgstr "Un Alquimista-Espectre no té l'habilitat de l'Espectre i l'Espectre és al joc. Cada dia, després de la fase d'execució, l'Alquimista pot intentar encertar públicament si un jugador viu és l'Espectre . Si encerta, el Dimoni ha d'escollir a l'Espectre aquesta nit."
 
 msgctxt "alhadikhia princess"
 msgid "If the Princess nominated & executed a player on their 1st day, no one dies to the Al-Hadikhia ability tonight."
-msgstr ""
+msgstr "Si la Princesa ha nominat i executat un jugador en el seu primer dia, ningú mor degut a l'habilitat de l'Al-Hadikhia."
 
 msgctxt "boffin cultleader"
 msgid "If the Demon has the Cult Leader ability, they can’t turn good due to this ability."
-msgstr ""
+msgstr "Si el dimoni té l'habilitat del Líder de secta, no es pot tornar bo degut a aquesta habilitat."
 
 msgctxt "boffin drunk"
 msgid "If the Demon would have the Drunk ability, the Boffin chooses a Townsfolk player to have this ability instead."
-msgstr ""
+msgstr "Si el dimoni hagués de tenir l'habilitat del Borratxo, el Setciències tria un vilatà per a que tingui aquesta habilitat."
 
 msgctxt "boffin goon"
 msgid "If the Demon has the Goon ability, they can’t turn good due to this ability."
-msgstr ""
+msgstr "Si el dimoni té l'habilitat del Pinxo, no pot tornar-se bo degut a aquesta habilitat."
 
 msgctxt "boffin ogre"
 msgid "The Demon cannot have the Ogre ability."
-msgstr ""
+msgstr "El dimoni no pot tenir l'habilitat de l'Ogre."
 
 msgctxt "boffin politician"
 msgid "The Demon cannot have the Politician ability."
-msgstr ""
+msgstr "El dimoni no pot tenir l'habilitat del Polític."
 
 msgctxt "boffin villageidiot"
 msgid "If there is a spare token, the Boffin can give the Demon the Village Idiot ability."
-msgstr ""
+msgstr "Si hi ha una fitxa de més, el Setciències pot donar al dimoni l'habilitat del Ximplet."
 
 msgctxt "bountyhunter kazali"
 msgid "An evil Townsfolk is only created if the Bounty Hunter is still in play after the Kazali acts."
-msgstr ""
+msgstr "Un vilatà malvat només és creat si el Caça-recompenses és encara al joc després de que actuï."
 
 msgctxt "bountyhunter philosopher"
 msgid "If the Philosopher gains the Bounty Hunter ability, a Townsfolk might turn evil."
-msgstr ""
+msgstr "Si el Filòsof guanya l'habilitat del Caça-recompenses, un vilatà pot tornar-se malvat."
 
 msgctxt "butler organgrinder"
 msgid "If the Organ Grinder is causing eyes closed voting, the Butler may raise their hand to vote but their vote is only counted if their master voted too."
-msgstr ""
+msgstr "Si el Tocador d'orguenet fa que els jugadors tanquin els ulls en votar, el Majordom pot aixecar la seva mà per a votar però el seu vot només serà comptat si el seu amo també ha votat."
 
 msgctxt "cannibal butler"
 msgid "If the Cannibal gains the Butler ability, the Cannibal learns this."
@@ -89,39 +79,39 @@ msgstr "Si el Caníbal obté l'habilitat del Majordom, el Caníbal ho sap."
 
 msgctxt "cannibal juggler"
 msgid "If the Juggler guesses on their first day and dies by execution, tonight the living Cannibal learns how many guesses the Juggler got correct."
-msgstr ""
+msgstr "Si el Malabarista encerta durant el primer dia i mor per execució, aquesta nit el Caníbal descobrirà quants encerts té el Malabarista."
 
 msgctxt "cannibal poppygrower"
 msgid "If the Cannibal eats the Poppy Grower, then dies or loses the Poppy Grower ability, the Demon and Minions learn each other that night."
-msgstr ""
+msgstr "Si el Canníbal es menja al Conreador de roselles, mor o perd l'habilitat del Conreador de roselles, el dimoni i els sequaços es coneixen aquesta nit."
 
 msgctxt "cannibal princess"
 msgid "If the Cannibal nominated & executed the Princess today, the Demon doesn’t kill tonight."
-msgstr ""
+msgstr "Si el Canníbal nomina i executa a la Princesa avui, El dimoni no mor aquesta nit."
 
 msgctxt "cannibal zealot"
 msgid "If the Cannibal gains the Zealot ability, the Cannibal learns this."
-msgstr ""
+msgstr "Si el Caníbal guanya l'habilitat de l'Extremista, el Caníbal ho sap."
 
 msgctxt "cerenovus goblin"
 msgid "The Cerenovus may choose to make a player mad that they are the Goblin."
-msgstr "El Cerenovus pot fer que un jugador estigui boig per ser el Follet."
+msgstr "El Cerenovus pot fer que un jugador estigui boig per ser el Follet."
 
 msgctxt "heretic baron"
 msgid "The Baron might only add 1 Outsider, not 2."
-msgstr ""
+msgstr "El Baró podria afegir un foraster en comptes de dos."
 
 msgctxt "heretic boffin"
 msgid "The Demon cannot have the Heretic ability."
-msgstr ""
+msgstr "El dimoni no pot tenir l'habilitat de l'Heretge."
 
 msgctxt "heretic godfather"
 msgid "Only 1 jinxed character can be in play."
-msgstr ""
+msgstr "Només hi pot haver un personatge embruixat."
 
 msgctxt "heretic lleech"
 msgid "If the Lleech has poisoned the Heretic then the Lleech dies, the Heretic remains poisoned."
-msgstr ""
+msgstr "Si la Sangonera ha emmetzinat a l'Heretge, i l'Heretge mor, l'Heretge roman emmetzinat."
 
 msgctxt "heretic pithag"
 msgid "A Pit-Hag can not create a Heretic."
@@ -129,99 +119,99 @@ msgstr "El Fetiller no pot crear un Heretge."
 
 msgctxt "heretic spy"
 msgid "Only 1 jinxed character can be in play."
-msgstr ""
+msgstr "Només hi pot haver un personatge embruixat."
 
 msgctxt "heretic widow"
 msgid "Only 1 jinxed character can be in play."
-msgstr ""
+msgstr "Només hi pot haver un personatge embruixat."
 
 msgctxt "kazali choirboy"
 msgid "The Kazali can not choose the King to become a Minion if a Choirboy is in play."
-msgstr ""
+msgstr "El Kazali no pot decidir que el Rei es torni sequaç si hi ha un Escolanet a la partida."
 
 msgctxt "kazali goon"
 msgid "The Kazali can choose that the Goon player is one of their evil Minions."
-msgstr ""
+msgstr "El Kazali pot decidir que el Pinxo sigui un dels seus sequaços malvats."
 
 msgctxt "kazali huntsman"
 msgid "If the Kazali chooses the Damsel to become a Minion, and a Huntsman is in play, a good player becomes the Damsel."
-msgstr ""
+msgstr "Si el Kazali decidir que la Donzella es torni un sequaç i el Caçador és a la partida, un jugador bo es torna Donzella."
 
 msgctxt "kazali marionette"
 msgid "If the Kazali chooses to create a Marionette, they must choose one of their neighbors."
-msgstr ""
+msgstr "Si el Kazali decideix crear una Marioneta, ha d'escollir un dels seus veïns."
 
 msgctxt "kazali soldier"
 msgid "The Kazali can choose that the Soldier player is one of their evil Minions."
-msgstr ""
+msgstr "El Kazali pot decidir que el Soldat sigui un dels seus sequaços malvats."
 
 msgctxt "legion engineer"
 msgid "Legion and the Engineer can not both be in play at the start of the game. If the Engineer creates Legion, most players (including all evil players) become evil Legion."
-msgstr ""
+msgstr "La Legió i l'Enginyer no poden començar la partida de manera simultània. Si l'Enginyer crea a la Legió, la majoria de jugadors (inclosos els malvats) es transformen en Legió."
 
 msgctxt "legion hatter"
 msgid "If the Hatter dies and Legion is in play, nothing happens. If the Hatter dies and an evil player chooses Legion, all current evil players become Legion."
-msgstr ""
+msgstr "Si el Barreter mor i la Legió és a la partida, res no succeeix. Si el Barreter mor i un jugador malvat escull la Legió, tots els personatges malvats es tornen Legió."
 
 msgctxt "legion minstrel"
 msgid "If Legion died by execution today, Legion keeps their ability, but the Minstrel might learn they are Legion."
-msgstr ""
+msgstr "Si la Legió mor per execució avui, la Legió conserva la seva habilitat però el Joglar podria saber que ho és."
 
 msgctxt "legion preacher"
 msgid "If the Preacher chooses Legion, Legion keeps their ability, but the Preacher might learn they are Legion."
-msgstr ""
+msgstr "Si el Predicador tria a la Legió, la Legió manté la seva habilitat però el Predicador podria saber que ho és."
 
 msgctxt "legion zealot"
 msgid "The Zealot might register as evil to Legion's ability."
-msgstr ""
+msgstr "L'Extremista pot ser percebut con a malvat pel la Legió."
 
 msgctxt "leviathan banshee"
 msgid "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability."
-msgstr ""
+msgstr "Cada nit*, el Leviatan tria un jugador bo viu (diferent als de les nits anteriors): Una Ànima en pena escollida mor i guanya la seva habilitat."
 
 msgctxt "leviathan exorcist"
 msgid "Evil does not win when more than 1 good player has been executed, if the Exorcist is alive and has ever successfully chosen the Leviathan."
-msgstr ""
+msgstr "L'equip malvat no guanya quan més d'un jugador bo ha estat executat si l'Exorcista és viu i ha triat el Leviatan de manera exitosa en algun moment."
 
 msgctxt "leviathan farmer"
 msgid "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Farmer uses their ability but does not die."
-msgstr ""
+msgstr "Cada nit*, el Leviatan tria un jugador bo viu (diferent als de les nits anteriors): un Granger escollit utilitza la seva habilitat però no mor."
 
 msgctxt "leviathan grandmother"
 msgid "If Leviathan is in play and the Grandchild dies by execution, evil wins."
-msgstr ""
+msgstr "Si el Leviatan és a la partida i el net mor per execució, guanyen els malvats."
 
 msgctxt "leviathan hatter"
 msgid "If the Hatter dies on or after day 5, the Demon cannot choose Leviathan."
-msgstr ""
+msgstr "Si el Barreter mor el dia 5 o després, el dimoni no pot escollir Leviatan."
 
 msgctxt "leviathan innkeeper"
 msgid "If the Leviathan is in play, the Innkeeper-protected-players are safe from all evil abilities."
-msgstr ""
+msgstr "Si el Leviatan és a la partida, els jugadors protegits per l'Hostaler estan protegits de totes les habilitats dels malvats."
 
 msgctxt "leviathan king"
 msgid "If the Leviathan is in play, and at least 1 player is dead, the King learns an alive character each night."
-msgstr ""
+msgstr "Si el Leviatan és a la partida i almenys un jugador és viu, el Rei descobreix un personatge bo viu cada nit."
 
 msgctxt "leviathan mayor"
 msgid "If the Leviathan is in play & no execution occurs on day 5, good wins."
-msgstr ""
+msgstr "Si el Levatan és a la partida i no hi ha cap execució el dia 5, guanyen els bons."
 
 msgctxt "leviathan monk"
 msgid "If the Leviathan is in play, the Monk-protected-player is safe from all evil abilities."
-msgstr ""
+msgstr "Si el Leviatan és a la partida, el jugador protegit pel Monjo està protegit de totes les habilitats dels malvats."
 
 msgctxt "leviathan pithag"
 msgid "After day 5, the Pit-Hag cannot choose Leviathan."
-msgstr ""
+msgstr "Després del dia 5, el Pit-Hag no pot escollir Leviatan"
 
 msgctxt "leviathan ravenkeeper"
 msgid "Each night*, the Leviathan chooses an alive player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die."
-msgstr ""
+msgstr "Cada nit*, el Leviatan tria un jugador viu (diferent als de les nits anteriors): un Criador de corbs escollit utilitza la seva habilitat però no mor."
 
 msgctxt "leviathan sage"
 msgid "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Sage uses their ability but does not die."
-msgstr ""
+msgstr "Cada nit*, el Leviatan tria un jugador bo viu (diferent als de les nits anteriors): un savi Escollit utilitza la seva habilitat però no mor."
 
 msgctxt "leviathan soldier"
 msgid "If the Leviathan is in play, the Soldier is safe from all evil abilities."
@@ -301,7 +291,7 @@ msgstr ""
 
 msgctxt "mastermind alhadikhia"
 msgid "If the Al-Hadikhia dies by execution, and the Mastermind is alive, the Al-Hadikhia chooses 3 good players tonight: if all 3 choose to live, evil wins. Otherwise, good wins."
-msgstr ""
+msgstr "Si l'Al-Hadikhia mor per execució i el Conspirador és viu, l'Al-Hadikhia tria tres jugadors bons aquesta nit: si tots tres decideixen viure, els malvats guanyen, si no, guanyen els bons."
 
 msgctxt "mathematician chambermaid"
 msgid "The Chambermaid learns if the Mathematician wakes tonight or not, even though the Chambermaid wakes first."
@@ -313,7 +303,7 @@ msgstr "El Matemàtic sap si el Llunàtic ataca a un jugador diferent del dimoni
 
 msgctxt "ogre recluse"
 msgid "If the Recluse registers as evil to the Ogre, the Ogre learns that they are evil."
-msgstr ""
+msgstr "Si el Reclús és percebut com a malvat per l'Ogre, l'Ogre descobreix que és malvat."
 
 msgctxt "pithag cultleader"
 msgid "If the Pit-Hag turns an evil player into the Cult Leader, they can't turn good due to their own ability."
@@ -377,47 +367,47 @@ msgstr ""
 
 msgctxt "riot banshee"
 msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability."
-msgstr ""
+msgstr "Cada nit*, l'Esvalotador tria un jugador bo viu (diferent als de les nits anteriors): Una Ànima en pena escollida mor i guanya la seva habilitat."
 
 msgctxt "riot exorcist"
 msgid "If the Exorcist chooses Riot on the 3rd night, Minions do not become Riot."
-msgstr ""
+msgstr "Si l'Exorcista tria l'Esvalotador durant la tercera nit, els sequaços no es tornen Esvalotador."
 
 msgctxt "riot farmer"
 msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Farmer uses their ability but does not die."
-msgstr ""
+msgstr "Cada nit*, l'Esvalotador tria un jugador bo viu (diferent als de les nits anteriors): un Granger escollit utilitza la seva habilitat però no mor."
 
 msgctxt "riot grandmother"
 msgid "If Riot is in play and the Grandchild dies during the day, the Grandmother dies too."
-msgstr ""
+msgstr "Si l'Esvalotador és a la partida i el net mor durant el dia, l'Àvia també mor."
 
 msgctxt "riot innkeeper"
 msgid "If Riot is in play, the Innkeeper-protected player is safe from all evil abilities."
-msgstr ""
+msgstr "Si l'Esvalotador és a la partida, el jugador protegit per l'Hostaler queda protegit de totes les habilitats dels malvats."
 
 msgctxt "riot king"
 msgid "If Riot is in play, and at least 1 player is dead, the King learns an alive character each night."
-msgstr ""
+msgstr "Si l'Esvalotador i almenys un jugador és mort, el Rei descobreix el personatge d'un jugador viu cada nit."
 
 msgctxt "riot mayor"
 msgid "The Mayor may choose to stop nominations. If they do so when only 1 Riot is alive, good wins. Otherwise, evil wins."
-msgstr ""
+msgstr "El Batlle pot escollir aturar les nominacions. Si ho fa quan només un Esvalotador és viu, guanyen els bons. Si no, guanyen els malvats."
 
 msgctxt "riot monk"
 msgid "If Riot is in play, the Monk-protected player is safe from all evil abilities."
-msgstr ""
+msgstr "Si l'Esvalotador és a la partida, el jugador protegit pel Monjo queda protegit de totes les habilitats dels malvats."
 
 msgctxt "riot ravenkeeper"
 msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die."
-msgstr ""
+msgstr "Cada nit*, l'Esvalotador tria un jugador bo (diferent als de les nits anteriors): un Criador de corbs escollit utilitza la seva habilitat però no mor."
 
 msgctxt "riot sage"
 msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Sage uses their ability but does not die."
-msgstr ""
+msgstr "Cada nit*, l'Esvalotador tria un jugador bo (diferent als de les nits anteriors): un Savi escollit utilitza la seva habilitat però no mor."
 
 msgctxt "riot soldier"
 msgid "If Riot is in play, the Soldier is safe from all evil abilities."
-msgstr ""
+msgstr "Si l'Esvalotador és a la partida, el Soldat està protegit de totes les habilitats dels malvats."
 
 msgctxt "scarletwoman alhadikhia"
 msgid "If there are two living Al-Hadikhias, the Scarlet Woman Al-Hadikhia becomes the Scarlet Woman again."
@@ -433,7 +423,7 @@ msgstr ""
 
 msgctxt "spy ogre"
 msgid "The Spy registers as evil to the Ogre."
-msgstr ""
+msgstr "L'Espia és percebut com a malvat per l'Ogre."
 
 msgctxt "spy poppygrower"
 msgid "If the Poppy Grower is in play, the Spy does not see the Grimoire until the Poppy Grower dies."
@@ -509,7 +499,7 @@ msgstr "If the Vizier is in play, the Alsaahir must also guess which Demon(s) ar
 
 msgctxt "vizier politician"
 msgid "The Politician might register as evil to the Vizier."
-msgstr ""
+msgstr "El Polític podria ser percebut com a malvat pel Visir."
 
 msgctxt "vizier preacher"
 msgid "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
@@ -517,7 +507,7 @@ msgstr ""
 
 msgctxt "vizier zealot"
 msgid "The Zealot might register as evil to the Vizier."
-msgstr ""
+msgstr "L'Extremista pot ser percebut com a malvat pel Visir."
 
 msgctxt "vortox banshee"
 msgid "If the Vortox is in play and the Demon kills the Banshee, the players still learn that the Banshee has died."
