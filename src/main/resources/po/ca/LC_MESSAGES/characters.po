@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-10-31 14:45+0000\nLast-Translator: Ren <renestrugo+weblate@gmail.com>\nLanguage-Team: Catalan <https://hosted.weblate.org/projects/botc/characters/ca/>\nLanguage: ca\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.14.1-dev\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-11-01 15:51+0000\nLast-Translator: Ren <renestrugo+weblate@gmail.com>\nLanguage-Team: Catalan <https://hosted.weblate.org/projects/botc/characters/ca/>\nLanguage: ca\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.14.1-dev\n"
 
 msgctxt "acrobat name"
 msgid "Acrobat"
@@ -7,7 +7,7 @@ msgstr "Acròbata"
 
 msgctxt "acrobat ability"
 msgid "Each night*, choose a player: if they are or become drunk or poisoned tonight, you die."
-msgstr "Cada nit*, tria un jugador: si són (o acaben sent) borratxos o emmetzinats aquesta nit, mors."
+msgstr "Cada nit*, tria un jugador: si aquest és (o es torna) borratxo o emmetzinat aquesta nit, mors."
 
 msgctxt "acrobat flavor"
 msgid "Welcome, one and all, to the greatest show on earth."
@@ -15,7 +15,7 @@ msgstr "Welcome, one and all, to the greatest show on earth."
 
 msgctxt "acrobat otherNightReminder"
 msgid "The Acrobat chooses a player. If they are become drunk or poisoned tonight, the Acrobat player dies."
-msgstr "Si algun dels veïns vius de l'Acròbata és bo i està borratxo o emmetzinat, l'Acròbata mor."
+msgstr "L'Acòbata tria un jugador, si aquest és (o es torna) borratxo o emmetzinat aquesta nit, l'Acròbata mor."
 
 msgctxt "acrobat reminders"
 msgid "Dead"
@@ -127,7 +127,7 @@ msgstr "For years have I traveled, studying the ways of The Craft. Which craft, 
 
 msgctxt "apprentice firstNightReminder"
 msgid "Show the Apprentice the 'You are' card, then a Townsfolk or Minion token. In the Grimoire, replace the Apprentice token with that character token, and put the Apprentice's 'Is the Apprentice' reminder by that character token."
-msgstr "Mostra-li a l'Aprenent el missatge 'Tu ets...', després una fitxa de vilatà o de sequaç. Al grimori, substitueix la fitxa de l'Aprenent per la fitxa del personatge escollit, i col·loca-li el recordatori de 'És l'Aprenent'."
+msgstr "Mostra-li a l'Aprenent el missatge “Tu ets…”, després una fitxa de vilatà o de sequaç. Al grimori, substitueix la fitxa de l'Aprenent per la fitxa del personatge escollit, i col·loca-li el recordatori de “És l'Aprenent”."
 
 msgctxt "apprentice reminders"
 msgid "Is the Apprentice"
