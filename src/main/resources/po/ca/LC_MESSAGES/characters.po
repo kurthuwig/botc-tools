@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-10-31 14:20+0000\nLast-Translator: Ren <renestrugo+weblate@gmail.com>\nLanguage-Team: Catalan <https://hosted.weblate.org/projects/botc/characters/ca/>\nLanguage: ca\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.14.1-dev\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-10-31 14:45+0000\nLast-Translator: Ren <renestrugo+weblate@gmail.com>\nLanguage-Team: Catalan <https://hosted.weblate.org/projects/botc/characters/ca/>\nLanguage: ca\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.14.1-dev\n"
 
 msgctxt "acrobat name"
 msgid "Acrobat"
@@ -59,7 +59,7 @@ msgstr "L'Al-Hadikhia tria a tres jugadors. Anuncia en veu alta el primer jugado
 
 msgctxt "alhadikhia reminders"
 msgid "1,2,3,Chose death,Chose life"
-msgstr "1, 2, 3, tria viure, tria morir"
+msgstr "1,2,3,tria viure,tria morir"
 
 msgctxt "alsaahir name"
 msgid "Alsaahir"
@@ -111,7 +111,7 @@ msgstr "Let those who are without sin dare to raise their hand to my chosen, for
 
 msgctxt "angel reminders"
 msgid "Protect,Something Bad"
-msgstr "Protegir, Alguna cosa dolenta"
+msgstr "Protegir,Alguna cosa dolenta"
 
 msgctxt "apprentice name"
 msgid "Apprentice"
@@ -167,7 +167,7 @@ msgstr "Si l'Assassí encara no ha utilitzat la seva habilitat: L'Assassí o bé
 
 msgctxt "assassin reminders"
 msgid "Dead,No ability"
-msgstr "Mort, sense habilitat"
+msgstr "Mort,Sense habilitat"
 
 msgctxt "atheist name"
 msgid "Atheist"
@@ -203,7 +203,7 @@ msgstr "Tria un tipus de personatge que encara no hagi descobert el jugador. Per
 
 msgctxt "balloonist reminders"
 msgid "Seen Townsfolk,Seen Outsider,Seen Minion,Seen Demon,Seen Traveller"
-msgstr "Vilatà vist, foraster vist, sequaç vist, dimoni vist, viatger vist"
+msgstr "Vist vilatà,Vist foraster,Vist sequaç,Vist dimoni,Vist viatger"
 
 msgctxt "banshee name"
 msgid "Banshee"
@@ -243,7 +243,7 @@ msgstr "Si el Barber ha mort avui: Desperta el dimoni. Mostra-li la carta 'Aques
 
 msgctxt "barber reminders"
 msgid "Haircuts tonight"
-msgstr "Tallades de cabells aquesta nit"
+msgstr "Cabells tallats aquesta nit"
 
 msgctxt "barista name"
 msgid "Barista"
@@ -267,7 +267,7 @@ msgstr "Tria un jugador, desperta'l i digues-li quin poder del Barista l'està a
 
 msgctxt "barista reminders"
 msgid "Sober & Healthy,Ability twice"
-msgstr "Sobri i sa, habilitat doble"
+msgstr "Sobri i sa,Habilitat doble"
 
 msgctxt "baron name"
 msgid "Baron"
@@ -307,7 +307,7 @@ msgstr "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult
 
 msgctxt "bishop reminders"
 msgid "Nominate good,Nominate evil"
-msgstr "Acusat bo, acusat malvat"
+msgstr "Acusat bo,Acusat malvat"
 
 msgctxt "boffin name"
 msgid "Boffin"
@@ -343,7 +343,7 @@ msgstr "El Col·leccionista d'ossos nega amb el cap o assenyala qualsevol jugado
 
 msgctxt "bonecollector reminders"
 msgid "No ability,Has ability"
-msgstr "Sense habilitat, té l'habilitat"
+msgstr "Sense habilitat,Té l'habilitat"
 
 msgctxt "boomdandy name"
 msgid "Boomdandy"
@@ -493,7 +493,7 @@ msgstr "Desperta un jugador que no estigui marcat amb “No jo”, mostra-li la 
 
 msgctxt "cacklejack reminders"
 msgid "Not me"
-msgstr "Not me"
+msgstr "Jo no"
 
 msgctxt "cannibal name"
 msgid "Cannibal"
@@ -625,7 +625,7 @@ msgstr "Redueix el nombre de dies restants que el jugador marcat estarà borratx
 
 msgctxt "courtier reminders"
 msgid "Drunk 3,Drunk 2,Drunk 1,No ability"
-msgstr "Borratxo 3, borratxo 2, borratxo 1, sense habilitat"
+msgstr "Borratxo 3,Borratxo 2,Borratxo 1,Sense habilitat"
 
 msgctxt "cultleader name"
 msgid "Cult Leader"
@@ -721,7 +721,7 @@ msgstr "L'Advocat del diable assenyala a un jugador viu, diferent del de la nit 
 
 msgctxt "devilsadvocate reminders"
 msgid "Survives execution"
-msgstr "Sobreviu en cas d'execució"
+msgstr "Sobreviu l'execució"
 
 msgctxt "djinn name"
 msgid "Djinn"
@@ -805,7 +805,7 @@ msgstr "We shall entertain between the hours of 6 and 7 precisely. Tea at 6:15. 
 
 msgctxt "duchess reminders"
 msgid "Visitor,False Info"
-msgstr "Visitant, informació falsa"
+msgstr "Visitant,Informació falsa"
 
 msgctxt "empath name"
 msgid "Empath"
@@ -853,7 +853,7 @@ msgstr "Sense habilitat"
 
 msgctxt "eviltwin name"
 msgid "Evil Twin"
-msgstr "Bessó malvat"
+msgstr "Bessna malvada"
 
 msgctxt "eviltwin ability"
 msgid "You & an opposing player know each other. If the good player is executed, evil wins. Good can't win if you both live."
@@ -865,11 +865,11 @@ msgstr "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!"
 
 msgctxt "eviltwin firstNightReminder"
 msgid "Wake the Evil Twin and their twin. Confirm that they have acknowledged each other. Point to the Evil Twin. Show their Evil Twin token to the twin player. Point to the twin. Show their character token to the Evil Twin player."
-msgstr "Desperta al Bessó malvat i el seu bessó. Assegura't que es reconeixen mútuament. Apunta al Bessó malvat i mostra la seva fitxa de Bessó malvat al jugador bessó. Apunta al bessó i mostra la fitxa del seu personatge al jugador Bessó malvat."
+msgstr "Desperta la Bessona malvada i la seva bessona bona. Assegura't que es reconeixen mútuament. Apunta a la Bessona malvada i mostra la seva fitxa de Bessona malvada al jugador bessona bona. Apunta a la bessona i mostra la fitxa del seu personatge al jugador Bessona malvada."
 
 msgctxt "eviltwin reminders"
 msgid "Twin"
-msgstr "Bessó"
+msgstr "Bessona bona"
 
 msgctxt "exorcist name"
 msgid "Exorcist"
@@ -909,7 +909,7 @@ msgstr "El Fang Gu assenyala a un jugador. Aquest jugador mor. O, si aquest juga
 
 msgctxt "fanggu reminders"
 msgid "Dead,Once"
-msgstr "Mort, una vegada"
+msgstr "Mort,Una vegada"
 
 msgctxt "farmer name"
 msgid "Farmer"
@@ -1029,7 +1029,7 @@ msgstr "Afirma o nega amb el cap depenent de si el dimoni ha votat o no durant e
 
 msgctxt "flowergirl reminders"
 msgid "Demon voted,Demon not voted"
-msgstr "El dimoni ha votat, el dimoni no ha votat"
+msgstr "El dimoni ha votat,El dimoni no ha votat"
 
 msgctxt "fool name"
 msgid "Fool"
@@ -1153,11 +1153,11 @@ msgstr "Amic"
 
 msgctxt "goblin name"
 msgid "Goblin"
-msgstr "Follet"
+msgstr "Goblin"
 
 msgctxt "goblin ability"
 msgid "If you publicly claim to be the Goblin when nominated & are executed that day, your team wins."
-msgstr "Si en el moment de ser acusat reveles públicament que ets el Follet, si acabes sent executat aquell dia, el teu equip venç."
+msgstr "Si en el moment de ser acusat reveles públicament que ets el Goblin, si acabes sent executat aquell dia, el teu equip venç."
 
 msgctxt "goblin flavor"
 msgid "You don’t want to insult the goblins. You really, really don’t. On a completely different note… can I have another piece of cake?"
@@ -1189,7 +1189,7 @@ msgstr "Si un foraster ha mort durant el dia: el Padrí assenyala a un jugador. 
 
 msgctxt "godfather reminders"
 msgid "Died today,Dead"
-msgstr "Mort avui, mort"
+msgstr "Mort avui,Mort"
 
 msgctxt "golem name"
 msgid "Golem"
@@ -1321,7 +1321,7 @@ msgstr "Desperta a l'Harpia; aquesta assenyala a un jugador, després a un altre
 
 msgctxt "harpy reminders"
 msgid "Mad, 2nd"
-msgstr "Boig, segon"
+msgstr "Boig,Segon"
 
 msgctxt "hatter name"
 msgid "Hatter"
@@ -1385,7 +1385,7 @@ msgstr "In the lost and forgotten places of the earth, the soul’s light beckon
 
 msgctxt "hermit reminders"
 msgid "1, 2, 3"
-msgstr "1, 2, 3"
+msgstr "1,2,3"
 
 msgctxt "highpriestess name"
 msgid "High Priestess"
@@ -1469,7 +1469,7 @@ msgstr "Retira els recordatoris (protegit i borratxo) dels jugadors seleccionats
 
 msgctxt "innkeeper reminders"
 msgid "Protected,Drunk"
-msgstr "Protegit, borratxo"
+msgstr "Protegit,Borratxo"
 
 msgctxt "investigator name"
 msgid "Investigator"
@@ -1489,7 +1489,7 @@ msgstr "Mostra-li la fitxa de personatge d'un sequaç present en la partida. Ass
 
 msgctxt "investigator reminders"
 msgid "Minion,Wrong"
-msgstr "Sequaç, incorrecte"
+msgstr "Sequaç,Incorrecte"
 
 msgctxt "judge name"
 msgid "Judge"
@@ -1609,7 +1609,7 @@ msgstr "Assenyala a dos jugadors que no siguin el dimoni."
 
 msgctxt "knight reminders"
 msgid "Know, Know"
-msgstr "Conegut, conegut"
+msgstr "Conegut,Conegut"
 
 msgctxt "legion name"
 msgid "Legion"
@@ -1629,7 +1629,7 @@ msgstr "Tria un jugador, aquest jugador mor."
 
 msgctxt "legion reminders"
 msgid "Dead,About to die"
-msgstr "A punt de morir, mort"
+msgstr "A punt de morir,Mort"
 
 msgctxt "leviathan name"
 msgid "Leviathan"
@@ -1653,7 +1653,7 @@ msgstr "Canvia el recordatori de dia del Leviatan pel del dia següent."
 
 msgctxt "leviathan reminders"
 msgid "Day 1,Day 2,Day 3,Day 4,Day 5,Good player executed"
-msgstr "Dia 1, dia 2, dia 3, dia 4, dia 5, jugador bo executat"
+msgstr "Dia 1,Dia 2,Dia 3,Dia 4,Dia 5,Jugador bo executat"
 
 msgctxt "librarian name"
 msgid "Librarian"
@@ -1673,7 +1673,7 @@ msgstr "Mostra-li la fitxa de personatge d'un foraster present en la partida. As
 
 msgctxt "librarian reminders"
 msgid "Outsider,Wrong"
-msgstr "Forester, incorrecte"
+msgstr "Forester,Incorrecte"
 
 msgctxt "lilmonsta name"
 msgid "Lil' Monsta"
@@ -1703,7 +1703,7 @@ msgstr "Desperta a tots els sequaços junts, permet-los votar assenyalant qui vo
 
 msgctxt "lilmonsta remindersGlobal"
 msgid "Is the Demon,Dead"
-msgstr "És el dimoni, mort"
+msgstr "És el dimoni,Mort"
 
 msgctxt "lleech name"
 msgid "Lleech"
@@ -1727,7 +1727,7 @@ msgstr "La Sangonera assenyala a un jugador. Aquest jugador mor."
 
 msgctxt "lleech reminders"
 msgid "Dead,Poisoned"
-msgstr "Mort,emmetzinat"
+msgstr "Mort,Emmetzinat"
 
 msgctxt "lordoftyphon name"
 msgid "Lord of Typhon"
@@ -1795,7 +1795,7 @@ msgstr "El Licàntrop assenyala a un jugador viu: si és bo, mor i ningú més p
 
 msgctxt "lycanthrope reminders"
 msgid "Dead,Faux Paw"
-msgstr "Mort"
+msgstr "Mort,Pota falsa"
 
 msgctxt "magician name"
 msgid "Magician"
@@ -1919,7 +1919,7 @@ msgstr "Desperta al primer jugador bo que hagi dit la paraula secreta del Mezèf
 
 msgctxt "mezepheles reminders"
 msgid "Turns evil,No ability"
-msgstr "Es torna malvat, sense habilitat"
+msgstr "Es torna malvat,Sense habilitat"
 
 msgctxt "minstrel name"
 msgid "Minstrel"
@@ -2051,7 +2051,7 @@ msgstr "El No Dashii assenyala a un jugador. Aquest jugador mor."
 
 msgctxt "nodashii reminders"
 msgid "Dead,Poisoned"
-msgstr "Mort, emmetzinat"
+msgstr "Mort,Emmetzinat"
 
 msgctxt "ogre name"
 msgid "Ogre"
@@ -2159,7 +2159,7 @@ msgstr "Si el Filòsof no ha emprat la seva habilitat: El Filòsof pot negar amb
 
 msgctxt "philosopher remindersGlobal"
 msgid "Is the Philosopher,Drunk"
-msgstr "Borratxo, és el Filòsof"
+msgstr "Borratxo,És el Filòsof"
 
 msgctxt "pithag name"
 msgid "Pit-Hag"
@@ -2179,7 +2179,7 @@ msgstr "El Fetiller assenyala a un jugador i a un personatge del guió. Si el pe
 
 msgctxt "pixie name"
 msgid "Pixie"
-msgstr "Donyet"
+msgstr "Follet"
 
 msgctxt "pixie ability"
 msgid "You start knowing 1 in-play Townsfolk. If you were mad that you were this character, you gain their ability when they die."
@@ -2207,7 +2207,7 @@ msgstr ""
 
 msgctxt "pixie firstNightReminder"
 msgid "Show the Pixie 1 in-play Townsfolk character token."
-msgstr "Mostra-li al Donyet la fitxa de personatge d'un vilatà a la partida."
+msgstr "Mostra-li al Follet la fitxa de personatge d'un vilatà a la partida."
 
 msgctxt "pixie reminders"
 msgid "Mad,Has ability"
@@ -2247,7 +2247,7 @@ msgstr "Si el Po no va triar a ningú la nit anterior: el Po assenyala a tres ju
 
 msgctxt "po reminders"
 msgid "Dead,3 attacks"
-msgstr "Mort, 3 atacs"
+msgstr "Mort,3 atacs"
 
 msgctxt "poisoner name"
 msgid "Poisoner"
@@ -2307,7 +2307,7 @@ msgstr "Si el Conreador de roselles ha mort, mostra-li al dimoni i als sequaços
 
 msgctxt "poppygrower reminders"
 msgid "Evil wakes"
-msgstr "El mal desperta"
+msgstr "Els malvat desperten"
 
 msgctxt "preacher name"
 msgid "Preacher"
@@ -2331,7 +2331,7 @@ msgstr "El Predicador tria a un jugador. Si tria a un sequaç, desperta'l i most
 
 msgctxt "preacher reminders"
 msgid "At a sermon"
-msgstr "Escoltant el sermó"
+msgstr "Sermonejat"
 
 msgctxt "princess name"
 msgid "Princess"
@@ -2371,7 +2371,7 @@ msgstr "Si el Professor no ha emprat la seva habilitat: el Professor pot negar a
 
 msgctxt "professor reminders"
 msgid "Alive,No ability"
-msgstr "Viu, sense habilitat"
+msgstr "Viu,Sense habilitat"
 
 msgctxt "psychopath name"
 msgid "Psychopath"
@@ -2423,7 +2423,7 @@ msgstr "When one begins to think that some thing is merely some other thing, one
 
 msgctxt "puzzlemaster reminders"
 msgid "Drunk,Guess used"
-msgstr "Borratxo, intent esgotat"
+msgstr "Borratxo,Intent esgotat"
 
 msgctxt "ravenkeeper name"
 msgid "Ravenkeeper"
@@ -2641,7 +2641,7 @@ msgstr "Un dels jugadors escollits la nit anterior pel Shabaloth pot ressuscitar
 
 msgctxt "shabaloth reminders"
 msgid "Dead,Alive"
-msgstr "Mort, viu"
+msgstr "Mort,Viu"
 
 msgctxt "shugenja name"
 msgid "Shugenja"
@@ -2797,7 +2797,7 @@ msgstr "At dawn, the temple’s long shadow creeps to the fountain. At dusk, the
 
 msgctxt "stormcatcher reminders"
 msgid "Safe"
-msgstr "A resguard"
+msgstr "Protegit"
 
 msgctxt "summoner name"
 msgid "Summoner"
@@ -2821,7 +2821,7 @@ msgstr "Si és la tercera nit, desperta a l'Invocador. L'Invocador assenyala a u
 
 msgctxt "summoner reminders"
 msgid "Night 1,Night 2,Night 3"
-msgstr "Nit 1, nit 2, nit 3"
+msgstr "Nit 1,Nit 2,Nit 3"
 
 msgctxt "sweetheart name"
 msgid "Sweetheart"
@@ -2921,7 +2921,7 @@ msgstr "Indica sí o no amb el cap per indicar si un sequaç ha acusat algú avu
 
 msgctxt "towncrier reminders"
 msgid "Minions not nominated,Minion nominated"
-msgstr "El sequaç no ha acusat, el sequaç ha acusat"
+msgstr "El sequaç no ha acusat,El sequaç ha acusat"
 
 msgctxt "toymaker name"
 msgid "Toymaker"
@@ -2977,7 +2977,7 @@ msgstr "El Vigormortis assenyala a un jugador. El jugador assenyalat mor. Si el 
 
 msgctxt "vigormortis reminders"
 msgid "Dead,Has ability,Poisoned"
-msgstr "Mort, amb habilitat, emmetzinat"
+msgstr "Mort,Amb habilitat,Emmetzinat"
 
 msgctxt "villageidiot name"
 msgid "Village Idiot"
@@ -3085,7 +3085,7 @@ msgstr "Mostra-li la fitxa de personatge d'un vilatà a la partida. Assenyala a 
 
 msgctxt "washerwoman reminders"
 msgid "Townsfolk,Wrong"
-msgstr "Vilatà, incorrecte"
+msgstr "Vilatà,Incorrecte"
 
 msgctxt "widow name"
 msgid "Widow"
@@ -3193,11 +3193,11 @@ msgstr "Down they fall. One by one. By two, by three, by five."
 
 msgctxt "xaan reminders"
 msgid "Night 1, Night 2, Night 3, X"
-msgstr "Nit 1, Nit 2, Nit 3, X"
+msgstr "Nit 1,Nit 2,Nit 3,X"
 
 msgctxt "yaggababble name"
 msgid "Yaggababble"
-msgstr "Yaggababble"
+msgstr "Queta"
 
 msgctxt "yaggababble ability"
 msgid "You start knowing a secret phrase. For each time you said it publicly today, a player might die."
@@ -3205,15 +3205,15 @@ msgstr "Comences sabent una frase secreta. Cada vegada que la diguis públicamen
 
 msgctxt "yaggababble flavor"
 msgid "Murders inside the Rue Morgue? Фальшивые новости! Hounds on the Baskerville moor? Фальшивые новости! Death while sailing the Nile? Фальшивые новости!"
-msgstr "Murders inside the Rue Morgue? Фальшивые новости! Hounds on the Baskerville moor? Фальшивые новости! Death while sailing the Nile? Фальшивые новости!"
+msgstr "Parla sense vergonya, parla amb llibertat i si t'equivoques, torna a començar!"
 
 msgctxt "yaggababble firstNightReminder"
 msgid "Show the Yaggababble their secret phrase."
-msgstr "Mostra-li al Yaggababble la seva frase secreta."
+msgstr "Mostra-li a la Queta la seva frase secreta."
 
 msgctxt "yaggababble otherNightReminder"
 msgid "Choose a number of players up to the total number of times the Yaggababble said their secret phrase publicly, those players die."
-msgstr "Tria un nombre de jugadors igual o menor al nombre de vegades que el Yaggababble ha dit la seva frase secreta públicament; aquests jugadors moren."
+msgstr "Tria un nombre de jugadors igual o menor al nombre de vegades que la Queta ha dit la seva frase secreta públicament; aquests jugadors moren."
 
 msgctxt "yaggababble reminders"
 msgid "Dead"
@@ -3249,7 +3249,7 @@ msgstr "Si ningú ha mort durant el dia: El Zombuul assenyala a un jugador. El j
 
 msgctxt "zombuul reminders"
 msgid "Died today,Dead"
-msgstr "Mort avui, mort"
+msgstr "Mort avui,Mort"
 
 #~ msgctxt "lunatic reminders"
 #~ msgid "Attack 1,Attack 2,Attack 3"
