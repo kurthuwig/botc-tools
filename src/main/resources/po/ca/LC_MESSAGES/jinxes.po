@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-10-31 14:21+0000\nLast-Translator: Ren <renestrugo+weblate@gmail.com>\nLanguage-Team: Catalan <https://hosted.weblate.org/projects/botc/jinxes/ca/>\nLanguage: ca\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.14.1-dev\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-10-31 14:45+0000\nLast-Translator: Ren <renestrugo+weblate@gmail.com>\nLanguage-Team: Catalan <https://hosted.weblate.org/projects/botc/jinxes/ca/>\nLanguage: ca\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.14.1-dev\n"
 
 msgctxt "alchemist boffin"
 msgid "If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has."
@@ -95,7 +95,7 @@ msgstr "Si el Caníbal guanya l'habilitat de l'Extremista, el Caníbal ho sap."
 
 msgctxt "cerenovus goblin"
 msgid "The Cerenovus may choose to make a player mad that they are the Goblin."
-msgstr "El Cerenovus pot fer que un jugador estigui boig per ser el Follet."
+msgstr "El Cerenovus pot fer que un jugador estigui boig per ser el Goblin."
 
 msgctxt "heretic baron"
 msgid "The Baron might only add 1 Outsider, not 2."
@@ -111,7 +111,7 @@ msgstr "Només hi pot haver un personatge embruixat."
 
 msgctxt "heretic lleech"
 msgid "If the Lleech has poisoned the Heretic then the Lleech dies, the Heretic remains poisoned."
-msgstr "Si la Sangonera ha emmetzinat a l'Heretge, i l'Heretge mor, l'Heretge roman emmetzinat."
+msgstr "Si la Sangonera ha emmetzinat a l'Heretge, i l'Heretge mor, l'Heretge continua emmetzinat."
 
 msgctxt "heretic pithag"
 msgid "A Pit-Hag can not create a Heretic."
@@ -347,7 +347,7 @@ msgstr "Si el Metge de la pesta mor, un sequaç viu guanya l'habilitat de l'Alar
 
 msgctxt "plaguedoctor goblin"
 msgid "If the Plague Doctor dies, a living Minion gains the Goblin ability in addition to their own ability, and learns this."
-msgstr "Si el Metge de la pesta mor, un sequaç obté l'habilitat del Follet, i ho sap."
+msgstr "Si el Metge de la pesta mor, un sequaç obté l'habilitat del Goblin, i ho sap."
 
 msgctxt "plaguedoctor marionette"
 msgid "If the Demon has a neighbor who is alive and a Townsfolk or Outsider when the Plague Doctor dies, that player becomes an evil Marionette. If there is already an extra evil player, this does not happen."
@@ -523,4 +523,4 @@ msgstr "Si el Conreador de roselles és a la partida, la Vídua no mira el grimo
 
 msgctxt "yaggababble exorcist"
 msgid "If the Exorcist chooses the Yaggababble, the Yaggababble ability does not kill tonight."
-msgstr "Si l'Exorcista escull al Yaggababble, l'habilitat del Yaggababble no mata aquesta nit."
+msgstr "Si l'Exorcista escull la Queta, l'habilitat de la Queta no mata aquesta nit."
