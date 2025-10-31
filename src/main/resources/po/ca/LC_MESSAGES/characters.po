@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-10-31 09:02+0000\nLast-Translator: Ren <renestrugo+weblate@gmail.com>\nLanguage-Team: Catalan <https://hosted.weblate.org/projects/botc/characters/ca/>\nLanguage: ca\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.14.1-dev\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-10-31 14:20+0000\nLast-Translator: Ren <renestrugo+weblate@gmail.com>\nLanguage-Team: Catalan <https://hosted.weblate.org/projects/botc/characters/ca/>\nLanguage: ca\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.14.1-dev\n"
 
 msgctxt "acrobat name"
 msgid "Acrobat"
@@ -1727,7 +1727,7 @@ msgstr "La Sangonera assenyala a un jugador. Aquest jugador mor."
 
 msgctxt "lleech reminders"
 msgid "Dead,Poisoned"
-msgstr "Mort, emmetzinat"
+msgstr "Mort,emmetzinat"
 
 msgctxt "lordoftyphon name"
 msgid "Lord of Typhon"
@@ -2749,7 +2749,7 @@ msgstr "Espia"
 
 msgctxt "spy ability"
 msgid "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead."
-msgstr "Cada nit pots veure el grimori. Pots ser percebut com a personatge bo ja sigui com a vilatà o foraster, fins i tot quan ets mort."
+msgstr "Cada nit pots mirar el grimori. Pots ser percebut com a personatge bo ja sigui com a vilatà o foraster, fins i tot quan ets mort."
 
 msgctxt "spy flavor"
 msgid "Any brewmaster worth their liquor, knows no concoction pours trouble quicker, than one where spies seem double."
@@ -3037,11 +3037,11 @@ msgstr "Anuncia “el Visir és a la partida” i indica quin jugador és."
 
 msgctxt "vortox name"
 msgid "Vortox"
-msgstr "Vortox"
+msgstr "Vórtox"
 
 msgctxt "vortox ability"
 msgid "Each night*, choose a player: they die. Townsfolk abilities yield false info. Each day, if no-one is executed, evil wins."
-msgstr "Cada nit* tria a un jugador: mor. Les habilitats dels vilatans proporcionen informació falsa. Si durant un dia no hi ha cap execució, guanyen els malvats."
+msgstr "Cada nit*, tria a un jugador: mor. Les habilitats dels vilatans proporcionen informació falsa. Si durant un dia no hi ha cap execució, guanyen els malvats."
 
 msgctxt "vortox flavor"
 msgid "Black is White. Right is Wrong. Left is Right. Up is Long. Down is Sight. Short is Blind. Follow me. Answers find."
@@ -3049,7 +3049,7 @@ msgstr "Black is White. Right is Wrong. Left is Right. Up is Long. Down is Sight
 
 msgctxt "vortox otherNightReminder"
 msgid "The Vortox points to a player. That player dies."
-msgstr "El Vortox assenyala a un jugador. El jugador assenyalat mor."
+msgstr "El Vórtox assenyala a un jugador. El jugador assenyalat mor."
 
 msgctxt "vortox reminders"
 msgid "Dead"
