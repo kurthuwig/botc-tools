@@ -3,55 +3,55 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 msgid ""
-msgstr "Last-Translator: Automatically generated\nLanguage-Team: none\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\n\"Project-Id-Version: 1.0\n\"Report-Msgid-Bugs-To: Kurt Huwig\n\"POT-Creation-Date: \n\"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n\"Last-Translator: Kurt Huwig\n\"Language-Team: GitHub\n\"Language: en_GB\n\"MIME-Version: 1.0\n\"Content-Type: text/plain; charset=UTF-8\n\"Content-Transfer-Encoding: 8bit\n\"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n\"X-Generator: Poedit 3.6\n"
+msgstr "PO-Revision-Date: 2025-10-31 14:21+0000\nLast-Translator: Ren <renestrugo+weblate@gmail.com>\nLanguage-Team: Catalan <https://hosted.weblate.org/projects/botc/sheet-printer/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.14.1-dev\n\"Project-Id-Version: 1.0\n\"Report-Msgid-Bugs-To: Kurt Huwig\n\"POT-Creation-Date: \n\"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n\"Last-Translator: Kurt Huwig\n\"Language-Team: GitHub\n\"Language: en_GB\n\"MIME-Version: 1.0\n\"Content-Type: text/plain; charset=UTF-8\n\"Content-Transfer-Encoding: 8bit\n\"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n\"X-Generator: Poedit 3.6\n"
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:186
 msgid "First night order"
-msgstr ""
+msgstr "Ordre de les primeres nits"
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:191
 msgid "Other night order"
-msgstr ""
+msgstr "Ordre de la resta de nits"
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:189
 msgid "* not in the first night"
-msgstr ""
+msgstr "*Excepte el primer dia."
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:154
 msgctxt "section"
 msgid "Townsfolk"
-msgstr ""
+msgstr "Vilatans"
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:159
 msgctxt "section"
 msgid "Outsiders"
-msgstr ""
+msgstr "Forasters"
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:164
 msgctxt "section"
 msgid "Minions"
-msgstr ""
+msgstr "Sequaços"
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:169
 msgctxt "section"
 msgid "Demons"
-msgstr ""
+msgstr "Dimonis"
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:174
 msgctxt "section"
 msgid "Fabled"
-msgstr ""
+msgstr "Fàbul·les"
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:179
 msgctxt "section"
 msgid "Travellers"
-msgstr ""
+msgstr "Viatgers"
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:149
 #, java-format
 msgid "by {{author}}"
-msgstr ""
+msgstr "per {{author}}"
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:192
 msgid "community created content that is not affiliated with TPI"
-msgstr ""
+msgstr "Contingut creat per la comunitat i altres persones no afiliades amb TPI ni Bumble3ee Interactive."
