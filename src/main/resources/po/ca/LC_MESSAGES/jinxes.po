@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-10-31 09:04+0000\nLast-Translator: Ren <renestrugo+weblate@gmail.com>\nLanguage-Team: Catalan <https://hosted.weblate.org/projects/botc/jinxes/ca/>\nLanguage: ca\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.14.1-dev\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-10-31 14:21+0000\nLast-Translator: Ren <renestrugo+weblate@gmail.com>\nLanguage-Team: Catalan <https://hosted.weblate.org/projects/botc/jinxes/ca/>\nLanguage: ca\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.14.1-dev\n"
 
 msgctxt "alchemist boffin"
 msgid "If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has."
@@ -203,7 +203,7 @@ msgstr "Si el Leviatan és a la partida, el jugador protegit pel Monjo està pro
 
 msgctxt "leviathan pithag"
 msgid "After day 5, the Pit-Hag cannot choose Leviathan."
-msgstr "Després del dia 5, el Pit-Hag no pot escollir Leviatan"
+msgstr "Després del dia 5, el Pit-Hag no pot escollir Leviatan."
 
 msgctxt "leviathan ravenkeeper"
 msgid "Each night*, the Leviathan chooses an alive player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die."
@@ -211,83 +211,83 @@ msgstr "Cada nit*, el Leviatan tria un jugador viu (diferent als de les nits ant
 
 msgctxt "leviathan sage"
 msgid "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Sage uses their ability but does not die."
-msgstr "Cada nit*, el Leviatan tria un jugador bo viu (diferent als de les nits anteriors): un savi Escollit utilitza la seva habilitat però no mor."
+msgstr "Cada nit*, el Leviatan tria un jugador bo viu (diferent als de les nits anteriors): un Savi escollit utilitza la seva habilitat però no mor."
 
 msgctxt "leviathan soldier"
 msgid "If the Leviathan is in play, the Soldier is safe from all evil abilities."
-msgstr ""
+msgstr "Si el Leviatan és a la partida, el Soldat està protegit de totes les habilitats dels malvats."
 
 msgctxt "lilmonsta hatter"
 msgid "If a Demon chooses Lil' Monsta, they also choose a Minion to become and babysit Lil' Monsta tonight."
-msgstr ""
+msgstr "Si el dimoni tria P'tit monstre, tria també un sequaç per transformar-s'hi i cuida del P'tit monstre aquesta nit."
 
 msgctxt "lilmonsta poppygrower"
 msgid "If the Poppy Grower is in play, Minions don't wake together. They are woken one by one, until one of them chooses to take the Lil' Monsta token."
-msgstr ""
+msgstr "Si el Cultivador de roselles és a la partida, els sequaços no es desperten junts. Es desperten un per un, fins que un d'ells decideix cuidar del P'tit monstre."
 
 msgctxt "lilmonsta scarletwoman"
 msgid "If there are 5 or more players alive and the player holding the Lil' Monsta token dies, the Scarlet Woman is given the Lil' Monsta token tonight."
-msgstr ""
+msgstr "Si hi ha cinc o més jugadors vius i el jugador que cuida del P'tit monstre mor, la Dona escarlata cuida del P'tit monstre aquesta nit."
 
 msgctxt "lilmonsta vizier"
 msgid "The Vizier can die by execution if they are babysitting Lil' Monsta."
-msgstr ""
+msgstr "El Visir pot morir per execució si està cuidant del P'tit monstre."
 
 msgctxt "lleech mastermind"
 msgid "If the Mastermind is alive and the Lleech's host dies by execution, the Lleech lives but loses their ability."
-msgstr ""
+msgstr "Si el Conspirador és viu i l'hoste de la Sangonera mor per execució, la Sangonera viu però perd la seva habilitat."
 
 msgctxt "lleech slayer"
 msgid "If the Slayer slays the Lleech's host, the host dies."
-msgstr ""
+msgstr "Si el Matador abat la Sangonera."
 
 msgctxt "magician wraith"
 msgid "Each day, after the execution phase, the living Magician may publicly guess a living player as the Wraith: if correct, the Demon must choose the Wraith tonight."
-msgstr ""
+msgstr "Cada dia, després de la fase d'execució, el Mag viu pot intentar encertar públicament si un jugador viu és l'Espectre: si encerta, el dimoni ha d'escollir a l'Espectre aquesta nit."
 
 msgctxt "magician spy"
 msgid "When the Spy sees the Grimoire, the Demon and Magician's character tokens are removed."
-msgstr ""
+msgstr "Quan l'Espia mira el grimori, les fitxes del dimoni i del Mag es treuen prèviament."
 
 msgctxt "magician vizier"
 msgid "If the Vizier and Magician are both in play, the Demon does not learn the Minions."
-msgstr ""
+msgstr "Si el Visir i el Mag són tots dos a la partida, el dimoni no coneix al sequaços."
 
 msgctxt "magician widow"
 msgid "When the Widow sees the Grimoire, the Demon and Magician's character tokens are removed."
-msgstr ""
+msgstr "Quan la Vídua mira el grimori, les fitxes del dimoni i del Mag es treuen prèviament."
 
 msgctxt "magician lilmonsta"
 msgid "Each night, the Magician chooses a Minion: if that Minion & Lil' Monsta are alive, that Minion babysits Lil’ Monsta."
-msgstr ""
+msgstr "Cada nit, el Mag tria un sequaç, si aquest sequaç i el P'tit monstre és viu, aquest sequaç cuida del P'tit monstre aquesta nit."
 
 msgctxt "marionette balloonist"
 msgid "If the Marionette thinks that they are the Balloonist, +1 Outsider might have been added."
-msgstr ""
+msgstr "Si la Marioneta creu que és l'Aeronauta, un foraster pot ser afegit."
 
 msgctxt "marionette damsel"
 msgid "The Marionette does not learn that a Damsel is in play."
-msgstr ""
+msgstr "La Marioneta no sap que la Donzella és a la partida."
 
 msgctxt "marionette huntsman"
 msgid "If the Marionette thinks that they are the Huntsman, the Damsel was added."
-msgstr ""
+msgstr "Si la Marioneta creu que és el Caçador, s'afegeix la Donzella."
 
 msgctxt "marionette lilmonsta"
 msgid "The Marionette neighbors a Minion, not the Demon. The Marionette is not woken to choose who takes the Lil' Monsta token, and does not learn they are the Marionette if they have the Lil' Monsta token."
-msgstr ""
+msgstr "La Marioneta seu al costat d'un sequaç, no del dimoni. La Marioneta no desperta per a triar qui cuida del P'tit monstre i tampoc sap que és la Marioneta si cuida del P'tit monstre."
 
 msgctxt "marionette poppygrower"
 msgid "When the Poppy Grower dies, the Demon learns the Marionette but the Marionette learns nothing."
-msgstr ""
+msgstr "Quan el Cultivador de roselles mor, el dimoni sap qui és la Marioneta però la Marioneta no sap res."
 
 msgctxt "marionette snitch"
 msgid "The Marionette does not learn 3 not in-play characters. The Demon learns an extra 3 instead."
-msgstr ""
+msgstr "La Marioneta no sap tres personatges que no siguin a la partida. El dimoni en sap tres addicionals."
 
 msgctxt "marionette wraith"
 msgid "The Wraith does not wake with the Marionette."
-msgstr ""
+msgstr "L'Espectre no es desperta amb la Marioneta."
 
 msgctxt "mastermind alhadikhia"
 msgid "If the Al-Hadikhia dies by execution, and the Mastermind is alive, the Al-Hadikhia chooses 3 good players tonight: if all 3 choose to live, evil wins. Otherwise, good wins."
@@ -307,7 +307,7 @@ msgstr "Si el Reclús és percebut com a malvat per l'Ogre, l'Ogre descobreix qu
 
 msgctxt "pithag cultleader"
 msgid "If the Pit-Hag turns an evil player into the Cult Leader, they can't turn good due to their own ability."
-msgstr ""
+msgstr "Si el Fetiller transforma un jugador malvat en un Líder de secta, aquest no es pot tornar bo degut a la seva habilitat."
 
 msgctxt "pithag damsel"
 msgid "If a Pit-Hag creates a Damsel, the Storyteller chooses which player it is."
@@ -315,15 +315,15 @@ msgstr "Si el Fetiller crea una Damisel·la, el narrador decideix quin jugador �
 
 msgctxt "pithag goon"
 msgid "If the Pit-Hag turns an evil player into the Goon, they can't turn good due to their own ability."
-msgstr ""
+msgstr "Si el Fetiller transforma un jugador malvat en un Pinxo, aquest no es pot tornar bo degut a la seva habilitat."
 
 msgctxt "pithag ogre"
 msgid "If the Pit-Hag turns an evil player into the Ogre, they can't turn good due to their own ability."
-msgstr ""
+msgstr "Si el Fetiller transforma un jugador malvat en un Ogre, aquest no es pot tornar bo degut a la seva habilitat."
 
 msgctxt "pithag politician"
 msgid "If the Pit-Hag turns an evil player into the Politician, they can't turn good due to their own ability."
-msgstr "El Fetiller no pot crear un Polític malvat."
+msgstr "Si el Fetiller transforma un jugador malvat en un Polític, aquest no es pot tornar bo degut a la seva habilitat."
 
 msgctxt "pithag villageidiot"
 msgid "If there is a spare token, the Pit-Hag can create an extra Village Idiot. If so, the drunk Village Idiot might change."
@@ -331,11 +331,11 @@ msgstr "Si queda alguna fitxa disponible, el Fetiller pot crear un Ximplet addic
 
 msgctxt "plaguedoctor baron"
 msgid "If the Storyteller gains the Baron ability, up to two players become not-in-play Outsiders."
-msgstr ""
+msgstr "Si el narrador guanya l'habilitat del Baró, fins a dos jugadors es transformen en forasters que no siguin a la partida."
 
 msgctxt "plaguedoctor boomdandy"
 msgid "If the Plague Doctor is executed and the Storyteller would gain the Boomdandy ability, the Boomdandy ability triggers immediately."
-msgstr ""
+msgstr "Si el Metge de la pesta és executat i el narrador hauria guanyat l'habilitat del Bombat, l'habilitat del Bombat es desencadena immediatament."
 
 msgctxt "plaguedoctor eviltwin"
 msgid "The Storyteller cannot gain the Evil Twin ability if the Plague Doctor dies."
@@ -343,7 +343,7 @@ msgstr "El narrador no pot obtenir l'habilitat del Bessó malvat si el Metge de 
 
 msgctxt "plaguedoctor fearmonger"
 msgid "If the Plague Doctor dies, a living Minion gains the Fearmonger ability in addition to their own ability, and learns this."
-msgstr ""
+msgstr "Si el Metge de la pesta mor, un sequaç viu guanya l'habilitat de l'Alarmista a més de la seva pròpia habilitat i ho sap."
 
 msgctxt "plaguedoctor goblin"
 msgid "If the Plague Doctor dies, a living Minion gains the Goblin ability in addition to their own ability, and learns this."
@@ -351,19 +351,19 @@ msgstr "Si el Metge de la pesta mor, un sequaç obté l'habilitat del Follet, i 
 
 msgctxt "plaguedoctor marionette"
 msgid "If the Demon has a neighbor who is alive and a Townsfolk or Outsider when the Plague Doctor dies, that player becomes an evil Marionette. If there is already an extra evil player, this does not happen."
-msgstr ""
+msgstr "Si el dimoni té al costat un vilatà o foraster quan mor el Metge de la pesta, aquest jugador es transforma en una Marioneta malvada. Si hi ja hi ha un jugador malvat addicional, això no succeeix."
 
 msgctxt "plaguedoctor scarletwoman"
 msgid "If the Plague Doctor dies, a living Minion gains the Scarlet Woman ability in addition to their own ability, and learns this."
-msgstr ""
+msgstr "Si el Metge de la pesta mor, un sequaç viu guanya l'habilitat de la Dona escarlata a més de la seva pròpia habilitat i ho sap."
 
 msgctxt "plaguedoctor spy"
 msgid "If the Plague Doctor dies, a living Minion gains the Spy ability in addition to their own ability, and learns this."
-msgstr ""
+msgstr "Si el Metge de la pesta mor, un sequaç viu guanya l'habilitat de l'Espia a més de la seva pròpia habilitat i ho sap."
 
 msgctxt "plaguedoctor wraith"
 msgid "If the Plague Doctor dies, a living Minion gains the Wraith ability in addition to their own ability, and learns this."
-msgstr ""
+msgstr "Si el Metge de la pesta mor, un sequaç viu guanya l'habilitat de l'Espectre a més de la seva pròpia habilitat i ho sap."
 
 msgctxt "riot banshee"
 msgid "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability."
@@ -411,15 +411,15 @@ msgstr "Si l'Esvalotador és a la partida, el Soldat està protegit de totes les
 
 msgctxt "scarletwoman alhadikhia"
 msgid "If there are two living Al-Hadikhias, the Scarlet Woman Al-Hadikhia becomes the Scarlet Woman again."
-msgstr ""
+msgstr "Si hi ha dos Al-Hadikhia vius, la Dona escarlata- Al-Hadikhia es transforma en la Dona escarlata de nou."
 
 msgctxt "scarletwoman fanggu"
 msgid "If the Fang Gu chooses an Outsider and dies, the Scarlet Woman does not become the Fang Gu."
-msgstr ""
+msgstr "Si el Fang Gu tria un foraster i mor, la Dona escarlata no es transforma en el Fang Gu."
 
 msgctxt "spy damsel"
 msgid "If the Spy is (or has been) in play, the Damsel is poisoned."
-msgstr ""
+msgstr "Si l'Espia és (o ha estat) a la partida, la Donzella està emmetzinada."
 
 msgctxt "spy ogre"
 msgid "The Spy registers as evil to the Ogre."
@@ -427,71 +427,71 @@ msgstr "L'Espia és percebut com a malvat per l'Ogre."
 
 msgctxt "spy poppygrower"
 msgid "If the Poppy Grower is in play, the Spy does not see the Grimoire until the Poppy Grower dies."
-msgstr ""
+msgstr "Si el Cultivador de Roselles és a la partida, l'Espia no mira el grimori fins que no mori el Cultivador de roselles."
 
 msgctxt "summoner clockmaker"
 msgid "If the Summoner is in play, the Clockmaker does not receive their information until a Demon is created."
-msgstr ""
+msgstr "Si l'Invocador és a la partida, el Rellotger no rep la seva informació fins que un dimoni sigui creat."
 
 msgctxt "summoner courtier"
 msgid "If the Summoner is drunk on the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
-msgstr ""
+msgstr "Si l'Invocador està borratxo durant la tercera nit, l'Invocador tria el dimoni però el narrador tria el jugador."
 
 msgctxt "summoner engineer"
 msgid "If the Engineer removes a Summoner from play before that Summoner uses their ability, the Summoner uses their ability immediately."
-msgstr ""
+msgstr "Si l'Enginyer treu a l'Invocador de la partida abans que l'Invocador utilitzi la seva habilitat, l'Invocador utilitza la seva habilitat immediatament."
 
 msgctxt "summoner hatter"
 msgid "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
-msgstr ""
+msgstr "L'invocador no pot crear un dimoni que sigui a la partida. Si l'Invocador tria un dimoni que no és a la partida, les morts aquesta nit són arbitràries."
 
 msgctxt "summoner kazali"
 msgid "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
-msgstr ""
+msgstr "L'Invocador no pot crear un dimoni que sigui a la partida. Si l'Invocador crea un dimoni que no sigui a la partida, les morts aquesta nit són arbitràries."
 
 msgctxt "summoner legion"
 msgid "If the Summoner creates Legion, most players (including all evil players) become evil Legion."
-msgstr ""
+msgstr "Si l'Invocador crea una Legió, la majoria dels jugadors (inclosos els malvats) es tornen Legió malvada."
 
 msgctxt "summoner lordoftyphon"
 msgid "If the Summoner creates a Lord of Typhon, the Lord of Typhon must neighbor a Minion. The other neighbor becomes a not-in-play evil Minion."
-msgstr ""
+msgstr "Si l'Invocador crea un Senyor del Tifó, el Senyor del Tifó ha de ser al costat d'un sequaç. La persona a l'altre costat es transforma en un sequaç que no sigui a la partida."
 
 msgctxt "summoner marionette"
 msgid "The Marionette neighbors the Summoner. The Summoner knows who the Marionette is."
-msgstr ""
+msgstr "La Marioneta és al costat de l'Invocador. L'Invocador sap qui és la Marioneta."
 
 msgctxt "summoner pithag"
 msgid "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
-msgstr ""
+msgstr "L'invocador no pot crear un dimoni que sigui a la partida. Si l'Invocador tria un dimoni que no és a la partida, les morts aquesta nit són arbitràries."
 
 msgctxt "summoner poppygrower"
 msgid "If the Poppy Grower is alive when the Summoner acts, the Summoner chooses which Demon, but the Storyteller chooses which player."
-msgstr ""
+msgstr "Si el Cultivador de roselles és viu quan actuï l'Invocador, l'Invocador tria el dimoni però el narrador tria el jugador."
 
 msgctxt "summoner preacher"
 msgid "If the Preacher chose the Summoner on or before the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
-msgstr ""
+msgstr "Si el Predicador tria a l'Invocador durant o abans la tercera nit, l'Invocador tria el dimoni però el narrador tria el jugador."
 
 msgctxt "summoner pukka"
 msgid "The Summoner may choose a player to become the Pukka on the 2nd night."
-msgstr ""
+msgstr "L'Invocador pot triar un jugador per a que es transformi en la Pukka en la segona nit."
 
 msgctxt "summoner zombuul"
 msgid "If the Summoner turns a dead player into the Zombuul, the Storyteller treats that player as a Zombuul that has died once."
-msgstr ""
+msgstr "Si l'Invocador transforma un jugador mort en el Zombuul, el narrador tracta aquell jugador com un Zombuul que ha mort una vegada."
 
 msgctxt "vizier alsaahir"
 msgid "If the Vizier is in play, the Alsaahir must also guess which Demon(s) are in play."
-msgstr ""
+msgstr "Si el Visir és a la partida, l'Alsaahir també ha d'encertar quins dimonis són a la partida."
 
 msgctxt "vizier courtier"
 msgid "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
-msgstr ""
+msgstr "Si el Visir perd la seva habilitat, ho sap. Si el Visir és executat quan encara té la seva habilitat, el seu equip perd."
 
 msgctxt "vizier fearmonger"
 msgid "The Vizier wakes with the Fearmonger, learns who they choose and cannot choose to immediately execute that player."
-msgstr ""
+msgstr "El Visir desperta juntament amb l'Alarmista, sap a qui tria i no pot escollir executar immediatament el jugador triat."
 
 msgctxt "vizier investigator"
 msgid "If the Investigator learns that the Vizier is in play, the existence of the Vizier is not announced by the Storyteller."
@@ -503,7 +503,7 @@ msgstr "El Polític podria ser percebut com a malvat pel Visir."
 
 msgctxt "vizier preacher"
 msgid "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
-msgstr ""
+msgstr "Si el Visir perd la seva habilitat, ho sap. Si el Visir és executat quan encara té la seva habilitat, el seu equip perd."
 
 msgctxt "vizier zealot"
 msgid "The Zealot might register as evil to the Vizier."
@@ -511,16 +511,16 @@ msgstr "L'Extremista pot ser percebut com a malvat pel Visir."
 
 msgctxt "vortox banshee"
 msgid "If the Vortox is in play and the Demon kills the Banshee, the players still learn that the Banshee has died."
-msgstr ""
+msgstr "Si el Vórtox és a la partida i el dimoni mata a l'Ànima en pena, els jugadors descobreixen igualment que l'ànima en pena ha mort."
 
 msgctxt "widow damsel"
 msgid "If the Widow is (or has been) in play, the Damsel is poisoned."
-msgstr ""
+msgstr "Si la Vídua és (o ha estat) a la partida, la Donzella està emmetzinada."
 
 msgctxt "widow poppygrower"
 msgid "If the Poppy Grower is in play, the Widow does not see the Grimoire until the Poppy Grower dies."
-msgstr ""
+msgstr "Si el Conreador de roselles és a la partida, la Vídua no mira el grimori fins que no mori el Conreador de roselles."
 
 msgctxt "yaggababble exorcist"
 msgid "If the Exorcist chooses the Yaggababble, the Yaggababble ability does not kill tonight."
-msgstr ""
+msgstr "Si l'Exorcista escull al Yaggababble, l'habilitat del Yaggababble no mata aquesta nit."
