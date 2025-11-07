@@ -3,7 +3,7 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 msgid ""
-msgstr "Project-Id-Version: 1.0\nReport-Msgid-Bugs-To: Kurt Huwig\nPOT-Creation-Date: \nPO-Revision-Date: 2025-08-28 21:26+0000\nLast-Translator: tuanhuyng <tuanhuynguyen806@gmail.com>\nLanguage-Team: Vietnamese <https://hosted.weblate.org/projects/botc/sheet-printer/vi/>\nLanguage: vi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.13.1-dev\n"
+msgstr "Project-Id-Version: 1.0\nReport-Msgid-Bugs-To: Kurt Huwig\nPOT-Creation-Date: \nPO-Revision-Date: 2025-11-08 18:51+0000\nLast-Translator: tuanhuyng <tuanhuynguyen806@gmail.com>\nLanguage-Team: Vietnamese <https://hosted.weblate.org/projects/botc/sheet-printer/vi/>\nLanguage: vi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15-dev\n"
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:186
 msgid "First night order"
@@ -35,12 +35,12 @@ msgstr "Tay sai"
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:169
 msgctxt "section"
 msgid "Demons"
-msgstr "Quỷ"
+msgstr "Ác quỷ"
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:174
 msgctxt "section"
 msgid "Fabled"
-msgstr "Truyền thuyết"
+msgstr "Thần thoại"
 
 #: src/main/kotlin/de/huwig/botc/sheetprint/PlayerSheetPrinter.kt:179
 msgctxt "section"
