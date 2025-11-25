@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-09-04 08:02+0000\nLast-Translator: Kurt Huwig <kurthuwig@gmail.com>\nLanguage-Team: German <https://hosted.weblate.org/projects/botc/jinxes/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13.1-rc\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-11-26 09:51+0000\nLast-Translator: Kurt Huwig <kurthuwig@gmail.com>\nLanguage-Team: German <https://hosted.weblate.org/projects/botc/jinxes/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.15-dev\n"
 
 msgctxt "alchemist boffin"
 msgid "If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has."
@@ -355,7 +355,7 @@ msgstr ""
 
 msgctxt "plaguedoctor scarletwoman"
 msgid "If the Plague Doctor dies, a living Minion gains the Scarlet Woman ability in addition to their own ability, and learns this."
-msgstr ""
+msgstr "Falls der Erzähler die Fähigkeit der Scharlachroten Frau erhalten würde, erhält ein Scherge diese, und erfährt dies."
 
 msgctxt "plaguedoctor spy"
 msgid "If the Plague Doctor dies, a living Minion gains the Spy ability in addition to their own ability, and learns this."
