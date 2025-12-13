@@ -1,15 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: pl\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.6\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: 2025-12-14 23:00+0000\nLast-Translator: Adam Jędrych <adam.jedrych25@gmail.com>\nLanguage-Team: Polish <https://hosted.weblate.org/projects/botc/jinxes/pl/>\nLanguage: pl\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.15-dev\n"
 
 msgctxt "alchemist boffin"
 msgid "If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has."
@@ -17,27 +7,27 @@ msgstr "Jeśli Alchemik ma umiejętność Jajogłowego, Alchemik nie poznaje umi
 
 msgctxt "alchemist marionette"
 msgid "An Alchemist-Marionette has no Marionette ability & the Marionette is in play."
-msgstr ""
+msgstr "Alchemik-Marionetka nie posiada umiejętność Marionetki i Marionetka jest w grze."
 
 msgctxt "alchemist mastermind"
 msgid "An Alchemist-Mastermind has no Mastermind ability & the Mastermind is not-in-play."
-msgstr ""
+msgstr "Alchemik-Geniusz Zła nie posiada umiejętność Geniusza Zła i Geniusz Zła nie jest w grze."
 
 msgctxt "alchemist organgrinder"
 msgid "If the Alchemist has the Organ Grinder ability, the Organ Grinder is in play & if both the Alchemist and Organ Grinder are sober, both are drunk."
-msgstr ""
+msgstr "Jeśli Alchemik posiada umiejętność Kataryniarza, Kataryniarz jest w grze oraz obydwaj Alchemik i Kataryniarz są trzeźwi, to obydwaj są pijani."
 
 msgctxt "alchemist spy"
 msgid "If the Alchemist has the Spy ability, they do not, and a Spy is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Spy. If correct, the Demon must choose the Spy tonight."
-msgstr ""
+msgstr "Jeśli Alchemik posiada umiejętność Szpiega, nie posiadają jej i Szpieg jest w grze. Każdego dnia, po fazie egzekucji, żyjący Alchemik może publicznie zgadnąć żyjącego gracza jako Szpiega. Jeśli zgadł poprawnie, tej nocy Demon musi wybrać Szpiega."
 
 msgctxt "alchemist summoner"
 msgid "The Alchemist-Summoner does not get bluffs, and chooses which Demon but not which player. If they die before this happens, evil wins. [No Demon]"
-msgstr ""
+msgstr "Alchemik-Przywoływacz nie dostaje blefów i wybiera, którego Demona, ale nie którego gracza. Jeśli zginie, zanim to nastąpi, zło wygrywa. [Bez Demona]"
 
 msgctxt "alchemist widow"
 msgid "If the Alchemist has the Widow ability, they do not, and a Widow is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Widow. If correct, the Demon must choose the Widow tonight."
-msgstr ""
+msgstr "Jeśli Alchemik posiada umiejętność Wdowy, nie posiada jej, a Wdowa jest w grze. Każdego dnia, po fazie egzekucji, żywy Alchemik może publicznie wskazać żywego gracza jako Wdowę. Jeśli odgadnie poprawnie, tej nocy Demon musi wybrać Wdowę."
 
 msgctxt "alchemist wraith"
 msgid "If the Alchemist has the Wraith ability, they do not, and a Wraith is in play. Each day, after the execution phase, the living Alchemist may publicly guess a living player as the Wraith. If correct, the Demon must choose the Wraith tonight."
@@ -45,7 +35,7 @@ msgstr "If the Alchemist has the Wraith ability, they do not, and a Wraith is in
 
 msgctxt "alhadikhia princess"
 msgid "If the Princess nominated & executed a player on their 1st day, no one dies to the Al-Hadikhia ability tonight."
-msgstr ""
+msgstr "Jeśli Księżniczka nominowała i straciła gracza pierwszego dnia, to nikt dziś nie zginie od umiejętności Al-Hadikhia."
 
 msgctxt "boffin cultleader"
 msgid "If the Demon has the Cult Leader ability, they can’t turn good due to this ability."
@@ -89,7 +79,7 @@ msgstr "Jeśli Kanibal zyska umiejętność Lokaja, Kanibal dowiaduje się o tym
 
 msgctxt "cannibal juggler"
 msgid "If the Juggler guesses on their first day and dies by execution, tonight the living Cannibal learns how many guesses the Juggler got correct."
-msgstr ""
+msgstr "Jeśli Żongler zgaduje pierwszego dnia i zginie podczas egzekucji, dziś w nocy żyjący Kanibal dowie się, ile razy Żongler zgadł poprawnie."
 
 msgctxt "cannibal poppygrower"
 msgid "If the Cannibal eats the Poppy Grower, then dies or loses the Poppy Grower ability, the Demon and Minions learn each other that night."
@@ -97,7 +87,7 @@ msgstr "Jeśli Kanibal zje Hodowcę Maku, po czym umrze lub straci umiejętnoś�
 
 msgctxt "cannibal princess"
 msgid "If the Cannibal nominated & executed the Princess today, the Demon doesn’t kill tonight."
-msgstr ""
+msgstr "Jeśli dzisiaj Kanibal nominował Księżniczkę i została ona stracona, tej nocy Demon nie zabija."
 
 msgctxt "cannibal zealot"
 msgid "If the Cannibal gains the Zealot ability, the Cannibal learns this."
@@ -149,7 +139,7 @@ msgstr "Jeśli Kazali wybierze Panienkę, aby stała się Sługusem, a Łowczy j
 
 msgctxt "kazali marionette"
 msgid "If the Kazali chooses to create a Marionette, they must choose one of their neighbors."
-msgstr ""
+msgstr "Jeśli Kazali zdecyduje się na stworzenie Marionetki, musi wybrać jednego ze swoich sąsiadów."
 
 msgctxt "kazali soldier"
 msgid "The Kazali can choose that the Soldier player is one of their evil Minions."
@@ -173,15 +163,15 @@ msgstr "Jeśli Kaznodzieja wybierze Legion, Legion zachowa swoją umiejętność
 
 msgctxt "legion zealot"
 msgid "The Zealot might register as evil to Legion's ability."
-msgstr ""
+msgstr "Zelota może być rejestrowany przez umiejętność Legionu jako zły."
 
 msgctxt "leviathan banshee"
 msgid "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability."
-msgstr ""
+msgstr "Każdej nocy* Lewiatan wybiera żywego, dobrego gracza (innego niż w poprzednie noce): wybrana Banshee umiera i zyskuje swoją umiejętność."
 
 msgctxt "leviathan exorcist"
 msgid "Evil does not win when more than 1 good player has been executed, if the Exorcist is alive and has ever successfully chosen the Leviathan."
-msgstr ""
+msgstr "Zło nie zwycięża, jeśli stracono więcej niż jednego dobrego gracza, jeśli Egzorcysta żyje i udało mu się kiedykolwiek poprawnie wybrać Lewiatana."
 
 msgctxt "leviathan farmer"
 msgid "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Farmer uses their ability but does not die."
